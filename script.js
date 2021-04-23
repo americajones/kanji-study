@@ -240,7 +240,7 @@ function handleClickStudy() {
         messageBox.textContent = '. * nice! * .'
         setTimeout(() => {
             loadKeywordQuiz1();
-        }, 1000);
+        }, 500);
     } else {
         messageBox.textContent = 'try again.'
     }
@@ -293,7 +293,7 @@ function handleClickStudy2() {
         messageBox.textContent = '. * nice! * .'
         setTimeout(() => {
             loadKeywordQuiz2();
-        }, 1000);
+        }, 500);
     } else {
         messageBox.textContent = 'try again.'
     }
@@ -346,7 +346,7 @@ function handleClickStudy3() {
         messageBox.textContent = '. * nice! * .'
         setTimeout(() => {
             loadOnQuiz3();
-        }, 1000);
+        }, 500);
     } else {
         messageBox.textContent = 'try again.'
     }
@@ -399,7 +399,7 @@ function handleClickStudy4() {
         messageBox.textContent = '. * nice! * .'
         setTimeout(() => {
             loadOnQuiz4();
-        }, 1000);
+        }, 500);
     } else {
         messageBox.textContent = 'try again.'
     }
@@ -461,7 +461,7 @@ function handleClickStudy5() {
         messageBox.textContent = '. * nice! * .'
         setTimeout(() => {
             loadKunQuiz5();
-        }, 1000);
+        }, 500);
     } else {
         messageBox.textContent = 'try again.'
     }
@@ -515,7 +515,7 @@ function handleClickStudy6() {
         setTimeout(() => {
 
             loadKunQuiz6();
-        }, 1000);
+        }, 500);
     } else {
         messageBox.textContent = 'try again.'
     }

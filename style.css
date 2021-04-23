@@ -8,6 +8,7 @@ body{
 }
 h1{
     text-align: center;
+    padding: 10px;
 }
 
 /* Dropdown Button */
@@ -95,7 +96,7 @@ h1{
 }
 .kanjiBox {
     background-color: rgb(17, 17, 17);
-    padding: 4rem 2rem;
+    padding: 3rem 2rem;
     padding-bottom: 2rem;
     margin: 1rem;
 }
@@ -145,6 +146,9 @@ h1{
 overflow: hidden;
     border-inline-start: none;
     cursor: pointer;
+}
+#flashCards {
+    margin-top: 1em;
 }
 @media only screen and (min-width: 700px) {
     .answers{
