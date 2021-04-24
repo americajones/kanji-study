@@ -998,69 +998,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Bamboo", "Younger Brother"]
     },
-    "都": {
-        "strokes": 11,
-        "grade": 3,
-        "freq": 123,
-        "jlpt_old": 3,
-        "jlpt_new": 3,
-        "meanings": ["Metropolis", "Capital", "All", "Everything"],
-        "readings_on": ["と", "つ"],
-        "readings_kun": ["みやこ"],
-        "wk_level": 12,
-        "wk_meanings": ["Metropolis"],
-        "wk_readings_on": ["と", "^つ"],
-        "wk_readings_kun": ["!みやこ"],
-        "wk_radicals": ["Someone", "Building"]
-    },
 
-    "商": {
-        "strokes": 11,
-        "grade": 3,
-        "freq": 413,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Make A Deal", "Selling", "Dealing In", "Merchant"],
-        "readings_on": ["しょう"],
-        "readings_kun": ["あきな.う"],
-        "wk_level": 12,
-        "wk_meanings": ["Merchandise"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!あきな"],
-        "wk_radicals": ["Stand", "Mustache", "Legs"]
-    },
-
-
-    "深": {
-        "strokes": 11,
-        "grade": 3,
-        "freq": 484,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Deep", "Heighten", "Intensify", "Strengthen"],
-        "readings_on": ["しん"],
-        "readings_kun": ["ふか.い", "-ぶか.い", "ふか.まる", "ふか.める", "み-"],
-        "wk_level": 12,
-        "wk_meanings": ["Deep"],
-        "wk_readings_on": ["しん"],
-        "wk_readings_kun": ["!ふか"],
-        "wk_radicals": ["Tsunami", "Pi", "Tree"]
-    },
-    "球": {
-        "strokes": 11,
-        "grade": 3,
-        "freq": 302,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Ball", "Sphere"],
-        "readings_on": ["きゅう"],
-        "readings_kun": ["たま"],
-        "wk_level": 12,
-        "wk_meanings": ["Sphere", "^Ball"],
-        "wk_readings_on": ["きゅう"],
-        "wk_readings_kun": ["!たま"],
-        "wk_radicals": ["King", "Request"]
-    },
     "童": {
         "strokes": 12,
         "grade": 3,
@@ -2748,21 +2686,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Roof", "Reason"]
     },
-    "忙": {
-        "strokes": 6,
-        "grade": 8,
-        "freq": 1475,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Busy", "Occupied", "Restless"],
-        "readings_on": ["ぼう", "もう"],
-        "readings_kun": ["いそが.しい", "せわ.しい", "おそ.れる", "うれえるさま"],
-        "wk_level": 19,
-        "wk_meanings": ["Busy"],
-        "wk_readings_on": ["ぼう"],
-        "wk_readings_kun": ["!いそが"],
-        "wk_radicals": ["Soul", "Death"]
-    },
+
     "履": {
         "strokes": 15,
         "grade": 8,
@@ -2838,36 +2762,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!みだ"],
         "wk_radicals": ["Tongue", "Umbrella"]
     },
-    "徒": {
-        "strokes": 10,
-        "grade": 4,
-        "freq": 817,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["On Foot", "Junior", "Emptiness", "Vanity", "Futility", "Uselessness", "Ephemeral Thing", "Gang", "Set", "Party", "People"],
-        "readings_on": ["と"],
-        "readings_kun": ["いたずら", "あだ"],
-        "wk_level": 19,
-        "wk_meanings": ["Junior", "^Follower"],
-        "wk_readings_on": ["と"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Loiter", "Run"]
-    },
-    "得": {
-        "strokes": 11,
-        "grade": 4,
-        "freq": 175,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Gain", "Get", "Find", "Earn", "Acquire", "Can", "May", "Able To", "Profit", "Advantage", "Benefit"],
-        "readings_on": ["とく"],
-        "readings_kun": ["え.る", "う.る"],
-        "wk_level": 19,
-        "wk_meanings": ["Acquire"],
-        "wk_readings_on": ["とく"],
-        "wk_readings_kun": ["!え", "!う"],
-        "wk_radicals": ["Loiter", "Sun", "Temple"]
-    },
+
     "改": {
         "strokes": 7,
         "grade": 4,
@@ -2883,36 +2778,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!あらた"],
         "wk_radicals": ["Oneself", "Winter"]
     },
-    "続": {
-        "strokes": 13,
-        "grade": 4,
-        "freq": 141,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Continue", "Series", "Sequel"],
-        "readings_on": ["ぞく", "しょく", "こう", "きょう"],
-        "readings_kun": ["つづ.く", "つづ.ける", "つぐ.ない"],
-        "wk_level": 19,
-        "wk_meanings": ["Continue"],
-        "wk_readings_on": ["ぞく"],
-        "wk_readings_kun": ["!つづ"],
-        "wk_radicals": ["Thread", "Sell"]
-    },
-    "連": {
-        "strokes": 10,
-        "grade": 4,
-        "freq": 30,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Take Along", "Lead", "Join", "Connect", "Party", "Gang", "Clique"],
-        "readings_on": ["れん"],
-        "readings_kun": ["つら.なる", "つら.ねる", "つ.れる", "-づ.れ"],
-        "wk_level": 19,
-        "wk_meanings": ["Take Along"],
-        "wk_readings_on": ["れん"],
-        "wk_readings_kun": ["!つ", "!つら"],
-        "wk_radicals": ["Scooter", "Car"]
-    },
+
     "善": {
         "strokes": 12,
         "grade": 6,
@@ -2928,21 +2794,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Sheep", "Horns", "Ground", "Mouth"]
     },
-    "困": {
-        "strokes": 7,
-        "grade": 6,
-        "freq": 843,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Quandary", "Become Distressed", "Annoyed"],
-        "readings_on": ["こん"],
-        "readings_kun": ["こま.る"],
-        "wk_level": 20,
-        "wk_meanings": ["Distressed", "^Troubled"],
-        "wk_readings_on": ["こん"],
-        "wk_readings_kun": ["!こま"],
-        "wk_radicals": ["Mouth", "Tree"]
-    },
+
     "絡": {
         "strokes": 12,
         "grade": 8,
@@ -2988,21 +2840,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!わざわ"],
         "wk_radicals": ["Flood", "Fire"]
     },
-    "機": {
-        "strokes": 16,
-        "grade": 4,
-        "freq": 127,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Loom", "Mechanism", "Machine", "Airplane", "Opportunity", "Potency", "Efficacy", "Occasion"],
-        "readings_on": ["き"],
-        "readings_kun": ["はた"],
-        "wk_level": 20,
-        "wk_meanings": ["Machine"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": ["!はた"],
-        "wk_radicals": ["Tree", "Poop", "Drunkard", "Person"]
-    },
+
     "率": {
         "strokes": 11,
         "grade": 5,
@@ -3018,66 +2856,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!ひき"],
         "wk_radicals": ["Lid", "Poop", "Explosion", "Cross"]
     },
-    "飛": {
-        "strokes": 9,
-        "grade": 4,
-        "freq": 580,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Fly", "Skip (pages)", "Scatter"],
-        "readings_on": ["ひ"],
-        "readings_kun": ["と.ぶ", "と.ばす", "-と.ばす"],
-        "wk_level": 20,
-        "wk_meanings": ["Fly"],
-        "wk_readings_on": ["ひ"],
-        "wk_readings_kun": ["!と"],
-        "wk_radicals": ["Fly"]
-    },
-    "害": {
-        "strokes": 10,
-        "grade": 4,
-        "freq": 358,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Harm", "Injury"],
-        "readings_on": ["がい"],
-        "readings_kun": [],
-        "wk_level": 20,
-        "wk_meanings": ["Damage", "^Injury", "^Harm"],
-        "wk_readings_on": ["がい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Roof", "Life", "Mouth"]
-    },
-    "余": {
-        "strokes": 7,
-        "grade": 5,
-        "freq": 680,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Too Much", "Myself", "Surplus", "Other", "Remainder"],
-        "readings_on": ["よ"],
-        "readings_kun": ["あま.る", "あま.り", "あま.す", "あんま.り"],
-        "wk_level": 20,
-        "wk_meanings": ["Surplus", "^Excess"],
-        "wk_readings_on": ["よ"],
-        "wk_readings_kun": ["!あま"],
-        "wk_radicals": ["Hat", "Jackhammer"]
-    },
-    "難": {
-        "strokes": 18,
-        "grade": 6,
-        "freq": 330,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Difficult", "Impossible", "Trouble", "Accident", "Defect"],
-        "readings_on": ["なん"],
-        "readings_kun": ["かた.い", "-がた.い", "むずか.しい", "むづか.しい", "むつか.しい", "-にく.い"],
-        "wk_level": 20,
-        "wk_meanings": ["Difficult"],
-        "wk_readings_on": ["なん"],
-        "wk_readings_kun": ["!むずか"],
-        "wk_radicals": ["Chinese", "Turkey"]
-    },
+
     "妨": {
         "strokes": 7,
         "grade": 8,
@@ -3183,21 +2962,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!かせ"],
         "wk_radicals": ["Tree", "Drunkard", "Twenty"]
     },
-    "確": {
-        "strokes": 15,
-        "grade": 5,
-        "freq": 252,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Assurance", "Firm", "Tight", "Hard", "Solid", "Confirm", "Clear", "Evident"],
-        "readings_on": ["かく", "こう"],
-        "readings_kun": ["たし.か", "たし.かめる"],
-        "wk_level": 20,
-        "wk_meanings": ["Certain"],
-        "wk_readings_on": ["かく"],
-        "wk_readings_kun": ["!たし"],
-        "wk_radicals": ["Stone", "Forehead", "Turkey"]
-    },
+
     "嫌": {
         "strokes": 13,
         "grade": 8,
@@ -3243,66 +3008,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Cliff", "Dirt"]
     },
-    "在": {
-        "strokes": 6,
-        "grade": 5,
-        "freq": 211,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Exist", "Outskirts", "Suburbs", "Located In"],
-        "readings_on": ["ざい"],
-        "readings_kun": ["あ.る"],
-        "wk_level": 20,
-        "wk_meanings": ["Exist"],
-        "wk_readings_on": ["ざい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Narwhal", "Stick", "Dirt"]
-    },
-    "夢": {
-        "strokes": 13,
-        "grade": 5,
-        "freq": 943,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Dream", "Vision", "Illusion"],
-        "readings_on": ["む", "ぼう"],
-        "readings_kun": ["ゆめ", "ゆめ.みる", "くら.い"],
-        "wk_level": 20,
-        "wk_meanings": ["Dream"],
-        "wk_readings_on": ["む"],
-        "wk_readings_kun": ["!ゆめ"],
-        "wk_radicals": ["Flowers", "Net", "Forehead", "Evening"]
-    },
-    "産": {
-        "strokes": 11,
-        "grade": 4,
-        "freq": 161,
-        "jlpt_old": 3,
-        "jlpt_new": 3,
-        "meanings": ["Products", "Bear", "Give Birth", "Yield", "Childbirth", "Native", "Property"],
-        "readings_on": ["さん"],
-        "readings_kun": ["う.む", "う.まれる", "うぶ-", "む.す"],
-        "wk_level": 20,
-        "wk_meanings": ["Give Birth", "^Birth"],
-        "wk_readings_on": ["さん"],
-        "wk_readings_kun": ["!う"],
-        "wk_radicals": ["Stand", "Cliff", "Life"]
-    },
-    "倒": {
-        "strokes": 10,
-        "grade": 8,
-        "freq": 791,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Overthrow", "Fall", "Collapse", "Drop", "Break Down"],
-        "readings_on": ["とう"],
-        "readings_kun": ["たお.れる", "-だお.れ", "たお.す", "さかさま", "さかさ", "さかしま"],
-        "wk_level": 20,
-        "wk_meanings": ["Overthrow", "^Collapse"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": ["!たお"],
-        "wk_radicals": ["Leader", "Mole", "Knife"]
-    },
+
     "臭": {
         "strokes": 9,
         "grade": 8,
@@ -3333,66 +3039,7 @@ dataUnorganized = {
         "wk_readings_kun": ["あつ"],
         "wk_radicals": ["Cliff", "Sun", "Child"]
     },
-    "妻": {
-        "strokes": 8,
-        "grade": 5,
-        "freq": 691,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Wife", "Spouse"],
-        "readings_on": ["さい"],
-        "readings_kun": ["つま"],
-        "wk_level": 20,
-        "wk_meanings": ["Wife"],
-        "wk_readings_on": ["さい"],
-        "wk_readings_kun": ["!つま"],
-        "wk_radicals": ["Ground", "Brush", "Woman"]
-    },
-    "議": {
-        "strokes": 20,
-        "grade": 4,
-        "freq": 25,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Deliberation", "Consultation", "Debate", "Consideration"],
-        "readings_on": ["ぎ"],
-        "readings_kun": [],
-        "wk_level": 20,
-        "wk_meanings": ["Deliberation", "^Discussion"],
-        "wk_readings_on": ["ぎ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Say", "Righteousness"]
-    },
-    "犯": {
-        "strokes": 5,
-        "grade": 5,
-        "freq": 874,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Crime", "Sin", "Offense"],
-        "readings_on": ["はん", "ぼん"],
-        "readings_kun": ["おか.す"],
-        "wk_level": 20,
-        "wk_meanings": ["Crime"],
-        "wk_readings_on": ["はん"],
-        "wk_readings_kun": ["!おか"],
-        "wk_radicals": ["Animal", "Snake"]
-    },
-    "罪": {
-        "strokes": 13,
-        "grade": 5,
-        "freq": 732,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Guilt", "Sin", "Crime", "Fault", "Blame", "Offense"],
-        "readings_on": ["ざい"],
-        "readings_kun": ["つみ"],
-        "wk_level": 20,
-        "wk_meanings": ["Guilt"],
-        "wk_readings_on": ["ざい"],
-        "wk_readings_kun": ["!つみ"],
-        "wk_radicals": ["Net", "Criminal"]
-    },
+
     "防": {
         "strokes": 7,
         "grade": 5,
@@ -3423,36 +3070,7 @@ dataUnorganized = {
         "wk_readings_kun": ["あな"],
         "wk_radicals": ["Hole"]
     },
-    "論": {
-        "strokes": 15,
-        "grade": 6,
-        "freq": 227,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Argument", "Discourse"],
-        "readings_on": ["ろん"],
-        "readings_kun": [],
-        "wk_level": 20,
-        "wk_meanings": ["Theory"],
-        "wk_readings_on": ["ろん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Say", "Hat", "Ground", "Bookshelf"]
-    },
-    "経": {
-        "strokes": 11,
-        "grade": 5,
-        "freq": 79,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Sutra", "Longitude", "Pass Thru", "Expire", "Warp"],
-        "readings_on": ["けい", "きょう", "きん"],
-        "readings_kun": ["へ.る", "た.つ", "たていと", "はか.る", "のり"],
-        "wk_level": 20,
-        "wk_meanings": ["Passage of Time", "^Pass Through", "^Manage"],
-        "wk_readings_on": ["けい"],
-        "wk_readings_kun": ["!た", "!へ"],
-        "wk_radicals": ["Thread", "Tombstone"]
-    },
+
     "笛": {
         "strokes": 11,
         "grade": 3,
@@ -3498,21 +3116,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!かな", "!かたき"],
         "wk_radicals": ["Mohawk", "Winter"]
     },
-    "済": {
-        "strokes": 11,
-        "grade": 6,
-        "freq": 168,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Settle (debt, Etc.)", "Relieve (burden)", "Finish", "Come To An End", "Excusable", "Need Not"],
-        "readings_on": ["さい", "せい"],
-        "readings_kun": ["す.む", "-ず.み", "-ずみ", "す.まない", "す.ます", "-す.ます", "すく.う", "な.す", "わたし", "わた.る"],
-        "wk_level": 21,
-        "wk_meanings": ["Come To An End"],
-        "wk_readings_on": ["さい"],
-        "wk_readings_kun": ["!す"],
-        "wk_radicals": ["Tsunami", "Simultaneous"]
-    },
+
     "委": {
         "strokes": 8,
         "grade": 3,
@@ -3543,51 +3147,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!あ"],
         "wk_radicals": ["Grass", "Ground", "Fins", "Hand"]
     },
-    "判": {
-        "strokes": 7,
-        "grade": 5,
-        "freq": 197,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Judgement", "Signature", "Stamp", "Seal"],
-        "readings_on": ["はん", "ばん"],
-        "readings_kun": ["わか.る"],
-        "wk_level": 21,
-        "wk_meanings": ["Judge"],
-        "wk_readings_on": ["はん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Half", "Knife"]
-    },
-    "制": {
-        "strokes": 8,
-        "grade": 5,
-        "freq": 108,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["System", "Law", "Rule"],
-        "readings_on": ["せい"],
-        "readings_kun": [],
-        "wk_level": 21,
-        "wk_meanings": ["Control", "^System"],
-        "wk_readings_on": ["せい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Life", "Towel", "Knife"]
-    },
-    "務": {
-        "strokes": 11,
-        "grade": 5,
-        "freq": 111,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Task", "Duties"],
-        "readings_on": ["む"],
-        "readings_kun": ["つと.める"],
-        "wk_level": 21,
-        "wk_meanings": ["Task"],
-        "wk_readings_on": ["む"],
-        "wk_readings_kun": ["!つと"],
-        "wk_radicals": ["Spear", "Winter", "Power"]
-    },
+
     "査": {
         "strokes": 9,
         "grade": 5,
@@ -3633,51 +3193,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!もう"],
         "wk_radicals": ["Say", "Weapon"]
     },
-    "資": {
-        "strokes": 13,
-        "grade": 5,
-        "freq": 179,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Assets", "Resources", "Capital", "Funds", "Data", "Be Conducive To", "Contribute To"],
-        "readings_on": ["し"],
-        "readings_kun": [],
-        "wk_level": 21,
-        "wk_meanings": ["Resources"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Next", "Shellfish"]
-    },
-    "権": {
-        "strokes": 15,
-        "grade": 6,
-        "freq": 156,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Authority", "Power", "Rights"],
-        "readings_on": ["けん", "ごん"],
-        "readings_kun": ["おもり", "かり", "はか.る"],
-        "wk_level": 21,
-        "wk_meanings": ["Rights"],
-        "wk_readings_on": ["けん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tree", "Arrow", "Turkey"]
-    },
-    "件": {
-        "strokes": 6,
-        "grade": 5,
-        "freq": 212,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Affair", "Case", "Matter", "Item"],
-        "readings_on": ["けん"],
-        "readings_kun": ["くだん"],
-        "wk_level": 21,
-        "wk_meanings": ["Matter", "^Affair"],
-        "wk_readings_on": ["けん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Cow"]
-    },
+
     "派": {
         "strokes": 9,
         "grade": 6,
@@ -3723,21 +3239,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Life", "Thread"]
     },
-    "断": {
-        "strokes": 11,
-        "grade": 5,
-        "freq": 338,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Severance", "Decline", "Refuse", "Apologize", "Warn", "Dismiss", "Prohibit", "Decision", "Judgement", "Cutting"],
-        "readings_on": ["だん"],
-        "readings_kun": ["た.つ", "ことわ.る", "さだ.める"],
-        "wk_level": 21,
-        "wk_meanings": ["Cut Off"],
-        "wk_readings_on": ["だん"],
-        "wk_readings_kun": ["!ことわ", "!た"],
-        "wk_radicals": ["Lion", "Rice", "Axe"]
-    },
+
     "評": {
         "strokes": 12,
         "grade": 5,
@@ -3768,21 +3270,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Fingers", "Compare"]
     },
-    "任": {
-        "strokes": 6,
-        "grade": 5,
-        "freq": 217,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Responsibility", "Duty", "Term", "Entrust To", "Appoint"],
-        "readings_on": ["にん"],
-        "readings_kun": ["まか.せる", "まか.す"],
-        "wk_level": 21,
-        "wk_meanings": ["Duty"],
-        "wk_readings_on": ["にん"],
-        "wk_readings_kun": ["!まか"],
-        "wk_radicals": ["Leader", "King"]
-    },
+
     "検": {
         "strokes": 12,
         "grade": 5,
@@ -3858,21 +3346,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!はぶ"],
         "wk_radicals": ["Few", "Eye"]
     },
-    "増": {
-        "strokes": 14,
-        "grade": 5,
-        "freq": 231,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Increase", "Add", "Augment", "Gain", "Promote"],
-        "readings_on": ["ぞう"],
-        "readings_kun": ["ま.す", "ま.し", "ふ.える", "ふ.やす"],
-        "wk_level": 21,
-        "wk_meanings": ["Increase"],
-        "wk_readings_on": ["ぞう"],
-        "wk_readings_kun": ["!ふ", "!ま"],
-        "wk_radicals": ["Dirt", "Mask"]
-    },
+
     "税": {
         "strokes": 12,
         "grade": 5,
@@ -3888,51 +3362,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Grain", "Guard"]
     },
-    "解": {
-        "strokes": 13,
-        "grade": 5,
-        "freq": 176,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Unravel", "Notes", "Key", "Explanation", "Understanding", "Untie", "Undo", "Solve", "Answer", "Cancel", "Absolve", "Explain", "Minute"],
-        "readings_on": ["かい", "げ"],
-        "readings_kun": ["と.く", "と.かす", "と.ける", "ほど.く", "ほど.ける", "わか.る", "さと.る"],
-        "wk_level": 21,
-        "wk_meanings": ["Untie", "^Solve"],
-        "wk_readings_on": ["かい"],
-        "wk_readings_kun": ["!と"],
-        "wk_radicals": ["Angle", "Sword", "Cow"]
-    },
-    "際": {
-        "strokes": 14,
-        "grade": 5,
-        "freq": 183,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Occasion", "Side", "Edge", "Verge", "Dangerous", "Adventurous", "Indecent", "Time", "When"],
-        "readings_on": ["さい"],
-        "readings_kun": ["きわ", "-ぎわ"],
-        "wk_level": 21,
-        "wk_meanings": ["Occasion"],
-        "wk_readings_on": ["さい"],
-        "wk_readings_kun": ["!きわ"],
-        "wk_radicals": ["Building", "Festival"]
-    },
-    "認": {
-        "strokes": 14,
-        "grade": 6,
-        "freq": 198,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Acknowledge", "Witness", "Discern", "Recognize", "Appreciate", "Believe"],
-        "readings_on": ["にん"],
-        "readings_kun": ["みと.める", "したた.める"],
-        "wk_level": 21,
-        "wk_meanings": ["Recognize"],
-        "wk_readings_on": ["にん"],
-        "wk_readings_kun": ["!みと"],
-        "wk_radicals": ["Say", "Blade", "Heart"]
-    },
+
     "企": {
         "strokes": 6,
         "grade": 8,
@@ -4008,21 +3438,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!ぬ"],
         "wk_radicals": ["Moon", "Guard"]
     },
-    "過": {
-        "strokes": 12,
-        "grade": 5,
-        "freq": 285,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Overdo", "Exceed", "Go Beyond", "Error"],
-        "readings_on": ["か"],
-        "readings_kun": ["す.ぎる", "-す.ぎる", "-す.ぎ", "す.ごす", "あやま.つ", "あやま.ち", "よ.ぎる"],
-        "wk_level": 22,
-        "wk_meanings": ["Surpass"],
-        "wk_readings_on": ["か"],
-        "wk_readings_kun": ["!す", "!あやま"],
-        "wk_radicals": ["Scooter", "Mustache"]
-    },
+
     "坊": {
         "strokes": 7,
         "grade": 8,
@@ -4038,21 +3454,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Dirt", "Direction"]
     },
-    "寝": {
-        "strokes": 13,
-        "grade": 8,
-        "freq": 1034,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Lie Down", "Sleep", "Rest", "Bed", "Remain Unsold"],
-        "readings_on": ["しん"],
-        "readings_kun": ["ね.る", "ね.かす", "い.ぬ", "みたまや", "や.める"],
-        "wk_level": 22,
-        "wk_meanings": ["Lie Down", "^Lay Down", "^Sleep"],
-        "wk_readings_on": ["!しん"],
-        "wk_readings_kun": ["ね"],
-        "wk_radicals": ["Roof", "Icicle", "Wolverine", "Forehead", "Stool"]
-    },
+
     "宮": {
         "strokes": 10,
         "grade": 3,
@@ -4098,36 +3500,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Cheap", "Tree"]
     },
-    "置": {
-        "strokes": 13,
-        "grade": 4,
-        "freq": 277,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Placement", "Put", "Set", "Deposit", "Leave Behind", "Keep", "Employ", "Pawn"],
-        "readings_on": ["ち"],
-        "readings_kun": ["お.く", "-お.き"],
-        "wk_level": 22,
-        "wk_meanings": ["Put"],
-        "wk_readings_on": ["ち"],
-        "wk_readings_kun": ["!お"],
-        "wk_radicals": ["Net", "Fix"]
-    },
-    "費": {
-        "strokes": 12,
-        "grade": 4,
-        "freq": 321,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Expense", "Cost", "Spend", "Consume", "Waste"],
-        "readings_on": ["ひ"],
-        "readings_kun": ["つい.やす", "つい.える"],
-        "wk_level": 22,
-        "wk_meanings": ["Expense", "^Cost"],
-        "wk_readings_on": ["ひ"],
-        "wk_readings_kun": ["!つい"],
-        "wk_radicals": ["Dollar", "Shellfish"]
-    },
+
     "価": {
         "strokes": 8,
         "grade": 5,
@@ -4173,21 +3546,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!いとな"],
         "wk_radicals": ["Viking", "Bathtub"]
     },
-    "示": {
-        "strokes": 5,
-        "grade": 5,
-        "freq": 237,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Show", "Indicate", "Point Out", "Express", "Display"],
-        "readings_on": ["じ", "し"],
-        "readings_kun": ["しめ.す"],
-        "wk_level": 22,
-        "wk_meanings": ["Indicate", "^Show"],
-        "wk_readings_on": ["じ", "し"],
-        "wk_readings_kun": ["!しめ"],
-        "wk_radicals": ["Jackhammer"]
-    },
+
     "統": {
         "strokes": 12,
         "grade": 5,
@@ -4263,51 +3622,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Scarecrow", "Knife"]
     },
-    "観": {
-        "strokes": 18,
-        "grade": 4,
-        "freq": 476,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Outlook", "Look", "Appearance", "Condition", "View"],
-        "readings_on": ["かん"],
-        "readings_kun": ["み.る", "しめ.す"],
-        "wk_level": 22,
-        "wk_meanings": ["View"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": ["!み"],
-        "wk_radicals": ["Arrow", "Turkey", "See"]
-    },
-    "値": {
-        "strokes": 10,
-        "grade": 6,
-        "freq": 518,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Price", "Cost", "Value"],
-        "readings_on": ["ち"],
-        "readings_kun": ["ね", "あたい"],
-        "wk_level": 22,
-        "wk_meanings": ["Value", "^Price"],
-        "wk_readings_on": ["ち"],
-        "wk_readings_kun": ["!ね", "!あたい"],
-        "wk_radicals": ["Leader", "Fix"]
-    },
-    "吸": {
-        "strokes": 6,
-        "grade": 6,
-        "freq": 1054,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Suck", "Imbibe", "Inhale", "Sip"],
-        "readings_on": ["きゅう"],
-        "readings_kun": ["す.う"],
-        "wk_level": 22,
-        "wk_meanings": ["Suck", "^Inhale"],
-        "wk_readings_on": ["きゅう"],
-        "wk_readings_kun": ["!す"],
-        "wk_radicals": ["Mouth", "Escalator"]
-    },
+
     "域": {
         "strokes": 11,
         "grade": 6,
@@ -4383,21 +3698,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Fingers", "Football"]
     },
-    "状": {
-        "strokes": 7,
-        "grade": 5,
-        "freq": 298,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Status Quo", "Conditions", "Circumstances", "Form", "Appearance"],
-        "readings_on": ["じょう"],
-        "readings_kun": [],
-        "wk_level": 22,
-        "wk_meanings": ["Condition"],
-        "wk_readings_on": ["じょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Icicle", "Dog"]
-    },
+
     "態": {
         "strokes": 14,
         "grade": 5,
@@ -4428,21 +3729,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Power", "Mouth", "Shellfish"]
     },
-    "収": {
-        "strokes": 4,
-        "grade": 6,
-        "freq": 337,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Income", "Obtain", "Reap", "Pay", "Supply", "Store"],
-        "readings_on": ["しゅう"],
-        "readings_kun": ["おさ.める", "おさ.まる"],
-        "wk_level": 23,
-        "wk_meanings": ["Obtain"],
-        "wk_readings_on": ["しゅう"],
-        "wk_readings_kun": ["!おさ"],
-        "wk_radicals": ["Vines", "Stool"]
-    },
+
     "停": {
         "strokes": 11,
         "grade": 4,
@@ -4473,21 +3760,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!かわ"],
         "wk_radicals": ["Leather"]
     },
-    "職": {
-        "strokes": 18,
-        "grade": 5,
-        "freq": 305,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Post", "Employment", "Work"],
-        "readings_on": ["しょく", "そく"],
-        "readings_kun": [],
-        "wk_level": 23,
-        "wk_meanings": ["Employment"],
-        "wk_readings_on": ["しょく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Ear", "Sound", "Drunkard"]
-    },
+
     "鬼": {
         "strokes": 10,
         "grade": 8,
@@ -4503,21 +3776,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!おに"],
         "wk_radicals": ["Demon"]
     },
-    "規": {
-        "strokes": 11,
-        "grade": 5,
-        "freq": 349,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Standard", "Measure"],
-        "readings_on": ["き"],
-        "readings_kun": [],
-        "wk_level": 23,
-        "wk_meanings": ["Standard"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Husband", "See"]
-    },
+
     "護": {
         "strokes": 20,
         "grade": 5,
@@ -4533,21 +3792,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Say", "Flowers", "Turkey", "Stool"]
     },
-    "割": {
-        "strokes": 12,
-        "grade": 6,
-        "freq": 318,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Proportion", "Comparatively", "Divide", "Cut", "Separate", "Split"],
-        "readings_on": ["かつ"],
-        "readings_kun": ["わ.る", "わり", "わ.り", "わ.れる", "さ.く"],
-        "wk_level": 23,
-        "wk_meanings": ["Divide"],
-        "wk_readings_on": ["!かつ"],
-        "wk_readings_kun": ["わり", "わ"],
-        "wk_radicals": ["Roof", "Life", "Mouth", "Knife"]
-    },
+
     "裁": {
         "strokes": 12,
         "grade": 6,
@@ -4578,21 +3823,7 @@ dataUnorganized = {
         "wk_readings_kun": ["さき"],
         "wk_radicals": ["Mountain", "Big", "Lip Ring"]
     },
-    "演": {
-        "strokes": 14,
-        "grade": 5,
-        "freq": 267,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Performance", "Act", "Play", "Render", "Stage"],
-        "readings_on": ["えん"],
-        "readings_kun": [],
-        "wk_level": 23,
-        "wk_meanings": ["Perform", "^Performance"],
-        "wk_readings_on": ["えん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tsunami", "Roof", "Leaf", "Rice Paddy", "Fins"]
-    },
+
     "律": {
         "strokes": 9,
         "grade": 6,
@@ -4608,21 +3839,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Loiter", "Brush"]
     },
-    "師": {
-        "strokes": 10,
-        "grade": 5,
-        "freq": 563,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Expert", "Teacher", "Master", "Model", "Exemplar", "Army (incl. Counter)", "War"],
-        "readings_on": ["し"],
-        "readings_kun": ["いくさ"],
-        "wk_level": 23,
-        "wk_meanings": ["Teacher", "^Expert", "^Master"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Drop", "Bear", "Ground", "Towel"]
-    },
+
     "看": {
         "strokes": 9,
         "grade": 6,
@@ -4668,21 +3885,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!のっと"],
         "wk_radicals": ["Shellfish", "Knife"]
     },
-    "備": {
-        "strokes": 12,
-        "grade": 5,
-        "freq": 356,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Equip", "Provision", "Preparation"],
-        "readings_on": ["び"],
-        "readings_kun": ["そな.える", "そな.わる", "つぶさ.に"],
-        "wk_level": 23,
-        "wk_meanings": ["Provide", "^Equip"],
-        "wk_readings_on": ["び"],
-        "wk_readings_kun": ["!そな"],
-        "wk_radicals": ["Leader", "Flowers", "Cliff", "Task"]
-    },
+
     "導": {
         "strokes": 15,
         "grade": 5,
@@ -4728,36 +3931,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!は"],
         "wk_radicals": ["Bow", "Long"]
     },
-    "優": {
-        "strokes": 17,
-        "grade": 6,
-        "freq": 334,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Tenderness", "Excel", "Surpass", "Actor", "Superiority", "Gentleness"],
-        "readings_on": ["ゆう", "う"],
-        "readings_kun": ["やさ.しい", "すぐ.れる", "まさ.る"],
-        "wk_level": 23,
-        "wk_meanings": ["Superior", "^Gentle"],
-        "wk_readings_on": ["ゆう"],
-        "wk_readings_kun": ["!やさ", "!すぐ"],
-        "wk_radicals": ["Leader", "Hundred", "Forehead", "Heart", "Winter"]
-    },
-    "宅": {
-        "strokes": 6,
-        "grade": 6,
-        "freq": 357,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Home", "House", "Residence", "Our House", "My Husband"],
-        "readings_on": ["たく"],
-        "readings_kun": [],
-        "wk_level": 23,
-        "wk_meanings": ["House", "^Home"],
-        "wk_readings_on": ["たく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Roof", "Slide", "Seven"]
-    },
+
     "沢": {
         "strokes": 7,
         "grade": 8,
@@ -4803,21 +3977,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!ほどこ"],
         "wk_radicals": ["Direction", "Gun", "Alligator"]
     },
-    "現": {
-        "strokes": 11,
-        "grade": 5,
-        "freq": 85,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Present", "Existing", "Actual"],
-        "readings_on": ["げん"],
-        "readings_kun": ["あらわ.れる", "あらわ.す", "うつつ", "うつ.つ"],
-        "wk_level": 23,
-        "wk_meanings": ["Present Time", "^Present"],
-        "wk_readings_on": ["げん"],
-        "wk_readings_kun": ["!あらわ"],
-        "wk_radicals": ["King", "See"]
-    },
+
     "乳": {
         "strokes": 8,
         "grade": 6,
@@ -4833,21 +3993,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!ちち"],
         "wk_radicals": ["Cleat", "Child", "Umbrella"]
     },
-    "呼": {
-        "strokes": 8,
-        "grade": 6,
-        "freq": 498,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Call", "Call Out To", "Invite"],
-        "readings_on": ["こ"],
-        "readings_kun": ["よ.ぶ"],
-        "wk_level": 23,
-        "wk_meanings": ["Call"],
-        "wk_readings_on": ["!こ"],
-        "wk_readings_kun": ["よ"],
-        "wk_radicals": ["Mouth", "Peace"]
-    },
+
     "城": {
         "strokes": 9,
         "grade": 6,
@@ -4938,21 +4084,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Control", "Clothes"]
     },
-    "違": {
-        "strokes": 13,
-        "grade": 8,
-        "freq": 344,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Difference", "Differ"],
-        "readings_on": ["い"],
-        "readings_kun": ["ちが.う", "ちが.い", "ちが.える", "-ちが.える", "たが.う", "たが.える"],
-        "wk_level": 24,
-        "wk_meanings": ["Different"],
-        "wk_readings_on": ["!い"],
-        "wk_readings_kun": ["ちが"],
-        "wk_radicals": ["Scooter", "Korea"]
-    },
+
     "輸": {
         "strokes": 16,
         "grade": 5,
@@ -5163,21 +4295,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Spirit", "See"]
     },
-    "差": {
-        "strokes": 10,
-        "grade": 4,
-        "freq": 449,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Distinction", "Difference", "Variation", "Discrepancy", "Margin", "Balance"],
-        "readings_on": ["さ"],
-        "readings_kun": ["さ.す", "さ.し"],
-        "wk_level": 24,
-        "wk_meanings": ["Distinction"],
-        "wk_readings_on": ["さ"],
-        "wk_readings_kun": ["!さ"],
-        "wk_radicals": ["Horns", "King", "Slide", "Construction"]
-    },
+
     "管": {
         "strokes": 14,
         "grade": 4,
@@ -5284,21 +4402,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!の"],
         "wk_radicals": ["Scooter", "Angel", "Drop"]
     },
-    "供": {
-        "strokes": 8,
-        "grade": 6,
-        "freq": 313,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Submit", "Offer", "Present", "Serve (meal)", "Accompany"],
-        "readings_on": ["きょう", "く", "くう", "ぐ"],
-        "readings_kun": ["そな.える", "とも", "-ども"],
-        "wk_level": 24,
-        "wk_meanings": ["Servant", "^Companion"],
-        "wk_readings_on": ["きょう"],
-        "wk_readings_kun": ["!とも", "!そな"],
-        "wk_radicals": ["Leader", "Together"]
-    },
+
     "展": {
         "strokes": 10,
         "grade": 6,
@@ -5344,36 +4448,7 @@ dataUnorganized = {
         "wk_readings_kun": ["かぶ"],
         "wk_radicals": ["Tree", "Slide", "Jet"]
     },
-    "限": {
-        "strokes": 9,
-        "grade": 5,
-        "freq": 405,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Limit", "Restrict", "To Best Of Ability"],
-        "readings_on": ["げん"],
-        "readings_kun": ["かぎ.る", "かぎ.り", "-かぎ.り"],
-        "wk_level": 25,
-        "wk_meanings": ["Limit"],
-        "wk_readings_on": ["げん"],
-        "wk_readings_kun": ["!かぎ"],
-        "wk_radicals": ["Building", "Root"]
-    },
-    "与": {
-        "strokes": 3,
-        "grade": 8,
-        "freq": 308,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Bestow", "Participate In", "Give", "Award", "Impart", "Provide", "Cause", "Gift", "Godsend"],
-        "readings_on": ["よ"],
-        "readings_kun": ["あた.える", "あずか.る", "くみ.する", "ともに"],
-        "wk_level": 25,
-        "wk_meanings": ["Give"],
-        "wk_readings_on": ["よ"],
-        "wk_readings_kun": ["!あた"],
-        "wk_radicals": ["Beggar", "Ground"]
-    },
+
     "含": {
         "strokes": 7,
         "grade": 8,
@@ -5419,21 +4494,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Tsunami", "Older Brother"]
     },
-    "渡": {
-        "strokes": 12,
-        "grade": 8,
-        "freq": 446,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Transit", "Ford", "Ferry", "Cross", "Import", "Deliver", "Diameter", "Migrate"],
-        "readings_on": ["と"],
-        "readings_kun": ["わた.る", "-わた.る", "わた.す"],
-        "wk_level": 25,
-        "wk_meanings": ["Transit"],
-        "wk_readings_on": ["!と"],
-        "wk_readings_kun": ["わた"],
-        "wk_radicals": ["Tsunami", "Yurt", "Stool"]
-    },
+
     "響": {
         "strokes": 20,
         "grade": 8,
@@ -5464,36 +4525,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Helicopter", "Jackhammer"]
     },
-    "景": {
-        "strokes": 12,
-        "grade": 4,
-        "freq": 419,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Scenery", "View"],
-        "readings_on": ["けい"],
-        "readings_kun": [],
-        "wk_level": 25,
-        "wk_meanings": ["Scene"],
-        "wk_readings_on": ["けい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Sun", "Capital"]
-    },
-    "抜": {
-        "strokes": 7,
-        "grade": 8,
-        "freq": 726,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Slip Out", "Extract", "Pull Out", "Pilfer", "Quote", "Remove", "Omit"],
-        "readings_on": ["ばつ", "はつ", "はい"],
-        "readings_kun": ["ぬ.く", "-ぬ.く", "ぬ.き", "ぬ.ける", "ぬ.かす", "ぬ.かる"],
-        "wk_level": 25,
-        "wk_meanings": ["Extract"],
-        "wk_readings_on": ["!ばつ", "!はつ", "!はい"],
-        "wk_readings_kun": ["ぬ"],
-        "wk_radicals": ["Fingers", "Friend"]
-    },
+
     "訴": {
         "strokes": 12,
         "grade": 8,
@@ -5554,36 +4586,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!おぎな"],
         "wk_radicals": ["Spirit", "Wedding"]
     },
-    "候": {
-        "strokes": 10,
-        "grade": 4,
-        "freq": 510,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Climate", "Season", "Weather", "Wait For", "Expect"],
-        "readings_on": ["こう"],
-        "readings_kun": ["そうろう"],
-        "wk_level": 25,
-        "wk_meanings": ["Climate", "^Weather", "^Candidate"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Stick", "Hook", "Arrow"]
-    },
-    "構": {
-        "strokes": 14,
-        "grade": 5,
-        "freq": 316,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Posture", "Build", "Pretend"],
-        "readings_on": ["こう"],
-        "readings_kun": ["かま.える", "かま.う"],
-        "wk_level": 25,
-        "wk_meanings": ["Set Up", "^Care"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!かま"],
-        "wk_radicals": ["Tree", "Lifeguard"]
-    },
+
     "模": {
         "strokes": 14,
         "grade": 6,
@@ -5598,21 +4601,6 @@ dataUnorganized = {
         "wk_readings_on": ["も", "ぼ"],
         "wk_readings_kun": [],
         "wk_radicals": ["Tree", "Greenhouse"]
-    },
-    "捕": {
-        "strokes": 10,
-        "grade": 8,
-        "freq": 604,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Catch", "Capture"],
-        "readings_on": ["ほ"],
-        "readings_kun": ["と.らえる", "と.らわれる", "と.る", "とら.える", "とら.われる", "つか.まえる", "つか.まる"],
-        "wk_level": 25,
-        "wk_meanings": ["Catch"],
-        "wk_readings_on": ["ほ"],
-        "wk_readings_kun": ["!つか", "!とら"],
-        "wk_radicals": ["Fingers", "Wedding"]
     },
     "鮮": {
         "strokes": 17,
@@ -5659,21 +4647,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Flag", "Mantis"]
     },
-    "慣": {
-        "strokes": 14,
-        "grade": 5,
-        "freq": 1177,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Accustomed", "Get Used To", "Become Experienced"],
-        "readings_on": ["かん"],
-        "readings_kun": ["な.れる", "な.らす"],
-        "wk_level": 25,
-        "wk_meanings": ["Accustomed"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": ["!な"],
-        "wk_radicals": ["Soul", "Window", "Shellfish"]
-    },
+
     "豊": {
         "strokes": 13,
         "grade": 5,
@@ -5689,21 +4663,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!ゆた"],
         "wk_radicals": ["Music", "Beans"]
     },
-    "満": {
-        "strokes": 12,
-        "grade": 4,
-        "freq": 515,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Full", "Fullness", "Enough", "Satisfy"],
-        "readings_on": ["まん", "ばん"],
-        "readings_kun": ["み.ちる", "み.つ", "み.たす"],
-        "wk_level": 25,
-        "wk_meanings": ["Full"],
-        "wk_readings_on": ["まん"],
-        "wk_readings_kun": ["!み"],
-        "wk_radicals": ["Tsunami", "Flowers", "Both"]
-    },
+
     "肥": {
         "strokes": 8,
         "grade": 5,
@@ -5794,21 +4754,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!かく"],
         "wk_radicals": ["Building", "Cleat", "Wolverine", "Heart"]
     },
-    "掛": {
-        "strokes": 11,
-        "grade": 8,
-        "freq": 1027,
-        "jlpt_old": 1,
-        "jlpt_new": 3,
-        "meanings": ["Hang", "Suspend", "Depend", "Arrive At", "Tax", "Pour"],
-        "readings_on": ["かい", "けい"],
-        "readings_kun": ["か.ける", "-か.ける", "か.け", "-か.け", "-が.け", "か.かる", "-か.かる", "-が.かる", "か.かり", "-が.かり", "かかり", "-がかり"],
-        "wk_level": 25,
-        "wk_meanings": ["Hang"],
-        "wk_readings_on": ["!がい"],
-        "wk_readings_kun": ["か"],
-        "wk_radicals": ["Fingers", "Dirt", "Toe"]
-    },
+
     "替": {
         "strokes": 12,
         "grade": 8,
@@ -5824,21 +4770,7 @@ dataUnorganized = {
         "wk_readings_kun": ["か"],
         "wk_radicals": ["Husband", "Sun"]
     },
-    "居": {
-        "strokes": 8,
-        "grade": 5,
-        "freq": 836,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Reside", "To Be", "Exist", "Live With"],
-        "readings_on": ["きょ", "こ"],
-        "readings_kun": ["い.る", "-い", "お.る"],
-        "wk_level": 25,
-        "wk_meanings": ["Alive"],
-        "wk_readings_on": ["きょ"],
-        "wk_readings_kun": ["!い"],
-        "wk_radicals": ["Flag", "Old"]
-    },
+
     "造": {
         "strokes": 10,
         "grade": 5,
@@ -6184,21 +5116,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!けもの"],
         "wk_radicals": ["Grass", "Rice Paddy", "Creeper", "Dog"]
     },
-    "突": {
-        "strokes": 8,
-        "grade": 8,
-        "freq": 521,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Stab", "Protruding", "Thrust", "Pierce", "Prick", "Collision", "Sudden"],
-        "readings_on": ["とつ", "か"],
-        "readings_kun": ["つ.く"],
-        "wk_level": 26,
-        "wk_meanings": ["Stab", "^Thrust"],
-        "wk_readings_on": ["とつ"],
-        "wk_readings_kun": ["!つ"],
-        "wk_radicals": ["Hole", "Big"]
-    },
+
     "菓": {
         "strokes": 11,
         "grade": 8,
@@ -6334,36 +5252,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!うらな", "!し"],
         "wk_radicals": ["Fortune"]
     },
-    "招": {
-        "strokes": 8,
-        "grade": 5,
-        "freq": 840,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Beckon", "Invite", "Summon", "Engage"],
-        "readings_on": ["しょう"],
-        "readings_kun": ["まね.く"],
-        "wk_level": 27,
-        "wk_meanings": ["Beckon"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!まね"],
-        "wk_radicals": ["Fingers", "Call"]
-    },
-    "段": {
-        "strokes": 9,
-        "grade": 6,
-        "freq": 479,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Grade", "Steps", "Stairs"],
-        "readings_on": ["だん", "たん"],
-        "readings_kun": [],
-        "wk_level": 27,
-        "wk_meanings": ["Steps", "^Stairs"],
-        "wk_readings_on": ["だん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Comb", "Weapon"]
-    },
+
     "胃": {
         "strokes": 9,
         "grade": 4,
@@ -6379,51 +5268,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Rice Paddy", "Moon"]
     },
-    "腹": {
-        "strokes": 13,
-        "grade": 6,
-        "freq": 1286,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Abdomen", "Belly", "Stomach"],
-        "readings_on": ["ふく"],
-        "readings_kun": ["はら"],
-        "wk_level": 27,
-        "wk_meanings": ["Belly", "^Abdomen", "^Stomach"],
-        "wk_readings_on": ["ふく"],
-        "wk_readings_kun": ["!はら", "!なか"],
-        "wk_radicals": ["Moon", "Black Hole"]
-    },
-    "痛": {
-        "strokes": 12,
-        "grade": 6,
-        "freq": 903,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Pain", "Hurt", "Damage", "Bruise"],
-        "readings_on": ["つう"],
-        "readings_kun": ["いた.い", "いた.む", "いた.ましい", "いた.める"],
-        "wk_level": 27,
-        "wk_meanings": ["Pain"],
-        "wk_readings_on": ["つう"],
-        "wk_readings_kun": ["!いた"],
-        "wk_radicals": ["Sick", "Mama", "Task"]
-    },
-    "退": {
-        "strokes": 9,
-        "grade": 5,
-        "freq": 424,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Retreat", "Withdraw", "Retire", "Resign", "Repel", "Expel", "Reject"],
-        "readings_on": ["たい"],
-        "readings_kun": ["しりぞ.く", "しりぞ.ける", "ひ.く", "の.く", "の.ける", "ど.く"],
-        "wk_level": 27,
-        "wk_meanings": ["Retreat", "^Reject"],
-        "wk_readings_on": ["たい"],
-        "wk_readings_kun": ["!しりぞ", "!ひ", "!ど", "!の"],
-        "wk_radicals": ["Scooter", "Root"]
-    },
+
     "屈": {
         "strokes": 8,
         "grade": 8,
@@ -6484,21 +5329,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!お"],
         "wk_radicals": ["Thread", "Sound", "Drunkard"]
     },
-    "迷": {
-        "strokes": 9,
-        "grade": 5,
-        "freq": 942,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Astray", "Be Perplexed", "In Doubt", "Lost", "Err", "Illusion"],
-        "readings_on": ["めい"],
-        "readings_kun": ["まよ.う"],
-        "wk_level": 27,
-        "wk_meanings": ["Astray", "^Lost"],
-        "wk_readings_on": ["めい"],
-        "wk_readings_kun": ["!まよ"],
-        "wk_radicals": ["Scooter", "Rice"]
-    },
+
     "惑": {
         "strokes": 12,
         "grade": 8,
@@ -6544,36 +5375,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!つ"],
         "wk_radicals": ["Capital", "Dog"]
     },
-    "訪": {
-        "strokes": 11,
-        "grade": 6,
-        "freq": 372,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Call On", "Visit", "Look Up", "Offer Sympathy"],
-        "readings_on": ["ほう"],
-        "readings_kun": ["おとず.れる", "たず.ねる", "と.う"],
-        "wk_level": 27,
-        "wk_meanings": ["Visit"],
-        "wk_readings_on": ["ほう"],
-        "wk_readings_kun": ["!たず", "!おとず"],
-        "wk_radicals": ["Say", "Direction"]
-    },
-    "怒": {
-        "strokes": 9,
-        "grade": 8,
-        "freq": 1221,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Angry", "Be Offended"],
-        "readings_on": ["ど", "ぬ"],
-        "readings_kun": ["いか.る", "おこ.る"],
-        "wk_level": 27,
-        "wk_meanings": ["Angry", "^Anger"],
-        "wk_readings_on": ["ど"],
-        "wk_readings_kun": ["!おこ", "!いか"],
-        "wk_radicals": ["Woman", "Stool", "Heart"]
-    },
+
     "昇": {
         "strokes": 8,
         "grade": 8,
@@ -6589,21 +5391,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!のぼ"],
         "wk_radicals": ["Sun", "Slide", "Twenty"]
     },
-    "眠": {
-        "strokes": 10,
-        "grade": 8,
-        "freq": 1315,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Sleep", "Die", "Sleepy"],
-        "readings_on": ["みん"],
-        "readings_kun": ["ねむ.る", "ねむ.い"],
-        "wk_level": 27,
-        "wk_meanings": ["Sleep"],
-        "wk_readings_on": ["みん"],
-        "wk_readings_kun": ["!ねむ"],
-        "wk_radicals": ["Eye", "Peoples"]
-    },
+
     "睡": {
         "strokes": 13,
         "grade": 8,
@@ -6664,21 +5452,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!せま"],
         "wk_radicals": ["Scooter", "White"]
     },
-    "靴": {
-        "strokes": 13,
-        "grade": 8,
-        "freq": 1561,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Shoes"],
-        "readings_on": ["か"],
-        "readings_kun": ["くつ"],
-        "wk_level": 27,
-        "wk_meanings": ["Shoes"],
-        "wk_readings_on": ["!か"],
-        "wk_readings_kun": ["くつ"],
-        "wk_radicals": ["Leather", "Change"]
-    },
+
     "濃": {
         "strokes": 16,
         "grade": 8,
@@ -6724,21 +5498,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!きわ"],
         "wk_radicals": ["Tree", "Beggar", "Mouth", "Stool", "Ground"]
     },
-    "途": {
-        "strokes": 10,
-        "grade": 8,
-        "freq": 717,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Route", "Way", "Road"],
-        "readings_on": ["と"],
-        "readings_kun": ["みち"],
-        "wk_level": 27,
-        "wk_meanings": ["Route"],
-        "wk_readings_on": ["と"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Scooter", "Surplus"]
-    },
+
     "健": {
         "strokes": 11,
         "grade": 4,
@@ -6784,21 +5544,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Good", "Building"]
     },
-    "給": {
-        "strokes": 12,
-        "grade": 4,
-        "freq": 615,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Salary", "Wage", "Gift", "Allow", "Grant", "Bestow On"],
-        "readings_on": ["きゅう"],
-        "readings_kun": ["たま.う", "たも.う", "-たま.え"],
-        "wk_level": 27,
-        "wk_meanings": ["Salary"],
-        "wk_readings_on": ["きゅう"],
-        "wk_readings_kun": ["!たま"],
-        "wk_radicals": ["Thread", "Suit"]
-    },
+
     "逆": {
         "strokes": 9,
         "grade": 5,
@@ -6859,21 +5605,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!こ"],
         "wk_radicals": ["Stick", "Sun", "Legs"]
     },
-    "冷": {
-        "strokes": 7,
-        "grade": 4,
-        "freq": 667,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Cool", "Cold (beer, Person)", "Chill"],
-        "readings_on": ["れい"],
-        "readings_kun": ["つめ.たい", "ひ.える", "ひ.や", "ひ.ややか", "ひ.やす", "ひ.やかす", "さ.める", "さ.ます"],
-        "wk_level": 28,
-        "wk_meanings": ["Cool", "^Cold"],
-        "wk_readings_on": ["れい"],
-        "wk_readings_kun": ["!つめ", "!ひ", "!さ"],
-        "wk_radicals": ["Ice", "Orders"]
-    },
+
     "凍": {
         "strokes": 10,
         "grade": 8,
@@ -6919,21 +5651,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Grain", "Turkey"]
     },
-    "処": {
-        "strokes": 5,
-        "grade": 6,
-        "freq": 547,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Dispose", "Manage", "Deal With", "Sentence", "Condemn", "Act", "Behave", "Place"],
-        "readings_on": ["しょ"],
-        "readings_kun": ["ところ", "-こ", "お.る"],
-        "wk_level": 28,
-        "wk_meanings": ["Deal With"],
-        "wk_readings_on": ["しょ"],
-        "wk_readings_kun": ["!ところ"],
-        "wk_radicals": ["Winter", "Table"]
-    },
+
     "博": {
         "strokes": 12,
         "grade": 4,
@@ -7039,21 +5757,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Gladiator", "Sword"]
     },
-    "婦": {
-        "strokes": 11,
-        "grade": 5,
-        "freq": 671,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Lady", "Woman", "Wife", "Bride"],
-        "readings_on": ["ふ"],
-        "readings_kun": ["よめ"],
-        "wk_level": 28,
-        "wk_meanings": ["Wife"],
-        "wk_readings_on": ["ふ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Woman", "Wolverine", "Forehead", "Towel"]
-    },
+
     "奇": {
         "strokes": 8,
         "grade": 8,
@@ -7144,51 +5848,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!うつ"],
         "wk_radicals": ["Grain", "Evening"]
     },
-    "程": {
-        "strokes": 12,
-        "grade": 5,
-        "freq": 514,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Extent", "Degree", "Law", "Formula", "Distance", "Limits", "Amount"],
-        "readings_on": ["てい"],
-        "readings_kun": ["ほど", "-ほど"],
-        "wk_level": 28,
-        "wk_meanings": ["Extent"],
-        "wk_readings_on": ["てい"],
-        "wk_readings_kun": ["!ほど"],
-        "wk_radicals": ["Grain", "Mouth", "King"]
-    },
-    "精": {
-        "strokes": 14,
-        "grade": 5,
-        "freq": 752,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Refined", "Ghost", "Fairy", "Energy", "Vitality", "Semen", "Excellence", "Purity", "Skill"],
-        "readings_on": ["せい", "しょう"],
-        "readings_kun": ["しら.げる", "くわ.しい"],
-        "wk_level": 28,
-        "wk_meanings": ["Spirit"],
-        "wk_readings_on": ["せい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Rice", "Blue"]
-    },
-    "絶": {
-        "strokes": 12,
-        "grade": 5,
-        "freq": 784,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Discontinue", "Sever", "Cut Off", "Abstain", "Interrupt", "Suppress", "Be Beyond", "Without Match", "Peerless", "Unparalleled"],
-        "readings_on": ["ぜつ"],
-        "readings_kun": ["た.える", "た.やす", "た.つ"],
-        "wk_level": 28,
-        "wk_meanings": ["Extinction", "^Die Out"],
-        "wk_readings_on": ["ぜつ"],
-        "wk_readings_kun": ["!た"],
-        "wk_radicals": ["Thread", "Color"]
-    },
+
     "並": {
         "strokes": 8,
         "grade": 6,
@@ -7309,21 +5969,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Servant", "Gun", "Ground", "Plate"]
     },
-    "杯": {
-        "strokes": 8,
-        "grade": 8,
-        "freq": 1235,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Counter For Cupfuls", "Wine Glass", "Glass", "Toast"],
-        "readings_on": ["はい"],
-        "readings_kun": ["さかずき"],
-        "wk_level": 29,
-        "wk_meanings": ["Cup Of Liquid", "^Counter For Cups"],
-        "wk_readings_on": ["はい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tree", "Not"]
-    },
+
     "乾": {
         "strokes": 11,
         "grade": 8,
@@ -7504,21 +6150,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Leader", "Charcoal"]
     },
-    "積": {
-        "strokes": 16,
-        "grade": 4,
-        "freq": 541,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Volume", "Product (x*y)", "Acreage", "Contents", "Pile Up", "Stack", "Load", "Amass"],
-        "readings_on": ["せき"],
-        "readings_kun": ["つ.む", "-づ.み", "つ.もる", "つ.もり"],
-        "wk_level": 29,
-        "wk_meanings": ["Accumulate"],
-        "wk_readings_on": ["せき"],
-        "wk_readings_kun": ["!つ"],
-        "wk_radicals": ["Grain", "Blame"]
-    },
+
     "督": {
         "strokes": 13,
         "grade": 8,
@@ -7579,21 +6211,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Boat", "Lid", "Table"]
     },
-    "寄": {
-        "strokes": 11,
-        "grade": 5,
-        "freq": 673,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Draw Near", "Stop In", "Bring Near", "Gather", "Collect", "Send", "Forward"],
-        "readings_on": ["き"],
-        "readings_kun": ["よ.る", "-よ.り", "よ.せる"],
-        "wk_level": 29,
-        "wk_meanings": ["Approach"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": ["!よ"],
-        "wk_radicals": ["Roof", "Odd"]
-    },
+
     "板": {
         "strokes": 8,
         "grade": 3,
@@ -7654,21 +6272,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Servant", "Stool", "Thread"]
     },
-    "娘": {
-        "strokes": 10,
-        "grade": 8,
-        "freq": 1145,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Daughter", "Girl"],
-        "readings_on": ["じょう"],
-        "readings_kun": ["むすめ", "こ"],
-        "wk_level": 29,
-        "wk_meanings": ["Daughter"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["むすめ"],
-        "wk_radicals": ["Woman", "Good"]
-    },
+
     "宴": {
         "strokes": 10,
         "grade": 8,
@@ -7684,36 +6288,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!うたげ"],
         "wk_radicals": ["Roof", "Sun", "Woman"]
     },
-    "怖": {
-        "strokes": 8,
-        "grade": 8,
-        "freq": 1325,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Dreadful", "Be Frightened", "Fearful"],
-        "readings_on": ["ふ", "ほ"],
-        "readings_kun": ["こわ.い", "こわ.がる", "お.じる", "おそ.れる"],
-        "wk_level": 29,
-        "wk_meanings": ["Scary"],
-        "wk_readings_on": ["ふ"],
-        "wk_readings_kun": ["!こわ"],
-        "wk_radicals": ["Soul", "Narwhal", "Towel"]
-    },
-    "恐": {
-        "strokes": 10,
-        "grade": 8,
-        "freq": 878,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Fear", "Dread", "Awe"],
-        "readings_on": ["きょう"],
-        "readings_kun": ["おそ.れる", "おそ.る", "おそ.ろしい", "こわ.い", "こわ.がる"],
-        "wk_level": 29,
-        "wk_meanings": ["Fear"],
-        "wk_readings_on": ["きょう"],
-        "wk_readings_kun": ["!おそ", "!こわ"],
-        "wk_radicals": ["Saw", "Heart"]
-    },
+
     "添": {
         "strokes": 11,
         "grade": 8,
@@ -7849,36 +6424,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Lineage"]
     },
-    "婚": {
-        "strokes": 11,
-        "grade": 8,
-        "freq": 767,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Marriage"],
-        "readings_on": ["こん"],
-        "readings_kun": [],
-        "wk_level": 30,
-        "wk_meanings": ["Marriage"],
-        "wk_readings_on": ["こん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Woman", "Clan", "Sun"]
-    },
-    "遊": {
-        "strokes": 12,
-        "grade": 3,
-        "freq": 941,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Play"],
-        "readings_on": ["ゆう", "ゆ"],
-        "readings_kun": ["あそ.ぶ", "あそ.ばす"],
-        "wk_level": 30,
-        "wk_meanings": ["Play"],
-        "wk_readings_on": ["ゆう"],
-        "wk_readings_kun": ["!あそ"],
-        "wk_radicals": ["Scooter", "Direction", "Gun", "Child"]
-    },
+
     "旗": {
         "strokes": 14,
         "grade": 4,
@@ -7939,21 +6485,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["One Sided", "Anti"]
     },
-    "貧": {
-        "strokes": 11,
-        "grade": 5,
-        "freq": 1211,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Poverty", "Poor"],
-        "readings_on": ["ひん", "びん"],
-        "readings_kun": ["まず.しい"],
-        "wk_level": 30,
-        "wk_meanings": ["Poor"],
-        "wk_readings_on": ["びん", "^ひん"],
-        "wk_readings_kun": ["!まず"],
-        "wk_radicals": ["Part", "Shellfish"]
-    },
+
     "乏": {
         "strokes": 4,
         "grade": 8,
@@ -7968,21 +6500,6 @@ dataUnorganized = {
         "wk_readings_on": ["ぼう"],
         "wk_readings_kun": ["!とぼ"],
         "wk_radicals": ["Leaf", "Hills"]
-    },
-    "適": {
-        "strokes": 14,
-        "grade": 5,
-        "freq": 670,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Suitable", "Occasional", "Rare", "Qualified", "Capable"],
-        "readings_on": ["てき"],
-        "readings_kun": ["かな.う"],
-        "wk_level": 30,
-        "wk_meanings": ["Suitable"],
-        "wk_readings_on": ["てき"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Scooter", "Mohawk"]
     },
     "預": {
         "strokes": 13,
@@ -8059,36 +6576,7 @@ dataUnorganized = {
         "wk_readings_kun": ["なつ"],
         "wk_radicals": ["Soul", "Cross", "Net", "Clothes"]
     },
-    "押": {
-        "strokes": 8,
-        "grade": 8,
-        "freq": 789,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Push", "Stop", "Check", "Subdue", "Attach", "Seize", "Weight", "Shove", "Press", "Seal", "Do In Spite Of"],
-        "readings_on": ["おう"],
-        "readings_kun": ["お.す", "お.し-", "お.っ-", "お.さえる", "おさ.える"],
-        "wk_level": 30,
-        "wk_meanings": ["Push"],
-        "wk_readings_on": ["!おう"],
-        "wk_readings_kun": ["お"],
-        "wk_radicals": ["Fingers", "Turtle Shell"]
-    },
-    "更": {
-        "strokes": 7,
-        "grade": 8,
-        "freq": 861,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Grow Late", "Night Watch", "Sit Up Late", "Of Course", "Renew", "Renovate", "Again", "More And More", "Further"],
-        "readings_on": ["こう"],
-        "readings_kun": ["さら", "さら.に", "ふ.ける", "ふ.かす"],
-        "wk_level": 30,
-        "wk_meanings": ["Again", "^Renew"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!さら", "!ふ"],
-        "wk_radicals": ["Ground", "Rice Paddy", "Treasure"]
-    },
+
     "枕": {
         "strokes": 8,
         "grade": 8,
@@ -8104,21 +6592,7 @@ dataUnorganized = {
         "wk_readings_kun": ["まくら"],
         "wk_radicals": ["Tree", "Pirate"]
     },
-    "浮": {
-        "strokes": 10,
-        "grade": 8,
-        "freq": 776,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Floating", "Float", "Rise To Surface"],
-        "readings_on": ["ふ"],
-        "readings_kun": ["う.く", "う.かれる", "う.かぶ", "む", "う.かべる"],
-        "wk_level": 30,
-        "wk_meanings": ["Float"],
-        "wk_readings_on": ["!ふ"],
-        "wk_readings_kun": ["う", "うわ"],
-        "wk_radicals": ["Tsunami", "Cleat", "Child"]
-    },
+
     "漏": {
         "strokes": 14,
         "grade": 8,
@@ -8164,21 +6638,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Shellfish", "Lifeguard"]
     },
-    "越": {
-        "strokes": 12,
-        "grade": 8,
-        "freq": 897,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Surpass", "Cross Over", "Move To", "Exceed", "Vietnam"],
-        "readings_on": ["えつ", "おつ"],
-        "readings_kun": ["こ.す", "-こ.す", "-ご.し", "こ.える", "-ご.え"],
-        "wk_level": 30,
-        "wk_meanings": ["Go Beyond"],
-        "wk_readings_on": ["えつ"],
-        "wk_readings_kun": ["!こ"],
-        "wk_radicals": ["Run", "Become"]
-    },
+
     "飾": {
         "strokes": 13,
         "grade": 8,
@@ -8209,21 +6669,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!さわ"],
         "wk_radicals": ["Horse", "Stool", "Insect"]
     },
-    "背": {
-        "strokes": 9,
-        "grade": 6,
-        "freq": 696,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Stature", "Height", "Back", "Behind", "Disobey", "Defy", "Go Back On", "Rebel"],
-        "readings_on": ["はい"],
-        "readings_kun": ["せ", "せい", "そむ.く", "そむ.ける"],
-        "wk_level": 30,
-        "wk_meanings": ["Back", "^Height"],
-        "wk_readings_on": ["はい"],
-        "wk_readings_kun": ["!せ", "!そむ"],
-        "wk_radicals": ["North", "Moon"]
-    },
+
     "撮": {
         "strokes": 15,
         "grade": 8,
@@ -8239,21 +6685,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!と"],
         "wk_radicals": ["Fingers", "Sun", "Ear", "Stool"]
     },
-    "盗": {
-        "strokes": 11,
-        "grade": 8,
-        "freq": 1051,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Steal", "Rob", "Pilfer"],
-        "readings_on": ["とう"],
-        "readings_kun": ["ぬす.む", "ぬす.み"],
-        "wk_level": 30,
-        "wk_meanings": ["Steal"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": ["!ぬす"],
-        "wk_radicals": ["Next", "Plate"]
-    },
+
     "離": {
         "strokes": 19,
         "grade": 8,
@@ -8374,21 +6806,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Gold", "Oversee"]
     },
-    "除": {
-        "strokes": 10,
-        "grade": 6,
-        "freq": 594,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Exclude", "Division (x/3)", "Remove", "Abolish", "Cancel", "Except"],
-        "readings_on": ["じょ", "じ"],
-        "readings_kun": ["のぞ.く", "-よ.け"],
-        "wk_level": 31,
-        "wk_meanings": ["Exclude", "^Remove"],
-        "wk_readings_on": ["じょ", "^じ"],
-        "wk_readings_kun": ["!のぞ"],
-        "wk_radicals": ["Building", "Surplus"]
-    },
+
     "尋": {
         "strokes": 12,
         "grade": 8,
@@ -8404,21 +6822,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!たず", "!ひろ"],
         "wk_radicals": ["Wolverine", "Construction", "Mouth", "Measurement"]
     },
-    "幾": {
-        "strokes": 12,
-        "grade": 8,
-        "freq": 1725,
-        "jlpt_old": 1,
-        "jlpt_new": 3,
-        "meanings": ["How Many", "How Much", "How Far", "How Long", "Some", "Several"],
-        "readings_on": ["き"],
-        "readings_kun": ["いく-", "いく.つ", "いく.ら"],
-        "wk_level": 31,
-        "wk_meanings": ["How Many", "^How Much"],
-        "wk_readings_on": ["!き"],
-        "wk_readings_kun": ["いく"],
-        "wk_radicals": ["Poop", "Drunkard", "Person"]
-    },
+
     "廊": {
         "strokes": 12,
         "grade": 8,
@@ -8599,21 +7003,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!すく"],
         "wk_radicals": ["Request", "Winter"]
     },
-    "散": {
-        "strokes": 12,
-        "grade": 4,
-        "freq": 758,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Scatter", "Disperse", "Spend", "Squander"],
-        "readings_on": ["さん"],
-        "readings_kun": ["ち.る", "ち.らす", "-ち.らす", "ち.らかす", "ち.らかる", "ち.らばる", "ばら", "ばら.ける"],
-        "wk_level": 31,
-        "wk_meanings": ["Scatter"],
-        "wk_readings_on": ["さん"],
-        "wk_readings_kun": ["!ち"],
-        "wk_radicals": ["Blackjack", "Moon", "Winter"]
-    },
+
     "粉": {
         "strokes": 10,
         "grade": 4,
@@ -8689,21 +7079,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Building", "Womb"]
     },
-    "似": {
-        "strokes": 7,
-        "grade": 5,
-        "freq": 923,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Becoming", "Resemble", "Counterfeit", "Imitate", "Suitable"],
-        "readings_on": ["じ"],
-        "readings_kun": ["に.る", "ひ.る"],
-        "wk_level": 31,
-        "wk_meanings": ["Resemble"],
-        "wk_readings_on": ["ね", "じ"],
-        "wk_readings_kun": ["!に"],
-        "wk_radicals": ["Leader", "Lion", "Drop", "Person"]
-    },
+
     "均": {
         "strokes": 7,
         "grade": 5,
@@ -8734,21 +7110,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!はか"],
         "wk_radicals": ["Dirt", "Greenhouse"]
     },
-    "富": {
-        "strokes": 12,
-        "grade": 5,
-        "freq": 644,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Wealth", "Enrich", "Abundant"],
-        "readings_on": ["ふ", "ふう"],
-        "readings_kun": ["と.む", "とみ"],
-        "wk_level": 31,
-        "wk_meanings": ["Rich"],
-        "wk_readings_on": ["ふ"],
-        "wk_readings_kun": ["!と", "!とみ"],
-        "wk_radicals": ["Roof", "Scarecrow"]
-    },
+
     "徳": {
         "strokes": 14,
         "grade": 5,
@@ -8764,21 +7126,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Loiter", "Cross", "Net", "Heart"]
     },
-    "探": {
-        "strokes": 11,
-        "grade": 6,
-        "freq": 930,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Grope", "Search", "Look For"],
-        "readings_on": ["たん"],
-        "readings_kun": ["さぐ.る", "さが.す"],
-        "wk_level": 31,
-        "wk_meanings": ["Look For", "^Search For"],
-        "wk_readings_on": ["たん"],
-        "wk_readings_kun": ["!さが", "!さぐ"],
-        "wk_radicals": ["Fingers", "Pi", "Tree"]
-    },
+
     "偵": {
         "strokes": 11,
         "grade": 8,
@@ -8824,21 +7172,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!つい", "!ついで"],
         "wk_radicals": ["Canopy", "Beforehand"]
     },
-    "迎": {
-        "strokes": 7,
-        "grade": 8,
-        "freq": 625,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Welcome", "Meet", "Greet"],
-        "readings_on": ["げい"],
-        "readings_kun": ["むか.える"],
-        "wk_level": 32,
-        "wk_meanings": ["Welcome"],
-        "wk_readings_on": ["げい"],
-        "wk_readings_kun": ["!むか"],
-        "wk_radicals": ["Scooter", "Cat Pirate"]
-    },
+
     "志": {
         "strokes": 7,
         "grade": 5,
@@ -8944,21 +7278,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!め"],
         "wk_radicals": ["Eye", "Root"]
     },
-    "祖": {
-        "strokes": 9,
-        "grade": 5,
-        "freq": 1226,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Ancestor", "Pioneer", "Founder"],
-        "readings_on": ["そ"],
-        "readings_kun": [],
-        "wk_level": 32,
-        "wk_meanings": ["Ancestor"],
-        "wk_readings_on": ["そ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Spirit", "Top Hat"]
-    },
+
     "績": {
         "strokes": 17,
         "grade": 5,
@@ -9019,36 +7339,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Spirit", "Black Hole"]
     },
-    "雑": {
-        "strokes": 14,
-        "grade": 5,
-        "freq": 839,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Miscellaneous"],
-        "readings_on": ["ざつ", "ぞう"],
-        "readings_kun": ["まじ.える", "まじ.る"],
-        "wk_level": 32,
-        "wk_meanings": ["Random", "^Miscellaneous"],
-        "wk_readings_on": ["ざつ", "ぞう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Nine", "Tree", "Turkey"]
-    },
-    "賛": {
-        "strokes": 15,
-        "grade": 5,
-        "freq": 868,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Approve", "Praise", "Title Or Inscription On Picture", "Assist", "Agree With"],
-        "readings_on": ["さん"],
-        "readings_kun": ["たす.ける", "たた.える"],
-        "wk_level": 32,
-        "wk_meanings": ["Agree"],
-        "wk_readings_on": ["さん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Husband", "Shellfish"]
-    },
+
     "酸": {
         "strokes": 14,
         "grade": 5,
@@ -9169,21 +7460,7 @@ dataUnorganized = {
         "wk_readings_kun": ["す"],
         "wk_radicals": ["Fingers", "Cottage"]
     },
-    "込": {
-        "strokes": 5,
-        "grade": 8,
-        "freq": 675,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Crowded", "Mixture", "In Bulk", "Included", "(kokuji)"],
-        "readings_on": [],
-        "readings_kun": ["-こ.む", "こ.む", "こ.み", "-こ.み", "こ.める"],
-        "wk_level": 32,
-        "wk_meanings": ["Crowded"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["こ"],
-        "wk_radicals": ["Scooter", "Enter"]
-    },
+
     "密": {
         "strokes": 11,
         "grade": 6,
@@ -9214,21 +7491,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!よご", "!きたな", "!けが"],
         "wk_radicals": ["Tsunami", "Ground", "Beggar"]
     },
-    "欲": {
-        "strokes": 11,
-        "grade": 6,
-        "freq": 902,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Longing", "Covetousness", "Greed", "Passion", "Desire", "Craving"],
-        "readings_on": ["よく"],
-        "readings_kun": ["ほっ.する", "ほ.しい"],
-        "wk_level": 32,
-        "wk_meanings": ["Want"],
-        "wk_readings_on": ["よく"],
-        "wk_readings_kun": ["!ほ"],
-        "wk_radicals": ["Valley", "Lack"]
-    },
+
     "暖": {
         "strokes": 13,
         "grade": 6,
@@ -9319,21 +7582,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Bamboo", "Interval"]
     },
-    "閉": {
-        "strokes": 11,
-        "grade": 6,
-        "freq": 951,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Closed", "Shut"],
-        "readings_on": ["へい"],
-        "readings_kun": ["と.じる", "と.ざす", "し.める", "し.まる", "た.てる"],
-        "wk_level": 33,
-        "wk_meanings": ["Closed", "^Close", "^Closure"],
-        "wk_readings_on": ["へい"],
-        "wk_readings_kun": ["!し", "!と"],
-        "wk_radicals": ["Gate", "Genius"]
-    },
+
     "誌": {
         "strokes": 14,
         "grade": 6,
@@ -9349,36 +7598,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Say", "Samurai", "Heart"]
     },
-    "窓": {
-        "strokes": 11,
-        "grade": 6,
-        "freq": 1186,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Window", "Pane"],
-        "readings_on": ["そう", "す"],
-        "readings_kun": ["まど", "てんまど", "けむだし"],
-        "wk_level": 33,
-        "wk_meanings": ["Window"],
-        "wk_readings_on": ["!そう"],
-        "wk_readings_kun": ["まど"],
-        "wk_radicals": ["Hole", "Private", "Heart"]
-    },
-    "否": {
-        "strokes": 7,
-        "grade": 6,
-        "freq": 561,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Negate", "No", "Noes", "Refuse", "Decline", "Deny"],
-        "readings_on": ["ひ"],
-        "readings_kun": ["いな", "いや"],
-        "wk_level": 33,
-        "wk_meanings": ["No"],
-        "wk_readings_on": ["ひ"],
-        "wk_readings_kun": ["!いな", "!いや"],
-        "wk_radicals": ["Not", "Mouth"]
-    },
+
     "筋": {
         "strokes": 12,
         "grade": 6,
@@ -9514,21 +7734,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!うやま"],
         "wk_radicals": ["Poem", "Winter"]
     },
-    "暮": {
-        "strokes": 14,
-        "grade": 6,
-        "freq": 978,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Evening", "Twilight", "Season's End", "Livelihood", "Make A Living", "Spend Time"],
-        "readings_on": ["ぼ"],
-        "readings_kun": ["く.れる", "く.らす"],
-        "wk_level": 33,
-        "wk_meanings": ["Livelihood"],
-        "wk_readings_on": ["ぼ"],
-        "wk_readings_kun": ["!く"],
-        "wk_radicals": ["Greenhouse", "Sun"]
-    },
+
     "灰": {
         "strokes": 6,
         "grade": 6,
@@ -9784,21 +7990,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Leader", "King", "Shellfish"]
     },
-    "誤": {
-        "strokes": 14,
-        "grade": 6,
-        "freq": 1150,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Mistake", "Err", "Do Wrong", "Mislead"],
-        "readings_on": ["ご"],
-        "readings_kun": ["あやま.る", "-あやま.る"],
-        "wk_level": 34,
-        "wk_meanings": ["Mistake"],
-        "wk_readings_on": ["ご"],
-        "wk_readings_kun": ["!あやま"],
-        "wk_radicals": ["Say", "Catapult"]
-    },
+
     "臓": {
         "strokes": 19,
         "grade": 6,
@@ -9829,21 +8021,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!とうと"],
         "wk_radicals": ["Middle", "Ground", "Shellfish"]
     },
-    "降": {
-        "strokes": 10,
-        "grade": 6,
-        "freq": 596,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Descend", "Precipitate", "Fall", "Surrender"],
-        "readings_on": ["こう", "ご"],
-        "readings_kun": ["お.りる", "お.ろす", "ふ.る", "ふ.り", "くだ.る", "くだ.す"],
-        "wk_level": 34,
-        "wk_meanings": ["Descend"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!お", "!ふ"],
-        "wk_radicals": ["Building", "Winter", "Cow"]
-    },
+
     "丼": {
         "strokes": 5,
         "grade": 8,
@@ -10159,21 +8337,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Tiger", "Pig", "Knife"]
     },
-    "勤": {
-        "strokes": 12,
-        "grade": 6,
-        "freq": 830,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Diligence", "Become Employed", "Serve"],
-        "readings_on": ["きん", "ごん"],
-        "readings_kun": ["つと.める", "-づと.め", "つと.まる", "いそ.しむ"],
-        "wk_level": 34,
-        "wk_meanings": ["Work"],
-        "wk_readings_on": ["きん"],
-        "wk_readings_kun": ["!つと"],
-        "wk_radicals": ["Boot", "Power"]
-    },
+
     "歓": {
         "strokes": 15,
         "grade": 8,
@@ -10264,21 +8428,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!まめ"],
         "wk_radicals": ["Beans"]
     },
-    "刻": {
-        "strokes": 8,
-        "grade": 6,
-        "freq": 866,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Engrave", "Cut Fine", "Chop", "Hash", "Mince", "Time", "Carving"],
-        "readings_on": ["こく"],
-        "readings_kun": ["きざ.む", "きざ.み"],
-        "wk_level": 34,
-        "wk_meanings": ["Carve"],
-        "wk_readings_on": ["こく"],
-        "wk_readings_kun": ["!きざ"],
-        "wk_radicals": ["Slice", "Knife"]
-    },
+
     "腐": {
         "strokes": 14,
         "grade": 8,
@@ -10294,21 +8444,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!くさ"],
         "wk_radicals": ["Canopy", "Attach", "Meat"]
     },
-    "遅": {
-        "strokes": 12,
-        "grade": 8,
-        "freq": 833,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Slow", "Late", "Back", "Later"],
-        "readings_on": ["ち"],
-        "readings_kun": ["おく.れる", "おく.らす", "おそ.い"],
-        "wk_level": 35,
-        "wk_meanings": ["Slow"],
-        "wk_readings_on": ["ち"],
-        "wk_readings_kun": ["!おそ", "!おく"],
-        "wk_radicals": ["Scooter", "Flag", "Sheep"]
-    },
+
     "彫": {
         "strokes": 11,
         "grade": 8,
@@ -10339,21 +8475,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!はか"],
         "wk_radicals": ["Tsunami", "Shellfish", "Knife"]
     },
-    "破": {
-        "strokes": 10,
-        "grade": 5,
-        "freq": 590,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Rend", "Rip", "Tear", "Break", "Destroy", "Defeat", "Frustrate"],
-        "readings_on": ["は"],
-        "readings_kun": ["やぶ.る", "やぶ.れる", "わ.れる"],
-        "wk_level": 35,
-        "wk_meanings": ["Tear"],
-        "wk_readings_on": ["は"],
-        "wk_readings_kun": ["!やぶ"],
-        "wk_radicals": ["Stone", "Skin"]
-    },
+
     "舎": {
         "strokes": 8,
         "grade": 5,
@@ -10474,21 +8596,7 @@ dataUnorganized = {
         "wk_readings_kun": ["かめ"],
         "wk_radicals": ["Turtle"]
     },
-    "互": {
-        "strokes": 4,
-        "grade": 8,
-        "freq": 914,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Mutually", "Reciprocally", "Together"],
-        "readings_on": ["ご"],
-        "readings_kun": ["たが.い", "かたみ.に"],
-        "wk_level": 35,
-        "wk_meanings": ["Mutual"],
-        "wk_readings_on": ["ご"],
-        "wk_readings_kun": ["!たが"],
-        "wk_radicals": ["Ground", "Shuriken"]
-    },
+
     "剣": {
         "strokes": 10,
         "grade": 8,
@@ -10519,36 +8627,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!ことぶき"],
         "wk_radicals": ["Spring", "Measurement"]
     },
-    "彼": {
-        "strokes": 8,
-        "grade": 8,
-        "freq": 648,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["He", "That", "The"],
-        "readings_on": ["ひ"],
-        "readings_kun": ["かれ", "かの", "か.の"],
-        "wk_level": 35,
-        "wk_meanings": ["He"],
-        "wk_readings_on": ["!ひ"],
-        "wk_readings_kun": ["かれ", "かの"],
-        "wk_radicals": ["Loiter", "Skin"]
-    },
-    "恥": {
-        "strokes": 10,
-        "grade": 8,
-        "freq": 1575,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Shame", "Dishonor"],
-        "readings_on": ["ち"],
-        "readings_kun": ["は.じる", "はじ", "は.じらう", "は.ずかしい"],
-        "wk_level": 35,
-        "wk_meanings": ["Shame"],
-        "wk_readings_on": ["!ち"],
-        "wk_readings_kun": ["は", "はじ"],
-        "wk_radicals": ["Ear", "Heart"]
-    },
+
     "杉": {
         "strokes": 7,
         "grade": 8,
@@ -10729,21 +8808,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!あかがね"],
         "wk_radicals": ["Gold", "Same"]
     },
-    "払": {
-        "strokes": 5,
-        "grade": 8,
-        "freq": 813,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Pay", "Clear Out", "Prune", "Banish", "Dispose Of"],
-        "readings_on": ["ふつ", "ひつ", "ほつ"],
-        "readings_kun": ["はら.う", "-はら.い", "-ばら.い"],
-        "wk_level": 35,
-        "wk_meanings": ["Pay"],
-        "wk_readings_on": ["!ふつ"],
-        "wk_readings_kun": ["はら"],
-        "wk_radicals": ["Fingers", "Private"]
-    },
+
     "油": {
         "strokes": 8,
         "grade": 3,
@@ -11119,21 +9184,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Thread", "Turkey"]
     },
-    "舞": {
-        "strokes": 15,
-        "grade": 8,
-        "freq": 655,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Dance", "Flit", "Circle", "Wheel"],
-        "readings_on": ["ぶ"],
-        "readings_kun": ["ま.う", "-ま.う", "まい"],
-        "wk_level": 36,
-        "wk_meanings": ["Dance"],
-        "wk_readings_on": ["ぶ"],
-        "wk_readings_kun": ["!まい", "!ま"],
-        "wk_radicals": ["Nothing", "Dance"]
-    },
+
     "伎": {
         "strokes": 6,
         "grade": 8,
@@ -11179,21 +9230,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Boat", "Weapon"]
     },
-    "頼": {
-        "strokes": 16,
-        "grade": 8,
-        "freq": 708,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Trust", "Request"],
-        "readings_on": ["らい"],
-        "readings_kun": ["たの.む", "たの.もしい", "たよ.る"],
-        "wk_level": 36,
-        "wk_meanings": ["Trust"],
-        "wk_readings_on": ["らい"],
-        "wk_readings_kun": ["!たの", "!たよ"],
-        "wk_radicals": ["Bundle", "Geoduck"]
-    },
+
     "依": {
         "strokes": 8,
         "grade": 8,
@@ -11404,21 +9441,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!わずら"],
         "wk_radicals": ["Skewer", "Heart"]
     },
-    "戻": {
-        "strokes": 7,
-        "grade": 8,
-        "freq": 890,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Re-", "Return", "Revert", "Resume", "Restore", "Go Backwards"],
-        "readings_on": ["れい"],
-        "readings_kun": ["もど.す", "もど.る"],
-        "wk_level": 37,
-        "wk_meanings": ["Return"],
-        "wk_readings_on": ["!れい"],
-        "wk_readings_kun": ["もど"],
-        "wk_radicals": ["Door", "Big"]
-    },
+
     "抗": {
         "strokes": 7,
         "grade": 8,
@@ -11674,21 +9697,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!めぐ"],
         "wk_radicals": ["Cross", "Rice Paddy", "Heart"]
     },
-    "抱": {
-        "strokes": 8,
-        "grade": 8,
-        "freq": 871,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Embrace", "Hug", "Hold In Arms"],
-        "readings_on": ["ほう"],
-        "readings_kun": ["だ.く", "いだ.く", "かか.える"],
-        "wk_level": 37,
-        "wk_meanings": ["Hug"],
-        "wk_readings_on": ["!ほう"],
-        "wk_readings_kun": ["だ", "^かか", "^いだ"],
-        "wk_radicals": ["Fingers", "Wrap"]
-    },
+
     "掲": {
         "strokes": 11,
         "grade": 8,
@@ -12094,21 +10103,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!とな", "!たた", "!ほめ"],
         "wk_radicals": ["Grain", "Gun", "Small"]
     },
-    "緒": {
-        "strokes": 14,
-        "grade": 8,
-        "freq": 952,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Thong", "Beginning", "Inception", "End", "Cord", "Strap", "Mental Or Emotional State"],
-        "readings_on": ["しょ", "ちょ"],
-        "readings_kun": ["お", "いとぐち"],
-        "wk_level": 38,
-        "wk_meanings": ["Together"],
-        "wk_readings_on": ["しょ"],
-        "wk_readings_kun": ["!お"],
-        "wk_radicals": ["Thread", "Someone"]
-    },
+
     "緩": {
         "strokes": 15,
         "grade": 8,
@@ -12184,21 +10179,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!おく"],
         "wk_radicals": ["Shellfish", "Mask"]
     },
-    "逃": {
-        "strokes": 9,
-        "grade": 8,
-        "freq": 931,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Escape", "Flee", "Shirk", "Evade", "Set Free"],
-        "readings_on": ["とう"],
-        "readings_kun": ["に.げる", "に.がす", "のが.す", "のが.れる"],
-        "wk_level": 38,
-        "wk_meanings": ["Escape"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": ["!に", "!のが", "!の"],
-        "wk_radicals": ["Scooter", "Omen"]
-    },
+
     "還": {
         "strokes": 16,
         "grade": 8,
@@ -12529,21 +10510,7 @@ dataUnorganized = {
         "wk_readings_kun": ["うば"],
         "wk_radicals": ["Big", "Turkey", "Measurement"]
     },
-    "御": {
-        "strokes": 12,
-        "grade": 8,
-        "freq": 1087,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Honorable", "Manipulate", "Govern"],
-        "readings_on": ["ぎょ", "ご"],
-        "readings_kun": ["おん-", "お-", "み-"],
-        "wk_level": 39,
-        "wk_meanings": ["Honorable"],
-        "wk_readings_on": ["ご"],
-        "wk_readings_kun": ["!お"],
-        "wk_radicals": ["Loiter", "Gun", "Correct", "Stamp"]
-    },
+
     "慎": {
         "strokes": 13,
         "grade": 8,
@@ -12873,21 +10840,6 @@ dataUnorganized = {
         "wk_readings_on": ["ざい"],
         "wk_readings_kun": [],
         "wk_radicals": ["Simultaneous", "Knife"]
-    },
-    "吹": {
-        "strokes": 7,
-        "grade": 8,
-        "freq": 1133,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Blow", "Breathe", "Puff", "Emit", "Smoke"],
-        "readings_on": ["すい"],
-        "readings_kun": ["ふ.く"],
-        "wk_level": 40,
-        "wk_meanings": ["Blow"],
-        "wk_readings_on": ["!すい"],
-        "wk_readings_kun": ["ふ"],
-        "wk_radicals": ["Mouth", "Lack"]
     },
     "堀": {
         "strokes": 11,
@@ -13684,21 +11636,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Old", "Legs"]
     },
-    "到": {
-        "strokes": 8,
-        "grade": 8,
-        "freq": 1032,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Arrival", "Proceed", "Reach", "Attain", "Result In"],
-        "readings_on": ["とう"],
-        "readings_kun": ["いた.る"],
-        "wk_level": 42,
-        "wk_meanings": ["Arrival"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Mole", "Knife"]
-    },
+
     "双": {
         "strokes": 4,
         "grade": 8,
@@ -15019,21 +12957,7 @@ dataUnorganized = {
         "wk_readings_kun": ["つ"],
         "wk_radicals": ["Gold", "Pool"]
     },
-    "髪": {
-        "strokes": 14,
-        "grade": 8,
-        "freq": 1474,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Hair Of The Head"],
-        "readings_on": ["はつ"],
-        "readings_kun": ["かみ"],
-        "wk_level": 44,
-        "wk_meanings": ["Hair"],
-        "wk_readings_on": ["!はつ"],
-        "wk_readings_kun": ["かみ"],
-        "wk_radicals": ["Long", "Hair", "Friend"]
-    },
+
     "嵐": {
         "strokes": 12,
         "grade": 8,
@@ -15499,21 +13423,6 @@ dataUnorganized = {
         "wk_readings_kun": ["か"],
         "wk_radicals": ["Shellfish", "Someone"]
     },
-    "疲": {
-        "strokes": 10,
-        "grade": 8,
-        "freq": 1263,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Exhausted", "Tire", "Weary"],
-        "readings_on": ["ひ"],
-        "readings_kun": ["つか.れる", "-づか.れ", "つか.らす"],
-        "wk_level": 45,
-        "wk_meanings": ["Exhausted"],
-        "wk_readings_on": ["ひ"],
-        "wk_readings_kun": ["!つか"],
-        "wk_radicals": ["Sick", "Skin"]
-    },
     "塾": {
         "strokes": 14,
         "grade": 8,
@@ -15903,21 +13812,6 @@ dataUnorganized = {
         "wk_readings_on": ["い"],
         "wk_readings_kun": [],
         "wk_radicals": ["Tree", "Odd"]
-    },
-    "歳": {
-        "strokes": 13,
-        "grade": 8,
-        "freq": 269,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Year-end", "Age", "Occasion", "Opportunity"],
-        "readings_on": ["さい", "せい"],
-        "readings_kun": ["とし", "とせ", "よわい"],
-        "wk_level": 46,
-        "wk_meanings": ["Years Old"],
-        "wk_readings_on": ["さい", "せい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Stop", "Slide", "Drunkard", "Jackhammer"]
     },
     "涼": {
         "strokes": 11,
@@ -18244,21 +16138,7 @@ dataUnorganized = {
         "wk_readings_kun": [],
         "wk_radicals": ["Leader", "White"]
     },
-    "偶": {
-        "strokes": 11,
-        "grade": 8,
-        "freq": 1602,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Accidentally", "Even Number", "Couple", "Man & Wife", "Same Kind"],
-        "readings_on": ["ぐう"],
-        "readings_kun": ["たま"],
-        "wk_level": 50,
-        "wk_meanings": ["Accidentally"],
-        "wk_readings_on": ["ぐう"],
-        "wk_readings_kun": ["!たま"],
-        "wk_radicals": ["Leader", "Splinter"]
-    },
+
     "淀": {
         "strokes": 11,
         "grade": 9,
@@ -18409,36 +16289,7 @@ dataUnorganized = {
         "wk_readings_kun": ["!あな"],
         "wk_radicals": ["Child", "Umbrella"]
     },
-    "偉": {
-        "strokes": 12,
-        "grade": 8,
-        "freq": 1639,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Admirable", "Greatness", "Remarkable", "Conceited", "Famous", "Excellent"],
-        "readings_on": ["い"],
-        "readings_kun": ["えら.い"],
-        "wk_level": 51,
-        "wk_meanings": ["Greatness"],
-        "wk_readings_on": ["い"],
-        "wk_readings_kun": ["!えら"],
-        "wk_radicals": ["Leader", "Korea"]
-    },
-    "頂": {
-        "strokes": 11,
-        "grade": 6,
-        "freq": 1350,
-        "jlpt_old": 2,
-        "jlpt_new": 3,
-        "meanings": ["Place On The Head", "Receive", "Top Of Head", "Top", "Summit", "Peak"],
-        "readings_on": ["ちょう"],
-        "readings_kun": ["いただ.く", "いただき"],
-        "wk_level": 51,
-        "wk_meanings": ["Summit", "^Humbly"],
-        "wk_readings_on": ["ちょう"],
-        "wk_readings_kun": ["!いただき", "!いただ"],
-        "wk_radicals": ["Street", "Geoduck"]
-    },
+
     "召": {
         "strokes": 5,
         "grade": 8,
