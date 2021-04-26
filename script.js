@@ -99,8 +99,8 @@ function makeList() {
         kanjiBox.classList.add('kanjiBox');
         infoBox.classList.add('infoBox');
         wordBox.append(translation);
-        onBox.append(ons);
-        kunBox.append(kuns);
+        onBox.append(ons.replace(/,(?=[^\s])/g, ", "));
+        kunBox.append(kuns.replace(/,(?=[^\s])/g, ", "));
         infoBox.append(wordBox, onBox, kunBox);
         kanjiBox.append(kanjiBoxTit);
         kanjiBox.append(infoBox);
@@ -117,13 +117,15 @@ function getN5() {
     title.textContent = "N5 Kanji Study";
     for (const [key, value] of Object.entries(data5)) {
         kanjiArray.push(key);
-        onArray.push(value.readings_on);
-        kunArray.push(value.readings_kun);
         meaningsArray.push(value.meanings[0]);
-        // console.log(`${key}: ${value.jlpt_new}`);
+        let onString = String(value.readings_on);
+        let kunString = String(value.readings_kun);
+        onArray.push(onString);
+        kunArray.push(kunString);
+        // console.log(`${onString} with type: ${typeof onString}`);
     };
     // console.log("ARRAY IS: ", kanjiArray);
-    // console.log("OHNO", onArray);
+    console.log("OHNO", onArray);
     number = kanjiArray.length;
     populateMainPage();
     makeList();
@@ -138,8 +140,10 @@ function getN4() {
     title.textContent = "N4 Kanji Study";
     for (const [key, value] of Object.entries(data4)) {
         kanjiArray.push(key);
-        onArray.push(value.readings_on);
-        kunArray.push(value.readings_kun);
+        let onString = String(value.readings_on);
+        let kunString = String(value.readings_kun);
+        onArray.push(onString);
+        kunArray.push(kunString);
         meaningsArray.push(value.meanings[0]);
         // console.log(`${key}: ${value.jlpt_new}`);
     };
@@ -159,8 +163,10 @@ function getN3() {
     title.textContent = "N3 Kanji Study";
     for (const [key, value] of Object.entries(data3)) {
         kanjiArray.push(key);
-        onArray.push(value.readings_on);
-        kunArray.push(value.readings_kun);
+        let onString = String(value.readings_on);
+        let kunString = String(value.readings_kun);
+        onArray.push(onString);
+        kunArray.push(kunString);
         meaningsArray.push(value.meanings[0]);
         // console.log(`${key}: ${value.jlpt_new}`);
     };
@@ -205,8 +211,8 @@ function loadKeywordQuiz1() {
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = kanjiArray[randoNumber];
     mainKanji.textContent = konoKanji;
-    onDiv.append('(', onArray[randoNumber], ')');
-    kunDiv.append('(', kunArray[randoNumber], ')');
+    onDiv.append('(', onArray[randoNumber].replace(/,(?=[^\s])/g, ", "), ')');
+    kunDiv.append('(', kunArray[randoNumber].replace(/,(?=[^\s])/g, ", "), ')');
     trueAnswer = meaningsArray[randoNumber];
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
@@ -257,8 +263,8 @@ function loadKeywordQuiz2() {
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = meaningsArray[randoNumber];
     mainKanji.textContent = konoKanji;
-    onDiv.append('(', onArray[randoNumber], ')');
-    kunDiv.append('(', kunArray[randoNumber], ')');
+    onDiv.append('(', onArray[randoNumber].replace(/,(?=[^\s])/g, ", "), ')');
+    kunDiv.append('(', kunArray[randoNumber].replace(/,(?=[^\s])/g, ", "), ')');
     trueAnswer = kanjiArray[randoNumber];
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
@@ -312,7 +318,7 @@ function loadOnQuiz3() {
     mainKanji.textContent = konoKanji;
     //   onDiv.append('(', onArray[randoNumber], ')');
     //   kunDiv.append('(', kunArray[randoNumber], ')');
-    trueAnswer = onArray[randoNumber];
+    trueAnswer = onArray[randoNumber].replace(/,(?=[^\s])/g, ", ");
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
     skipButt.removeEventListener('click', loadKeywordQuiz1);
@@ -326,7 +332,7 @@ function loadOnQuiz3() {
     answersArray.push(trueAnswer);
     for (let i = 0; i < 8; i++) {
         let nuRandoNum = Math.floor(Math.random() * kanjiArray.length);
-        randoAnswer = onArray[nuRandoNum];
+        randoAnswer = onArray[nuRandoNum].replace(/,(?=[^\s])/g, ", ");
         answersArray.push(randoAnswer);
     }
     shuffleArray(answersArray);
@@ -361,7 +367,7 @@ function loadOnQuiz4() {
     onDiv.textContent = '';
     testBox.style.backgroundColor = 'rgb(78, 78, 78)';
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
-    konoKanji = onArray[randoNumber];
+    konoKanji = onArray[randoNumber].replace(/,(?=[^\s])/g, ", ");
     mainKanji.textContent = konoKanji;
     //   onDiv.append('(', onArray[randoNumber], ')');
     //   kunDiv.append('(', kunArray[randoNumber], ')');
@@ -418,7 +424,7 @@ function loadKunQuiz5() {
     mainKanji.textContent = konoKanji;
     //   onDiv.append('(', onArray[randoNumber], ')');
     //   kunDiv.append('(', kunArray[randoNumber], ')');
-    trueAnswer = kunArray[randoNumber];
+    trueAnswer = kunArray[randoNumber].replace(/,(?=[^\s])/g, ", ");
     // console.log('RIGHT ANSWER IS: ', trueAnswer);
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
@@ -437,7 +443,7 @@ function loadKunQuiz5() {
     let num = 0;
     for (let i = 0; i < 8; i++) {
         let nuRandoNum = Math.floor(Math.random() * kanjiArray.length);
-        let randoAnswer = kunArray[nuRandoNum];
+        let randoAnswer = kunArray[nuRandoNum].replace(/,(?=[^\s])/g, ", ");
         if (kunArray[nuRandoNum].length === 0) {
             num++;
         }
@@ -476,7 +482,7 @@ function loadKunQuiz6() {
     onDiv.textContent = '';
     testBox.style.backgroundColor = 'rgb(78, 78, 78)';
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
-    konoKanji = kunArray[randoNumber];
+    konoKanji = kunArray[randoNumber].replace(/,(?=[^\s])/g, ", ");
     mainKanji.textContent = konoKanji;
     //   onDiv.append('(', onArray[randoNumber], ')');
     //   kunDiv.append('(', kunArray[randoNumber], ')');
@@ -4262,6 +4268,7 @@ data4 = {
         "wk_radicals": ["Evening"]
     }
 };
+//still needs katakana 
 data3 = {
     "才": {
         "strokes": 3,

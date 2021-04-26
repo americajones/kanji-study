@@ -22,6 +22,9 @@ h1{
     margin-left: 1em;
     margin-right: 1em;
 }
+.quizPage {
+    margin-top: 1em;
+}
 .drop-butt:hover, .drop-butt:focus {
     background-color: #640f0f;
 }
