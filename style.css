@@ -57,6 +57,7 @@ h1{
 .hidden {display:none;}
 .list-box{
     padding: 1em;
+    padding-left: 1.5em;
     border-top: solid white 1px;
     display: flex;
     flex-flow: row;  
@@ -161,6 +162,9 @@ overflow: hidden;
         height: 600px;
         border: none;
         border-left: 1px solid grey;
+    }
+    .list-box {
+        padding-left: 3em;
     }
     .drop-butt{
         margin-right: 3em;
