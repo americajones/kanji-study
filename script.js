@@ -177,10 +177,22 @@ function getN3() {
     makeList();
 };
 function getN2() {
+    kanjiArray = [];
+    onArray = [];
+    kunArray = [];
+    meaningsArray = [];
+    removeAllChildNodes(cardsBox);
+    title.textContent = "";
     console.log("pooped myself");
     title.textContent = "N2 Kanji Study info unavailable";
 };
 function getN1() {
+    kanjiArray = [];
+    onArray = [];
+    kunArray = [];
+    meaningsArray = [];
+    removeAllChildNodes(cardsBox);
+    title.textContent = "";
     console.log("pooped myself");
     title.textContent = "N1 Kanji Study info unavailable";
 };
