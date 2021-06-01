@@ -608,11 +608,6 @@ data5 = {
         "meanings": ["One", "One Radical (no.1)"],
         "readings_on": ["イチ", "イツ"],
         "readings_kun": ["ひと-", "ひと.つ"],
-        "wk_level": 1,
-        "wk_meanings": ["One"],
-        "wk_readings_on": ["いち", "いつ"],
-        "wk_readings_kun": ["!ひと"],
-        "wk_radicals": ["Ground"]
     },
     "二": {
         "strokes": 2,
@@ -623,11 +618,6 @@ data5 = {
         "meanings": ["Two", "Two Radical (no. 7)"],
         "readings_on": ["ニ", "ジ"],
         "readings_kun": ["ふた", "ふた.つ", "ふたたび"],
-        "wk_level": 1,
-        "wk_meanings": ["Two"],
-        "wk_readings_on": ["に"],
-        "wk_readings_kun": ["!ふた"],
-        "wk_radicals": ["Two"]
     },
     "九": {
         "strokes": 2,
@@ -638,11 +628,6 @@ data5 = {
         "meanings": ["Nine"],
         "readings_on": ["キュウ", "ク"],
         "readings_kun": ["ここの", "ここの.つ"],
-        "wk_level": 1,
-        "wk_meanings": ["Nine"],
-        "wk_readings_on": ["く", "きゅう"],
-        "wk_readings_kun": ["!ここの"],
-        "wk_radicals": ["Nine"]
     },
     "七": {
         "strokes": 2,
@@ -653,11 +638,6 @@ data5 = {
         "meanings": ["Seven"],
         "readings_on": ["シチ"],
         "readings_kun": ["なな", "なな.つ", "なの"],
-        "wk_level": 1,
-        "wk_meanings": ["Seven"],
-        "wk_readings_on": ["しち"],
-        "wk_readings_kun": ["!なな", "!なの"],
-        "wk_radicals": ["Seven"]
     },
     "人": {
         "strokes": 2,
@@ -668,11 +648,6 @@ data5 = {
         "meanings": ["Person"],
         "readings_on": ["ジン", "ニン"],
         "readings_kun": ["ひと", "-り", "-と"],
-        "wk_level": 1,
-        "wk_meanings": ["Person"],
-        "wk_readings_on": ["にん", "じん"],
-        "wk_readings_kun": ["!ひと", "!と"],
-        "wk_radicals": ["Person"]
     },
     "入": {
         "strokes": 2,
@@ -683,11 +658,6 @@ data5 = {
         "meanings": ["Enter", "Insert"],
         "readings_on": ["ニュウ", "ジュ"],
         "readings_kun": ["い.る", "-い.る", "-い.り", "い.れる", "-い.れ", "はい.る"],
-        "wk_level": 1,
-        "wk_meanings": ["Enter"],
-        "wk_readings_on": ["にゅう"],
-        "wk_readings_kun": ["!はい", "!い"],
-        "wk_radicals": ["Enter"]
     },
     "八": {
         "strokes": 2,
@@ -698,11 +668,6 @@ data5 = {
         "meanings": ["Eight", "Eight Radical (no. 12)"],
         "readings_on": ["ハチ"],
         "readings_kun": ["や", "や.つ", "やっ.つ", "よう"],
-        "wk_level": 1,
-        "wk_meanings": ["Eight"],
-        "wk_readings_on": ["はち"],
-        "wk_readings_kun": ["!や", "!よう"],
-        "wk_radicals": ["Fins"]
     },
     "十": {
         "strokes": 2,
@@ -713,11 +678,6 @@ data5 = {
         "meanings": ["Ten"],
         "readings_on": ["ジュウ", "ジッ", "ジュッ"],
         "readings_kun": ["とお", "と"],
-        "wk_level": 1,
-        "wk_meanings": ["Ten"],
-        "wk_readings_on": ["じゅう"],
-        "wk_readings_kun": ["!とお"],
-        "wk_radicals": ["Cross"]
     },
     "三": {
         "strokes": 3,
@@ -728,11 +688,6 @@ data5 = {
         "meanings": ["Three"],
         "readings_on": ["サン", "ゾウ"],
         "readings_kun": ["み", "み.つ", "みっ.つ"],
-        "wk_level": 1,
-        "wk_meanings": ["Three"],
-        "wk_readings_on": ["さん"],
-        "wk_readings_kun": ["!み"],
-        "wk_radicals": ["Ground", "Two"]
     },
     "上": {
         "strokes": 3,
@@ -743,11 +698,6 @@ data5 = {
         "meanings": ["Above", "Up"],
         "readings_on": ["ジョウ", "ショウ", "シャン"],
         "readings_kun": ["うえ", "-うえ", "うわ-", "かみ", "あ.げる", "-あ.げる", "あ.がる", "-あ.がる", "あ.がり", "-あ.がり", "のぼ.る", "のぼ.り", "のぼ.せる", "のぼ.す", "たてまつ.る"],
-        "wk_level": 1,
-        "wk_meanings": ["Above", "^Up", "^Over"],
-        "wk_readings_on": ["じょう"],
-        "wk_readings_kun": ["!うえ", "!あ", "!のぼ", "!うわ", "!かみ"],
-        "wk_radicals": ["Toe", "Ground"]
     },
     "下": {
         "strokes": 3,
@@ -758,11 +708,6 @@ data5 = {
         "meanings": ["Below", "Down", "Descend", "Give", "Low", "Inferior"],
         "readings_on": ["カ", "ゲ"],
         "readings_kun": ["した", "しも", "もと", "さ.げる", "さ.がる", "くだ.る", "くだ.り", "くだ.す", "-くだ.す", "くだ.さる", "お.ろす", "お.りる"],
-        "wk_level": 1,
-        "wk_meanings": ["Below", "^Down", "^Under", "^Beneath"],
-        "wk_readings_on": ["か", "げ"],
-        "wk_readings_kun": ["!した", "!さ", "!くだ", "!お"],
-        "wk_radicals": ["Ground", "Toe"]
     },
     "口": {
         "strokes": 3,
@@ -773,11 +718,6 @@ data5 = {
         "meanings": ["Mouth"],
         "readings_on": ["コウ", "ク"],
         "readings_kun": ["くち"],
-        "wk_level": 1,
-        "wk_meanings": ["Mouth"],
-        "wk_readings_on": ["こう", "^く"],
-        "wk_readings_kun": ["!くち"],
-        "wk_radicals": ["Mouth"]
     },
     "大": {
         "strokes": 3,
@@ -788,11 +728,6 @@ data5 = {
         "meanings": ["Large", "Big"],
         "readings_on": ["ダイ", "タイ"],
         "readings_kun": ["おお-", "おお.きい", "-おお.いに"],
-        "wk_level": 1,
-        "wk_meanings": ["Big", "^Large"],
-        "wk_readings_on": ["たい", "だい"],
-        "wk_readings_kun": ["!おお"],
-        "wk_radicals": ["Big"]
     },
     "女": {
         "strokes": 3,
@@ -803,11 +738,6 @@ data5 = {
         "meanings": ["Woman", "Female"],
         "readings_on": ["ジョ", "ニョ", "ニョウ"],
         "readings_kun": ["おんな", "め"],
-        "wk_level": 1,
-        "wk_meanings": ["Woman"],
-        "wk_readings_on": ["じょ"],
-        "wk_readings_kun": ["!おんな", "!め"],
-        "wk_radicals": ["Woman"]
     },
     "山": {
         "strokes": 3,
@@ -818,11 +748,6 @@ data5 = {
         "meanings": ["Mountain"],
         "readings_on": ["サン", "セン"],
         "readings_kun": ["やま"],
-        "wk_level": 1,
-        "wk_meanings": ["Mountain"],
-        "wk_readings_on": ["さん"],
-        "wk_readings_kun": ["!やま"],
-        "wk_radicals": ["Mountain"]
     },
     "川": {
         "strokes": 3,
@@ -833,11 +758,6 @@ data5 = {
         "meanings": ["Stream", "River", "River Or Three-stroke River Radical (no. 47)"],
         "readings_on": ["セン"],
         "readings_kun": ["かわ"],
-        "wk_level": 1,
-        "wk_meanings": ["River"],
-        "wk_readings_on": ["!せん"],
-        "wk_readings_kun": ["かわ"],
-        "wk_radicals": ["River"]
     },
 
     "土": {
@@ -849,11 +769,6 @@ data5 = {
         "meanings": ["Soil", "Earth", "Ground", "Turkey"],
         "readings_on": ["ド", "ト"],
         "readings_kun": ["つち"],
-        "wk_level": 2,
-        "wk_meanings": ["Dirt", "^Soil", "^Earth", "^Ground"],
-        "wk_readings_on": ["ど", "^と"],
-        "wk_readings_kun": ["!つち"],
-        "wk_radicals": ["Dirt"]
     },
     "千": {
         "strokes": 3,
@@ -864,11 +779,6 @@ data5 = {
         "meanings": ["Thousand"],
         "readings_on": ["セン"],
         "readings_kun": ["ち"],
-        "wk_level": 2,
-        "wk_meanings": ["Thousand"],
-        "wk_readings_on": ["せん"],
-        "wk_readings_kun": ["!ち"],
-        "wk_radicals": ["Thousand"]
     },
 
     "子": {
@@ -880,11 +790,6 @@ data5 = {
         "meanings": ["Child", "Sign Of The Rat", "11pm-1am", "First Sign Of Chinese Zodiac"],
         "readings_on": ["シ", "ス", "ツ"],
         "readings_kun": ["こ", "-こ", "ね"],
-        "wk_level": 2,
-        "wk_meanings": ["Child", "^Kid"],
-        "wk_readings_on": ["し", "す"],
-        "wk_readings_kun": ["!こ"],
-        "wk_radicals": ["Child"]
     },
     "小": {
         "strokes": 3,
@@ -895,11 +800,6 @@ data5 = {
         "meanings": ["Little", "Small"],
         "readings_on": ["ショウ"],
         "readings_kun": ["ちい.さい", "こ-", "お-", "さ-"],
-        "wk_level": 2,
-        "wk_meanings": ["Small", "^Little"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!ちい", "!こ", "!お"],
-        "wk_radicals": ["Small"]
     },
     "中": {
         "strokes": 4,
@@ -910,11 +810,6 @@ data5 = {
         "meanings": ["In", "Inside", "Middle", "Mean", "Center"],
         "readings_on": ["チュウ"],
         "readings_kun": ["なか", "うち", "あた.る"],
-        "wk_level": 2,
-        "wk_meanings": ["Middle", "^In", "^Inside", "^Center"],
-        "wk_readings_on": ["ちゅう"],
-        "wk_readings_kun": ["!なか"],
-        "wk_radicals": ["Middle"]
     },
     "五": {
         "strokes": 4,
@@ -925,11 +820,6 @@ data5 = {
         "meanings": ["Five"],
         "readings_on": ["ゴ"],
         "readings_kun": ["いつ", "いつ.つ"],
-        "wk_level": 2,
-        "wk_meanings": ["Five"],
-        "wk_readings_on": ["ご"],
-        "wk_readings_kun": ["!いつ"],
-        "wk_radicals": ["Five"]
     },
     "六": {
         "strokes": 4,
@@ -940,11 +830,6 @@ data5 = {
         "meanings": ["Six"],
         "readings_on": ["ロク", "リク"],
         "readings_kun": ["む", "む.つ", "むっ.つ", "むい"],
-        "wk_level": 2,
-        "wk_meanings": ["Six"],
-        "wk_readings_on": ["ろく"],
-        "wk_readings_kun": ["!む"],
-        "wk_radicals": ["Lid", "Fins"]
     },
     "円": {
         "strokes": 4,
@@ -955,11 +840,6 @@ data5 = {
         "meanings": ["Circle", "Yen", "Round"],
         "readings_on": ["エン"],
         "readings_kun": ["まる.い", "まる", "まど", "まど.か", "まろ.やか"],
-        "wk_level": 2,
-        "wk_meanings": ["Yen", "^Round", "^Circle"],
-        "wk_readings_on": ["えん"],
-        "wk_readings_kun": ["!まる"],
-        "wk_radicals": ["Lid", "Head"]
     },
     "天": {
         "strokes": 4,
@@ -970,11 +850,6 @@ data5 = {
         "meanings": ["Heavens", "Sky", "Imperial"],
         "readings_on": ["テン"],
         "readings_kun": ["あまつ", "あめ", "あま-"],
-        "wk_level": 2,
-        "wk_meanings": ["Heaven"],
-        "wk_readings_on": ["てん"],
-        "wk_readings_kun": ["!あま"],
-        "wk_radicals": ["Heaven"]
     },
     "手": {
         "strokes": 4,
@@ -985,11 +860,6 @@ data5 = {
         "meanings": ["Hand"],
         "readings_on": ["シュ", "ズ"],
         "readings_kun": ["て", "て-", "-て", "た-"],
-        "wk_level": 2,
-        "wk_meanings": ["Hand"],
-        "wk_readings_on": ["!しゅ"],
-        "wk_readings_kun": ["て"],
-        "wk_radicals": ["Hand"]
     },
     "日": {
         "strokes": 4,
@@ -1000,11 +870,6 @@ data5 = {
         "meanings": ["Day", "Sun", "Japan", "Counter For Days"],
         "readings_on": ["ニチ", "ジツ"],
         "readings_kun": ["ひ", "-び", "-か"],
-        "wk_level": 2,
-        "wk_meanings": ["Sun", "^Day"],
-        "wk_readings_on": ["にち", "じつ"],
-        "wk_readings_kun": ["!ひ", "!か", "!び"],
-        "wk_radicals": ["Sun"]
     },
     "月": {
         "strokes": 4,
@@ -1015,11 +880,6 @@ data5 = {
         "meanings": ["Month", "Moon"],
         "readings_on": ["ゲツ", "ガツ"],
         "readings_kun": ["つき"],
-        "wk_level": 2,
-        "wk_meanings": ["Moon", "^Month"],
-        "wk_readings_on": ["げつ", "がつ"],
-        "wk_readings_kun": ["!つき"],
-        "wk_radicals": ["Moon"]
     },
     "木": {
         "strokes": 4,
@@ -1030,11 +890,6 @@ data5 = {
         "meanings": ["Tree", "Wood"],
         "readings_on": ["ボク", "モク"],
         "readings_kun": ["き", "こ-"],
-        "wk_level": 2,
-        "wk_meanings": ["Tree", "^Wood"],
-        "wk_readings_on": ["もく", "ぼく"],
-        "wk_readings_kun": ["!き", "!こ"],
-        "wk_radicals": ["Tree"]
     },
     "水": {
         "strokes": 4,
@@ -1045,11 +900,6 @@ data5 = {
         "meanings": ["Water"],
         "readings_on": ["スイ"],
         "readings_kun": ["みず", "みず-"],
-        "wk_level": 2,
-        "wk_meanings": ["Water"],
-        "wk_readings_on": ["すい"],
-        "wk_readings_kun": ["!みず"],
-        "wk_radicals": ["Water"]
     },
     "火": {
         "strokes": 4,
@@ -1060,11 +910,6 @@ data5 = {
         "meanings": ["Fire"],
         "readings_on": ["カ"],
         "readings_kun": ["ひ", "-び", "ほ-"],
-        "wk_level": 2,
-        "wk_meanings": ["Fire"],
-        "wk_readings_on": ["か"],
-        "wk_readings_kun": ["!ひ", "!ほ"],
-        "wk_radicals": ["Fire"]
     },
     "出": {
         "strokes": 5,
@@ -1075,11 +920,6 @@ data5 = {
         "meanings": ["Exit", "Leave", "Go Out", "Come Out", "Put Out", "Protrude"],
         "readings_on": ["シュツ", "スイ"],
         "readings_kun": ["で.る", "-で", "だ.す", "-だ.す", "い.でる", "い.だす"],
-        "wk_level": 2,
-        "wk_meanings": ["Exit"],
-        "wk_readings_on": ["しゅつ"],
-        "wk_readings_kun": ["!で", "!だ"],
-        "wk_radicals": ["Mountain"]
     },
     "右": {
         "strokes": 5,
@@ -1090,11 +930,6 @@ data5 = {
         "meanings": ["Right"],
         "readings_on": ["ウ", "ユウ"],
         "readings_kun": ["みぎ"],
-        "wk_level": 2,
-        "wk_meanings": ["Right"],
-        "wk_readings_on": ["^う", "ゆう"],
-        "wk_readings_kun": ["!みぎ"],
-        "wk_radicals": ["Narwhal", "Mouth"]
     },
     "四": {
         "strokes": 5,
@@ -1105,11 +940,6 @@ data5 = {
         "meanings": ["Four"],
         "readings_on": ["シ"],
         "readings_kun": ["よ", "よ.つ", "よっ.つ", "よん"],
-        "wk_level": 2,
-        "wk_meanings": ["Four"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!よん", "!よ"],
-        "wk_radicals": ["Mouth", "Legs"]
     },
     "左": {
         "strokes": 5,
@@ -1120,11 +950,6 @@ data5 = {
         "meanings": ["Left"],
         "readings_on": ["サ", "シャ"],
         "readings_kun": ["ひだり"],
-        "wk_level": 2,
-        "wk_meanings": ["Left"],
-        "wk_readings_on": ["さ"],
-        "wk_readings_kun": ["!ひだり"],
-        "wk_radicals": ["Narwhal", "Construction"]
     },
     "本": {
         "strokes": 5,
@@ -1135,11 +960,6 @@ data5 = {
         "meanings": ["Book", "Present", "Main", "Origin", "True", "Real", "Counter For Long Cylindrical Things"],
         "readings_on": ["ホン"],
         "readings_kun": ["もと"],
-        "wk_level": 2,
-        "wk_meanings": ["Book", "^Origin", "^Real", "^Main"],
-        "wk_readings_on": ["ほん"],
-        "wk_readings_kun": ["!もと"],
-        "wk_radicals": ["Book"]
     },
     "今": {
         "strokes": 4,
@@ -1150,11 +970,6 @@ data5 = {
         "meanings": ["Now"],
         "readings_on": ["コン", "キン"],
         "readings_kun": ["いま"],
-        "wk_level": 3,
-        "wk_meanings": ["Now"],
-        "wk_readings_on": ["こん"],
-        "wk_readings_kun": ["!いま"],
-        "wk_radicals": ["Now"]
     },
     "白": {
         "strokes": 5,
@@ -1165,11 +980,6 @@ data5 = {
         "meanings": ["White"],
         "readings_on": ["ハク", "ビャク"],
         "readings_kun": ["しろ", "しら-", "しろ.い"],
-        "wk_level": 2,
-        "wk_meanings": ["White"],
-        "wk_readings_on": ["はく"],
-        "wk_readings_kun": ["!しろ", "!しら"],
-        "wk_radicals": ["White"]
     },
     "万": {
         "strokes": 3,
@@ -1180,11 +990,6 @@ data5 = {
         "meanings": ["Ten Thousand", "10,000"],
         "readings_on": ["マン", "バン"],
         "readings_kun": ["よろず"],
-        "wk_level": 3,
-        "wk_meanings": ["Ten Thousand"],
-        "wk_readings_on": ["まん", "ばん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leaf", "Sword"]
     },
     "午": {
         "strokes": 4,
@@ -1195,11 +1000,6 @@ data5 = {
         "meanings": ["Noon", "Sign Of The Horse", "11am-1pm", "Seventh Sign Of Chinese Zodiac"],
         "readings_on": ["ゴ"],
         "readings_kun": ["うま"],
-        "wk_level": 3,
-        "wk_meanings": ["Noon"],
-        "wk_readings_on": ["ご"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Slide", "Dry"]
     },
     "友": {
         "strokes": 4,
@@ -1210,11 +1010,6 @@ data5 = {
         "meanings": ["Friend"],
         "readings_on": ["ユウ"],
         "readings_kun": ["とも"],
-        "wk_level": 3,
-        "wk_meanings": ["Friend"],
-        "wk_readings_on": ["ゆう"],
-        "wk_readings_kun": ["!とも"],
-        "wk_radicals": ["Narwhal", "Stool"]
     },
     "父": {
         "strokes": 4,
@@ -1225,11 +1020,6 @@ data5 = {
         "meanings": ["Father"],
         "readings_on": ["フ"],
         "readings_kun": ["ちち"],
-        "wk_level": 3,
-        "wk_meanings": ["Father", "^Dad"],
-        "wk_readings_on": ["!ふ"],
-        "wk_readings_kun": ["ちち"],
-        "wk_radicals": ["Father"]
     },
     "北": {
         "strokes": 5,
@@ -1240,11 +1030,6 @@ data5 = {
         "meanings": ["North"],
         "readings_on": ["ホク"],
         "readings_kun": ["きた"],
-        "wk_level": 3,
-        "wk_meanings": ["North"],
-        "wk_readings_on": ["ほく"],
-        "wk_readings_kun": ["!きた"],
-        "wk_radicals": ["Fingers", "Spoon"]
     },
     "半": {
         "strokes": 5,
@@ -1255,11 +1040,6 @@ data5 = {
         "meanings": ["Half", "Middle", "Odd Number", "Semi-", "Part-"],
         "readings_on": ["ハン"],
         "readings_kun": ["なか.ば"],
-        "wk_level": 3,
-        "wk_meanings": ["Half"],
-        "wk_readings_on": ["はん"],
-        "wk_readings_kun": ["!なか"],
-        "wk_radicals": ["Triceratops", "Dry"]
     },
     "外": {
         "strokes": 5,
@@ -1270,11 +1050,6 @@ data5 = {
         "meanings": ["Outside"],
         "readings_on": ["ガイ", "ゲ"],
         "readings_kun": ["そと", "ほか", "はず.す", "はず.れる", "と-"],
-        "wk_level": 3,
-        "wk_meanings": ["Outside"],
-        "wk_readings_on": ["がい"],
-        "wk_readings_kun": ["!そと", "!はず"],
-        "wk_radicals": ["Evening", "Toe"]
     },
     "母": {
         "strokes": 5,
@@ -1285,11 +1060,6 @@ data5 = {
         "meanings": ["Mother"],
         "readings_on": ["ボ"],
         "readings_kun": ["はは", "も"],
-        "wk_level": 3,
-        "wk_meanings": ["Mother", "^Mom", "^Mum"],
-        "wk_readings_on": ["!ぼ"],
-        "wk_readings_kun": ["はは"],
-        "wk_radicals": ["Sun", "Drop"]
     },
     "休": {
         "strokes": 6,
@@ -1300,11 +1070,6 @@ data5 = {
         "meanings": ["Rest", "Day Off", "Retire", "Sleep"],
         "readings_on": ["キュウ"],
         "readings_kun": ["やす.む", "やす.まる", "やす.める"],
-        "wk_level": 4,
-        "wk_meanings": ["Rest"],
-        "wk_readings_on": ["きゅう"],
-        "wk_readings_kun": ["!やす"],
-        "wk_radicals": ["Leader", "Tree"]
     },
     "先": {
         "strokes": 6,
@@ -1315,11 +1080,6 @@ data5 = {
         "meanings": ["Before", "Ahead", "Previous", "Future", "Precedence"],
         "readings_on": ["セン"],
         "readings_kun": ["さき", "ま.ず"],
-        "wk_level": 4,
-        "wk_meanings": ["Previous", "^Ahead", "^Past", "^Former"],
-        "wk_readings_on": ["せん"],
-        "wk_readings_kun": ["!さき", "!まず"],
-        "wk_radicals": ["Slide", "Dirt", "Legs"]
     },
     "名": {
         "strokes": 6,
@@ -1330,11 +1090,6 @@ data5 = {
         "meanings": ["Name", "Noted", "Distinguished", "Reputation"],
         "readings_on": ["メイ", "ミョウ"],
         "readings_kun": ["な", "-な"],
-        "wk_level": 4,
-        "wk_meanings": ["Name", "^Famous"],
-        "wk_readings_on": ["めい", "みょう"],
-        "wk_readings_kun": ["!な"],
-        "wk_radicals": ["Evening", "Mouth"]
     },
     "年": {
         "strokes": 6,
@@ -1345,11 +1100,6 @@ data5 = {
         "meanings": ["Year", "Counter For Years"],
         "readings_on": ["ネン"],
         "readings_kun": ["とし"],
-        "wk_level": 4,
-        "wk_meanings": ["Year"],
-        "wk_readings_on": ["ねん"],
-        "wk_readings_kun": ["!とし"],
-        "wk_radicals": ["Gun", "Cow"]
     },
     "気": {
         "strokes": 6,
@@ -1360,11 +1110,6 @@ data5 = {
         "meanings": ["Spirit", "Mind", "Air", "Atmosphere", "Mood"],
         "readings_on": ["キ", "ケ"],
         "readings_kun": ["いき"],
-        "wk_level": 4,
-        "wk_meanings": ["Energy", "^Spirit"],
-        "wk_readings_on": ["き", "け"],
-        "wk_readings_kun": ["!いき"],
-        "wk_radicals": ["Energy", "Treasure"]
     },
     "百": {
         "strokes": 6,
@@ -1375,11 +1120,6 @@ data5 = {
         "meanings": ["Hundred"],
         "readings_on": ["ヒャク", "ビャク"],
         "readings_kun": ["もも"],
-        "wk_level": 4,
-        "wk_meanings": ["Hundred"],
-        "wk_readings_on": ["ひゃく"],
-        "wk_readings_kun": ["!もも"],
-        "wk_radicals": ["Leaf", "Sun"]
     },
     "男": {
         "strokes": 7,
@@ -1390,11 +1130,6 @@ data5 = {
         "meanings": ["Male"],
         "readings_on": ["ダン", "ナン"],
         "readings_kun": ["おとこ", "お"],
-        "wk_level": 4,
-        "wk_meanings": ["Man"],
-        "wk_readings_on": ["だん"],
-        "wk_readings_kun": ["!おとこ"],
-        "wk_radicals": ["Rice Paddy", "Power"]
     },
     "見": {
         "strokes": 7,
@@ -1405,11 +1140,6 @@ data5 = {
         "meanings": ["See", "Hopes", "Chances", "Idea", "Opinion", "Look At", "Visible"],
         "readings_on": ["ケン"],
         "readings_kun": ["み.る", "み.える", "み.せる"],
-        "wk_level": 4,
-        "wk_meanings": ["See"],
-        "wk_readings_on": ["!けん"],
-        "wk_readings_kun": ["み"],
-        "wk_radicals": ["See"]
     },
     "車": {
         "strokes": 7,
@@ -1420,11 +1150,6 @@ data5 = {
         "meanings": ["Car"],
         "readings_on": ["シャ"],
         "readings_kun": ["くるま"],
-        "wk_level": 4,
-        "wk_meanings": ["Car"],
-        "wk_readings_on": ["しゃ"],
-        "wk_readings_kun": ["!くるま"],
-        "wk_radicals": ["Car"]
     },
     "毎": {
         "strokes": 6,
@@ -1435,11 +1160,6 @@ data5 = {
         "meanings": ["Every"],
         "readings_on": ["マイ"],
         "readings_kun": ["ごと", "-ごと.に"],
-        "wk_level": 5,
-        "wk_meanings": ["Every"],
-        "wk_readings_on": ["まい"],
-        "wk_readings_kun": ["!ごと"],
-        "wk_radicals": ["Gun", "Window"]
     },
     "行": {
         "strokes": 6,
@@ -1450,11 +1170,6 @@ data5 = {
         "meanings": ["Going", "Journey", "Carry Out", "Conduct", "Act", "Line", "Row", "Bank"],
         "readings_on": ["コウ", "ギョウ", "アン"],
         "readings_kun": ["い.く", "ゆ.く", "-ゆ.き", "-ゆき", "-い.き", "-いき", "おこな.う", "おこ.なう"],
-        "wk_level": 5,
-        "wk_meanings": ["Go"],
-        "wk_readings_on": ["こう", "ぎょう"],
-        "wk_readings_kun": ["!い", "!おこな", "!ゆ"],
-        "wk_radicals": ["Go"]
     },
     "西": {
         "strokes": 6,
@@ -1465,11 +1180,6 @@ data5 = {
         "meanings": ["West", "Spain"],
         "readings_on": ["セイ", "サイ", "ス"],
         "readings_kun": ["にし"],
-        "wk_level": 5,
-        "wk_meanings": ["West"],
-        "wk_readings_on": ["せい", "さい"],
-        "wk_readings_kun": ["!にし"],
-        "wk_radicals": ["West"]
     },
     "何": {
         "strokes": 7,
@@ -1480,11 +1190,6 @@ data5 = {
         "meanings": ["What"],
         "readings_on": ["カ"],
         "readings_kun": ["なに", "なん", "なに-", "なん-"],
-        "wk_level": 5,
-        "wk_meanings": ["What"],
-        "wk_readings_on": ["!か"],
-        "wk_readings_kun": ["なに", "なん"],
-        "wk_radicals": ["Leader", "Lip Ring"]
     },
     "来": {
         "strokes": 7,
@@ -1495,11 +1200,6 @@ data5 = {
         "meanings": ["Come", "Due", "Next", "Cause", "Become"],
         "readings_on": ["ライ", "タイ"],
         "readings_kun": ["く.る", "きた.る", "きた.す", "き.たす", "き.たる", "き", "こ"],
-        "wk_level": 5,
-        "wk_meanings": ["Come", "^Next"],
-        "wk_readings_on": ["らい"],
-        "wk_readings_kun": ["!く"],
-        "wk_radicals": ["Ground", "Rice"]
     },
     "学": {
         "strokes": 8,
@@ -1510,11 +1210,6 @@ data5 = {
         "meanings": ["Study", "Learning", "Science"],
         "readings_on": ["ガク"],
         "readings_kun": ["まな.ぶ"],
-        "wk_level": 5,
-        "wk_meanings": ["Study", "^Learn", "^Learning"],
-        "wk_readings_on": ["がく"],
-        "wk_readings_kun": ["!まな"],
-        "wk_radicals": ["Viking", "Child"]
     },
     "空": {
         "strokes": 8,
@@ -1525,11 +1220,6 @@ data5 = {
         "meanings": ["Empty", "Sky", "Void", "Vacant", "Vacuum"],
         "readings_on": ["クウ"],
         "readings_kun": ["そら", "あ.く", "あ.き", "あ.ける", "から", "す.く", "す.かす", "むな.しい"],
-        "wk_level": 5,
-        "wk_meanings": ["Sky"],
-        "wk_readings_on": ["くう"],
-        "wk_readings_kun": ["!そら", "!あ", "!から", "!す"],
-        "wk_radicals": ["Roof", "Legs", "Construction"]
     },
     "金": {
         "strokes": 8,
@@ -1540,11 +1230,6 @@ data5 = {
         "meanings": ["Gold"],
         "readings_on": ["キン", "コン", "ゴン"],
         "readings_kun": ["かね", "かな-", "-がね"],
-        "wk_level": 5,
-        "wk_meanings": ["Gold"],
-        "wk_readings_on": ["きん"],
-        "wk_readings_kun": ["!かね"],
-        "wk_radicals": ["Gold"]
     },
     "雨": {
         "strokes": 8,
@@ -1555,11 +1240,6 @@ data5 = {
         "meanings": ["Rain"],
         "readings_on": ["ウ"],
         "readings_kun": ["あめ", "あま-", "-さめ"],
-        "wk_level": 5,
-        "wk_meanings": ["Rain"],
-        "wk_readings_on": ["!う"],
-        "wk_readings_kun": ["あめ", "あま"],
-        "wk_radicals": ["Rain"]
 
     },
     "国": {
@@ -1571,11 +1251,6 @@ data5 = {
         "meanings": ["Country"],
         "readings_on": ["コク"],
         "readings_kun": ["くに"],
-        "wk_level": 6,
-        "wk_meanings": ["Country"],
-        "wk_readings_on": ["こく"],
-        "wk_readings_kun": ["!くに"],
-        "wk_radicals": ["Mouth", "King", "Drop"]
     },
     "東": {
         "strokes": 8,
@@ -1586,11 +1261,6 @@ data5 = {
         "meanings": ["East"],
         "readings_on": ["トウ"],
         "readings_kun": ["ひがし"],
-        "wk_level": 6,
-        "wk_meanings": ["East"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": ["!ひがし"],
-        "wk_radicals": ["Tree", "Sun"]
     },
     "長": {
         "strokes": 8,
@@ -1601,11 +1271,6 @@ data5 = {
         "meanings": ["Long", "Leader", "Superior", "Senior"],
         "readings_on": ["チョウ"],
         "readings_kun": ["なが.い", "おさ"],
-        "wk_level": 6,
-        "wk_meanings": ["Long", "^Leader"],
-        "wk_readings_on": ["ちょう"],
-        "wk_readings_kun": ["!なが"],
-        "wk_radicals": ["Long"]
     },
     "前": {
         "strokes": 9,
@@ -1616,11 +1281,6 @@ data5 = {
         "meanings": ["In Front", "Before"],
         "readings_on": ["ゼン"],
         "readings_kun": ["まえ", "-まえ"],
-        "wk_level": 6,
-        "wk_meanings": ["Front", "^Before"],
-        "wk_readings_on": ["ぜん"],
-        "wk_readings_kun": ["!まえ"],
-        "wk_radicals": ["Horns", "Ground", "Moon", "Knife"]
     },
     "南": {
         "strokes": 9,
@@ -1631,11 +1291,6 @@ data5 = {
         "meanings": ["South"],
         "readings_on": ["ナン", "ナ"],
         "readings_kun": ["みなみ"],
-        "wk_level": 6,
-        "wk_meanings": ["South"],
-        "wk_readings_on": ["なん"],
-        "wk_readings_kun": ["!みなみ"],
-        "wk_radicals": ["Cross", "Head", "Horns", "Dry"]
     },
     "後": {
         "strokes": 9,
@@ -1646,11 +1301,6 @@ data5 = {
         "meanings": ["Behind", "Back", "Later"],
         "readings_on": ["ゴ", "コウ"],
         "readings_kun": ["のち", "うし.ろ", "うしろ", "あと", "おく.れる"],
-        "wk_level": 6,
-        "wk_meanings": ["Behind", "^After", "^Back", "^Rear"],
-        "wk_readings_on": ["ご", "こう"],
-        "wk_readings_kun": ["!うし", "!あと", "!のち"],
-        "wk_radicals": ["Loiter", "Poop", "Winter"]
     },
     "食": {
         "strokes": 9,
@@ -1661,11 +1311,6 @@ data5 = {
         "meanings": ["Eat", "Food"],
         "readings_on": ["ショク", "ジキ"],
         "readings_kun": ["く.う", "く.らう", "た.べる", "は.む"],
-        "wk_level": 6,
-        "wk_meanings": ["Eat", "^Meal"],
-        "wk_readings_on": ["しょく"],
-        "wk_readings_kun": ["!た", "!く"],
-        "wk_radicals": ["Eat"]
     },
     "校": {
         "strokes": 10,
@@ -1676,11 +1321,6 @@ data5 = {
         "meanings": ["Exam", "School", "Printing", "Proof", "Correction"],
         "readings_on": ["コウ", "キョウ"],
         "readings_kun": [],
-        "wk_level": 7,
-        "wk_meanings": ["School"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tree", "Lid", "Father"]
     },
     "時": {
         "strokes": 10,
@@ -1691,11 +1331,6 @@ data5 = {
         "meanings": ["Time", "Hour"],
         "readings_on": ["ジ"],
         "readings_kun": ["とき", "-どき"],
-        "wk_level": 7,
-        "wk_meanings": ["Time", "^O'clock", "^Hour"],
-        "wk_readings_on": ["じ"],
-        "wk_readings_kun": ["!とき"],
-        "wk_radicals": ["Sun", "Temple"]
     },
     "高": {
         "strokes": 10,
@@ -1706,11 +1341,6 @@ data5 = {
         "meanings": ["Tall", "High", "Expensive"],
         "readings_on": ["コウ"],
         "readings_kun": ["たか.い", "たか", "-だか", "たか.まる", "たか.める"],
-        "wk_level": 7,
-        "wk_meanings": ["Tall", "^Expensive", "^High"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!たか"],
-        "wk_radicals": ["Lid", "Mouth", "Mustache"]
     },
     "間": {
         "strokes": 12,
@@ -1721,11 +1351,6 @@ data5 = {
         "meanings": ["Interval", "Space"],
         "readings_on": ["カン", "ケン"],
         "readings_kun": ["あいだ", "ま", "あい"],
-        "wk_level": 8,
-        "wk_meanings": ["Interval", "^Interval Of Time", "^Time Interval"],
-        "wk_readings_on": ["かん", "^けん"],
-        "wk_readings_kun": ["!あいだ", "!ま"],
-        "wk_radicals": ["Gate", "Sun"]
     },
     "話": {
         "strokes": 13,
@@ -1736,11 +1361,6 @@ data5 = {
         "meanings": ["Tale", "Talk"],
         "readings_on": ["ワ"],
         "readings_kun": ["はな.す", "はなし"],
-        "wk_level": 8,
-        "wk_meanings": ["Talk", "^Speak"],
-        "wk_readings_on": ["わ"],
-        "wk_readings_kun": ["!はな", "!はなし"],
-        "wk_radicals": ["Say", "Tongue"]
     },
     "電": {
         "strokes": 13,
@@ -1751,11 +1371,6 @@ data5 = {
         "meanings": ["Electricity"],
         "readings_on": ["デン"],
         "readings_kun": [],
-        "wk_level": 8,
-        "wk_meanings": ["Electricity"],
-        "wk_readings_on": ["でん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Rain", "Rice Paddy", "Umbrella"]
     },
     "聞": {
         "strokes": 14,
@@ -1766,11 +1381,6 @@ data5 = {
         "meanings": ["Hear", "Ask", "Listen"],
         "readings_on": ["ブン", "モン"],
         "readings_kun": ["き.く", "き.こえる"],
-        "wk_level": 10,
-        "wk_meanings": ["Hear"],
-        "wk_readings_on": ["ぶん", "もん"],
-        "wk_readings_kun": ["!き"],
-        "wk_radicals": ["Gate", "Ear"]
     },
     "語": {
         "strokes": 14,
@@ -1781,11 +1391,6 @@ data5 = {
         "meanings": ["Word", "Speech", "Language"],
         "readings_on": ["ゴ"],
         "readings_kun": ["かた.る", "かた.らう"],
-        "wk_level": 10,
-        "wk_meanings": ["Language"],
-        "wk_readings_on": ["ご"],
-        "wk_readings_kun": ["!かた"],
-        "wk_radicals": ["Say", "Five", "Mouth"]
     },
     "読": {
         "strokes": 14,
@@ -1796,11 +1401,6 @@ data5 = {
         "meanings": ["Read"],
         "readings_on": ["ドク", "トク", "トウ"],
         "readings_kun": ["よ.む", "-よ.み"],
-        "wk_level": 10,
-        "wk_meanings": ["Read"],
-        "wk_readings_on": ["!とう", "!どく"],
-        "wk_readings_kun": ["よ"],
-        "wk_radicals": ["Say", "Sell"]
     },
     "生": {
         "strokes": 5,
@@ -1811,11 +1411,6 @@ data5 = {
         "meanings": ["Life", "Genuine", "Birth"],
         "readings_on": ["セイ", "ショウ"],
         "readings_kun": ["い.きる", "い.かす", "い.ける", "う.まれる", "うま.れる", "う.まれ", "うまれ", "う.む", "お.う", "は.える", "は.やす", "き", "なま", "なま-", "な.る", "な.す", "む.す", "-う"],
-        "wk_level": 3,
-        "wk_meanings": ["Life"],
-        "wk_readings_on": ["せい", "しょう"],
-        "wk_readings_kun": ["!い", "!なま", "!う", "!は", "!き"],
-        "wk_radicals": ["Life"]
     },
     "書": {
         "strokes": 10,
@@ -1826,11 +1421,6 @@ data5 = {
         "meanings": ["Write"],
         "readings_on": ["ショ"],
         "readings_kun": ["か.く", "-が.き", "-がき"],
-        "wk_level": 16,
-        "wk_meanings": ["Write", "^Writing"],
-        "wk_readings_on": ["しょ"],
-        "wk_readings_kun": ["!か"],
-        "wk_radicals": ["Brush", "Sun"]
     },
 
 
@@ -1845,11 +1435,6 @@ data4 = {
         "meanings": ["Sentence", "Literature", "Style", "Art", "Decoration", "Figures", "Plan", "Literary Radical (no. 67)"],
         "readings_on": ["ブン", "モン"],
         "readings_kun": ["ふみ", "あや"],
-        "wk_level": 2,
-        "wk_meanings": ["Writing", "^Sentence"],
-        "wk_readings_on": ["ぶん", "もん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Writing"]
     },
     "犬": {
         "strokes": 4,
@@ -1860,11 +1445,6 @@ data4 = {
         "meanings": ["Dog"],
         "readings_on": ["ケン"],
         "readings_kun": ["いぬ", "いぬ-"],
-        "wk_level": 2,
-        "wk_meanings": ["Dog"],
-        "wk_readings_on": ["!けん"],
-        "wk_readings_kun": ["いぬ"],
-        "wk_radicals": ["Dog"]
     },
     "正": {
         "strokes": 5,
@@ -1875,11 +1455,6 @@ data4 = {
         "meanings": ["Correct", "Justice", "Righteous", "10**40"],
         "readings_on": ["セイ", "ショウ"],
         "readings_kun": ["ただ.しい", "ただ.す", "まさ", "まさ.に"],
-        "wk_level": 2,
-        "wk_meanings": ["Correct"],
-        "wk_readings_on": ["せい", "しょう"],
-        "wk_readings_kun": ["!ただ", "!まさ"],
-        "wk_radicals": ["Ground", "Stop"]
     },
     "田": {
         "strokes": 5,
@@ -1890,11 +1465,6 @@ data4 = {
         "meanings": ["Rice Field", "Rice Paddy"],
         "readings_on": ["デン"],
         "readings_kun": ["た"],
-        "wk_level": 2,
-        "wk_meanings": ["Rice Paddy", "^Rice Field", "^Field"],
-        "wk_readings_on": ["!でん"],
-        "wk_readings_kun": ["た"],
-        "wk_radicals": ["Rice Paddy"]
     },
     "目": {
         "strokes": 5,
@@ -1905,11 +1475,6 @@ data4 = {
         "meanings": ["Eye", "Class", "Look", "Insight", "Experience", "Care", "Favor"],
         "readings_on": ["モク", "ボク"],
         "readings_kun": ["め", "-め", "ま-"],
-        "wk_level": 2,
-        "wk_meanings": ["Eye"],
-        "wk_readings_on": ["!もく"],
-        "wk_readings_kun": ["め"],
-        "wk_radicals": ["Eye"]
     },
     "立": {
         "strokes": 5,
@@ -1920,11 +1485,6 @@ data4 = {
         "meanings": ["Stand Up", "Rise", "Set Up", "Erect"],
         "readings_on": ["リツ", "リュウ", "リットル"],
         "readings_kun": ["た.つ", "-た.つ", "た.ち-", "た.てる", "-た.てる", "た.て-", "たて-", "-た.て", "-だ.て", "-だ.てる"],
-        "wk_level": 2,
-        "wk_meanings": ["Stand"],
-        "wk_readings_on": ["りつ", "りゅう"],
-        "wk_readings_kun": ["!た"],
-        "wk_radicals": ["Stand"]
     },
     "分": {
         "strokes": 4,
@@ -1935,11 +1495,6 @@ data4 = {
         "meanings": ["Part", "Minute Of Time", "Segment", "Share", "Degree", "One's Lot", "Duty", "Understand", "Know", "Rate", "1%", "Chances", "Shaku/100"],
         "readings_on": ["ぶん", "ふん", "ぶ"],
         "readings_kun": ["わ.ける", "わ.け", "わ.かれる", "わ.かる", "わ.かつ"],
-        "wk_level": 3,
-        "wk_meanings": ["Part", "^Minute", "^Separate", "^Understand"],
-        "wk_readings_on": ["ぶん", "ふん", "ぶ"],
-        "wk_readings_kun": ["!わ"],
-        "wk_radicals": ["Fins", "Sword"]
     },
     "元": {
         "strokes": 4,
@@ -1950,11 +1505,6 @@ data4 = {
         "meanings": ["Beginning", "Former Time", "Origin"],
         "readings_on": ["ゲン", "ガン"],
         "readings_kun": ["もと"],
-        "wk_level": 3,
-        "wk_meanings": ["Origin"],
-        "wk_readings_on": ["げん", "がん"],
-        "wk_readings_kun": ["!もと"],
-        "wk_radicals": ["Origin"]
     },
     "公": {
         "strokes": 4,
@@ -1965,11 +1515,6 @@ data4 = {
         "meanings": ["Public", "Prince", "Official", "Governmental"],
         "readings_on": ["コウ", "ク"],
         "readings_kun": ["おおやけ"],
-        "wk_level": 3,
-        "wk_meanings": ["Public"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Fins", "Private"]
     },
     "切": {
         "strokes": 4,
@@ -1980,11 +1525,6 @@ data4 = {
         "meanings": ["Cut", "Cutoff", "Be Sharp"],
         "readings_on": ["セツ", "サイ"],
         "readings_kun": ["き.る", "-き.る", "き.り", "-き.り", "-ぎ.り", "き.れる", "-き.れる", "き.れ", "-き.れ", "-ぎ.れ"],
-        "wk_level": 3,
-        "wk_meanings": ["Cut"],
-        "wk_readings_on": ["せつ"],
-        "wk_readings_kun": ["!き"],
-        "wk_radicals": ["Seven", "Sword"]
     },
     "少": {
         "strokes": 4,
@@ -1995,11 +1535,6 @@ data4 = {
         "meanings": ["Few", "Little"],
         "readings_on": ["ショウ"],
         "readings_kun": ["すく.ない", "すこ.し"],
-        "wk_level": 3,
-        "wk_meanings": ["Few", "^A Little"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!すこ"],
-        "wk_radicals": ["Small", "Slide"]
     },
     "心": {
         "strokes": 4,
@@ -2010,11 +1545,6 @@ data4 = {
         "meanings": ["Heart", "Mind", "Spirit", "Heart Radical (no. 61)"],
         "readings_on": ["シン"],
         "readings_kun": ["こころ", "-ごころ"],
-        "wk_level": 3,
-        "wk_meanings": ["Heart"],
-        "wk_readings_on": ["しん"],
-        "wk_readings_kun": ["!こころ"],
-        "wk_radicals": ["Heart"]
     },
     "方": {
         "strokes": 4,
@@ -2025,11 +1555,6 @@ data4 = {
         "meanings": ["Direction", "Person", "Alternative"],
         "readings_on": ["ホウ"],
         "readings_kun": ["かた", "-かた", "-がた"],
-        "wk_level": 3,
-        "wk_meanings": ["Direction", "^Way"],
-        "wk_readings_on": ["ほう"],
-        "wk_readings_kun": ["!かた"],
-        "wk_radicals": ["Direction"]
     },
     "牛": {
         "strokes": 4,
@@ -2040,11 +1565,6 @@ data4 = {
         "meanings": ["Cow"],
         "readings_on": ["ギュウ"],
         "readings_kun": ["うし"],
-        "wk_level": 3,
-        "wk_meanings": ["Cow"],
-        "wk_readings_on": ["ぎゅう"],
-        "wk_readings_kun": ["!うし"],
-        "wk_radicals": ["Cow"]
     },
     "止": {
         "strokes": 4,
@@ -2055,11 +1575,6 @@ data4 = {
         "meanings": ["Stop", "Halt"],
         "readings_on": ["シ"],
         "readings_kun": ["と.まる", "-ど.まり", "と.める", "-と.める", "-ど.め", "とど.める", "とど.め", "とど.まる", "や.める", "や.む", "-や.む", "よ.す", "-さ.す", "-さ.し"],
-        "wk_level": 3,
-        "wk_meanings": ["Stop"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!と", "!や"],
-        "wk_radicals": ["Stop"]
     },
     "兄": {
         "strokes": 5,
@@ -2070,11 +1585,6 @@ data4 = {
         "meanings": ["Elder Brother", "Big Brother"],
         "readings_on": ["ケイ", "キョウ"],
         "readings_kun": ["あに"],
-        "wk_level": 5,
-        "wk_meanings": ["Older Brother", "^Big Brother", "^Elder Brother"],
-        "wk_readings_on": ["きょう"],
-        "wk_readings_kun": ["!あに"],
-        "wk_radicals": ["Mouth", "Legs"]
     },
     "冬": {
         "strokes": 5,
@@ -2085,11 +1595,6 @@ data4 = {
         "meanings": ["Winter"],
         "readings_on": ["トウ"],
         "readings_kun": ["ふゆ"],
-        "wk_level": 3,
-        "wk_meanings": ["Winter"],
-        "wk_readings_on": ["!とう"],
-        "wk_readings_kun": ["ふゆ"],
-        "wk_radicals": ["Winter", "Two"]
     },
     "古": {
         "strokes": 5,
@@ -2100,11 +1605,6 @@ data4 = {
         "meanings": ["Old"],
         "readings_on": ["コ"],
         "readings_kun": ["ふる.い", "ふる-", "-ふる.す"],
-        "wk_level": 3,
-        "wk_meanings": ["Old"],
-        "wk_readings_on": ["こ"],
-        "wk_readings_kun": ["!ふる"],
-        "wk_radicals": ["Old"]
     },
     "台": {
         "strokes": 5,
@@ -2115,11 +1615,6 @@ data4 = {
         "meanings": ["Pedestal", "A Stand", "Counter For Machines And Vehicles"],
         "readings_on": ["ダイ", "タイ"],
         "readings_kun": ["うてな", "われ", "つかさ"],
-        "wk_level": 3,
-        "wk_meanings": ["Machine"],
-        "wk_readings_on": ["だい", "^たい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Private", "Mouth"]
     },
     "広": {
         "strokes": 5,
@@ -2130,11 +1625,6 @@ data4 = {
         "meanings": ["Wide", "Broad", "Spacious"],
         "readings_on": ["コウ"],
         "readings_kun": ["ひろ.い", "ひろ.まる", "ひろ.める", "ひろ.がる", "ひろ.げる"],
-        "wk_level": 3,
-        "wk_meanings": ["Wide"],
-        "wk_readings_on": ["!こう"],
-        "wk_readings_kun": ["ひろ"],
-        "wk_radicals": ["Canopy", "Private"]
     },
     "用": {
         "strokes": 5,
@@ -2145,11 +1635,6 @@ data4 = {
         "meanings": ["Utilize", "Business", "Service", "Use", "Employ"],
         "readings_on": ["ヨウ"],
         "readings_kun": ["もち.いる"],
-        "wk_level": 3,
-        "wk_meanings": ["Task", "^Use"],
-        "wk_readings_on": ["よう"],
-        "wk_readings_kun": ["!もち"],
-        "wk_radicals": ["Task"]
     },
     "世": {
         "strokes": 5,
@@ -2160,11 +1645,6 @@ data4 = {
         "meanings": ["Generation", "World", "Society", "Public"],
         "readings_on": ["セイ", "セ", "ソウ"],
         "readings_kun": ["よ"],
-        "wk_level": 4,
-        "wk_meanings": ["World", "^Generation"],
-        "wk_readings_on": ["せ", "せい"],
-        "wk_readings_kun": ["!よ"],
-        "wk_radicals": ["World"]
     },
     "主": {
         "strokes": 5,
@@ -2175,11 +1655,6 @@ data4 = {
         "meanings": ["Lord", "Chief", "Master", "Main Thing", "Principal"],
         "readings_on": ["シュ", "ス", "シュウ"],
         "readings_kun": ["ぬし", "おも", "あるじ"],
-        "wk_level": 4,
-        "wk_meanings": ["Master", "^Main"],
-        "wk_readings_on": ["しゅ"],
-        "wk_readings_kun": ["!おも", "!ぬし"],
-        "wk_radicals": ["Master"]
     },
     "代": {
         "strokes": 5,
@@ -2190,11 +1665,6 @@ data4 = {
         "meanings": ["Substitute", "Change", "Convert", "Replace", "Period", "Age", "Counter For Decades Of Ages, Eras, Etc.", "Generation", "Charge", "Rate", "Fee"],
         "readings_on": ["ダイ", "タイ"],
         "readings_kun": ["か.わる", "かわ.る", "かわ.り", "か.わり", "-がわ.り", "-が.わり", "か.える", "よ", "しろ"],
-        "wk_level": 4,
-        "wk_meanings": ["Substitute", "^Replace", "^Period", "^Age"],
-        "wk_readings_on": ["だい"],
-        "wk_readings_kun": ["!か", "!かわ", "!しろ"],
-        "wk_radicals": ["Leader", "Ceremony"]
     },
     "写": {
         "strokes": 5,
@@ -2205,11 +1675,6 @@ data4 = {
         "meanings": ["Copy", "Be Photographed", "Describe"],
         "readings_on": ["シャ", "ジャ"],
         "readings_kun": ["うつ.す", "うつ.る", "うつ-", "うつ.し"],
-        "wk_level": 4,
-        "wk_meanings": ["Copy"],
-        "wk_readings_on": ["しゃ"],
-        "wk_readings_kun": ["!うつ"],
-        "wk_radicals": ["Forehead", "Ground", "Beggar"]
     },
     "去": {
         "strokes": 5,
@@ -2220,11 +1685,6 @@ data4 = {
         "meanings": ["Gone", "Past", "Quit", "Leave", "Elapse", "Eliminate", "Divorce"],
         "readings_on": ["キョ", "コ"],
         "readings_kun": ["さ.る", "-さ.る"],
-        "wk_level": 4,
-        "wk_meanings": ["Past"],
-        "wk_readings_on": ["きょ", "こ"],
-        "wk_readings_kun": ["!さ"],
-        "wk_radicals": ["Dirt", "Private"]
     },
     "字": {
         "strokes": 6,
@@ -2235,11 +1695,6 @@ data4 = {
         "meanings": ["Character", "Letter", "Word", "Section Of Village"],
         "readings_on": ["ジ"],
         "readings_kun": ["あざ", "あざな", "-な"],
-        "wk_level": 4,
-        "wk_meanings": ["Letter", "^Character", "^Symbol"],
-        "wk_readings_on": ["じ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Roof", "Child"]
     },
 
     "早": {
@@ -2251,11 +1706,6 @@ data4 = {
         "meanings": ["Early", "Fast"],
         "readings_on": ["ソウ", "サッ"],
         "readings_kun": ["はや.い", "はや", "はや-", "はや.まる", "はや.める", "さ-"],
-        "wk_level": 4,
-        "wk_meanings": ["Early", "^Fast", "^Quick"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": ["!はや", "!さ"],
-        "wk_radicals": ["Sun", "Cross"]
     },
     "町": {
         "strokes": 7,
@@ -2266,11 +1716,6 @@ data4 = {
         "meanings": ["Town", "Village", "Block", "Street"],
         "readings_on": ["チョウ"],
         "readings_kun": ["まち"],
-        "wk_level": 4,
-        "wk_meanings": ["Town"],
-        "wk_readings_on": ["ちょう"],
-        "wk_readings_kun": ["!まち"],
-        "wk_radicals": ["Rice Paddy", "Street"]
     },
     "花": {
         "strokes": 7,
@@ -2281,11 +1726,6 @@ data4 = {
         "meanings": ["Flower"],
         "readings_on": ["カ", "ケ"],
         "readings_kun": ["はな"],
-        "wk_level": 4,
-        "wk_meanings": ["Flower"],
-        "wk_readings_on": ["!か", "!け"],
-        "wk_readings_kun": ["はな"],
-        "wk_radicals": ["Flowers", "Leader", "Spoon"]
     },
 
     "貝": {
@@ -2297,11 +1737,6 @@ data4 = {
         "meanings": ["Shellfish"],
         "readings_on": ["バイ"],
         "readings_kun": ["かい"],
-        "wk_level": 4,
-        "wk_meanings": ["Shellfish", "^Shell"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["かい"],
-        "wk_radicals": ["Shellfish"]
     },
     "赤": {
         "strokes": 7,
@@ -2312,11 +1747,6 @@ data4 = {
         "meanings": ["Red"],
         "readings_on": ["セキ", "シャク"],
         "readings_kun": ["あか", "あか-", "あか.い", "あか.らむ", "あか.らめる"],
-        "wk_level": 4,
-        "wk_meanings": ["Red"],
-        "wk_readings_on": ["!せき"],
-        "wk_readings_kun": ["あか"],
-        "wk_radicals": ["Red"]
     },
     "足": {
         "strokes": 7,
@@ -2327,11 +1757,6 @@ data4 = {
         "meanings": ["Leg", "Foot", "Be Sufficient", "Counter For Pairs Of Footwear"],
         "readings_on": ["ソク"],
         "readings_kun": ["あし", "た.りる", "た.る", "た.す"],
-        "wk_level": 4,
-        "wk_meanings": ["Foot", "^Leg", "^Sufficient"],
-        "wk_readings_on": ["そく"],
-        "wk_readings_kun": ["!あし", "!た"],
-        "wk_radicals": ["Foot"]
     },
     "不": {
         "strokes": 4,
@@ -2342,11 +1767,6 @@ data4 = {
         "meanings": ["Negative", "Non-", "Bad", "Ugly", "Clumsy"],
         "readings_on": ["フ", "ブ"],
         "readings_kun": [],
-        "wk_level": 4,
-        "wk_meanings": ["Not"],
-        "wk_readings_on": ["ふ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Not"]
     },
     "仕": {
         "strokes": 5,
@@ -2357,11 +1777,6 @@ data4 = {
         "meanings": ["Attend", "Doing", "Official", "Serve"],
         "readings_on": ["シ", "ジ"],
         "readings_kun": ["つか.える"],
-        "wk_level": 4,
-        "wk_meanings": ["Doing", "^Do"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!つか"],
-        "wk_radicals": ["Leader", "Samurai"]
     },
     "会": {
         "strokes": 6,
@@ -2372,11 +1787,6 @@ data4 = {
         "meanings": ["Meeting", "Meet", "Party", "Association", "Interview", "Join"],
         "readings_on": ["カイ", "エ"],
         "readings_kun": ["あ.う", "あ.わせる", "あつ.まる"],
-        "wk_level": 5,
-        "wk_meanings": ["Meet"],
-        "wk_readings_on": ["かい"],
-        "wk_readings_kun": ["!あ"],
-        "wk_radicals": ["Meet"]
     },
     "同": {
         "strokes": 6,
@@ -2387,11 +1797,6 @@ data4 = {
         "meanings": ["Same", "Agree", "Equal"],
         "readings_on": ["ドウ"],
         "readings_kun": ["おな.じ"],
-        "wk_level": 5,
-        "wk_meanings": ["Same"],
-        "wk_readings_on": ["どう"],
-        "wk_readings_kun": ["!おな"],
-        "wk_radicals": ["Mustache", "Ground"]
     },
     "多": {
         "strokes": 6,
@@ -2402,11 +1807,6 @@ data4 = {
         "meanings": ["Many", "Frequent", "Much"],
         "readings_on": ["タ"],
         "readings_kun": ["おお.い", "まさ.に", "まさ.る"],
-        "wk_level": 5,
-        "wk_meanings": ["Many", "^Much", "^Lots Of"],
-        "wk_readings_on": ["た"],
-        "wk_readings_kun": ["!おお"],
-        "wk_radicals": ["Evening"]
     },
     "考": {
         "strokes": 6,
@@ -2417,11 +1817,6 @@ data4 = {
         "meanings": ["Consider", "Think Over"],
         "readings_on": ["コウ"],
         "readings_kun": ["かんが.える", "かんが.え"],
-        "wk_level": 5,
-        "wk_meanings": ["Think", "^Consider"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!かんが"],
-        "wk_radicals": ["Coffin", "Beggar"]
     },
     "肉": {
         "strokes": 6,
@@ -2432,11 +1827,6 @@ data4 = {
         "meanings": ["Meat"],
         "readings_on": ["ニク"],
         "readings_kun": ["しし"],
-        "wk_level": 5,
-        "wk_meanings": ["Meat"],
-        "wk_readings_on": ["にく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Meat"]
     },
     "自": {
         "strokes": 6,
@@ -2447,11 +1837,6 @@ data4 = {
         "meanings": ["Oneself"],
         "readings_on": ["ジ", "シ"],
         "readings_kun": ["みずか.ら", "おの.ずから", "おの.ずと"],
-        "wk_level": 5,
-        "wk_meanings": ["Self"],
-        "wk_readings_on": ["じ", "し"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Self"]
     },
     "色": {
         "strokes": 6,
@@ -2462,11 +1847,6 @@ data4 = {
         "meanings": ["Color"],
         "readings_on": ["ショク", "シキ"],
         "readings_kun": ["いろ"],
-        "wk_level": 5,
-        "wk_meanings": ["Color"],
-        "wk_readings_on": ["!しき", "!しょく"],
-        "wk_readings_kun": ["いろ"],
-        "wk_radicals": ["Color"]
     },
 
     "体": {
@@ -2478,11 +1858,6 @@ data4 = {
         "meanings": ["Body", "Substance", "Object", "Reality", "Counter For Images"],
         "readings_on": ["タイ", "テイ"],
         "readings_kun": ["からだ", "かたち"],
-        "wk_level": 5,
-        "wk_meanings": ["Body"],
-        "wk_readings_on": ["たい"],
-        "wk_readings_kun": ["!からだ"],
-        "wk_radicals": ["Leader", "Book"]
     },
     "作": {
         "strokes": 7,
@@ -2493,11 +1868,6 @@ data4 = {
         "meanings": ["Make", "Production", "Prepare", "Build"],
         "readings_on": ["サク", "サ"],
         "readings_kun": ["つく.る", "つく.り", "-づく.り"],
-        "wk_level": 5,
-        "wk_meanings": ["Make"],
-        "wk_readings_on": ["さく", "さ"],
-        "wk_readings_kun": ["!つく"],
-        "wk_radicals": ["Leader", "Key"]
     },
     "図": {
         "strokes": 7,
@@ -2508,11 +1878,6 @@ data4 = {
         "meanings": ["Map", "Drawing", "Plan", "Extraordinary", "Audacious"],
         "readings_on": ["ズ", "ト"],
         "readings_kun": ["え", "はか.る"],
-        "wk_level": 5,
-        "wk_meanings": ["Diagram"],
-        "wk_readings_on": ["ず", "と"],
-        "wk_readings_kun": ["!え", "!はか"],
-        "wk_radicals": ["Mouth", "Treasure", "Ice"]
     },
     "売": {
         "strokes": 7,
@@ -2523,11 +1888,6 @@ data4 = {
         "meanings": ["Sell"],
         "readings_on": ["バイ"],
         "readings_kun": ["う.る", "う.れる"],
-        "wk_level": 9,
-        "wk_meanings": ["Sell"],
-        "wk_readings_on": ["ばい"],
-        "wk_readings_kun": ["!う"],
-        "wk_radicals": ["Samurai", "Forehead", "Legs"]
     },
     "弟": {
         "strokes": 7,
@@ -2538,11 +1898,6 @@ data4 = {
         "meanings": ["Younger Brother", "Faithful Service To Elders"],
         "readings_on": ["テイ", "ダイ", "デ"],
         "readings_kun": ["おとうと"],
-        "wk_level": 5,
-        "wk_meanings": ["Younger Brother", "^Little Brother"],
-        "wk_readings_on": ["だい", "で", "^てい"],
-        "wk_readings_kun": ["!おとうと"],
-        "wk_radicals": ["Horns", "Bow", "Stick", "Slide"]
     },
     "社": {
         "strokes": 7,
@@ -2553,11 +1908,6 @@ data4 = {
         "meanings": ["Company", "Firm", "Office", "Association", "Shrine"],
         "readings_on": ["シャ"],
         "readings_kun": ["やしろ"],
-        "wk_level": 5,
-        "wk_meanings": ["Company"],
-        "wk_readings_on": ["しゃ"],
-        "wk_readings_kun": ["!やしろ"],
-        "wk_radicals": ["Spirit", "Dirt"]
     },
     "言": {
         "strokes": 7,
@@ -2568,11 +1918,6 @@ data4 = {
         "meanings": ["Say", "Word"],
         "readings_on": ["ゲン", "ゴン"],
         "readings_kun": ["い.う", "こと"],
-        "wk_level": 5,
-        "wk_meanings": ["Say"],
-        "wk_readings_on": ["げん", "^ごん"],
-        "wk_readings_kun": ["!い", "!こと"],
-        "wk_radicals": ["Say"]
     },
     "走": {
         "strokes": 7,
@@ -2583,11 +1928,6 @@ data4 = {
         "meanings": ["Run"],
         "readings_on": ["ソウ"],
         "readings_kun": ["はし.る"],
-        "wk_level": 5,
-        "wk_meanings": ["Run"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": ["!はし"],
-        "wk_radicals": ["Run"]
     },
     "近": {
         "strokes": 7,
@@ -2598,11 +1938,6 @@ data4 = {
         "meanings": ["Near", "Early", "Akin", "Tantamount"],
         "readings_on": ["キン", "コン"],
         "readings_kun": ["ちか.い"],
-        "wk_level": 5,
-        "wk_meanings": ["Near", "^Close"],
-        "wk_readings_on": ["きん", "^こん"],
-        "wk_readings_kun": ["!ちか"],
-        "wk_radicals": ["Scooter", "Axe"]
     },
     "青": {
         "strokes": 8,
@@ -2613,11 +1948,6 @@ data4 = {
         "meanings": ["Blue", "Green"],
         "readings_on": ["セイ", "ショウ"],
         "readings_kun": ["あお", "あお-", "あお.い"],
-        "wk_level": 5,
-        "wk_meanings": ["Blue"],
-        "wk_readings_on": ["せい", "しょう"],
-        "wk_readings_kun": ["!あお"],
-        "wk_radicals": ["Blue"]
     },
     "音": {
         "strokes": 9,
@@ -2628,11 +1958,6 @@ data4 = {
         "meanings": ["Sound", "Noise"],
         "readings_on": ["オン", "イン", "-ノン"],
         "readings_kun": ["おと", "ね"],
-        "wk_level": 5,
-        "wk_meanings": ["Sound"],
-        "wk_readings_on": ["おん"],
-        "wk_readings_kun": ["!おと", "!ね"],
-        "wk_radicals": ["Stand", "Sun"]
     },
     "地": {
         "strokes": 6,
@@ -2643,11 +1968,6 @@ data4 = {
         "meanings": ["Ground", "Earth"],
         "readings_on": ["チ", "ジ"],
         "readings_kun": [],
-        "wk_level": 6,
-        "wk_meanings": ["Earth", "^Ground"],
-        "wk_readings_on": ["ち", "^じ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Dirt", "Alligator"]
     },
     "安": {
         "strokes": 6,
@@ -2658,11 +1978,6 @@ data4 = {
         "meanings": ["Relax", "Cheap", "Low", "Quiet", "Rested", "Contented", "Peaceful"],
         "readings_on": ["アン"],
         "readings_kun": ["やす.い", "やす.まる", "やす", "やす.らか"],
-        "wk_level": 6,
-        "wk_meanings": ["Relax", "^Cheap"],
-        "wk_readings_on": ["あん"],
-        "wk_readings_kun": ["!やす"],
-        "wk_radicals": ["Roof", "Woman"]
     },
     "有": {
         "strokes": 6,
@@ -2673,11 +1988,6 @@ data4 = {
         "meanings": ["Possess", "Have", "Exist", "Happen", "Occur", "Approx"],
         "readings_on": ["ユウ", "ウ"],
         "readings_kun": ["あ.る"],
-        "wk_level": 6,
-        "wk_meanings": ["Have"],
-        "wk_readings_on": ["ゆう", "^う"],
-        "wk_readings_kun": ["!あ"],
-        "wk_radicals": ["Narwhal", "Moon"]
     },
     "死": {
         "strokes": 6,
@@ -2688,11 +1998,6 @@ data4 = {
         "meanings": ["Death", "Die"],
         "readings_on": ["シ"],
         "readings_kun": ["し.ぬ", "し.に-"],
-        "wk_level": 6,
-        "wk_meanings": ["Death"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!し"],
-        "wk_radicals": ["Yakuza", "Spoon"]
     },
     "京": {
         "strokes": 8,
@@ -2703,11 +2008,6 @@ data4 = {
         "meanings": ["Capital", "10**16"],
         "readings_on": ["キョウ", "ケイ", "キン"],
         "readings_kun": ["みやこ"],
-        "wk_level": 6,
-        "wk_meanings": ["Capital"],
-        "wk_readings_on": ["きょう"],
-        "wk_readings_kun": ["!みやこ"],
-        "wk_radicals": ["Lid", "Mouth", "Small"]
     },
 
     "夜": {
@@ -2719,11 +2019,6 @@ data4 = {
         "meanings": ["Night", "Evening"],
         "readings_on": ["ヤ"],
         "readings_kun": ["よ", "よる"],
-        "wk_level": 6,
-        "wk_meanings": ["Night", "^Evening"],
-        "wk_readings_on": ["や"],
-        "wk_readings_kun": ["!よ", "!よる"],
-        "wk_radicals": ["Lid", "Leader", "Winter", "Drop"]
     },
     "妹": {
         "strokes": 8,
@@ -2734,11 +2029,6 @@ data4 = {
         "meanings": ["Younger Sister"],
         "readings_on": ["マイ"],
         "readings_kun": ["いもうと"],
-        "wk_level": 6,
-        "wk_meanings": ["Younger Sister", "^Little Sister"],
-        "wk_readings_on": ["まい"],
-        "wk_readings_kun": ["!いもうと"],
-        "wk_radicals": ["Woman", "Jet"]
     },
     "姉": {
         "strokes": 8,
@@ -2749,11 +2039,6 @@ data4 = {
         "meanings": ["Elder Sister"],
         "readings_on": ["シ"],
         "readings_kun": ["あね", "はは"],
-        "wk_level": 6,
-        "wk_meanings": ["Older Sister", "^Big Sister", "^Elder Sister"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!お", "!あね", "!ねえ"],
-        "wk_radicals": ["Woman", "City"]
     },
     "店": {
         "strokes": 8,
@@ -2764,11 +2049,6 @@ data4 = {
         "meanings": ["Store", "Shop"],
         "readings_on": ["テン"],
         "readings_kun": ["みせ", "たな"],
-        "wk_level": 6,
-        "wk_meanings": ["Shop", "^Store"],
-        "wk_readings_on": ["てん"],
-        "wk_readings_kun": ["!みせ"],
-        "wk_radicals": ["Canopy", "Fortune"]
     },
     "明": {
         "strokes": 8,
@@ -2779,11 +2059,6 @@ data4 = {
         "meanings": ["Bright", "Light"],
         "readings_on": ["メイ", "ミョウ", "ミン"],
         "readings_kun": ["あ.かり", "あか.るい", "あか.るむ", "あか.らむ", "あき.らか", "あ.ける", "-あ.け", "あ.く", "あ.くる", "あ.かす"],
-        "wk_level": 6,
-        "wk_meanings": ["Bright"],
-        "wk_readings_on": ["めい"],
-        "wk_readings_kun": ["!あ", "!あか", "!あき"],
-        "wk_radicals": ["Sun", "Moon"]
     },
 
     "歩": {
@@ -2795,11 +2070,6 @@ data4 = {
         "meanings": ["Walk", "Counter For Steps"],
         "readings_on": ["ホ", "ブ", "フ"],
         "readings_kun": ["ある.く", "あゆ.む"],
-        "wk_level": 6,
-        "wk_meanings": ["Walk"],
-        "wk_readings_on": ["ほ"],
-        "wk_readings_kun": ["!ある", "!あゆ"],
-        "wk_radicals": ["Stop", "Small", "Slide"]
     },
     "画": {
         "strokes": 8,
@@ -2810,11 +2080,6 @@ data4 = {
         "meanings": ["Brush-stroke", "Picture"],
         "readings_on": ["ガ", "カク", "エ", "カイ"],
         "readings_kun": ["えが.く", "かく.する", "かぎ.る", "はかりごと", "はか.る"],
-        "wk_level": 6,
-        "wk_meanings": ["Drawing", "^Picture", "^Painting"],
-        "wk_readings_on": ["が", "かく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leaf", "Rice Paddy", "Box"]
     },
     "知": {
         "strokes": 8,
@@ -2825,11 +2090,6 @@ data4 = {
         "meanings": ["Know", "Wisdom"],
         "readings_on": ["チ"],
         "readings_kun": ["し.る", "し.らせる"],
-        "wk_level": 6,
-        "wk_meanings": ["Know"],
-        "wk_readings_on": ["ち"],
-        "wk_readings_kun": ["!し"],
-        "wk_radicals": ["Arrow", "Mouth"]
     },
 
     "室": {
@@ -2841,11 +2101,6 @@ data4 = {
         "meanings": ["Room", "Apartment", "Chamber", "Greenhouse", "Cellar"],
         "readings_on": ["シツ"],
         "readings_kun": ["むろ"],
-        "wk_level": 6,
-        "wk_meanings": ["Room"],
-        "wk_readings_on": ["しつ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Roof", "Ground", "Private", "Dirt"]
     },
     "思": {
         "strokes": 9,
@@ -2856,11 +2111,6 @@ data4 = {
         "meanings": ["Think"],
         "readings_on": ["シ"],
         "readings_kun": ["おも.う", "おもえら.く", "おぼ.す"],
-        "wk_level": 6,
-        "wk_meanings": ["Think", "^Thought"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!おも"],
-        "wk_radicals": ["Rice Paddy", "Heart"]
     },
     "海": {
         "strokes": 9,
@@ -2871,11 +2121,6 @@ data4 = {
         "meanings": ["Sea", "Ocean"],
         "readings_on": ["カイ"],
         "readings_kun": ["うみ"],
-        "wk_level": 6,
-        "wk_meanings": ["Sea", "^Ocean"],
-        "wk_readings_on": ["かい"],
-        "wk_readings_kun": ["!うみ"],
-        "wk_radicals": ["Tsunami", "Gun", "Window"]
     },
     "茶": {
         "strokes": 9,
@@ -2886,11 +2131,6 @@ data4 = {
         "meanings": ["Tea"],
         "readings_on": ["チャ", "サ"],
         "readings_kun": [],
-        "wk_level": 6,
-        "wk_meanings": ["Tea"],
-        "wk_readings_on": ["ちゃ", "さ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Flowers", "Hat", "Angel"]
     },
     "以": {
         "strokes": 5,
@@ -2901,11 +2141,6 @@ data4 = {
         "meanings": ["By Means Of", "Because", "In View Of", "Compared With"],
         "readings_on": ["イ"],
         "readings_kun": ["もっ.て"],
-        "wk_level": 7,
-        "wk_meanings": ["From", "^Since", "^Compared With", "^With", "^By Means Of"],
-        "wk_readings_on": ["い"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Lion", "Drop", "Person"]
     },
     "夏": {
         "strokes": 10,
@@ -2916,11 +2151,6 @@ data4 = {
         "meanings": ["Summer"],
         "readings_on": ["カ", "ガ", "ゲ"],
         "readings_kun": ["なつ"],
-        "wk_level": 7,
-        "wk_meanings": ["Summer"],
-        "wk_readings_on": ["!げ", "!か", "!が"],
-        "wk_readings_kun": ["なつ"],
-        "wk_radicals": ["Leaf", "Eye", "Winter"]
     },
     "家": {
         "strokes": 10,
@@ -2931,11 +2161,6 @@ data4 = {
         "meanings": ["House", "Home", "Family", "Professional", "Expert", "Performer"],
         "readings_on": ["カ", "ケ"],
         "readings_kun": ["いえ", "や", "うち"],
-        "wk_level": 7,
-        "wk_meanings": ["House", "^Home"],
-        "wk_readings_on": ["か", "^け"],
-        "wk_readings_kun": ["!いえ", "!や", "!うち"],
-        "wk_radicals": ["Roof", "Pig"]
     },
     "紙": {
         "strokes": 10,
@@ -2946,11 +2171,6 @@ data4 = {
         "meanings": ["Paper"],
         "readings_on": ["シ"],
         "readings_kun": ["かみ"],
-        "wk_level": 7,
-        "wk_meanings": ["Paper"],
-        "wk_readings_on": ["!し"],
-        "wk_readings_kun": ["かみ"],
-        "wk_radicals": ["Thread", "Clan"]
     },
     "通": {
         "strokes": 10,
@@ -2961,11 +2181,6 @@ data4 = {
         "meanings": ["Traffic", "Pass Through", "Avenue", "Commute", "Counter For Letters, Notes, Documents, Etc."],
         "readings_on": ["ツウ", "ツ"],
         "readings_kun": ["とお.る", "とお.り", "-とお.り", "-どお.り", "とお.す", "とお.し", "-どお.し", "かよ.う"],
-        "wk_level": 7,
-        "wk_meanings": ["Pass Through"],
-        "wk_readings_on": ["つう"],
-        "wk_readings_kun": ["!とお", "!かよ"],
-        "wk_radicals": ["Scooter", "Mama", "Task"]
     },
 
     "強": {
@@ -2977,11 +2192,6 @@ data4 = {
         "meanings": ["Strong"],
         "readings_on": ["キョウ", "ゴウ"],
         "readings_kun": ["つよ.い", "つよ.まる", "つよ.める", "し.いる", "こわ.い"],
-        "wk_level": 7,
-        "wk_meanings": ["Strong", "^Strength"],
-        "wk_readings_on": ["きょう"],
-        "wk_readings_kun": ["!つよ"],
-        "wk_radicals": ["Bow", "Private", "Insect"]
     },
     "教": {
         "strokes": 11,
@@ -2992,11 +2202,6 @@ data4 = {
         "meanings": ["Teach", "Faith", "Doctrine"],
         "readings_on": ["キョウ"],
         "readings_kun": ["おし.える", "おそ.わる"],
-        "wk_level": 7,
-        "wk_meanings": ["Teach"],
-        "wk_readings_on": ["きょう"],
-        "wk_readings_kun": ["!おし", "!おそ"],
-        "wk_radicals": ["Teacher", "Winter"]
     },
     "理": {
         "strokes": 11,
@@ -3007,11 +2212,6 @@ data4 = {
         "meanings": ["Logic", "Arrangement", "Reason", "Justice", "Truth"],
         "readings_on": ["リ"],
         "readings_kun": ["ことわり"],
-        "wk_level": 7,
-        "wk_meanings": ["Reason"],
-        "wk_readings_on": ["り"],
-        "wk_readings_kun": ["!ことわり"],
-        "wk_radicals": ["King", "Village"]
     },
     "週": {
         "strokes": 11,
@@ -3022,11 +2222,6 @@ data4 = {
         "meanings": ["Week"],
         "readings_on": ["シュウ"],
         "readings_kun": [],
-        "wk_level": 7,
-        "wk_meanings": ["Week"],
-        "wk_readings_on": ["しゅう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Scooter", "Circumference"]
     },
     "魚": {
         "strokes": 11,
@@ -3037,11 +2232,6 @@ data4 = {
         "meanings": ["Fish"],
         "readings_on": ["ギョ"],
         "readings_kun": ["うお", "さかな", "-ざかな"],
-        "wk_level": 7,
-        "wk_meanings": ["Fish"],
-        "wk_readings_on": ["ぎょ"],
-        "wk_readings_kun": ["!さかな"],
-        "wk_radicals": ["Fish"]
     },
     "鳥": {
         "strokes": 11,
@@ -3052,11 +2242,6 @@ data4 = {
         "meanings": ["Bird", "Chicken"],
         "readings_on": ["チョウ"],
         "readings_kun": ["とり"],
-        "wk_level": 7,
-        "wk_meanings": ["Bird"],
-        "wk_readings_on": ["ちょう"],
-        "wk_readings_kun": ["!とり"],
-        "wk_radicals": ["Bird"]
     },
     "黒": {
         "strokes": 11,
@@ -3067,11 +2252,6 @@ data4 = {
         "meanings": ["Black"],
         "readings_on": ["コク"],
         "readings_kun": ["くろ", "くろ.ずむ", "くろ.い"],
-        "wk_level": 7,
-        "wk_meanings": ["Black"],
-        "wk_readings_on": ["こく"],
-        "wk_readings_kun": ["!くろ"],
-        "wk_radicals": ["Black"]
     },
     "住": {
         "strokes": 7,
@@ -3082,11 +2262,6 @@ data4 = {
         "meanings": ["Dwell", "Reside", "Live", "Inhabit"],
         "readings_on": ["ジュウ", "ヂュウ", "チュウ"],
         "readings_kun": ["す.む", "す.まう", "-ず.まい"],
-        "wk_level": 8,
-        "wk_meanings": ["Dwelling", "^Reside", "^Dwell"],
-        "wk_readings_on": ["じゅう"],
-        "wk_readings_kun": ["!す"],
-        "wk_radicals": ["Leader", "Master"]
     },
     "医": {
         "strokes": 7,
@@ -3097,11 +2272,6 @@ data4 = {
         "meanings": ["Doctor", "Medicine"],
         "readings_on": ["イ"],
         "readings_kun": ["い.やす", "い.する", "くすし"],
-        "wk_level": 8,
-        "wk_meanings": ["Medicine"],
-        "wk_readings_on": ["い"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Cage", "Arrow"]
     },
     "究": {
         "strokes": 7,
@@ -3112,11 +2282,6 @@ data4 = {
         "meanings": ["Research", "Study"],
         "readings_on": ["キュウ", "ク"],
         "readings_kun": ["きわ.める"],
-        "wk_level": 8,
-        "wk_meanings": ["Research"],
-        "wk_readings_on": ["きゅう"],
-        "wk_readings_kun": ["!きわ"],
-        "wk_radicals": ["Hole", "Nine"]
     },
     "者": {
         "strokes": 8,
@@ -3127,11 +2292,6 @@ data4 = {
         "meanings": ["Someone", "Person"],
         "readings_on": ["シャ"],
         "readings_kun": ["もの"],
-        "wk_level": 8,
-        "wk_meanings": ["Someone", "^Somebody"],
-        "wk_readings_on": ["しゃ"],
-        "wk_readings_kun": ["!もの"],
-        "wk_radicals": ["Coffin", "Sun"]
     },
     "研": {
         "strokes": 9,
@@ -3142,11 +2302,6 @@ data4 = {
         "meanings": ["Polish", "Study Of", "Sharpen"],
         "readings_on": ["ケン"],
         "readings_kun": ["と.ぐ"],
-        "wk_level": 8,
-        "wk_meanings": ["Sharpen"],
-        "wk_readings_on": ["けん"],
-        "wk_readings_kun": ["!と"],
-        "wk_radicals": ["Stone", "Lantern"]
     },
     "場": {
         "strokes": 12,
@@ -3157,11 +2312,6 @@ data4 = {
         "meanings": ["Location", "Place"],
         "readings_on": ["ジョウ", "チョウ"],
         "readings_kun": ["ば"],
-        "wk_level": 8,
-        "wk_meanings": ["Location", "^Place"],
-        "wk_readings_on": ["じょう"],
-        "wk_readings_kun": ["!ば"],
-        "wk_radicals": ["Dirt", "Easy"]
     },
     "朝": {
         "strokes": 12,
@@ -3172,11 +2322,6 @@ data4 = {
         "meanings": ["Morning", "Dynasty", "Regime", "Epoch", "Period", "(north) Korea"],
         "readings_on": ["チョウ"],
         "readings_kun": ["あさ"],
-        "wk_level": 8,
-        "wk_meanings": ["Morning"],
-        "wk_readings_on": ["!ちょう"],
-        "wk_readings_kun": ["あさ"],
-        "wk_radicals": ["Cross", "Sun", "Moon"]
     },
     "答": {
         "strokes": 12,
@@ -3187,11 +2332,6 @@ data4 = {
         "meanings": ["Solution", "Answer"],
         "readings_on": ["トウ"],
         "readings_kun": ["こた.える", "こた.え"],
-        "wk_level": 8,
-        "wk_meanings": ["Answer", "^Response", "^Reply"],
-        "wk_readings_on": ["!とう"],
-        "wk_readings_kun": ["こた"],
-        "wk_radicals": ["Bamboo", "Suit"]
     },
     "買": {
         "strokes": 12,
@@ -3202,11 +2342,6 @@ data4 = {
         "meanings": ["Buy"],
         "readings_on": ["バイ"],
         "readings_kun": ["か.う"],
-        "wk_level": 8,
-        "wk_meanings": ["Buy"],
-        "wk_readings_on": ["!ばい"],
-        "wk_readings_kun": ["か"],
-        "wk_radicals": ["Net", "Shellfish"]
     },
     "道": {
         "strokes": 12,
@@ -3217,11 +2352,6 @@ data4 = {
         "meanings": ["Road-way", "Street", "District", "Journey", "Course", "Moral", "Teachings"],
         "readings_on": ["ドウ", "トウ"],
         "readings_kun": ["みち", "いう"],
-        "wk_level": 8,
-        "wk_meanings": ["Road", "^Street", "^Path", "^Way"],
-        "wk_readings_on": ["どう"],
-        "wk_readings_kun": ["!みち"],
-        "wk_radicals": ["Scooter", "Neck"]
     },
     "楽": {
         "strokes": 13,
@@ -3232,11 +2362,6 @@ data4 = {
         "meanings": ["Music", "Comfort", "Ease"],
         "readings_on": ["ガク", "ラク", "ゴウ"],
         "readings_kun": ["たの.しい", "たの.しむ", "この.む"],
-        "wk_level": 8,
-        "wk_meanings": ["Comfort", "^Ease", "^Pleasure"],
-        "wk_readings_on": ["らく", "がく"],
-        "wk_readings_kun": ["!たの"],
-        "wk_radicals": ["White", "Ice", "Tree"]
     },
     "事": {
         "strokes": 8,
@@ -3247,11 +2372,6 @@ data4 = {
         "meanings": ["Matter", "Thing", "Fact", "Business", "Reason", "Possibly"],
         "readings_on": ["ジ", "ズ"],
         "readings_kun": ["こと", "つか.う", "つか.える"],
-        "wk_level": 9,
-        "wk_meanings": ["Action", "^Matter", "^Thing"],
-        "wk_readings_on": ["じ"],
-        "wk_readings_kun": ["!こと", "!つか"],
-        "wk_radicals": ["Cross", "Mouth", "Brush"]
     },
     "使": {
         "strokes": 8,
@@ -3262,11 +2382,6 @@ data4 = {
         "meanings": ["Use", "Send On A Mission", "Order", "Messenger", "Envoy", "Ambassador", "Cause"],
         "readings_on": ["シ"],
         "readings_kun": ["つか.う", "つか.い", "-つか.い", "-づか.い"],
-        "wk_level": 9,
-        "wk_meanings": ["Use"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!つか"],
-        "wk_radicals": ["Leader", "Ground", "History"]
     },
     "始": {
         "strokes": 8,
@@ -3277,11 +2392,6 @@ data4 = {
         "meanings": ["Commence", "Begin"],
         "readings_on": ["シ"],
         "readings_kun": ["はじ.める", "-はじ.める", "はじ.まる"],
-        "wk_level": 10,
-        "wk_meanings": ["Begin", "^Start"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!はじ"],
-        "wk_radicals": ["Woman", "Machine"]
     },
     "服": {
         "strokes": 8,
@@ -3292,11 +2402,6 @@ data4 = {
         "meanings": ["Clothing", "Admit", "Obey", "Discharge"],
         "readings_on": ["フク"],
         "readings_kun": [],
-        "wk_level": 9,
-        "wk_meanings": ["Clothes", "^Clothing"],
-        "wk_readings_on": ["ふく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Moon", "Stamp", "Stool"]
     },
     "物": {
         "strokes": 8,
@@ -3307,11 +2412,6 @@ data4 = {
         "meanings": ["Thing", "Object", "Matter"],
         "readings_on": ["ブツ", "モツ"],
         "readings_kun": ["もの", "もの-"],
-        "wk_level": 9,
-        "wk_meanings": ["Thing"],
-        "wk_readings_on": ["ぶつ", "^もつ"],
-        "wk_readings_kun": ["!もの"],
-        "wk_radicals": ["Cow", "Wing"]
     },
     "屋": {
         "strokes": 9,
@@ -3322,11 +2422,6 @@ data4 = {
         "meanings": ["Roof", "House", "Shop", "Dealer", "Seller"],
         "readings_on": ["オク"],
         "readings_kun": ["や"],
-        "wk_level": 9,
-        "wk_meanings": ["Roof", "^Shop", "^Store"],
-        "wk_readings_on": ["!おく"],
-        "wk_readings_kun": ["や"],
-        "wk_radicals": ["Flag", "Ground", "Private", "Dirt"]
     },
     "度": {
         "strokes": 9,
@@ -3337,11 +2432,6 @@ data4 = {
         "meanings": ["Degrees", "Occurrence", "Time", "Counter For Occurrences", "Consider", "Attitude"],
         "readings_on": ["ド", "ト", "タク"],
         "readings_kun": ["たび", "-た.い"],
-        "wk_level": 9,
-        "wk_meanings": ["Degrees", "^Occurrence"],
-        "wk_readings_on": ["ど", "たく"],
-        "wk_readings_kun": ["!たび"],
-        "wk_radicals": ["Yurt", "Stool"]
     },
     "待": {
         "strokes": 9,
@@ -3352,11 +2442,6 @@ data4 = {
         "meanings": ["Wait", "Depend On"],
         "readings_on": ["タイ"],
         "readings_kun": ["ま.つ", "-ま.ち"],
-        "wk_level": 12,
-        "wk_meanings": ["Wait"],
-        "wk_readings_on": ["たい"],
-        "wk_readings_kun": ["!ま"],
-        "wk_radicals": ["Loiter", "Temple"]
     },
     "持": {
         "strokes": 9,
@@ -3367,11 +2452,6 @@ data4 = {
         "meanings": ["Hold", "Have"],
         "readings_on": ["ジ"],
         "readings_kun": ["も.つ", "-も.ち", "も.てる"],
-        "wk_level": 9,
-        "wk_meanings": ["Hold"],
-        "wk_readings_on": ["じ"],
-        "wk_readings_kun": ["!も"],
-        "wk_radicals": ["Fingers", "Temple"]
     },
     "界": {
         "strokes": 9,
@@ -3382,11 +2462,6 @@ data4 = {
         "meanings": ["World", "Boundary"],
         "readings_on": ["カイ"],
         "readings_kun": [],
-        "wk_level": 9,
-        "wk_meanings": ["World"],
-        "wk_readings_on": ["かい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Rice Paddy", "Jammed In"]
     },
     "発": {
         "strokes": 9,
@@ -3397,11 +2472,6 @@ data4 = {
         "meanings": ["Departure", "Discharge", "Publish", "Emit", "Start From", "Disclose", "Counter For Gunshots"],
         "readings_on": ["ハツ", "ホツ"],
         "readings_kun": ["た.つ", "あば.く", "おこ.る", "つか.わす", "はな.つ"],
-        "wk_level": 9,
-        "wk_meanings": ["Departure"],
-        "wk_readings_on": ["はつ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tent", "Lantern"]
     },
     "送": {
         "strokes": 9,
@@ -3412,11 +2482,6 @@ data4 = {
         "meanings": ["Escort", "Send"],
         "readings_on": ["ソウ"],
         "readings_kun": ["おく.る"],
-        "wk_level": 9,
-        "wk_meanings": ["Send"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": ["!おく"],
-        "wk_radicals": ["Scooter", "Horns", "Heaven"]
     },
     "重": {
         "strokes": 9,
@@ -3427,11 +2492,6 @@ data4 = {
         "meanings": ["Heavy", "Important", "Esteem", "Respect", "Heap Up", "Pile Up", "Nest Of Boxes", "-fold"],
         "readings_on": ["ジュウ", "チョウ"],
         "readings_kun": ["え", "おも.い", "おも.り", "おも.なう", "かさ.ねる", "かさ.なる", "おも"],
-        "wk_level": 9,
-        "wk_meanings": ["Heavy"],
-        "wk_readings_on": ["じゅう", "^ちょう"],
-        "wk_readings_kun": ["!おも", "!かさ", "!え"],
-        "wk_radicals": ["Heavy"]
     },
     "起": {
         "strokes": 10,
@@ -3442,11 +2502,6 @@ data4 = {
         "meanings": ["Rouse", "Wake Up", "Get Up"],
         "readings_on": ["キ"],
         "readings_kun": ["お.きる", "お.こる", "お.こす", "おこ.す", "た.つ"],
-        "wk_level": 10,
-        "wk_meanings": ["Wake Up"],
-        "wk_readings_on": ["!き"],
-        "wk_readings_kun": ["お"],
-        "wk_radicals": ["Run", "Oneself"]
     },
     "院": {
         "strokes": 10,
@@ -3457,11 +2512,6 @@ data4 = {
         "meanings": ["Inst.", "Institution", "Temple", "Mansion", "School"],
         "readings_on": ["イン"],
         "readings_kun": [],
-        "wk_level": 10,
-        "wk_meanings": ["Institution"],
-        "wk_readings_on": ["いん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Building", "Roof", "Origin"]
     },
     "終": {
         "strokes": 11,
@@ -3472,11 +2522,6 @@ data4 = {
         "meanings": ["End", "Finish"],
         "readings_on": ["シュウ"],
         "readings_kun": ["お.わる", "-お.わる", "おわ.る", "お.える", "つい", "つい.に"],
-        "wk_level": 10,
-        "wk_meanings": ["End", "^Finish"],
-        "wk_readings_on": ["しゅう"],
-        "wk_readings_kun": ["!おわ", "!お"],
-        "wk_radicals": ["Thread", "Winter", "Two"]
     },
     "習": {
         "strokes": 11,
@@ -3487,11 +2532,6 @@ data4 = {
         "meanings": ["Learn"],
         "readings_on": ["シュウ", "ジュ"],
         "readings_kun": ["なら.う", "なら.い"],
-        "wk_level": 10,
-        "wk_meanings": ["Learn"],
-        "wk_readings_on": ["しゅう"],
-        "wk_readings_kun": ["!なら"],
-        "wk_radicals": ["Feathers", "White"]
     },
     "転": {
         "strokes": 11,
@@ -3502,11 +2542,6 @@ data4 = {
         "meanings": ["Revolve", "Turn Around", "Change"],
         "readings_on": ["テン"],
         "readings_kun": ["ころ.がる", "ころ.げる", "ころ.がす", "ころ.ぶ", "まろ.ぶ", "うたた", "うつ.る", "くる.めく"],
-        "wk_level": 10,
-        "wk_meanings": ["Revolve"],
-        "wk_readings_on": ["てん"],
-        "wk_readings_kun": ["!ころ"],
-        "wk_radicals": ["Car", "Cloud"]
     },
     "運": {
         "strokes": 12,
@@ -3517,11 +2552,6 @@ data4 = {
         "meanings": ["Carry", "Luck", "Destiny", "Fate", "Lot", "Transport", "Progress", "Advance"],
         "readings_on": ["ウン"],
         "readings_kun": ["はこ.ぶ"],
-        "wk_level": 10,
-        "wk_meanings": ["Carry", "^Luck"],
-        "wk_readings_on": ["うん"],
-        "wk_readings_kun": ["!はこ"],
-        "wk_radicals": ["Scooter", "Forehead", "Car"]
     },
     "開": {
         "strokes": 12,
@@ -3532,11 +2562,6 @@ data4 = {
         "meanings": ["Open", "Unfold", "Unseal"],
         "readings_on": ["カイ"],
         "readings_kun": ["ひら.く", "ひら.き", "-びら.き", "ひら.ける", "あ.く", "あ.ける"],
-        "wk_level": 10,
-        "wk_meanings": ["Open"],
-        "wk_readings_on": ["かい"],
-        "wk_readings_kun": ["!あ", "!ひら"],
-        "wk_radicals": ["Gate", "Lantern"]
     },
     "集": {
         "strokes": 12,
@@ -3547,11 +2572,6 @@ data4 = {
         "meanings": ["Gather", "Meet", "Congregate", "Swarm", "Flock"],
         "readings_on": ["シュウ"],
         "readings_kun": ["あつ.まる", "あつ.める", "つど.う"],
-        "wk_level": 10,
-        "wk_meanings": ["Collect", "^Gather"],
-        "wk_readings_on": ["しゅう"],
-        "wk_readings_kun": ["!あつ"],
-        "wk_radicals": ["Turkey", "Tree"]
     },
     "飲": {
         "strokes": 12,
@@ -3562,11 +2582,6 @@ data4 = {
         "meanings": ["Drink", "Smoke", "Take"],
         "readings_on": ["イン", "オン"],
         "readings_kun": ["の.む", "-の.み"],
-        "wk_level": 10,
-        "wk_meanings": ["Drink"],
-        "wk_readings_on": ["!いん"],
-        "wk_readings_kun": ["の"],
-        "wk_radicals": ["Eat", "Lack"]
     },
     "業": {
         "strokes": 13,
@@ -3577,11 +2592,6 @@ data4 = {
         "meanings": ["Business", "Vocation", "Arts", "Performance"],
         "readings_on": ["ギョウ", "ゴウ"],
         "readings_kun": ["わざ"],
-        "wk_level": 10,
-        "wk_meanings": ["Business"],
-        "wk_readings_on": ["ぎょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Spikes", "Sheep", "Fins"]
     },
     "漢": {
         "strokes": 13,
@@ -3592,11 +2602,6 @@ data4 = {
         "meanings": ["Sino-", "China"],
         "readings_on": ["カン"],
         "readings_kun": [],
-        "wk_level": 10,
-        "wk_meanings": ["Chinese", "^China"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tsunami", "Chinese"]
     },
     "歌": {
         "strokes": 14,
@@ -3607,11 +2612,6 @@ data4 = {
         "meanings": ["Song", "Sing"],
         "readings_on": ["カ"],
         "readings_kun": ["うた", "うた.う"],
-        "wk_level": 10,
-        "wk_meanings": ["Song", "^Sing"],
-        "wk_readings_on": ["か"],
-        "wk_readings_kun": ["!うた"],
-        "wk_radicals": ["Lip Ring", "Lack"]
     },
     "親": {
         "strokes": 16,
@@ -3622,11 +2622,6 @@ data4 = {
         "meanings": ["Parent", "Intimacy", "Relative", "Familiarity", "Dealer (cards)"],
         "readings_on": ["シン"],
         "readings_kun": ["おや", "おや-", "した.しい", "した.しむ"],
-        "wk_level": 10,
-        "wk_meanings": ["Parent"],
-        "wk_readings_on": ["しん"],
-        "wk_readings_kun": ["!おや", "!した"],
-        "wk_radicals": ["Stand", "Tree", "See"]
     },
     "病": {
         "strokes": 10,
@@ -3637,11 +2632,6 @@ data4 = {
         "meanings": ["Ill", "Sick"],
         "readings_on": ["ビョウ", "ヘイ"],
         "readings_kun": ["や.む", "-や.み", "やまい"],
-        "wk_level": 10,
-        "wk_meanings": ["Sick", "^Sickness", "^Ill", "^Illness"],
-        "wk_readings_on": ["びょう"],
-        "wk_readings_kun": ["!や", "!やまい"],
-        "wk_radicals": ["Sick", "Dynamite"]
     },
     "別": {
         "strokes": 7,
@@ -3652,11 +2642,6 @@ data4 = {
         "meanings": ["Separate", "Branch Off", "Diverge", "Fork", "Another", "Extra", "Specially"],
         "readings_on": ["ベツ"],
         "readings_kun": ["わか.れる", "わ.ける"],
-        "wk_level": 11,
-        "wk_meanings": ["Separate"],
-        "wk_readings_on": ["べつ"],
-        "wk_readings_kun": ["!わか"],
-        "wk_radicals": ["Mouth", "Sword", "Knife"]
     },
     "注": {
         "strokes": 8,
@@ -3667,11 +2652,6 @@ data4 = {
         "meanings": ["Pour", "Irrigate", "Shed (tears)", "Flow Into", "Concentrate On", "Notes", "Comment", "Annotate"],
         "readings_on": ["チュウ"],
         "readings_kun": ["そそ.ぐ", "さ.す", "つ.ぐ"],
-        "wk_level": 11,
-        "wk_meanings": ["Pour"],
-        "wk_readings_on": ["ちゅう"],
-        "wk_readings_kun": ["!そそ", "!さ", "!つ"],
-        "wk_radicals": ["Tsunami", "Master"]
     },
     "洋": {
         "strokes": 9,
@@ -3682,11 +2662,6 @@ data4 = {
         "meanings": ["Ocean", "Sea", "Foreign", "Western Style"],
         "readings_on": ["ヨウ"],
         "readings_kun": [],
-        "wk_level": 11,
-        "wk_meanings": ["Western Style", "^Ocean"],
-        "wk_readings_on": ["よう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tsunami", "Sheep"]
     },
     "特": {
         "strokes": 10,
@@ -3697,11 +2672,6 @@ data4 = {
         "meanings": ["Special"],
         "readings_on": ["トク"],
         "readings_kun": [],
-        "wk_level": 11,
-        "wk_meanings": ["Special"],
-        "wk_readings_on": ["とく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Cow", "Temple"]
     },
     "意": {
         "strokes": 13,
@@ -3712,11 +2682,6 @@ data4 = {
         "meanings": ["Idea", "Mind", "Heart", "Taste", "Thought", "Desire", "Care", "Liking"],
         "readings_on": ["イ"],
         "readings_kun": [],
-        "wk_level": 11,
-        "wk_meanings": ["Idea"],
-        "wk_readings_on": ["い"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Sound", "Heart"]
     },
     "味": {
         "strokes": 8,
@@ -3727,11 +2692,6 @@ data4 = {
         "meanings": ["Flavor", "Taste"],
         "readings_on": ["ミ"],
         "readings_kun": ["あじ", "あじ.わう"],
-        "wk_level": 11,
-        "wk_meanings": ["Flavor", "^Taste"],
-        "wk_readings_on": ["み"],
-        "wk_readings_kun": ["!あじ"],
-        "wk_radicals": ["Mouth", "Jet"]
     },
     "勉": {
         "strokes": 10,
@@ -3742,11 +2702,6 @@ data4 = {
         "meanings": ["Exertion", "Endeavour", "Encourage", "Strive", "Make Effort", "Diligent"],
         "readings_on": ["ベン"],
         "readings_kun": ["つと.める"],
-        "wk_level": 12,
-        "wk_meanings": ["Exertion"],
-        "wk_readings_on": ["べん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Excuse", "Power"]
     },
     "旅": {
         "strokes": 10,
@@ -3757,11 +2712,6 @@ data4 = {
         "meanings": ["Trip", "Travel"],
         "readings_on": ["リョ"],
         "readings_kun": ["たび"],
-        "wk_level": 12,
-        "wk_meanings": ["Trip", "^Travel"],
-        "wk_readings_on": ["りょ"],
-        "wk_readings_kun": ["!たび"],
-        "wk_radicals": ["Direction", "Gun", "Tofu"]
     },
     "員": {
         "strokes": 10,
@@ -3772,11 +2722,6 @@ data4 = {
         "meanings": ["Employee", "Member", "Number", "The One In Charge"],
         "readings_on": ["イン"],
         "readings_kun": [],
-        "wk_level": 12,
-        "wk_meanings": ["Member"],
-        "wk_readings_on": ["いん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Mouth", "Shellfish"]
     },
     "動": {
         "strokes": 11,
@@ -3787,11 +2732,6 @@ data4 = {
         "meanings": ["Move", "Motion", "Change", "Confusion", "Shift", "Shake"],
         "readings_on": ["ドウ"],
         "readings_kun": ["うご.く", "うご.かす"],
-        "wk_level": 12,
-        "wk_meanings": ["Move"],
-        "wk_readings_on": ["どう"],
-        "wk_readings_kun": ["!うご"],
-        "wk_radicals": ["Heavy", "Power"]
     },
     "悪": {
         "strokes": 11,
@@ -3802,11 +2742,6 @@ data4 = {
         "meanings": ["Bad", "Vice", "Rascal", "False", "Evil", "Wrong"],
         "readings_on": ["アク", "オ"],
         "readings_kun": ["わる.い", "わる-", "あ.し", "にく.い", "-にく.い", "ああ", "いずくに", "いずくんぞ", "にく.む"],
-        "wk_level": 12,
-        "wk_meanings": ["Bad", "^Evil"],
-        "wk_readings_on": ["あく", "^お"],
-        "wk_readings_kun": ["!わる"],
-        "wk_radicals": ["Asia", "Heart"]
     },
     "族": {
         "strokes": 11,
@@ -3817,11 +2752,6 @@ data4 = {
         "meanings": ["Tribe", "Family"],
         "readings_on": ["ゾク"],
         "readings_kun": [],
-        "wk_level": 12,
-        "wk_meanings": ["Tribe", "^Family"],
-        "wk_readings_on": ["ぞく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Direction", "Gun", "Arrow"]
     },
     "着": {
         "strokes": 12,
@@ -3832,11 +2762,6 @@ data4 = {
         "meanings": ["Don", "Arrive", "Wear", "Counter For Suits Of Clothing"],
         "readings_on": ["チャク", "ジャク"],
         "readings_kun": ["き.る", "-ぎ", "き.せる", "-き.せ", "つ.く", "つ.ける"],
-        "wk_level": 12,
-        "wk_meanings": ["Wear", "^Arrive"],
-        "wk_readings_on": ["ちゃく"],
-        "wk_readings_kun": ["!き", "!つ"],
-        "wk_radicals": ["Horns", "King", "Slide", "Eye"]
     },
     "野": {
         "strokes": 11,
@@ -3847,11 +2772,6 @@ data4 = {
         "meanings": ["Plains", "Field", "Rustic", "Civilian Life"],
         "readings_on": ["ヤ", "ショ"],
         "readings_kun": ["の", "の-"],
-        "wk_level": 12,
-        "wk_meanings": ["Field"],
-        "wk_readings_on": ["や"],
-        "wk_readings_kun": ["!の"],
-        "wk_radicals": ["Village", "Beforehand"]
     },
     "風": {
         "strokes": 9,
@@ -3862,11 +2782,6 @@ data4 = {
         "meanings": ["Wind", "Air", "Style", "Manner"],
         "readings_on": ["フウ", "フ"],
         "readings_kun": ["かぜ", "かざ-", "-かぜ"],
-        "wk_level": 7,
-        "wk_meanings": ["Wind", "^Style"],
-        "wk_readings_on": ["ふう", "ふ"],
-        "wk_readings_kun": ["!かぜ"],
-        "wk_radicals": ["Table", "Slide", "Insect"]
     },
     "新": {
         "strokes": 13,
@@ -3877,11 +2792,6 @@ data4 = {
         "meanings": ["New"],
         "readings_on": ["シン"],
         "readings_kun": ["あたら.しい", "あら.た", "あら-", "にい-"],
-        "wk_level": 9,
-        "wk_meanings": ["New"],
-        "wk_readings_on": ["しん"],
-        "wk_readings_kun": ["!あたら", "!あら", "!にい"],
-        "wk_radicals": ["Stand", "Tree", "Axe"]
     },
     "問": {
         "strokes": 11,
@@ -3892,11 +2802,6 @@ data4 = {
         "meanings": ["Question", "Ask", "Problem"],
         "readings_on": ["モン"],
         "readings_kun": ["と.う", "と.い", "とん"],
-        "wk_level": 13,
-        "wk_meanings": ["Problem"],
-        "wk_readings_on": ["もん"],
-        "wk_readings_kun": ["!と", "!とん"],
-        "wk_radicals": ["Gate", "Mouth"]
     },
     "銀": {
         "strokes": 14,
@@ -3907,11 +2812,6 @@ data4 = {
         "meanings": ["Silver"],
         "readings_on": ["ギン"],
         "readings_kun": ["しろがね"],
-        "wk_level": 13,
-        "wk_meanings": ["Silver"],
-        "wk_readings_on": ["ぎん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Gold", "Root"]
     },
     "題": {
         "strokes": 18,
@@ -3922,11 +2822,6 @@ data4 = {
         "meanings": ["Topic", "Subject"],
         "readings_on": ["ダイ"],
         "readings_kun": [],
-        "wk_level": 13,
-        "wk_meanings": ["Topic"],
-        "wk_readings_on": ["だい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Sun", "Correct", "Geoduck"]
     },
     "館": {
         "strokes": 16,
@@ -3937,11 +2832,6 @@ data4 = {
         "meanings": ["Building", "Mansion", "Large Building", "Palace"],
         "readings_on": ["カン"],
         "readings_kun": ["やかた", "たて"],
-        "wk_level": 13,
-        "wk_meanings": ["Public Building"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Eat", "Roof", "Bear"]
     },
     "駅": {
         "strokes": 14,
@@ -3952,11 +2842,6 @@ data4 = {
         "meanings": ["Station"],
         "readings_on": ["エキ"],
         "readings_kun": [],
-        "wk_level": 13,
-        "wk_meanings": ["Station", "^Train Station"],
-        "wk_readings_on": ["えき"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Horse", "Shrimp"]
     },
     "料": {
         "strokes": 10,
@@ -3967,11 +2852,6 @@ data4 = {
         "meanings": ["Fee", "Materials"],
         "readings_on": ["リョウ"],
         "readings_kun": [],
-        "wk_level": 13,
-        "wk_meanings": ["Fee", "^Material"],
-        "wk_readings_on": ["りょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Rice", "Ladle"]
     },
     "映": {
         "strokes": 9,
@@ -3982,11 +2862,6 @@ data4 = {
         "meanings": ["Reflect", "Reflection", "Projection"],
         "readings_on": ["エイ"],
         "readings_kun": ["うつ.る", "うつ.す", "は.える", "-ば.え"],
-        "wk_level": 13,
-        "wk_meanings": ["Reflect", "^Reflection"],
-        "wk_readings_on": ["えい"],
-        "wk_readings_kun": ["!うつ", "!は"],
-        "wk_radicals": ["Sun", "Center"]
     },
     "私": {
         "strokes": 7,
@@ -3997,11 +2872,6 @@ data4 = {
         "meanings": ["Private", "I", "Me"],
         "readings_on": ["シ"],
         "readings_kun": ["わたくし", "わたし"],
-        "wk_level": 6,
-        "wk_meanings": ["I", "^Private"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!わたし"],
-        "wk_radicals": ["Grain", "Private"]
     },
     "帰": {
         "strokes": 10,
@@ -4012,11 +2882,6 @@ data4 = {
         "meanings": ["Homecoming", "Arrive At", "Lead To", "Result In"],
         "readings_on": ["キ"],
         "readings_kun": ["かえ.る", "かえ.す", "おく.る", "とつ.ぐ"],
-        "wk_level": 15,
-        "wk_meanings": ["Return", "^Return Home"],
-        "wk_readings_on": ["!き"],
-        "wk_readings_kun": ["かえ"],
-        "wk_radicals": ["Knife", "Wolverine", "Forehead", "Towel"]
     },
     "春": {
         "strokes": 9,
@@ -4027,11 +2892,6 @@ data4 = {
         "meanings": ["Springtime", "Spring (season)"],
         "readings_on": ["シュン"],
         "readings_kun": ["はる"],
-        "wk_level": 15,
-        "wk_meanings": ["Spring"],
-        "wk_readings_on": ["!しゅん"],
-        "wk_readings_kun": ["はる"],
-        "wk_radicals": ["Spring", "Sun"]
     },
     "昼": {
         "strokes": 9,
@@ -4042,11 +2902,6 @@ data4 = {
         "meanings": ["Daytime", "Noon"],
         "readings_on": ["チュウ"],
         "readings_kun": ["ひる"],
-        "wk_level": 15,
-        "wk_meanings": ["Noon"],
-        "wk_readings_on": ["!ちゅう"],
-        "wk_readings_kun": ["ひる"],
-        "wk_radicals": ["Shrimp", "Sun", "Ground"]
     },
     "秋": {
         "strokes": 9,
@@ -4057,11 +2912,6 @@ data4 = {
         "meanings": ["Autumn"],
         "readings_on": ["シュウ"],
         "readings_kun": ["あき", "とき"],
-        "wk_level": 15,
-        "wk_meanings": ["Autumn", "^Fall"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["あき"],
-        "wk_radicals": ["Grain", "Fire"]
     },
     "計": {
         "strokes": 9,
@@ -4072,11 +2922,6 @@ data4 = {
         "meanings": ["Plot", "Plan", "Scheme", "Measure"],
         "readings_on": ["ケイ"],
         "readings_kun": ["はか.る", "はか.らう"],
-        "wk_level": 15,
-        "wk_meanings": ["Measure", "^Measurement"],
-        "wk_readings_on": ["けい"],
-        "wk_readings_kun": ["!はか"],
-        "wk_radicals": ["Say", "Cross"]
     },
     "建": {
         "strokes": 9,
@@ -4087,11 +2932,6 @@ data4 = {
         "meanings": ["Build"],
         "readings_on": ["ケン", "コン"],
         "readings_kun": ["た.てる", "た.て", "-だ.て", "た.つ"],
-        "wk_level": 15,
-        "wk_meanings": ["Build", "^Construct"],
-        "wk_readings_on": ["けん"],
-        "wk_readings_kun": ["!た"],
-        "wk_radicals": ["Yoga", "Brush"]
     },
     "英": {
         "strokes": 8,
@@ -4102,11 +2942,6 @@ data4 = {
         "meanings": ["England", "English", "Hero", "Outstanding", "Calyx"],
         "readings_on": ["エイ"],
         "readings_kun": ["はなぶさ"],
-        "wk_level": 15,
-        "wk_meanings": ["England", "^English"],
-        "wk_readings_on": ["えい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Flowers", "Center"]
     },
     "飯": {
         "strokes": 12,
@@ -4117,11 +2952,6 @@ data4 = {
         "meanings": ["Meal", "Boiled Rice"],
         "readings_on": ["ハン"],
         "readings_kun": ["めし"],
-        "wk_level": 15,
-        "wk_meanings": ["Meal", "^Food"],
-        "wk_readings_on": ["はん"],
-        "wk_readings_kun": ["!めし"],
-        "wk_radicals": ["Eat", "Anti"]
     },
     "曜": {
         "strokes": 18,
@@ -4132,11 +2962,6 @@ data4 = {
         "meanings": ["Weekday"],
         "readings_on": ["ヨウ"],
         "readings_kun": [],
-        "wk_level": 16,
-        "wk_meanings": ["Weekday", "^Day Of The Week"],
-        "wk_readings_on": ["よう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Sun", "Wolverine", "Turkey"]
     },
     "品": {
         "strokes": 9,
@@ -4147,11 +2972,6 @@ data4 = {
         "meanings": ["Goods", "Refinement", "Dignity", "Article", "Counter For Meal Courses"],
         "readings_on": ["ヒン", "ホン"],
         "readings_kun": ["しな"],
-        "wk_level": 16,
-        "wk_meanings": ["Product", "^Article", "^Goods", "^Products"],
-        "wk_readings_on": ["ひん"],
-        "wk_readings_kun": ["!しな"],
-        "wk_radicals": ["Products"]
     },
     "急": {
         "strokes": 9,
@@ -4162,11 +2982,6 @@ data4 = {
         "meanings": ["Hurry", "Emergency", "Sudden", "Steep"],
         "readings_on": ["キュウ"],
         "readings_kun": ["いそ.ぐ", "いそ.ぎ", "せ.く"],
-        "wk_level": 16,
-        "wk_meanings": ["Hurry"],
-        "wk_readings_on": ["きゅう"],
-        "wk_readings_kun": ["!いそ"],
-        "wk_radicals": ["Prison", "Wolverine", "Heart"]
     },
     "真": {
         "strokes": 10,
@@ -4177,11 +2992,6 @@ data4 = {
         "meanings": ["True", "Reality", "Buddhist Sect"],
         "readings_on": ["シン"],
         "readings_kun": ["ま", "ま-", "まこと"],
-        "wk_level": 16,
-        "wk_meanings": ["Reality"],
-        "wk_readings_on": ["しん"],
-        "wk_readings_kun": ["!ま"],
-        "wk_radicals": ["Pope", "Ground", "Fins"]
     },
     "堂": {
         "strokes": 11,
@@ -4192,11 +3002,6 @@ data4 = {
         "meanings": ["Public Chamber", "Hall"],
         "readings_on": ["ドウ"],
         "readings_kun": [],
-        "wk_level": 17,
-        "wk_meanings": ["Hall", "^Public Chamber"],
-        "wk_readings_on": ["どう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Viking", "Mouth", "Dirt"]
     },
     "試": {
         "strokes": 13,
@@ -4207,11 +3012,6 @@ data4 = {
         "meanings": ["Test", "Try", "Attempt", "Experiment", "Ordeal"],
         "readings_on": ["シ"],
         "readings_kun": ["こころ.みる", "ため.す"],
-        "wk_level": 9,
-        "wk_meanings": ["Try", "^Attempt"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!こころ", "!ため"],
-        "wk_radicals": ["Say", "Ceremony", "Construction"]
     },
     "借": {
         "strokes": 10,
@@ -4222,11 +3022,6 @@ data4 = {
         "meanings": ["Borrow", "Rent"],
         "readings_on": ["シャク"],
         "readings_kun": ["か.りる"],
-        "wk_level": 18,
-        "wk_meanings": ["Borrow"],
-        "wk_readings_on": ["しゃく"],
-        "wk_readings_kun": ["!か"],
-        "wk_radicals": ["Leader", "Long Ago"]
     },
     "験": {
         "strokes": 18,
@@ -4237,11 +3032,6 @@ data4 = {
         "meanings": ["Verification", "Effect", "Testing"],
         "readings_on": ["ケン", "ゲン"],
         "readings_kun": ["あかし", "しるし", "ため.す", "ためし"],
-        "wk_level": 9,
-        "wk_meanings": ["Test"],
-        "wk_readings_on": ["けん"],
-        "wk_readings_kun": ["!ため", "!ためし"],
-        "wk_radicals": ["Horse", "Squid"]
     },
     "質": {
         "strokes": 15,
@@ -4252,11 +3042,6 @@ data4 = {
         "meanings": ["Substance", "Quality", "Matter", "Temperament"],
         "readings_on": ["シツ", "シチ", "チ"],
         "readings_kun": ["たち", "ただ.す", "もと", "わりふ"],
-        "wk_level": 24,
-        "wk_meanings": ["Quality"],
-        "wk_readings_on": ["しつ", "^しち"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Axe", "Shellfish"]
     },
     "貸": {
         "strokes": 12,
@@ -4267,11 +3052,6 @@ data4 = {
         "meanings": ["Lend"],
         "readings_on": ["タイ"],
         "readings_kun": ["か.す", "か.し-", "かし-"],
-        "wk_level": 27,
-        "wk_meanings": ["Lend"],
-        "wk_readings_on": ["!たい"],
-        "wk_readings_kun": ["か"],
-        "wk_radicals": ["Substitute", "Shellfish"]
     },
     "力": {
         "strokes": 2,
@@ -4282,11 +3062,6 @@ data4 = {
         "meanings": ["Power", "Strength", "Strong", "Strain", "Bear Up", "Exert"],
         "readings_on": ["リョク", "リキ", "リイ"],
         "readings_kun": ["ちから"],
-        "wk_level": 1,
-        "wk_meanings": ["Power", "^Strength"],
-        "wk_readings_on": ["りょく", "りき"],
-        "wk_readings_kun": ["!ちから"],
-        "wk_radicals": ["Power"]
     },
     "工": {
         "strokes": 3,
@@ -4297,11 +3072,6 @@ data4 = {
         "meanings": ["Craft", "Construction", "Katakana E Radical (no. 48)"],
         "readings_on": ["コウ", "ク", "グ"],
         "readings_kun": [],
-        "wk_level": 1,
-        "wk_meanings": ["Construction", "^Industry"],
-        "wk_readings_on": ["こう", "^く"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Construction"]
     },
     "夕": {
         "strokes": 3,
@@ -4312,11 +3082,6 @@ data4 = {
         "meanings": ["Evening"],
         "readings_on": ["セキ"],
         "readings_kun": ["ゆう"],
-        "wk_level": 2,
-        "wk_meanings": ["Evening"],
-        "wk_readings_on": ["!せき"],
-        "wk_readings_kun": ["ゆう"],
-        "wk_radicals": ["Evening"]
     }
 };
 //katakana translation in progress 
@@ -4330,11 +3095,6 @@ data3 = {
         "meanings": ["Genius", "Years Old", "Cubic Shaku"],
         "readings_on": ["サイ"],
         "readings_kun": [],
-        "wk_level": 2,
-        "wk_meanings": ["Genius"],
-        "wk_readings_on": ["さい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Cross", "Slide"]
     },
     "王": {
         "strokes": 4,
@@ -4345,11 +3105,6 @@ data3 = {
         "meanings": ["King", "Rule", "Magnate"],
         "readings_on": ["オウ", "-ノウ"],
         "readings_kun": [],
-        "wk_level": 2,
-        "wk_meanings": ["King"],
-        "wk_readings_on": ["おう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["King"]
     },
     "石": {
         "strokes": 5,
@@ -4360,11 +3115,6 @@ data3 = {
         "meanings": ["Stone"],
         "readings_on": ["セキ", "シャク", "コク"],
         "readings_kun": ["いし"],
-        "wk_level": 4,
-        "wk_meanings": ["Stone"],
-        "wk_readings_on": ["せき"],
-        "wk_readings_kun": ["!いし"],
-        "wk_radicals": ["Stone"]
     },
     "内": {
         "strokes": 4,
@@ -4375,11 +3125,6 @@ data3 = {
         "meanings": ["Inside", "Within", "Between", "Among", "House", "Home"],
         "readings_on": ["ナイ", "ダイ"],
         "readings_kun": ["うち"],
-        "wk_level": 3,
-        "wk_meanings": ["Inside", "^Within"],
-        "wk_readings_on": ["ない"],
-        "wk_readings_kun": ["!うち"],
-        "wk_radicals": ["Head", "Person"]
     },
     "太": {
         "strokes": 4,
@@ -4390,11 +3135,6 @@ data3 = {
         "meanings": ["Plump", "Thick", "Big Around"],
         "readings_on": ["タイ", "タ"],
         "readings_kun": ["ふと.い", "ふと.る"],
-        "wk_level": 3,
-        "wk_meanings": ["Fat"],
-        "wk_readings_on": ["たい", "た"],
-        "wk_readings_kun": ["!ふと"],
-        "wk_radicals": ["Big", "Drop"]
     },
     "引": {
         "strokes": 4,
@@ -4405,11 +3145,6 @@ data3 = {
         "meanings": ["Pull", "Tug", "Jerk", "Admit", "Install", "Quote", "Refer To"],
         "readings_on": ["イン"],
         "readings_kun": ["ひ.く", "ひ.き", "ひ.き-", "-び.き", "ひ.ける"],
-        "wk_level": 3,
-        "wk_meanings": ["Pull"],
-        "wk_readings_on": ["!いん"],
-        "wk_readings_kun": ["ひ"],
-        "wk_radicals": ["Bow", "Stick"]
     },
     "市": {
         "strokes": 5,
@@ -4420,11 +3155,6 @@ data3 = {
         "meanings": ["Market", "City", "Town"],
         "readings_on": ["シ"],
         "readings_kun": ["いち"],
-        "wk_level": 3,
-        "wk_meanings": ["City"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!いち"],
-        "wk_radicals": ["Lid", "Towel"]
     },
     "他": {
         "strokes": 5,
@@ -4435,11 +3165,6 @@ data3 = {
         "meanings": ["Other", "Another", "The Others"],
         "readings_on": ["タ"],
         "readings_kun": ["ほか"],
-        "wk_level": 4,
-        "wk_meanings": ["Other"],
-        "wk_readings_on": ["た"],
-        "wk_readings_kun": ["!ほか"],
-        "wk_radicals": ["Leader", "Alligator"]
     },
 
     "号": {
@@ -4451,11 +3176,6 @@ data3 = {
         "meanings": ["Nickname", "Number", "Item", "Title", "Pseudonym", "Name", "Call"],
         "readings_on": ["ゴウ"],
         "readings_kun": ["さけ.ぶ", "よびな"],
-        "wk_level": 4,
-        "wk_meanings": ["Number"],
-        "wk_readings_on": ["ごう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Mouth", "Ground", "Prison"]
     },
     "平": {
         "strokes": 5,
@@ -4466,11 +3186,6 @@ data3 = {
         "meanings": ["Even", "Flat", "Peace"],
         "readings_on": ["ヘイ", "ビョウ", "ヒョウ"],
         "readings_kun": ["たい.ら", "-だいら", "ひら", "ひら-"],
-        "wk_level": 4,
-        "wk_meanings": ["Flat", "^Peace"],
-        "wk_readings_on": ["へい", "^ひょう", "^びょう"],
-        "wk_readings_kun": ["!たいら", "!ひら"],
-        "wk_radicals": ["Dry", "Horns"]
     },
     "打": {
         "strokes": 5,
@@ -4481,11 +3196,6 @@ data3 = {
         "meanings": ["Strike", "Hit", "Knock", "Pound", "Dozen"],
         "readings_on": ["ダ", "ダアス"],
         "readings_kun": ["う.つ", "う.ち-", "ぶ.つ"],
-        "wk_level": 4,
-        "wk_meanings": ["Hit"],
-        "wk_readings_on": ["だ"],
-        "wk_readings_kun": ["!う", "!ぶ"],
-        "wk_radicals": ["Fingers", "Street"]
     },
     "申": {
         "strokes": 5,
@@ -4496,11 +3206,6 @@ data3 = {
         "meanings": ["Have The Honor To", "Sign Of The Monkey", "3-5pm", "Ninth Sign Of Chinese Zodiac"],
         "readings_on": ["シン"],
         "readings_kun": ["もう.す", "もう.し-", "さる"],
-        "wk_level": 4,
-        "wk_meanings": ["Say Humbly", "^Say", "^Humbly Say"],
-        "wk_readings_on": ["!しん"],
-        "wk_readings_kun": ["もう"],
-        "wk_radicals": ["Cross", "Mouth"]
     },
     "礼": {
         "strokes": 5,
@@ -4511,11 +3216,6 @@ data3 = {
         "meanings": ["Salute", "Bow", "Ceremony", "Thanks", "Remuneration"],
         "readings_on": ["レイ", "ライ"],
         "readings_kun": [],
-        "wk_level": 4,
-        "wk_meanings": ["Thanks"],
-        "wk_readings_on": ["れい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Spirit", "Umbrella"]
     },
     "耳": {
         "strokes": 6,
@@ -4526,11 +3226,6 @@ data3 = {
         "meanings": ["Ear"],
         "readings_on": ["ジ"],
         "readings_kun": ["みみ"],
-        "wk_level": 4,
-        "wk_meanings": ["Ear"],
-        "wk_readings_on": ["!じ"],
-        "wk_readings_kun": ["みみ"],
-        "wk_radicals": ["Ear"]
     },
     //needs katakana
     "交": {
@@ -4542,11 +3237,6 @@ data3 = {
         "meanings": ["Mingle", "Mixing", "Association", "Coming & Going"],
         "readings_on": ["こう"],
         "readings_kun": ["まじ.わる", "まじ.える", "ま.じる", "まじ.る", "ま.ざる", "ま.ぜる", "-か.う", "か.わす", "かわ.す", "こもごも"],
-        "wk_level": 5,
-        "wk_meanings": ["Mix", "^Mingle"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!まじ", "!ま", "!か"],
-        "wk_radicals": ["Lid", "Father"]
     },
 
     "光": {
@@ -4558,11 +3248,6 @@ data3 = {
         "meanings": ["Ray", "Light"],
         "readings_on": ["こう"],
         "readings_kun": ["ひか.る", "ひかり"],
-        "wk_level": 5,
-        "wk_meanings": ["Sunlight", "^Light"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!ひかり", "!ひか"],
-        "wk_radicals": ["Triceratops", "Pi"]
     },
 
     "回": {
@@ -4574,11 +3259,6 @@ data3 = {
         "meanings": ["-times", "Round", "Game", "Revolve", "Counter For Occurrences"],
         "readings_on": ["かい", "え"],
         "readings_kun": ["まわ.る", "-まわ.る", "-まわ.り", "まわ.す", "-まわ.す", "まわ.し-", "-まわ.し", "もとお.る", "か.える"],
-        "wk_level": 5,
-        "wk_meanings": ["Times", "^Revolve"],
-        "wk_readings_on": ["かい"],
-        "wk_readings_kun": ["!まわ"],
-        "wk_radicals": ["Mouth"]
     },
 
     "当": {
@@ -4590,11 +3270,6 @@ data3 = {
         "meanings": ["Hit", "Right", "Appropriate", "Himself"],
         "readings_on": ["とう"],
         "readings_kun": ["あ.たる", "あ.たり", "あ.てる", "あ.て", "まさ.に", "まさ.にべし"],
-        "wk_level": 5,
-        "wk_meanings": ["Correct", "^Right", "^Success"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": ["!あ"],
-        "wk_radicals": ["Triceratops", "Wolverine"]
     },
     "米": {
         "strokes": 6,
@@ -4605,11 +3280,6 @@ data3 = {
         "meanings": ["Rice", "Usa", "Metre"],
         "readings_on": ["べい", "まい", "めえとる"],
         "readings_kun": ["こめ", "よね"],
-        "wk_level": 5,
-        "wk_meanings": ["Rice", "^America"],
-        "wk_readings_on": ["べい", "まい"],
-        "wk_readings_kun": ["!こめ"],
-        "wk_radicals": ["Rice"]
     },
     "声": {
         "strokes": 7,
@@ -4620,11 +3290,6 @@ data3 = {
         "meanings": ["Voice"],
         "readings_on": ["せい", "しょう"],
         "readings_kun": ["こえ", "こわ-"],
-        "wk_level": 5,
-        "wk_meanings": ["Voice"],
-        "wk_readings_on": ["!せい"],
-        "wk_readings_kun": ["こえ"],
-        "wk_radicals": ["Samurai", "Flag", "Stick"]
     },
 
     "形": {
@@ -4636,11 +3301,6 @@ data3 = {
         "meanings": ["Shape", "Form", "Style"],
         "readings_on": ["けい", "ぎょう"],
         "readings_kun": ["かた", "-がた", "かたち", "なり"],
-        "wk_level": 5,
-        "wk_meanings": ["Shape", "^Form", "^Appearance"],
-        "wk_readings_on": ["けい", "^ぎょう"],
-        "wk_readings_kun": ["!かた", "!かたち"],
-        "wk_radicals": ["Lantern", "Hair"]
     },
     "草": {
         "strokes": 9,
@@ -4651,11 +3311,6 @@ data3 = {
         "meanings": ["Grass", "Weeds", "Herbs", "Pasture", "Write", "Draft"],
         "readings_on": ["そう"],
         "readings_kun": ["くさ", "くさ-", "-ぐさ"],
-        "wk_level": 5,
-        "wk_meanings": ["Grass", "^Weed"],
-        "wk_readings_on": ["!そう"],
-        "wk_readings_kun": ["くさ"],
-        "wk_radicals": ["Flowers", "Sun", "Cross"]
     },
 
     "化": {
@@ -4667,11 +3322,6 @@ data3 = {
         "meanings": ["Change", "Take The Form Of", "Influence", "Enchant", "Delude", "-ization"],
         "readings_on": ["か", "け"],
         "readings_kun": ["ば.ける", "ば.かす", "ふ.ける", "け.する"],
-        "wk_level": 6,
-        "wk_meanings": ["Change"],
-        "wk_readings_on": ["か"],
-        "wk_readings_kun": ["!ば"],
-        "wk_radicals": ["Leader", "Spoon"]
     },
 
     "両": {
@@ -4683,11 +3333,6 @@ data3 = {
         "meanings": ["Both", "Old Japanese Coin", "Counter For Carriages (e.g., In A Train)", "Two"],
         "readings_on": ["りょう"],
         "readings_kun": ["てる", "ふたつ"],
-        "wk_level": 6,
-        "wk_meanings": ["Both"],
-        "wk_readings_on": ["りょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Ground", "Head", "Mountain"]
     },
     "全": {
         "strokes": 6,
@@ -4698,11 +3343,6 @@ data3 = {
         "meanings": ["Whole", "Entire", "All", "Complete", "Fulfill"],
         "readings_on": ["ぜん"],
         "readings_kun": ["まった.く", "すべ.て"],
-        "wk_level": 6,
-        "wk_meanings": ["All", "^Whole"],
-        "wk_readings_on": ["ぜん"],
-        "wk_readings_kun": ["!すべ", "!まった"],
-        "wk_radicals": ["Hat", "King"]
     },
     "向": {
         "strokes": 6,
@@ -4713,11 +3353,6 @@ data3 = {
         "meanings": ["Yonder", "Facing", "Beyond", "Confront", "Defy", "Tend Toward", "Approach"],
         "readings_on": ["こう"],
         "readings_kun": ["む.く", "む.い", "-む.き", "む.ける", "-む.け", "む.かう", "む.かい", "む.こう", "む.こう-", "むこ", "むか.い"],
-        "wk_level": 6,
-        "wk_meanings": ["Yonder", "^Facing"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!む"],
-        "wk_radicals": ["Drop", "Head", "Mouth"]
     },
     "曲": {
         "strokes": 6,
@@ -4728,11 +3363,6 @@ data3 = {
         "meanings": ["Bend", "Music", "Melody", "Composition", "Pleasure", "Injustice", "Fault", "Curve", "Crooked", "Perverse", "Lean"],
         "readings_on": ["きょく"],
         "readings_kun": ["ま.がる", "ま.げる", "くま"],
-        "wk_level": 6,
-        "wk_meanings": ["Music", "^Bend"],
-        "wk_readings_on": ["きょく"],
-        "wk_readings_kun": ["!ま"],
-        "wk_radicals": ["Mouth", "Twenty"]
     },
 
     "次": {
@@ -4744,11 +3374,6 @@ data3 = {
         "meanings": ["Next", "Order", "Sequence"],
         "readings_on": ["じ", "し"],
         "readings_kun": ["つ.ぐ", "つぎ"],
-        "wk_level": 6,
-        "wk_meanings": ["Next"],
-        "wk_readings_on": ["じ"],
-        "wk_readings_kun": ["!つぎ"],
-        "wk_radicals": ["Ice", "Lack"]
     },
     "直": {
         "strokes": 8,
@@ -4759,11 +3384,6 @@ data3 = {
         "meanings": ["Straightaway", "Honesty", "Frankness", "Fix", "Repair"],
         "readings_on": ["ちょく", "じき", "じか"],
         "readings_kun": ["ただ.ちに", "なお.す", "-なお.す", "なお.る", "なお.き", "す.ぐ"],
-        "wk_level": 6,
-        "wk_meanings": ["Fix", "^Direct"],
-        "wk_readings_on": ["ちょく", "じき"],
-        "wk_readings_kun": ["!なお"],
-        "wk_radicals": ["Lion", "Cross", "Eye"]
     },
     "活": {
         "strokes": 9,
@@ -4774,11 +3394,6 @@ data3 = {
         "meanings": ["Lively", "Resuscitation", "Being Helped", "Living"],
         "readings_on": ["かつ"],
         "readings_kun": ["い.きる", "い.かす", "い.ける"],
-        "wk_level": 6,
-        "wk_meanings": ["Lively"],
-        "wk_readings_on": ["かつ"],
-        "wk_readings_kun": ["!い"],
-        "wk_radicals": ["Tsunami", "Tongue"]
     },
 
     "点": {
@@ -4790,11 +3405,6 @@ data3 = {
         "meanings": ["Spot", "Point", "Mark", "Speck", "Decimal Point"],
         "readings_on": ["てん"],
         "readings_kun": ["つ.ける", "つ.く", "た.てる", "さ.す", "とぼ.す", "とも.す", "ぼち"],
-        "wk_level": 6,
-        "wk_meanings": ["Point", "^Decimal", "^Decimal Point"],
-        "wk_readings_on": ["てん"],
-        "wk_readings_kun": ["!つ"],
-        "wk_radicals": ["Fortune", "Boil"]
     },
     "科": {
         "strokes": 9,
@@ -4805,11 +3415,6 @@ data3 = {
         "meanings": ["Department", "Course", "Section"],
         "readings_on": ["か"],
         "readings_kun": [],
-        "wk_level": 6,
-        "wk_meanings": ["Course", "^Science", "^Department"],
-        "wk_readings_on": ["か"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Grain", "Ladle"]
     },
 
 
@@ -4822,11 +3427,6 @@ data3 = {
         "meanings": ["Neck", "Counter For Songs And Poems"],
         "readings_on": ["しゅ"],
         "readings_kun": ["くび"],
-        "wk_level": 6,
-        "wk_meanings": ["Neck"],
-        "wk_readings_on": ["!しゅ"],
-        "wk_readings_kun": ["くび"],
-        "wk_radicals": ["Neck"]
     },
     "欠": {
         "strokes": 4,
@@ -4837,11 +3437,6 @@ data3 = {
         "meanings": ["Lack", "Gap", "Fail", "Yawning Radical (no. 76)"],
         "readings_on": ["けつ", "けん"],
         "readings_kun": ["か.ける", "か.く"],
-        "wk_level": 7,
-        "wk_meanings": ["Lack"],
-        "wk_readings_on": ["けつ"],
-        "wk_readings_kun": ["!か"],
-        "wk_radicals": ["Lack"]
     },
     "由": {
         "strokes": 5,
@@ -4852,11 +3447,6 @@ data3 = {
         "meanings": ["Wherefore", "A Reason"],
         "readings_on": ["ゆ", "ゆう", "ゆい"],
         "readings_kun": ["よし", "よ.る"],
-        "wk_level": 7,
-        "wk_meanings": ["Reason"],
-        "wk_readings_on": ["ゆう"],
-        "wk_readings_kun": ["!よし", "!よ"],
-        "wk_radicals": ["Cross", "Mouth"]
     },
     "民": {
         "strokes": 5,
@@ -4867,11 +3457,6 @@ data3 = {
         "meanings": ["People", "Nation", "Subjects"],
         "readings_on": ["みん"],
         "readings_kun": ["たみ"],
-        "wk_level": 7,
-        "wk_meanings": ["Peoples", "^People", "^Nation"],
-        "wk_readings_on": ["みん"],
-        "wk_readings_kun": ["!たみ"],
-        "wk_radicals": ["Mouth", "Clan"]
     },
     "付": {
         "strokes": 5,
@@ -4882,11 +3467,6 @@ data3 = {
         "meanings": ["Adhere", "Attach", "Refer To", "Append"],
         "readings_on": ["ふ"],
         "readings_kun": ["つ.ける", "-つ.ける", "-づ.ける", "つ.け", "つ.け-", "-つ.け", "-づ.け", "-づけ", "つ.く", "-づ.く", "つ.き", "-つ.き", "-つき", "-づ.き", "-づき"],
-        "wk_level": 7,
-        "wk_meanings": ["Attach"],
-        "wk_readings_on": ["!ふ"],
-        "wk_readings_kun": ["つ"],
-        "wk_radicals": ["Leader", "Measurement"]
     },
 
     "失": {
@@ -4898,11 +3478,6 @@ data3 = {
         "meanings": ["Lose", "Error", "Fault", "Disadvantage", "Loss"],
         "readings_on": ["しつ"],
         "readings_kun": ["うしな.う", "う.せる"],
-        "wk_level": 7,
-        "wk_meanings": ["Fault"],
-        "wk_readings_on": ["しつ"],
-        "wk_readings_kun": ["!うしな"],
-        "wk_radicals": ["Slide", "Husband"]
     },
     "必": {
         "strokes": 5,
@@ -4913,11 +3488,6 @@ data3 = {
         "meanings": ["Invariably", "Certain", "Inevitable"],
         "readings_on": ["ひつ"],
         "readings_kun": ["かなら.ず"],
-        "wk_level": 7,
-        "wk_meanings": ["Certain"],
-        "wk_readings_on": ["ひつ"],
-        "wk_readings_kun": ["!かなら"],
-        "wk_radicals": ["Heart", "Slide"]
     },
     "未": {
         "strokes": 5,
@@ -4928,11 +3498,6 @@ data3 = {
         "meanings": ["Un-", "Not Yet", "Hitherto", "Still", "Even Now", "Sign Of The Ram", "1-3pm", "Eighth Sign Of Chinese Zodiac"],
         "readings_on": ["み", "び"],
         "readings_kun": ["いま.だ", "ま.だ", "ひつじ"],
-        "wk_level": 7,
-        "wk_meanings": ["Not Yet"],
-        "wk_readings_on": ["み"],
-        "wk_readings_kun": ["!ま", "!いま", "!ひつじ"],
-        "wk_radicals": ["Jet"]
     },
     "末": {
         "strokes": 5,
@@ -4943,11 +3508,6 @@ data3 = {
         "meanings": ["End", "Close", "Tip", "Powder", "Posterity"],
         "readings_on": ["まつ", "ばつ"],
         "readings_kun": ["すえ"],
-        "wk_level": 7,
-        "wk_meanings": ["End"],
-        "wk_readings_on": ["まつ"],
-        "wk_readings_kun": ["!すえ"],
-        "wk_radicals": ["Jet"]
     },
     "記": {
         "strokes": 10,
@@ -4958,11 +3518,6 @@ data3 = {
         "meanings": ["Scribe", "Account", "Narrative"],
         "readings_on": ["き"],
         "readings_kun": ["しる.す"],
-        "wk_level": 7,
-        "wk_meanings": ["Write Down", "^Record"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": ["!しる"],
-        "wk_radicals": ["Say", "Oneself"]
     },
 
     "組": {
@@ -4974,11 +3529,6 @@ data3 = {
         "meanings": ["Association", "Braid", "Plait", "Construct", "Assemble", "Unite", "Cooperate", "Grapple"],
         "readings_on": ["そ"],
         "readings_kun": ["く.む", "くみ", "-ぐみ"],
-        "wk_level": 7,
-        "wk_meanings": ["Group", "^Association", "^Team"],
-        "wk_readings_on": ["そ"],
-        "wk_readings_kun": ["!くみ"],
-        "wk_radicals": ["Thread", "Top Hat"]
     },
     "船": {
         "strokes": 11,
@@ -4989,11 +3539,6 @@ data3 = {
         "meanings": ["Ship", "Boat"],
         "readings_on": ["せん"],
         "readings_kun": ["ふね", "ふな-"],
-        "wk_level": 7,
-        "wk_meanings": ["Boat", "^Ship"],
-        "wk_readings_on": ["せん"],
-        "wk_readings_kun": ["!ふね"],
-        "wk_radicals": ["Boat", "Fins", "Mouth"]
     },
     "雪": {
         "strokes": 11,
@@ -5004,11 +3549,6 @@ data3 = {
         "meanings": ["Snow"],
         "readings_on": ["せつ"],
         "readings_kun": ["ゆき"],
-        "wk_level": 7,
-        "wk_meanings": ["Snow"],
-        "wk_readings_on": ["!せつ"],
-        "wk_readings_kun": ["ゆき"],
-        "wk_radicals": ["Rain", "Wolverine"]
     },
     "支": {
         "strokes": 4,
@@ -5019,11 +3559,6 @@ data3 = {
         "meanings": ["Branch", "Support", "Sustain", "Branch Radical (no. 65)"],
         "readings_on": ["し"],
         "readings_kun": ["ささ.える", "つか.える", "か.う"],
-        "wk_level": 8,
-        "wk_meanings": ["Support", "^Branch"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!ささ"],
-        "wk_radicals": ["Branch"]
     },
     "助": {
         "strokes": 7,
@@ -5034,11 +3569,6 @@ data3 = {
         "meanings": ["Help", "Rescue", "Assist"],
         "readings_on": ["じょ"],
         "readings_kun": ["たす.ける", "たす.かる", "す.ける", "すけ"],
-        "wk_level": 8,
-        "wk_meanings": ["Help"],
-        "wk_readings_on": ["じょ"],
-        "wk_readings_kun": ["たす", "すけ"],
-        "wk_radicals": ["Top Hat", "Power"]
     },
     "君": {
         "strokes": 7,
@@ -5049,11 +3579,6 @@ data3 = {
         "meanings": ["Mister", "You", "Ruler", "Male Name Suffix"],
         "readings_on": ["くん"],
         "readings_kun": ["きみ", "-ぎみ"],
-        "wk_level": 8,
-        "wk_meanings": ["Buddy"],
-        "wk_readings_on": ["くん"],
-        "wk_readings_kun": ["!きみ"],
-        "wk_radicals": ["Wolverine", "Slide", "Mouth"]
     },
     "対": {
         "strokes": 7,
@@ -5064,11 +3589,6 @@ data3 = {
         "meanings": ["Vis-a-vis", "Opposite", "Even", "Equal", "Versus", "Anti-", "Compare"],
         "readings_on": ["たい", "つい"],
         "readings_kun": ["あいて", "こた.える", "そろ.い", "つれあ.い", "なら.ぶ", "むか.う"],
-        "wk_level": 8,
-        "wk_meanings": ["Versus", "^Opposite"],
-        "wk_readings_on": ["たい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Writing", "Measurement"]
     },
     "局": {
         "strokes": 7,
@@ -5079,11 +3599,6 @@ data3 = {
         "meanings": ["Bureau", "Board", "Office", "Affair", "Conclusion", "Court Lady", "Lady-in-waiting", "Her Apartment"],
         "readings_on": ["きょく"],
         "readings_kun": ["つぼね"],
-        "wk_level": 8,
-        "wk_meanings": ["Bureau", "^Department"],
-        "wk_readings_on": ["きょく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Flag", "Cape", "Mouth"]
     },
     "役": {
         "strokes": 7,
@@ -5094,11 +3609,6 @@ data3 = {
         "meanings": ["Duty", "War", "Campaign", "Drafted Labor", "Office", "Service", "Role"],
         "readings_on": ["やく", "えき"],
         "readings_kun": [],
-        "wk_level": 8,
-        "wk_meanings": ["Service", "^Duty"],
-        "wk_readings_on": ["やく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Loiter", "Weapon"]
     },
     "投": {
         "strokes": 7,
@@ -5109,11 +3619,6 @@ data3 = {
         "meanings": ["Throw", "Discard", "Abandon", "Launch Into", "Join", "Invest In", "Hurl", "Give Up", "Sell At A Loss"],
         "readings_on": ["とう"],
         "readings_kun": ["な.げる", "-な.げ"],
-        "wk_level": 8,
-        "wk_meanings": ["Throw"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": ["!な"],
-        "wk_radicals": ["Fingers", "Weapon"]
     },
     "決": {
         "strokes": 7,
@@ -5124,11 +3629,6 @@ data3 = {
         "meanings": ["Decide", "Fix", "Agree Upon", "Appoint"],
         "readings_on": ["けつ"],
         "readings_kun": ["き.める", "-ぎ.め", "き.まる", "さ.く"],
-        "wk_level": 8,
-        "wk_meanings": ["Decide", "^Decision"],
-        "wk_readings_on": ["けつ"],
-        "wk_readings_kun": ["!き"],
-        "wk_radicals": ["Tsunami", "Person", "Hook"]
     },
     "馬": {
         "strokes": 10,
@@ -5139,11 +3639,6 @@ data3 = {
         "meanings": ["Horse"],
         "readings_on": ["ば"],
         "readings_kun": ["うま", "うま-", "ま"],
-        "wk_level": 8,
-        "wk_meanings": ["Horse"],
-        "wk_readings_on": ["ば"],
-        "wk_readings_kun": ["!うま"],
-        "wk_radicals": ["Horse"]
     },
     "番": {
         "strokes": 12,
@@ -5154,11 +3649,6 @@ data3 = {
         "meanings": ["Turn", "Number In A Series"],
         "readings_on": ["ばん"],
         "readings_kun": ["つが.い"],
-        "wk_level": 8,
-        "wk_meanings": ["Number In A Series", "^Turn", "^Ordinal Number"],
-        "wk_readings_on": ["ばん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Sickle", "Rice Paddy"]
     },
     "絵": {
         "strokes": 12,
@@ -5169,11 +3659,6 @@ data3 = {
         "meanings": ["Picture", "Drawing", "Painting", "Sketch"],
         "readings_on": ["かい", "え"],
         "readings_kun": [],
-        "wk_level": 8,
-        "wk_meanings": ["Drawing", "^Painting"],
-        "wk_readings_on": ["え"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Thread", "Meet"]
     },
     "数": {
         "strokes": 13,
@@ -5184,11 +3669,6 @@ data3 = {
         "meanings": ["Number", "Strength", "Fate", "Law", "Figures"],
         "readings_on": ["すう", "す", "さく", "そく", "しゅ"],
         "readings_kun": ["かず", "かぞ.える", "しばしば", "せ.める", "わずらわ.しい"],
-        "wk_level": 8,
-        "wk_meanings": ["Count", "^Number", "^Amount"],
-        "wk_readings_on": ["すう"],
-        "wk_readings_kun": ["!かぞ", "!かず"],
-        "wk_radicals": ["Rice", "Woman", "Winter"]
     },
     "所": {
         "strokes": 8,
@@ -5199,11 +3679,6 @@ data3 = {
         "meanings": ["Place", "Extent"],
         "readings_on": ["しょ"],
         "readings_kun": ["ところ", "-ところ", "どころ", "とこ"],
-        "wk_level": 8,
-        "wk_meanings": ["Place"],
-        "wk_readings_on": ["しょ"],
-        "wk_readings_kun": ["!ところ"],
-        "wk_radicals": ["Door", "Axe"]
     },
 
     "具": {
@@ -5215,11 +3690,6 @@ data3 = {
         "meanings": ["Tool", "Utensil", "Means", "Possess", "Ingredients", "Counter For Armor, Suits, Sets Of Furniture"],
         "readings_on": ["ぐ"],
         "readings_kun": ["そな.える", "つぶさ.に"],
-        "wk_level": 9,
-        "wk_meanings": ["Tool"],
-        "wk_readings_on": ["ぐ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Eye", "Ground", "Fins"]
     },
     "受": {
         "strokes": 8,
@@ -5230,11 +3700,6 @@ data3 = {
         "meanings": ["Accept", "Undergo", "Answer (phone)", "Take", "Get", "Catch", "Receive"],
         "readings_on": ["じゅ"],
         "readings_kun": ["う.ける", "-う.け", "う.かる"],
-        "wk_level": 9,
-        "wk_meanings": ["Accept", "^Receive"],
-        "wk_readings_on": ["じゅ"],
-        "wk_readings_kun": ["!う"],
-        "wk_radicals": ["Cleat", "Forehead", "Stool"]
     },
     "和": {
         "strokes": 8,
@@ -5245,11 +3710,6 @@ data3 = {
         "meanings": ["Harmony", "Japanese Style", "Peace", "Soften", "Japan"],
         "readings_on": ["わ", "お", "か"],
         "readings_kun": ["やわ.らぐ", "やわ.らげる", "なご.む", "なご.やか", "あ.える"],
-        "wk_level": 9,
-        "wk_meanings": ["Peace", "^Japanese Style"],
-        "wk_readings_on": ["わ", "^お"],
-        "wk_readings_kun": ["!なご", "!やわ"],
-        "wk_radicals": ["Grain", "Mouth"]
     },
 
     "定": {
@@ -5261,11 +3721,6 @@ data3 = {
         "meanings": ["Determine", "Fix", "Establish", "Decide"],
         "readings_on": ["てい", "じょう"],
         "readings_kun": ["さだ.める", "さだ.まる", "さだ.か"],
-        "wk_level": 9,
-        "wk_meanings": ["Determine"],
-        "wk_readings_on": ["てい", "^じょう"],
-        "wk_readings_kun": ["!さだ"],
-        "wk_radicals": ["Roof", "Correct"]
     },
     "実": {
         "strokes": 8,
@@ -5276,11 +3731,6 @@ data3 = {
         "meanings": ["Reality", "Truth"],
         "readings_on": ["じつ", "しつ"],
         "readings_kun": ["み", "みの.る", "まこと", "みの", "みち.る"],
-        "wk_level": 9,
-        "wk_meanings": ["Truth", "^Reality"],
-        "wk_readings_on": ["じつ"],
-        "wk_readings_kun": ["!み"],
-        "wk_radicals": ["Roof", "Spring"]
     },
 
     "泳": {
@@ -5292,11 +3742,6 @@ data3 = {
         "meanings": ["Swim"],
         "readings_on": ["えい"],
         "readings_kun": ["およ.ぐ"],
-        "wk_level": 9,
-        "wk_meanings": ["Swim"],
-        "wk_readings_on": ["!えい"],
-        "wk_readings_kun": ["およ"],
-        "wk_radicals": ["Tsunami", "Eternity"]
     },
 
     "苦": {
@@ -5308,11 +3753,6 @@ data3 = {
         "meanings": ["Suffering", "Trial", "Worry", "Hardship", "Feel Bitter", "Scowl"],
         "readings_on": ["く"],
         "readings_kun": ["くる.しい", "-ぐる.しい", "くる.しむ", "くる.しめる", "にが.い", "にが.る"],
-        "wk_level": 9,
-        "wk_meanings": ["Suffering"],
-        "wk_readings_on": ["く"],
-        "wk_readings_kun": ["!くる", "!にが"],
-        "wk_radicals": ["Flowers", "Old"]
     },
     "表": {
         "strokes": 8,
@@ -5323,11 +3763,6 @@ data3 = {
         "meanings": ["Surface", "Table", "Chart", "Diagram"],
         "readings_on": ["ひょう"],
         "readings_kun": ["おもて", "-おもて", "あらわ.す", "あらわ.れる", "あら.わす"],
-        "wk_level": 9,
-        "wk_meanings": ["Express"],
-        "wk_readings_on": ["ひょう"],
-        "wk_readings_kun": ["!あらわ", "!おもて"],
-        "wk_radicals": ["Life", "Kick"]
     },
     "部": {
         "strokes": 11,
@@ -5338,11 +3773,6 @@ data3 = {
         "meanings": ["Section", "Bureau", "Dept", "Class", "Copy", "Part", "Portion", "Counter For Copies Of A Newspaper Or Magazine"],
         "readings_on": ["ぶ"],
         "readings_kun": ["-べ"],
-        "wk_level": 9,
-        "wk_meanings": ["Part", "^Department", "^Club"],
-        "wk_readings_on": ["ぶ"],
-        "wk_readings_kun": ["!へ"],
-        "wk_radicals": ["Clown", "Building"]
     },
     "乗": {
         "strokes": 9,
@@ -5353,11 +3783,6 @@ data3 = {
         "meanings": ["Ride", "Power", "Multiplication", "Record", "Counter For Vehicles", "Board", "Mount", "Join"],
         "readings_on": ["じょう", "しょう"],
         "readings_kun": ["の.る", "-の.り", "の.せる"],
-        "wk_level": 9,
-        "wk_meanings": ["Ride"],
-        "wk_readings_on": ["!じょう"],
-        "wk_readings_kun": ["の"],
-        "wk_radicals": ["Grain", "Mouth"]
     },
     "客": {
         "strokes": 9,
@@ -5368,11 +3793,6 @@ data3 = {
         "meanings": ["Guest", "Visitor", "Customer", "Client"],
         "readings_on": ["きゃく", "かく"],
         "readings_kun": [],
-        "wk_level": 9,
-        "wk_meanings": ["Guest", "^Customer"],
-        "wk_readings_on": ["きゃく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Roof", "Winter", "Mouth"]
     },
     "相": {
         "strokes": 9,
@@ -5383,11 +3803,6 @@ data3 = {
         "meanings": ["Inter-", "Mutual", "Together", "Each Other", "Minister Of State", "Councillor", "Aspect", "Phase", "Physiognomy"],
         "readings_on": ["そう", "しょう"],
         "readings_kun": ["あい-"],
-        "wk_level": 9,
-        "wk_meanings": ["Mutual"],
-        "wk_readings_on": ["そう", "しょう"],
-        "wk_readings_kun": ["!あい"],
-        "wk_radicals": ["Tree", "Eye"]
     },
     "美": {
         "strokes": 9,
@@ -5398,11 +3813,6 @@ data3 = {
         "meanings": ["Beauty", "Beautiful"],
         "readings_on": ["び", "み"],
         "readings_kun": ["うつく.しい"],
-        "wk_level": 9,
-        "wk_meanings": ["Beauty", "^Beautiful"],
-        "wk_readings_on": ["び", "み"],
-        "wk_readings_kun": ["!うつく"],
-        "wk_radicals": ["Horns", "King", "Big"]
     },
     "負": {
         "strokes": 9,
@@ -5413,11 +3823,6 @@ data3 = {
         "meanings": ["Defeat", "Negative", "-", "Minus", "Bear", "Owe", "Assume A Responsibility"],
         "readings_on": ["ふ"],
         "readings_kun": ["ま.ける", "ま.かす", "お.う"],
-        "wk_level": 9,
-        "wk_meanings": ["Lose"],
-        "wk_readings_on": ["ふ"],
-        "wk_readings_kun": ["!ま", "!お"],
-        "wk_radicals": ["Prison", "Shellfish"]
     },
 
     "談": {
@@ -5429,11 +3834,6 @@ data3 = {
         "meanings": ["Discuss", "Talk"],
         "readings_on": ["だん"],
         "readings_kun": [],
-        "wk_level": 9,
-        "wk_meanings": ["Discuss"],
-        "wk_readings_on": ["だん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Say", "Fire"]
     },
     "要": {
         "strokes": 9,
@@ -5444,11 +3844,6 @@ data3 = {
         "meanings": ["Need", "Main Point", "Essence", "Pivot", "Key To"],
         "readings_on": ["よう"],
         "readings_kun": ["い.る", "かなめ"],
-        "wk_level": 9,
-        "wk_meanings": ["Need"],
-        "wk_readings_on": ["よう"],
-        "wk_readings_kun": ["!い", "!かなめ"],
-        "wk_radicals": ["Helicopter", "Woman"]
     },
     "勝": {
         "strokes": 12,
@@ -5459,11 +3854,6 @@ data3 = {
         "meanings": ["Victory", "Win", "Prevail", "Excel"],
         "readings_on": ["しょう"],
         "readings_kun": ["か.つ", "-が.ち", "まさ.る", "すぐ.れる", "かつ"],
-        "wk_level": 9,
-        "wk_meanings": ["Win"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!か"],
-        "wk_radicals": ["Moon", "Gladiator", "Power"]
     },
     "速": {
         "strokes": 10,
@@ -5474,11 +3864,6 @@ data3 = {
         "meanings": ["Quick", "Fast"],
         "readings_on": ["そく"],
         "readings_kun": ["はや.い", "はや-", "はや.める", "すみ.やか"],
-        "wk_level": 10,
-        "wk_meanings": ["Fast"],
-        "wk_readings_on": ["そく"],
-        "wk_readings_kun": ["!はや"],
-        "wk_radicals": ["Scooter", "Bundle"]
     },
     "配": {
         "strokes": 10,
@@ -5489,11 +3874,6 @@ data3 = {
         "meanings": ["Distribute", "Spouse", "Exile", "Rationing"],
         "readings_on": ["はい"],
         "readings_kun": ["くば.る"],
-        "wk_level": 10,
-        "wk_meanings": ["Distribute"],
-        "wk_readings_on": ["はい"],
-        "wk_readings_kun": ["!くば"],
-        "wk_radicals": ["Alcohol", "Oneself"]
     },
     "酒": {
         "strokes": 10,
@@ -5504,11 +3884,6 @@ data3 = {
         "meanings": ["Sake", "Alcohol"],
         "readings_on": ["しゅ"],
         "readings_kun": ["さけ", "さか-"],
-        "wk_level": 10,
-        "wk_meanings": ["Alcohol"],
-        "wk_readings_on": ["しゅ"],
-        "wk_readings_kun": ["!さけ", "!さか"],
-        "wk_radicals": ["Tsunami", "Alcohol"]
     },
 
     "進": {
@@ -5520,11 +3895,6 @@ data3 = {
         "meanings": ["Advance", "Proceed", "Progress", "Promote"],
         "readings_on": ["しん"],
         "readings_kun": ["すす.む", "すす.める"],
-        "wk_level": 10,
-        "wk_meanings": ["Advance"],
-        "wk_readings_on": ["しん"],
-        "wk_readings_kun": ["!すす"],
-        "wk_radicals": ["Scooter", "Turkey"]
     },
     "落": {
         "strokes": 12,
@@ -5535,11 +3905,6 @@ data3 = {
         "meanings": ["Fall", "Drop", "Come Down", "Village", "Hamlet"],
         "readings_on": ["らく"],
         "readings_kun": ["お.ちる", "お.ち", "お.とす"],
-        "wk_level": 10,
-        "wk_meanings": ["Fall"],
-        "wk_readings_on": ["らく"],
-        "wk_readings_kun": ["!お"],
-        "wk_radicals": ["Flowers", "Tsunami", "Kiss"]
     },
     "葉": {
         "strokes": 12,
@@ -5550,11 +3915,6 @@ data3 = {
         "meanings": ["Leaf", "Plane", "Lobe", "Needle", "Blade", "Spear", "Counter For Flat Things", "Fragment", "Piece"],
         "readings_on": ["よう"],
         "readings_kun": ["は"],
-        "wk_level": 10,
-        "wk_meanings": ["Leaf", "^Leaves"],
-        "wk_readings_on": ["!よう"],
-        "wk_readings_kun": ["は", "^ば"],
-        "wk_radicals": ["Flowers", "World", "Tree"]
     },
     "路": {
         "strokes": 13,
@@ -5565,11 +3925,6 @@ data3 = {
         "meanings": ["Path", "Route", "Road", "Distance"],
         "readings_on": ["ろ", "る"],
         "readings_kun": ["-じ", "みち"],
-        "wk_level": 10,
-        "wk_meanings": ["Road"],
-        "wk_readings_on": ["ろ"],
-        "wk_readings_kun": ["!じ", "!みち"],
-        "wk_radicals": ["Foot", "Kiss"]
     },
     "鳴": {
         "strokes": 14,
@@ -5580,11 +3935,6 @@ data3 = {
         "meanings": ["Chirp", "Cry", "Bark", "Sound", "Ring", "Echo", "Honk"],
         "readings_on": ["めい"],
         "readings_kun": ["な.く", "な.る", "な.らす"],
-        "wk_level": 10,
-        "wk_meanings": ["Chirp"],
-        "wk_readings_on": ["!めい"],
-        "wk_readings_kun": ["な"],
-        "wk_radicals": ["Mouth", "Bird"]
     },
     "横": {
         "strokes": 15,
@@ -5595,11 +3945,6 @@ data3 = {
         "meanings": ["Sideways", "Side", "Horizontal", "Width", "Woof", "Unreasonable", "Perverse"],
         "readings_on": ["おう"],
         "readings_kun": ["よこ"],
-        "wk_level": 10,
-        "wk_meanings": ["Side", "^Horizontal"],
-        "wk_readings_on": ["!おう"],
-        "wk_readings_kun": ["よこ"],
-        "wk_radicals": ["Tree", "Yellow"]
     },
     "調": {
         "strokes": 15,
@@ -5610,11 +3955,6 @@ data3 = {
         "meanings": ["Tune", "Tone", "Meter", "Key (music)", "Writing Style", "Prepare", "Exorcise", "Investigate", "Harmonize", "Mediate"],
         "readings_on": ["ちょう"],
         "readings_kun": ["しら.べる", "しら.べ", "ととの.う", "ととの.える"],
-        "wk_level": 10,
-        "wk_meanings": ["Investigate", "^Tone"],
-        "wk_readings_on": ["ちょう"],
-        "wk_readings_kun": ["!しら"],
-        "wk_radicals": ["Say", "Circumference"]
     },
 
     "頭": {
@@ -5626,11 +3966,6 @@ data3 = {
         "meanings": ["Head", "Counter For Large Animals"],
         "readings_on": ["とう", "ず", "と"],
         "readings_kun": ["あたま", "かしら", "-がしら", "かぶり"],
-        "wk_level": 10,
-        "wk_meanings": ["Head"],
-        "wk_readings_on": ["!ず", "!とう"],
-        "wk_readings_kun": ["あたま"],
-        "wk_radicals": ["Beans", "Geoduck"]
     },
     "顔": {
         "strokes": 18,
@@ -5641,11 +3976,6 @@ data3 = {
         "meanings": ["Face", "Expression"],
         "readings_on": ["がん"],
         "readings_kun": ["かお"],
-        "wk_level": 10,
-        "wk_meanings": ["Face"],
-        "wk_readings_on": ["!がん"],
-        "wk_readings_kun": ["かお"],
-        "wk_radicals": ["Stand", "Cliff", "Hair", "Geoduck"]
     },
 
     "最": {
@@ -5657,11 +3987,6 @@ data3 = {
         "meanings": ["Utmost", "Most", "Extreme"],
         "readings_on": ["さい", "しゅ"],
         "readings_kun": ["もっと.も", "つま"],
-        "wk_level": 10,
-        "wk_meanings": ["Most"],
-        "wk_readings_on": ["さい"],
-        "wk_readings_kun": ["!もっと"],
-        "wk_radicals": ["Sun", "Ear", "Stool"]
     },
     "争": {
         "strokes": 6,
@@ -5672,11 +3997,6 @@ data3 = {
         "meanings": ["Contend", "Dispute", "Argue"],
         "readings_on": ["そう"],
         "readings_kun": ["あらそ.う", "いか.でか"],
-        "wk_level": 11,
-        "wk_meanings": ["Conflict"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": ["!あらそ"],
-        "wk_radicals": ["Prison", "Wolverine", "Barb"]
     },
     "伝": {
         "strokes": 6,
@@ -5687,11 +4007,6 @@ data3 = {
         "meanings": ["Transmit", "Go Along", "Walk Along", "Follow", "Report", "Communicate", "Legend", "Tradition"],
         "readings_on": ["でん", "てん"],
         "readings_kun": ["つた.わる", "つた.える", "つた.う", "つだ.う", "-づた.い", "つて"],
-        "wk_level": 11,
-        "wk_meanings": ["Transmit", "^Tell"],
-        "wk_readings_on": ["でん"],
-        "wk_readings_kun": ["!つた", "!つて"],
-        "wk_radicals": ["Leader", "Cloud"]
     },
     "共": {
         "strokes": 6,
@@ -5702,11 +4017,6 @@ data3 = {
         "meanings": ["Together", "Both", "Neither", "All", "And", "Alike", "With"],
         "readings_on": ["きょう"],
         "readings_kun": ["とも", "とも.に", "-ども"],
-        "wk_level": 11,
-        "wk_meanings": ["Together"],
-        "wk_readings_on": ["きょう"],
-        "wk_readings_kun": ["!とも"],
-        "wk_radicals": ["Blackjack", "Fins"]
     },
     "好": {
         "strokes": 6,
@@ -5717,11 +4027,6 @@ data3 = {
         "meanings": ["Fond", "Pleasing", "Like Something"],
         "readings_on": ["こう"],
         "readings_kun": ["この.む", "す.く", "よ.い", "い.い"],
-        "wk_level": 11,
-        "wk_meanings": ["Like"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!す", "!この"],
-        "wk_radicals": ["Woman", "Child"]
     },
     "成": {
         "strokes": 6,
@@ -5732,11 +4037,6 @@ data3 = {
         "meanings": ["Turn Into", "Become", "Get", "Grow", "Elapse", "Reach"],
         "readings_on": ["せい", "じょう"],
         "readings_kun": ["な.る", "な.す", "-な.す"],
-        "wk_level": 11,
-        "wk_meanings": ["Become"],
-        "wk_readings_on": ["せい"],
-        "wk_readings_kun": ["!な"],
-        "wk_radicals": ["Drunkard", "Sword"]
     },
     "老": {
         "strokes": 6,
@@ -5747,11 +4047,6 @@ data3 = {
         "meanings": ["Old Man", "Old Age", "Grow Old"],
         "readings_on": ["ろう"],
         "readings_kun": ["お.いる", "ふ.ける"],
-        "wk_level": 11,
-        "wk_meanings": ["Elderly"],
-        "wk_readings_on": ["ろう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Coffin", "Spoon"]
     },
     "位": {
         "strokes": 7,
@@ -5762,11 +4057,6 @@ data3 = {
         "meanings": ["Rank", "Grade", "Throne", "Crown", "About", "Some"],
         "readings_on": ["い"],
         "readings_kun": ["くらい", "ぐらい"],
-        "wk_level": 11,
-        "wk_meanings": ["Rank"],
-        "wk_readings_on": ["い"],
-        "wk_readings_kun": ["!くらい"],
-        "wk_radicals": ["Leader", "Stand"]
     },
     "初": {
         "strokes": 7,
@@ -5777,11 +4067,6 @@ data3 = {
         "meanings": ["First Time", "Beginning"],
         "readings_on": ["しょ"],
         "readings_kun": ["はじ.め", "はじ.めて", "はつ", "はつ-", "うい-", "-そ.める", "-ぞ.め"],
-        "wk_level": 11,
-        "wk_meanings": ["First"],
-        "wk_readings_on": ["しょ"],
-        "wk_readings_kun": ["!はじ", "!はつ", "!そ", "!ぞ"],
-        "wk_radicals": ["Spirit", "Sword"]
     },
 
     "利": {
@@ -5793,11 +4078,6 @@ data3 = {
         "meanings": ["Profit", "Advantage", "Benefit"],
         "readings_on": ["り"],
         "readings_kun": ["き.く"],
-        "wk_level": 11,
-        "wk_meanings": ["Profit", "^Benefit", "^Advantage"],
-        "wk_readings_on": ["り"],
-        "wk_readings_kun": ["!き"],
-        "wk_radicals": ["Grain", "Knife"]
     },
     "努": {
         "strokes": 7,
@@ -5808,11 +4088,6 @@ data3 = {
         "meanings": ["Toil", "Diligent", "As Much As Possible"],
         "readings_on": ["ど"],
         "readings_kun": ["つと.める"],
-        "wk_level": 11,
-        "wk_meanings": ["Toil"],
-        "wk_readings_on": ["ど"],
-        "wk_readings_kun": ["!つと"],
-        "wk_radicals": ["Woman", "Stool", "Power"]
     },
     "労": {
         "strokes": 7,
@@ -5823,11 +4098,6 @@ data3 = {
         "meanings": ["Labor", "Thank For", "Reward For", "Toil", "Trouble"],
         "readings_on": ["ろう"],
         "readings_kun": ["ろう.する", "いたわ.る", "いた.ずき", "ねぎら", "つか.れる", "ねぎら.う"],
-        "wk_level": 11,
-        "wk_meanings": ["Labor"],
-        "wk_readings_on": ["ろう"],
-        "wk_readings_kun": ["!いたわ"],
-        "wk_radicals": ["Viking", "Power"]
     },
     "命": {
         "strokes": 8,
@@ -5838,11 +4108,6 @@ data3 = {
         "meanings": ["Fate", "Command", "Decree", "Destiny", "Life", "Appoint"],
         "readings_on": ["めい", "みょう"],
         "readings_kun": ["いのち"],
-        "wk_level": 11,
-        "wk_meanings": ["Fate"],
-        "wk_readings_on": ["めい", "みょう"],
-        "wk_readings_kun": ["!いのち"],
-        "wk_radicals": ["Orders", "Mouth"]
     },
     "放": {
         "strokes": 8,
@@ -5853,11 +4118,6 @@ data3 = {
         "meanings": ["Set Free", "Release", "Fire", "Shoot", "Emit", "Banish", "Liberate"],
         "readings_on": ["ほう"],
         "readings_kun": ["はな.す", "-っぱな.し", "はな.つ", "はな.れる", "こ.く", "ほう.る"],
-        "wk_level": 11,
-        "wk_meanings": ["Release"],
-        "wk_readings_on": ["ほう"],
-        "wk_readings_kun": ["!はな", "!ほう"],
-        "wk_radicals": ["Direction", "Winter"]
     },
     "昔": {
         "strokes": 8,
@@ -5868,11 +4128,6 @@ data3 = {
         "meanings": ["Once Upon A Time", "Antiquity", "Old Times"],
         "readings_on": ["せき", "しゃく"],
         "readings_kun": ["むかし"],
-        "wk_level": 11,
-        "wk_meanings": ["Long Ago", "^Long Time Ago"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["むかし"],
-        "wk_radicals": ["Blackjack", "Sun"]
     },
     "育": {
         "strokes": 8,
@@ -5883,11 +4138,6 @@ data3 = {
         "meanings": ["Bring Up", "Grow Up", "Raise", "Rear"],
         "readings_on": ["いく"],
         "readings_kun": ["そだ.つ", "そだ.ち", "そだ.てる", "はぐく.む"],
-        "wk_level": 11,
-        "wk_meanings": ["Nurture", "^Raise"],
-        "wk_readings_on": ["いく"],
-        "wk_readings_kun": ["!そだ", "!はぐく"],
-        "wk_radicals": ["Trash", "Moon"]
     },
     "指": {
         "strokes": 9,
@@ -5898,11 +4148,6 @@ data3 = {
         "meanings": ["Finger", "Point To", "Indicate", "Put Into", "Play (chess)", "Measure (ruler)"],
         "readings_on": ["し"],
         "readings_kun": ["ゆび", "さ.す", "-さ.し"],
-        "wk_level": 11,
-        "wk_meanings": ["Finger"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!ゆび", "!さ"],
-        "wk_radicals": ["Fingers", "Spoon", "Sun"]
     },
 
     "神": {
@@ -5914,11 +4159,6 @@ data3 = {
         "meanings": ["Gods", "Mind", "Soul"],
         "readings_on": ["しん", "じん"],
         "readings_kun": ["かみ", "かん-", "こう-"],
-        "wk_level": 11,
-        "wk_meanings": ["God"],
-        "wk_readings_on": ["しん"],
-        "wk_readings_kun": ["!かみ"],
-        "wk_radicals": ["Spirit", "Humble"]
     },
     "追": {
         "strokes": 9,
@@ -5929,11 +4169,6 @@ data3 = {
         "meanings": ["Chase", "Drive Away", "Follow", "Pursue", "Meanwhile"],
         "readings_on": ["つい"],
         "readings_kun": ["お.う"],
-        "wk_level": 11,
-        "wk_meanings": ["Follow", "^Chase"],
-        "wk_readings_on": ["!つい"],
-        "wk_readings_kun": ["お"],
-        "wk_radicals": ["Scooter", "Bear"]
     },
     "戦": {
         "strokes": 13,
@@ -5944,11 +4179,6 @@ data3 = {
         "meanings": ["War", "Battle", "Match"],
         "readings_on": ["せん"],
         "readings_kun": ["いくさ", "たたか.う", "おのの.く", "そよ.ぐ", "わなな.く"],
-        "wk_level": 11,
-        "wk_meanings": ["War", "^Battle"],
-        "wk_readings_on": ["せん"],
-        "wk_readings_kun": ["!たたか"],
-        "wk_radicals": ["Simple", "Drunkard"]
     },
     "良": {
         "strokes": 7,
@@ -5959,11 +4189,6 @@ data3 = {
         "meanings": ["Good", "Pleasing", "Skilled"],
         "readings_on": ["りょう"],
         "readings_kun": ["よ.い", "-よ.い", "い.い", "-い.い"],
-        "wk_level": 11,
-        "wk_meanings": ["Good"],
-        "wk_readings_on": ["りょう"],
-        "wk_readings_kun": ["!よ", "!い"],
-        "wk_radicals": ["Drop", "Root"]
     },
     "便": {
         "strokes": 9,
@@ -5974,11 +4199,6 @@ data3 = {
         "meanings": ["Convenience", "Facility", "Excrement", "Feces", "Letter", "Chance"],
         "readings_on": ["べん", "びん"],
         "readings_kun": ["たよ.り"],
-        "wk_level": 11,
-        "wk_meanings": ["Convenience", "^Convenient"],
-        "wk_readings_on": ["べん", "びん"],
-        "wk_readings_kun": ["!たよ"],
-        "wk_radicals": ["Leader", "Ground", "Rice Paddy", "Treasure"]
     },
     "働": {
         "strokes": 13,
@@ -5989,11 +4209,6 @@ data3 = {
         "meanings": ["Work", "(kokuji)"],
         "readings_on": ["どう"],
         "readings_kun": ["はたら.く"],
-        "wk_level": 11,
-        "wk_meanings": ["Work", "^Labor"],
-        "wk_readings_on": ["どう"],
-        "wk_readings_kun": ["!はたら"],
-        "wk_radicals": ["Leader", "Heavy", "Power"]
     },
     "庭": {
         "strokes": 10,
@@ -6004,11 +4219,6 @@ data3 = {
         "meanings": ["Courtyard", "Garden", "Yard"],
         "readings_on": ["てい"],
         "readings_kun": ["にわ"],
-        "wk_level": 12,
-        "wk_meanings": ["Garden"],
-        "wk_readings_on": ["てい"],
-        "wk_readings_kun": ["!にわ"],
-        "wk_radicals": ["Canopy", "Yoga", "King"]
     },
     "息": {
         "strokes": 10,
@@ -6019,11 +4229,6 @@ data3 = {
         "meanings": ["Breath", "Respiration", "Son", "Interest (on Money)"],
         "readings_on": ["そく"],
         "readings_kun": ["いき"],
-        "wk_level": 12,
-        "wk_meanings": ["Breath"],
-        "wk_readings_on": ["そく"],
-        "wk_readings_kun": ["!いき"],
-        "wk_radicals": ["Self", "Heart"]
     },
     "流": {
         "strokes": 10,
@@ -6034,11 +4239,6 @@ data3 = {
         "meanings": ["Current", "A Sink", "Flow", "Forfeit"],
         "readings_on": ["りゅう", "る"],
         "readings_kun": ["なが.れる", "なが.れ", "なが.す", "-なが.す"],
-        "wk_level": 12,
-        "wk_meanings": ["Stream"],
-        "wk_readings_on": ["りゅう", "^る"],
-        "wk_readings_kun": ["!なが"],
-        "wk_radicals": ["Tsunami", "Trash", "River"]
     },
     "消": {
         "strokes": 10,
@@ -6049,11 +4249,6 @@ data3 = {
         "meanings": ["Extinguish", "Blow Out", "Turn Off", "Neutralize", "Cancel"],
         "readings_on": ["しょう"],
         "readings_kun": ["き.える", "け.す"],
-        "wk_level": 12,
-        "wk_meanings": ["Extinguish"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!き", "!け"],
-        "wk_radicals": ["Tsunami", "Triceratops", "Moon"]
     },
     "都": {
         "strokes": 11,
@@ -6064,11 +4259,6 @@ data3 = {
         "meanings": ["Metropolis", "Capital", "All", "Everything"],
         "readings_on": ["と", "つ"],
         "readings_kun": ["みやこ"],
-        "wk_level": 12,
-        "wk_meanings": ["Metropolis"],
-        "wk_readings_on": ["と", "^つ"],
-        "wk_readings_kun": ["!みやこ"],
-        "wk_radicals": ["Someone", "Building"]
     },
 
     "商": {
@@ -6080,11 +4270,6 @@ data3 = {
         "meanings": ["Make A Deal", "Selling", "Dealing In", "Merchant"],
         "readings_on": ["しょう"],
         "readings_kun": ["あきな.う"],
-        "wk_level": 12,
-        "wk_meanings": ["Merchandise"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!あきな"],
-        "wk_radicals": ["Stand", "Mustache", "Legs"]
     },
 
 
@@ -6097,11 +4282,6 @@ data3 = {
         "meanings": ["Deep", "Heighten", "Intensify", "Strengthen"],
         "readings_on": ["しん"],
         "readings_kun": ["ふか.い", "-ぶか.い", "ふか.まる", "ふか.める", "み-"],
-        "wk_level": 12,
-        "wk_meanings": ["Deep"],
-        "wk_readings_on": ["しん"],
-        "wk_readings_kun": ["!ふか"],
-        "wk_radicals": ["Tsunami", "Pi", "Tree"]
     },
     "球": {
         "strokes": 11,
@@ -6112,11 +4292,6 @@ data3 = {
         "meanings": ["Ball", "Sphere"],
         "readings_on": ["きゅう"],
         "readings_kun": ["たま"],
-        "wk_level": 12,
-        "wk_meanings": ["Sphere", "^Ball"],
-        "wk_readings_on": ["きゅう"],
-        "wk_readings_kun": ["!たま"],
-        "wk_radicals": ["King", "Request"]
     },
     "陽": {
         "strokes": 12,
@@ -6127,11 +4302,6 @@ data3 = {
         "meanings": ["Sunshine", "Yang Principle", "Positive", "Male", "Heaven", "Daytime"],
         "readings_on": ["よう"],
         "readings_kun": ["ひ"],
-        "wk_level": 12,
-        "wk_meanings": ["Sunshine", "^Sunlight"],
-        "wk_readings_on": ["よう"],
-        "wk_readings_kun": ["!ひ"],
-        "wk_radicals": ["Building", "Easy"]
     },
     "寒": {
         "strokes": 12,
@@ -6142,11 +4312,6 @@ data3 = {
         "meanings": ["Cold"],
         "readings_on": ["かん"],
         "readings_kun": ["さむ.い"],
-        "wk_level": 12,
-        "wk_meanings": ["Cold"],
-        "wk_readings_on": ["!かん"],
-        "wk_readings_kun": ["さむ"],
-        "wk_radicals": ["Roof", "Spring", "Ice"]
     },
     "悲": {
         "strokes": 12,
@@ -6157,11 +4322,6 @@ data3 = {
         "meanings": ["Grieve", "Sad", "Deplore", "Regret"],
         "readings_on": ["ひ"],
         "readings_kun": ["かな.しい", "かな.しむ"],
-        "wk_level": 17,
-        "wk_meanings": ["Sad"],
-        "wk_readings_on": ["ひ"],
-        "wk_readings_kun": ["!かな"],
-        "wk_radicals": ["Criminal", "Heart"]
     },
     "期": {
         "strokes": 12,
@@ -6172,11 +4332,6 @@ data3 = {
         "meanings": ["Period", "Time", "Date", "Term"],
         "readings_on": ["き", "ご"],
         "readings_kun": [],
-        "wk_level": 12,
-        "wk_meanings": ["Period Of Time", "^Time Period"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Crab", "Moon"]
     },
     "歯": {
         "strokes": 12,
@@ -6187,11 +4342,6 @@ data3 = {
         "meanings": ["Tooth", "Cog"],
         "readings_on": ["し"],
         "readings_kun": ["よわい", "は", "よわ.い", "よわい.する"],
-        "wk_level": 12,
-        "wk_meanings": ["Tooth", "^Teeth"],
-        "wk_readings_on": ["!し"],
-        "wk_readings_kun": ["は"],
-        "wk_radicals": ["Stop", "Box", "Rice"]
     },
     "港": {
         "strokes": 12,
@@ -6202,11 +4352,6 @@ data3 = {
         "meanings": ["Harbor"],
         "readings_on": ["こう"],
         "readings_kun": ["みなと"],
-        "wk_level": 12,
-        "wk_meanings": ["Harbor", "^Port", "^Harbour"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!みなと"],
-        "wk_radicals": ["Tsunami", "Together", "Oneself"]
     },
     "登": {
         "strokes": 12,
@@ -6217,11 +4362,6 @@ data3 = {
         "meanings": ["Ascend", "Climb Up"],
         "readings_on": ["とう", "と", "どう", "しょう", "ちょう"],
         "readings_kun": ["のぼ.る", "あ.がる"],
-        "wk_level": 12,
-        "wk_meanings": ["Climb"],
-        "wk_readings_on": ["とう", "と"],
-        "wk_readings_kun": ["!のぼ"],
-        "wk_radicals": ["Tent", "Beans"]
     },
     "亡": {
         "strokes": 3,
@@ -6232,11 +4372,6 @@ data3 = {
         "meanings": ["Deceased", "The Late", "Dying", "Perish"],
         "readings_on": ["ぼう", "もう"],
         "readings_kun": ["な.い", "な.き-", "ほろ.びる", "ほろ.ぶ", "ほろ.ぼす"],
-        "wk_level": 6,
-        "wk_meanings": ["Death", "^Deceased"],
-        "wk_readings_on": ["ぼう"],
-        "wk_readings_kun": ["!な"],
-        "wk_radicals": ["Death"]
     },
     "合": {
         "strokes": 6,
@@ -6247,11 +4382,6 @@ data3 = {
         "meanings": ["Fit", "Suit", "Join", "0.1"],
         "readings_on": ["ごう", "がっ", "かっ"],
         "readings_kun": ["あ.う", "-あ.う", "あ.い", "あい-", "-あ.い", "-あい", "あ.わす", "あ.わせる", "-あ.わせる"],
-        "wk_level": 12,
-        "wk_meanings": ["Suit", "^Fit", "^Join"],
-        "wk_readings_on": ["ごう", "がっ"],
-        "wk_readings_kun": ["!あ", "!あい"],
-        "wk_radicals": ["Suit"]
     },
 
     "予": {
@@ -6263,11 +4393,6 @@ data3 = {
         "meanings": ["Beforehand", "Previous", "Myself", "I"],
         "readings_on": ["よ", "しゃ"],
         "readings_kun": ["あらかじ.め"],
-        "wk_level": 9,
-        "wk_meanings": ["Beforehand"],
-        "wk_readings_on": ["よ"],
-        "wk_readings_kun": ["!あらかじ"],
-        "wk_radicals": ["Mama", "Street"]
     },
     "反": {
         "strokes": 4,
@@ -6278,11 +4403,6 @@ data3 = {
         "meanings": ["Anti-"],
         "readings_on": ["はん", "ほん", "たん", "ほ"],
         "readings_kun": ["そ.る", "そ.らす", "かえ.す", "かえ.る", "-かえ.る"],
-        "wk_level": 8,
-        "wk_meanings": ["Anti"],
-        "wk_readings_on": ["はん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Cliff", "Stool"]
     },
 
     "返": {
@@ -6294,11 +4414,6 @@ data3 = {
         "meanings": ["Return", "Answer", "Fade", "Repay"],
         "readings_on": ["へん"],
         "readings_kun": ["かえ.す", "-かえ.す", "かえ.る", "-かえ.る"],
-        "wk_level": 9,
-        "wk_meanings": ["Return"],
-        "wk_readings_on": ["へん"],
-        "wk_readings_kun": ["!かえ"],
-        "wk_radicals": ["Scooter", "Anti"]
     },
 
     "宿": {
@@ -6310,11 +4425,6 @@ data3 = {
         "meanings": ["Inn", "Lodging", "Relay Station", "Dwell", "Lodge", "Be Pregnant", "Home", "Dwelling"],
         "readings_on": ["しゅく"],
         "readings_kun": ["やど", "やど.る", "やど.す"],
-        "wk_level": 13,
-        "wk_meanings": ["Lodge"],
-        "wk_readings_on": ["しゅく"],
-        "wk_readings_kun": ["!やど"],
-        "wk_radicals": ["Roof", "Leader", "Hundred"]
     },
     "想": {
         "strokes": 13,
@@ -6325,11 +4435,6 @@ data3 = {
         "meanings": ["Concept", "Think", "Idea", "Thought"],
         "readings_on": ["そう", "そ"],
         "readings_kun": ["おも.う"],
-        "wk_level": 13,
-        "wk_meanings": ["Concept"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tree", "Eye", "Heart"]
     },
     "感": {
         "strokes": 13,
@@ -6340,11 +4445,6 @@ data3 = {
         "meanings": ["Emotion", "Feeling", "Sensation"],
         "readings_on": ["かん"],
         "readings_kun": [],
-        "wk_level": 13,
-        "wk_meanings": ["Feeling"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Slide", "Drunkard", "Creeper", "Heart"]
     },
     "暗": {
         "strokes": 13,
@@ -6355,11 +4455,6 @@ data3 = {
         "meanings": ["Darkness", "Disappear", "Shade", "Informal", "Grow Dark", "Be Blinded"],
         "readings_on": ["あん"],
         "readings_kun": ["くら.い", "くら.む", "くれ.る"],
-        "wk_level": 13,
-        "wk_meanings": ["Dark"],
-        "wk_readings_on": ["あん"],
-        "wk_readings_kun": ["!くら", "!くれ"],
-        "wk_radicals": ["Sun", "Stand"]
     },
     "様": {
         "strokes": 14,
@@ -6370,11 +4465,6 @@ data3 = {
         "meanings": ["Esq.", "Way", "Manner", "Situation", "Polite Suffix"],
         "readings_on": ["よう", "しょう"],
         "readings_kun": ["さま", "さん"],
-        "wk_level": 13,
-        "wk_meanings": ["Formal Name Title", "^Formal Name Ender", "^Manner"],
-        "wk_readings_on": ["!よう"],
-        "wk_readings_kun": ["さま"],
-        "wk_radicals": ["Tree", "Sheep", "Water"]
     },
     "福": {
         "strokes": 13,
@@ -6385,11 +4475,6 @@ data3 = {
         "meanings": ["Blessing", "Fortune", "Luck", "Wealth"],
         "readings_on": ["ふく"],
         "readings_kun": [],
-        "wk_level": 13,
-        "wk_meanings": ["Luck", "^Fortune"],
-        "wk_readings_on": ["ふく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Spirit", "Scarecrow"]
     },
     "殺": {
         "strokes": 10,
@@ -6400,11 +4485,6 @@ data3 = {
         "meanings": ["Kill", "Murder", "Butcher", "Slice Off", "Split", "Diminish", "Reduce", "Spoil"],
         "readings_on": ["さつ", "さい", "せつ"],
         "readings_kun": ["ころ.す", "-ごろ.し", "そ.ぐ"],
-        "wk_level": 13,
-        "wk_meanings": ["Kill"],
-        "wk_readings_on": ["さつ"],
-        "wk_readings_kun": ["!ころ"],
-        "wk_radicals": ["Treasure", "Tree", "Weapon"]
     },
     "然": {
         "strokes": 12,
@@ -6415,11 +4495,6 @@ data3 = {
         "meanings": ["Sort Of Thing", "So", "If So", "In That Case", "Well"],
         "readings_on": ["ぜん", "ねん"],
         "readings_kun": ["しか", "しか.り", "しか.し", "さ"],
-        "wk_level": 13,
-        "wk_meanings": ["Nature"],
-        "wk_readings_on": ["ぜん", "^ねん"],
-        "wk_readings_kun": ["!しか", "!さ"],
-        "wk_radicals": ["Moon", "Dog", "Boil"]
     },
     "熱": {
         "strokes": 15,
@@ -6430,11 +4505,6 @@ data3 = {
         "meanings": ["Heat", "Temperature", "Fever", "Mania", "Passion"],
         "readings_on": ["ねつ"],
         "readings_kun": ["あつ.い"],
-        "wk_level": 13,
-        "wk_meanings": ["Heat", "^Fever"],
-        "wk_readings_on": ["ねつ"],
-        "wk_readings_kun": ["!あつ"],
-        "wk_radicals": ["Womb", "Circle", "Boil"]
     },
     "選": {
         "strokes": 15,
@@ -6445,11 +4515,6 @@ data3 = {
         "meanings": ["Elect", "Select", "Choose", "Prefer"],
         "readings_on": ["せん"],
         "readings_kun": ["えら.ぶ"],
-        "wk_level": 13,
-        "wk_meanings": ["Choose"],
-        "wk_readings_on": ["せん"],
-        "wk_readings_kun": ["!えら"],
-        "wk_radicals": ["Scooter", "Oneself", "Together"]
     },
     "願": {
         "strokes": 19,
@@ -6460,11 +4525,6 @@ data3 = {
         "meanings": ["Petition", "Request", "Vow", "Wish", "Hope"],
         "readings_on": ["がん"],
         "readings_kun": ["ねが.う", "-ねがい"],
-        "wk_level": 13,
-        "wk_meanings": ["Request"],
-        "wk_readings_on": ["がん"],
-        "wk_readings_kun": ["!ねが", "!ねがい"],
-        "wk_radicals": ["Original", "Geoduck"]
     },
     "情": {
         "strokes": 11,
@@ -6475,11 +4535,6 @@ data3 = {
         "meanings": ["Feelings", "Emotion", "Passion", "Sympathy", "Circumstances", "Facts"],
         "readings_on": ["じょう", "せい"],
         "readings_kun": ["なさ.け"],
-        "wk_level": 13,
-        "wk_meanings": ["Feeling", "^Emotion"],
-        "wk_readings_on": ["じょう"],
-        "wk_readings_kun": ["!なさけ"],
-        "wk_radicals": ["Soul", "Blue"]
     },
     "疑": {
         "strokes": 14,
@@ -6490,11 +4545,6 @@ data3 = {
         "meanings": ["Doubt", "Distrust", "Be Suspicious", "Question"],
         "readings_on": ["ぎ"],
         "readings_kun": ["うたが.う"],
-        "wk_level": 13,
-        "wk_meanings": ["Doubt"],
-        "wk_readings_on": ["ぎ"],
-        "wk_readings_kun": ["!うたが"],
-        "wk_radicals": ["Spoon", "Mama", "Arrow", "Coat Rack"]
     },
     "皆": {
         "strokes": 9,
@@ -6505,11 +4555,6 @@ data3 = {
         "meanings": ["All", "Everything"],
         "readings_on": ["かい"],
         "readings_kun": ["みな", "みんな"],
-        "wk_level": 13,
-        "wk_meanings": ["All", "^Everyone", "^Everything", "^Everybody"],
-        "wk_readings_on": ["!かい"],
-        "wk_readings_kun": ["みな", "みんな"],
-        "wk_radicals": ["Compare", "White"]
     },
     "例": {
         "strokes": 8,
@@ -6520,11 +4565,6 @@ data3 = {
         "meanings": ["Example", "Custom", "Usage", "Precedent"],
         "readings_on": ["れい"],
         "readings_kun": ["たと.える"],
-        "wk_level": 14,
-        "wk_meanings": ["Example"],
-        "wk_readings_on": ["れい"],
-        "wk_readings_kun": ["!たと"],
-        "wk_radicals": ["Leader", "Yakuza", "Knife"]
     },
     "参": {
         "strokes": 8,
@@ -6535,11 +4575,6 @@ data3 = {
         "meanings": ["Nonplussed", "Three (in Documents)", "Going", "Coming", "Visiting", "Visit", "Be Defeated", "Die", "Be Madly In Love", "Participate", "Take Part In"],
         "readings_on": ["さん", "しん"],
         "readings_kun": ["まい.る", "まい-", "まじわる", "みつ"],
-        "wk_level": 14,
-        "wk_meanings": ["Participate"],
-        "wk_readings_on": ["さん", "^しん"],
-        "wk_readings_kun": ["!まい"],
-        "wk_radicals": ["Private", "Big", "Hair"]
     },
     "完": {
         "strokes": 7,
@@ -6550,11 +4585,6 @@ data3 = {
         "meanings": ["Perfect", "Completion", "End"],
         "readings_on": ["かん"],
         "readings_kun": [],
-        "wk_level": 14,
-        "wk_meanings": ["Perfect"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Roof", "Origin"]
     },
     "念": {
         "strokes": 8,
@@ -6565,11 +4595,6 @@ data3 = {
         "meanings": ["Wish", "Sense", "Idea", "Thought", "Feeling", "Desire", "Attention"],
         "readings_on": ["ねん"],
         "readings_kun": [],
-        "wk_level": 14,
-        "wk_meanings": ["Thought"],
-        "wk_readings_on": ["ねん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Now", "Heart"]
     },
     "折": {
         "strokes": 7,
@@ -6580,11 +4605,6 @@ data3 = {
         "meanings": ["Fold", "Break", "Fracture", "Bend", "Yield", "Submit"],
         "readings_on": ["せつ", "しゃく"],
         "readings_kun": ["お.る", "おり", "お.り", "-お.り", "お.れる"],
-        "wk_level": 14,
-        "wk_meanings": ["Fold", "^Bend"],
-        "wk_readings_on": ["せつ"],
-        "wk_readings_kun": ["!お"],
-        "wk_radicals": ["Fingers", "Axe"]
     },
     "望": {
         "strokes": 11,
@@ -6595,11 +4615,6 @@ data3 = {
         "meanings": ["Ambition", "Full Moon", "Hope", "Desire", "Aspire To", "Expect"],
         "readings_on": ["ぼう", "もう"],
         "readings_kun": ["のぞ.む", "もち"],
-        "wk_level": 14,
-        "wk_meanings": ["Hope"],
-        "wk_readings_on": ["ぼう"],
-        "wk_readings_kun": ["!のぞ"],
-        "wk_radicals": ["Death", "Moon", "King"]
     },
     "束": {
         "strokes": 7,
@@ -6610,11 +4625,6 @@ data3 = {
         "meanings": ["Bundle", "Sheaf", "Ream", "Tie In Bundles", "Govern", "Manage", "Control"],
         "readings_on": ["そく"],
         "readings_kun": ["たば", "たば.ねる", "つか", "つか.ねる"],
-        "wk_level": 14,
-        "wk_meanings": ["Bundle"],
-        "wk_readings_on": ["そく"],
-        "wk_readings_kun": ["!たば"],
-        "wk_radicals": ["Bundle"]
     },
     "残": {
         "strokes": 10,
@@ -6625,11 +4635,6 @@ data3 = {
         "meanings": ["Remainder", "Leftover", "Balance"],
         "readings_on": ["ざん", "さん"],
         "readings_kun": ["のこ.る", "のこ.す", "そこな.う", "のこ.り"],
-        "wk_level": 14,
-        "wk_meanings": ["Remainder"],
-        "wk_readings_on": ["ざん"],
-        "wk_readings_kun": ["!のこ"],
-        "wk_radicals": ["Yakuza", "Bar"]
     },
     "求": {
         "strokes": 7,
@@ -6640,11 +4645,6 @@ data3 = {
         "meanings": ["Request", "Want", "Wish For", "Require", "Demand"],
         "readings_on": ["きゅう", "ぐ"],
         "readings_kun": ["もと.める"],
-        "wk_level": 10,
-        "wk_meanings": ["Request"],
-        "wk_readings_on": ["きゅう"],
-        "wk_readings_kun": ["!もと"],
-        "wk_radicals": ["Ground", "Water", "Drop"]
     },
     "約": {
         "strokes": 9,
@@ -6655,11 +4655,6 @@ data3 = {
         "meanings": ["Promise", "Approximately", "Shrink"],
         "readings_on": ["やく"],
         "readings_kun": ["つづ.まる", "つづ.める", "つづま.やか"],
-        "wk_level": 14,
-        "wk_meanings": ["Promise"],
-        "wk_readings_on": ["やく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Thread", "Pool"]
     },
     "性": {
         "strokes": 8,
@@ -6670,11 +4665,6 @@ data3 = {
         "meanings": ["Sex", "Gender", "Nature"],
         "readings_on": ["せい", "しょう"],
         "readings_kun": ["さが"],
-        "wk_level": 14,
-        "wk_meanings": ["Gender", "^Nature", "^Sex"],
-        "wk_readings_on": ["せい", "しょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Soul", "Life"]
     },
     "格": {
         "strokes": 10,
@@ -6685,11 +4675,6 @@ data3 = {
         "meanings": ["Status", "Rank", "Capacity", "Character", "Case (law, Grammar)"],
         "readings_on": ["かく", "こう", "きゃく", "ごう"],
         "readings_kun": [],
-        "wk_level": 14,
-        "wk_meanings": ["Status"],
-        "wk_readings_on": ["かく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tree", "Kiss"]
     },
     "能": {
         "strokes": 10,
@@ -6700,11 +4685,6 @@ data3 = {
         "meanings": ["Ability", "Talent", "Skill", "Capacity"],
         "readings_on": ["のう"],
         "readings_kun": ["よ.く"],
-        "wk_level": 14,
-        "wk_meanings": ["Ability"],
-        "wk_readings_on": ["のう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Private", "Moon", "Spoon"]
     },
     "術": {
         "strokes": 11,
@@ -6715,11 +4695,6 @@ data3 = {
         "meanings": ["Art", "Technique", "Skill", "Means", "Trick", "Resources", "Magic"],
         "readings_on": ["じゅつ"],
         "readings_kun": ["すべ"],
-        "wk_level": 14,
-        "wk_meanings": ["Art"],
-        "wk_readings_on": ["じゅつ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Go", "Angel", "Drop"]
     },
     "晴": {
         "strokes": 12,
@@ -6730,11 +4705,6 @@ data3 = {
         "meanings": ["Clear Up"],
         "readings_on": ["せい"],
         "readings_kun": ["は.れる", "は.れ", "は.れ-", "-ば.れ", "は.らす"],
-        "wk_level": 15,
-        "wk_meanings": ["Clear Up"],
-        "wk_readings_on": ["!せい"],
-        "wk_readings_kun": ["は"],
-        "wk_radicals": ["Sun", "Blue"]
     },
 
     "列": {
@@ -6746,11 +4716,6 @@ data3 = {
         "meanings": ["File", "Row", "Rank", "Tier", "Column"],
         "readings_on": ["れつ", "れ"],
         "readings_kun": [],
-        "wk_level": 15,
-        "wk_meanings": ["Row"],
-        "wk_readings_on": ["れつ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Yakuza", "Knife"]
     },
     "式": {
         "strokes": 6,
@@ -6761,11 +4726,6 @@ data3 = {
         "meanings": ["Style", "Ceremony", "Rite", "Function", "Method", "System", "Form", "Expression"],
         "readings_on": ["しき"],
         "readings_kun": [],
-        "wk_level": 15,
-        "wk_meanings": ["Ritual", "^Ceremony", "^Equation"],
-        "wk_readings_on": ["しき"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Ceremony", "Construction"]
     },
     "信": {
         "strokes": 9,
@@ -6776,11 +4736,6 @@ data3 = {
         "meanings": ["Faith", "Truth", "Fidelity", "Trust"],
         "readings_on": ["しん"],
         "readings_kun": [],
-        "wk_level": 15,
-        "wk_meanings": ["Believe", "^Trust"],
-        "wk_readings_on": ["しん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Say"]
     },
     "単": {
         "strokes": 9,
@@ -6791,11 +4746,6 @@ data3 = {
         "meanings": ["Simple", "One", "Single", "Merely"],
         "readings_on": ["たん"],
         "readings_kun": ["ひとえ"],
-        "wk_level": 15,
-        "wk_meanings": ["Simple"],
-        "wk_readings_on": ["たん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Simple"]
     },
     "変": {
         "strokes": 9,
@@ -6806,11 +4756,6 @@ data3 = {
         "meanings": ["Unusual", "Change", "Strange"],
         "readings_on": ["へん"],
         "readings_kun": ["か.わる", "か.わり", "か.える"],
-        "wk_level": 15,
-        "wk_meanings": ["Change", "^Strange"],
-        "wk_readings_on": ["へん"],
-        "wk_readings_kun": ["!か"],
-        "wk_radicals": ["Red", "Winter"]
     },
     "夫": {
         "strokes": 4,
@@ -6821,11 +4766,6 @@ data3 = {
         "meanings": ["Husband", "Man"],
         "readings_on": ["ふ", "ふう", "ぶ"],
         "readings_kun": ["おっと", "それ"],
-        "wk_level": 15,
-        "wk_meanings": ["Husband"],
-        "wk_readings_on": ["ふう", "ふ"],
-        "wk_readings_kun": ["!おっと"],
-        "wk_radicals": ["Husband"]
     },
 
     "昨": {
@@ -6837,11 +4777,6 @@ data3 = {
         "meanings": ["Yesterday", "Previous"],
         "readings_on": ["さく"],
         "readings_kun": [],
-        "wk_level": 15,
-        "wk_meanings": ["Previous", "^Yesterday"],
-        "wk_readings_on": ["さく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Sun", "Key"]
     },
     "法": {
         "strokes": 8,
@@ -6852,11 +4787,6 @@ data3 = {
         "meanings": ["Method", "Law", "Rule", "Principle", "Model", "System"],
         "readings_on": ["ほう", "はっ", "ほっ", "ふらん"],
         "readings_kun": ["のり"],
-        "wk_level": 15,
-        "wk_meanings": ["Method", "^Law"],
-        "wk_readings_on": ["ほう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tsunami", "Past"]
     },
     "晩": {
         "strokes": 12,
@@ -6867,11 +4797,6 @@ data3 = {
         "meanings": ["Nightfall", "Night"],
         "readings_on": ["ばん"],
         "readings_kun": [],
-        "wk_level": 15,
-        "wk_meanings": ["Night", "^Evening"],
-        "wk_readings_on": ["ばん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Sun", "Excuse"]
     },
     "猫": {
         "strokes": 11,
@@ -6882,11 +4807,6 @@ data3 = {
         "meanings": ["Cat"],
         "readings_on": ["びょう"],
         "readings_kun": ["ねこ"],
-        "wk_level": 15,
-        "wk_meanings": ["Cat"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["ねこ"],
-        "wk_radicals": ["Animal", "Flowers", "Rice Paddy"]
     },
     "園": {
         "strokes": 13,
@@ -6897,11 +4817,6 @@ data3 = {
         "meanings": ["Park", "Garden", "Yard", "Farm"],
         "readings_on": ["えん"],
         "readings_kun": ["その"],
-        "wk_level": 16,
-        "wk_meanings": ["Garden", "^Park"],
-        "wk_readings_on": ["えん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Mouth", "Zombie"]
     },
 
     "遠": {
@@ -6913,11 +4828,6 @@ data3 = {
         "meanings": ["Distant", "Far"],
         "readings_on": ["えん", "おん"],
         "readings_kun": ["とお.い"],
-        "wk_level": 16,
-        "wk_meanings": ["Far"],
-        "wk_readings_on": ["えん"],
-        "wk_readings_kun": ["!とお"],
-        "wk_radicals": ["Scooter", "Zombie"]
     },
     "係": {
         "strokes": 9,
@@ -6928,11 +4838,6 @@ data3 = {
         "meanings": ["Person In Charge", "Connection", "Duty", "Concern Oneself"],
         "readings_on": ["けい"],
         "readings_kun": ["かか.る", "かかり", "-がかり", "かか.わる"],
-        "wk_level": 16,
-        "wk_meanings": ["Connection"],
-        "wk_readings_on": ["けい"],
-        "wk_readings_kun": ["!かか", "!かかり"],
-        "wk_radicals": ["Leader", "Ground", "Thread"]
     },
     "取": {
         "strokes": 8,
@@ -6943,11 +4848,6 @@ data3 = {
         "meanings": ["Take", "Fetch", "Take Up"],
         "readings_on": ["しゅ"],
         "readings_kun": ["と.る", "と.り", "と.り-", "とり", "-ど.り"],
-        "wk_level": 16,
-        "wk_meanings": ["Take"],
-        "wk_readings_on": ["しゅ"],
-        "wk_readings_kun": ["!と"],
-        "wk_radicals": ["Ear", "Stool"]
     },
 
     "守": {
@@ -6959,11 +4859,6 @@ data3 = {
         "meanings": ["Guard", "Protect", "Defend", "Obey"],
         "readings_on": ["しゅ", "す"],
         "readings_kun": ["まも.る", "まも.り", "もり", "-もり", "かみ"],
-        "wk_level": 16,
-        "wk_meanings": ["Protect"],
-        "wk_readings_on": ["す", "^しゅ"],
-        "wk_readings_kun": ["!まも", "!もり"],
-        "wk_radicals": ["Roof", "Measurement"]
     },
     "幸": {
         "strokes": 8,
@@ -6974,11 +4869,6 @@ data3 = {
         "meanings": ["Happiness", "Blessing", "Fortune"],
         "readings_on": ["こう"],
         "readings_kun": ["さいわ.い", "さち", "しあわ.せ"],
-        "wk_level": 16,
-        "wk_meanings": ["Happiness"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!しあわ", "!さいわ", "!さち"],
-        "wk_radicals": ["Lid", "Spicy"]
     },
 
     "箱": {
@@ -6990,11 +4880,6 @@ data3 = {
         "meanings": ["Box", "Chest", "Case", "Bin", "Railway Car"],
         "readings_on": ["そう"],
         "readings_kun": ["はこ"],
-        "wk_level": 16,
-        "wk_meanings": ["Box"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["はこ"],
-        "wk_radicals": ["Bamboo", "Tree", "Eye"]
     },
     "面": {
         "strokes": 9,
@@ -7005,11 +4890,6 @@ data3 = {
         "meanings": ["Mask", "Face", "Features", "Surface"],
         "readings_on": ["めん", "べん"],
         "readings_kun": ["おも", "おもて", "つら"],
-        "wk_level": 16,
-        "wk_meanings": ["Face", "^Surface"],
-        "wk_readings_on": ["めん"],
-        "wk_readings_kun": ["!おも", "!おもて"],
-        "wk_radicals": ["Face"]
     },
     "喜": {
         "strokes": 12,
@@ -7020,11 +4900,6 @@ data3 = {
         "meanings": ["Rejoice", "Take Pleasure In"],
         "readings_on": ["き"],
         "readings_kun": ["よろこ.ぶ", "よろこ.ばす"],
-        "wk_level": 17,
-        "wk_meanings": ["Rejoice", "^Delighted", "^Pleased"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": ["!よろこ"],
-        "wk_radicals": ["Drum", "Mouth"]
     },
     "治": {
         "strokes": 8,
@@ -7035,11 +4910,6 @@ data3 = {
         "meanings": ["Reign", "Be At Peace", "Calm Down", "Subdue", "Quell", "Govt", "Cure", "Heal", "Rule", "Conserve"],
         "readings_on": ["じ", "ち"],
         "readings_kun": ["おさ.める", "おさ.まる", "なお.る", "なお.す"],
-        "wk_level": 16,
-        "wk_meanings": ["Cure", "^Heal", "^Reign", "^Rule"],
-        "wk_readings_on": ["じ", "ち"],
-        "wk_readings_kun": ["!なお"],
-        "wk_radicals": ["Tsunami", "Machine"]
     },
     "笑": {
         "strokes": 10,
@@ -7050,11 +4920,6 @@ data3 = {
         "meanings": ["Laugh"],
         "readings_on": ["しょう"],
         "readings_kun": ["わら.う", "え.む"],
-        "wk_level": 16,
-        "wk_meanings": ["Laugh"],
-        "wk_readings_on": ["!しょう"],
-        "wk_readings_kun": ["わら", "え"],
-        "wk_radicals": ["Bamboo", "Heaven"]
     },
     "辞": {
         "strokes": 13,
@@ -7065,11 +4930,6 @@ data3 = {
         "meanings": ["Resign", "Word", "Term", "Expression"],
         "readings_on": ["じ"],
         "readings_kun": ["や.める", "いな.む"],
-        "wk_level": 16,
-        "wk_meanings": ["Quit", "^Word"],
-        "wk_readings_on": ["じ"],
-        "wk_readings_kun": ["!や"],
-        "wk_radicals": ["Tongue", "Spicy"]
     },
     "関": {
         "strokes": 14,
@@ -7080,11 +4940,6 @@ data3 = {
         "meanings": ["Connection", "Barrier", "Gateway", "Involve", "Concerning"],
         "readings_on": ["かん"],
         "readings_kun": ["せき", "-ぜき", "かか.わる", "からくり", "かんぬき"],
-        "wk_level": 16,
-        "wk_meanings": ["Related", "^Connected"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": ["!かか", "!せき"],
-        "wk_radicals": ["Gate", "Horns", "Heaven"]
     },
     "政": {
         "strokes": 9,
@@ -7095,11 +4950,6 @@ data3 = {
         "meanings": ["Politics", "Government"],
         "readings_on": ["せい", "しょう"],
         "readings_kun": ["まつりごと", "まん"],
-        "wk_level": 16,
-        "wk_meanings": ["Politics", "^Government"],
-        "wk_readings_on": ["せい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Correct", "Winter"]
     },
     "留": {
         "strokes": 10,
@@ -7110,11 +4960,6 @@ data3 = {
         "meanings": ["Detain", "Fasten", "Halt", "Stop"],
         "readings_on": ["りゅう", "る"],
         "readings_kun": ["と.める", "と.まる", "とど.める", "とど.まる", "るうぶる"],
-        "wk_level": 16,
-        "wk_meanings": ["Detain"],
-        "wk_readings_on": ["る", "りゅう"],
-        "wk_readings_kun": ["!と"],
-        "wk_radicals": ["Private", "Sword", "Rice Paddy"]
     },
     "険": {
         "strokes": 11,
@@ -7125,11 +4970,6 @@ data3 = {
         "meanings": ["Precipitous", "Inaccessible Place", "Impregnable Position", "Steep Place", "Sharp Eyes"],
         "readings_on": ["けん"],
         "readings_kun": ["けわ.しい"],
-        "wk_level": 16,
-        "wk_meanings": ["Risky", "^Steep"],
-        "wk_readings_on": ["けん"],
-        "wk_readings_kun": ["!けわ"],
-        "wk_radicals": ["Building", "Squid"]
     },
     "危": {
         "strokes": 6,
@@ -7140,11 +4980,6 @@ data3 = {
         "meanings": ["Dangerous", "Fear", "Uneasy"],
         "readings_on": ["き"],
         "readings_kun": ["あぶ.ない", "あや.うい", "あや.ぶむ"],
-        "wk_level": 16,
-        "wk_meanings": ["Dangerous"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": ["!あぶ", "!あや"],
-        "wk_radicals": ["Prison", "Cliff", "Snake"]
     },
     "存": {
         "strokes": 6,
@@ -7155,11 +4990,6 @@ data3 = {
         "meanings": ["Exist", "Suppose", "Be Aware Of", "Believe", "Feel"],
         "readings_on": ["そん", "ぞん"],
         "readings_kun": ["ながら.える", "あ.る", "たも.つ", "と.う"],
-        "wk_level": 16,
-        "wk_meanings": ["Exist", "^Suppose"],
-        "wk_readings_on": ["そん", "ぞん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Narwhal", "Stick", "Child"]
     },
     "原": {
         "strokes": 10,
@@ -7170,11 +5000,6 @@ data3 = {
         "meanings": ["Meadow", "Original", "Primitive", "Field", "Plain", "Prairie", "Tundra", "Wilderness"],
         "readings_on": ["げん"],
         "readings_kun": ["はら"],
-        "wk_level": 17,
-        "wk_meanings": ["Original", "^Fundamental", "^Field"],
-        "wk_readings_on": ["げん"],
-        "wk_readings_kun": ["!はら"],
-        "wk_radicals": ["Original"]
     },
     "薬": {
         "strokes": 16,
@@ -7185,11 +5010,6 @@ data3 = {
         "meanings": ["Medicine", "Chemical", "Enamel", "Gunpowder", "Benefit"],
         "readings_on": ["やく"],
         "readings_kun": ["くすり"],
-        "wk_level": 17,
-        "wk_meanings": ["Medicine", "^Drug", "^Drugs"],
-        "wk_readings_on": ["やく"],
-        "wk_readings_kun": ["!くすり"],
-        "wk_radicals": ["Flowers", "Comfort"]
     },
     "側": {
         "strokes": 11,
@@ -7200,11 +5020,6 @@ data3 = {
         "meanings": ["Side", "Lean", "Oppose", "Regret"],
         "readings_on": ["そく"],
         "readings_kun": ["かわ", "がわ", "そば"],
-        "wk_level": 17,
-        "wk_meanings": ["Side"],
-        "wk_readings_on": ["!そく"],
-        "wk_readings_kun": ["がわ", "^そば"],
-        "wk_radicals": ["Leader", "Shellfish", "Knife"]
     },
     "席": {
         "strokes": 10,
@@ -7215,11 +5030,6 @@ data3 = {
         "meanings": ["Seat", "Mat", "Occasion", "Place"],
         "readings_on": ["せき"],
         "readings_kun": ["むしろ"],
-        "wk_level": 17,
-        "wk_meanings": ["Seat"],
-        "wk_readings_on": ["せき"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Yurt", "Towel"]
     },
     "敗": {
         "strokes": 11,
@@ -7230,11 +5040,6 @@ data3 = {
         "meanings": ["Failure", "Defeat", "Reversal"],
         "readings_on": ["はい"],
         "readings_kun": ["やぶ.れる"],
-        "wk_level": 17,
-        "wk_meanings": ["Failure", "^Fail"],
-        "wk_readings_on": ["はい"],
-        "wk_readings_kun": ["!やぶ"],
-        "wk_radicals": ["Shellfish", "Winter"]
     },
     "果": {
         "strokes": 8,
@@ -7245,11 +5050,6 @@ data3 = {
         "meanings": ["Fruit", "Reward", "Carry Out", "Achieve", "Complete", "End", "Finish", "Succeed"],
         "readings_on": ["か"],
         "readings_kun": ["は.たす", "はた.す", "-は.たす", "は.てる", "-は.てる", "は.て"],
-        "wk_level": 17,
-        "wk_meanings": ["Fruit"],
-        "wk_readings_on": ["か"],
-        "wk_readings_kun": ["!くだ", "!は"],
-        "wk_radicals": ["Fruit"]
     },
     "因": {
         "strokes": 6,
@@ -7260,11 +5060,6 @@ data3 = {
         "meanings": ["Cause", "Factor", "Be Associated With", "Depend On", "Be Limited To"],
         "readings_on": ["いん"],
         "readings_kun": ["よ.る", "ちな.む"],
-        "wk_level": 17,
-        "wk_meanings": ["Cause"],
-        "wk_readings_on": ["いん"],
-        "wk_readings_kun": ["!よ"],
-        "wk_radicals": ["Mouth", "Big"]
     },
     "常": {
         "strokes": 11,
@@ -7275,11 +5070,6 @@ data3 = {
         "meanings": ["Usual", "Ordinary", "Normal", "Common", "Regular", "Continually", "Always", "Long-lasting"],
         "readings_on": ["じょう"],
         "readings_kun": ["つね", "とこ-"],
-        "wk_level": 17,
-        "wk_meanings": ["Ordinary", "^Normal", "^Usual"],
-        "wk_readings_on": ["じょう"],
-        "wk_readings_kun": ["!つね"],
-        "wk_radicals": ["Viking", "Mouth", "Towel"]
     },
     "識": {
         "strokes": 19,
@@ -7290,11 +5080,6 @@ data3 = {
         "meanings": ["Discriminating", "Know", "Write"],
         "readings_on": ["しき"],
         "readings_kun": ["し.る", "しる.す"],
-        "wk_level": 17,
-        "wk_meanings": ["Discerning", "^Discriminating", "^Know"],
-        "wk_readings_on": ["しき"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Say", "Sound", "Drunkard"]
     },
     "非": {
         "strokes": 8,
@@ -7305,11 +5090,6 @@ data3 = {
         "meanings": ["Un-", "Mistake", "Negative", "Injustice", "Non-"],
         "readings_on": ["ひ"],
         "readings_kun": ["あら.ず"],
-        "wk_level": 17,
-        "wk_meanings": ["Injustice", "^Negative", "^Mistake"],
-        "wk_readings_on": ["ひ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Criminal"]
     },
     "官": {
         "strokes": 8,
@@ -7320,11 +5100,6 @@ data3 = {
         "meanings": ["Bureaucrat", "The Government", "Organ"],
         "readings_on": ["かん"],
         "readings_kun": [],
-        "wk_level": 17,
-        "wk_meanings": ["Government"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Roof", "Bear"]
     },
     "察": {
         "strokes": 14,
@@ -7335,11 +5110,6 @@ data3 = {
         "meanings": ["Guess", "Presume", "Surmise", "Judge", "Understand"],
         "readings_on": ["さつ"],
         "readings_kun": [],
-        "wk_level": 17,
-        "wk_meanings": ["Guess"],
-        "wk_readings_on": ["さつ"],
-        "wk_readings_kun": ["!さっ"],
-        "wk_radicals": ["Roof", "Festival"]
     },
     "愛": {
         "strokes": 13,
@@ -7350,11 +5120,6 @@ data3 = {
         "meanings": ["Love", "Affection", "Favourite"],
         "readings_on": ["あい"],
         "readings_kun": ["いと.しい", "かな.しい", "め.でる", "お.しむ", "まな"],
-        "wk_level": 17,
-        "wk_meanings": ["Love"],
-        "wk_readings_on": ["あい"],
-        "wk_readings_kun": ["!まな"],
-        "wk_radicals": ["Cleat", "Forehead", "Heart", "Winter"]
     },
     "警": {
         "strokes": 19,
@@ -7365,11 +5130,6 @@ data3 = {
         "meanings": ["Admonish", "Commandment"],
         "readings_on": ["けい"],
         "readings_kun": ["いまし.める"],
-        "wk_level": 17,
-        "wk_meanings": ["Warn", "^Admonish"],
-        "wk_readings_on": ["けい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Poem", "Winter", "Say"]
     },
     "覚": {
         "strokes": 12,
@@ -7380,11 +5140,6 @@ data3 = {
         "meanings": ["Memorize", "Learn", "Remember", "Awake", "Sober Up"],
         "readings_on": ["かく"],
         "readings_kun": ["おぼ.える", "さ.ます", "さ.める", "さと.る"],
-        "wk_level": 17,
-        "wk_meanings": ["Memorize", "^Awake"],
-        "wk_readings_on": ["かく"],
-        "wk_readings_kun": ["!おぼ", "!さ"],
-        "wk_radicals": ["Viking", "See"]
     },
     "説": {
         "strokes": 14,
@@ -7395,11 +5150,6 @@ data3 = {
         "meanings": ["Opinion", "Theory", "Explanation", "Rumor"],
         "readings_on": ["せつ", "ぜい"],
         "readings_kun": ["と.く"],
-        "wk_level": 17,
-        "wk_meanings": ["Theory"],
-        "wk_readings_on": ["せつ"],
-        "wk_readings_kun": ["!と"],
-        "wk_radicals": ["Say", "Guard"]
     },
     "告": {
         "strokes": 7,
@@ -7410,11 +5160,6 @@ data3 = {
         "meanings": ["Revelation", "Tell", "Inform", "Announce"],
         "readings_on": ["こく"],
         "readings_kun": ["つ.げる"],
-        "wk_level": 18,
-        "wk_meanings": ["Announce"],
-        "wk_readings_on": ["こく"],
-        "wk_readings_kun": ["!つ"],
-        "wk_radicals": ["Slide", "Dirt", "Mouth"]
     },
     "種": {
         "strokes": 14,
@@ -7425,11 +5170,6 @@ data3 = {
         "meanings": ["Species", "Kind", "Class", "Variety", "Seed"],
         "readings_on": ["しゅ"],
         "readings_kun": ["たね", "-ぐさ"],
-        "wk_level": 18,
-        "wk_meanings": ["Kind", "^Type"],
-        "wk_readings_on": ["しゅ"],
-        "wk_readings_kun": ["!たね", "!ぐさ"],
-        "wk_radicals": ["Grain", "Heavy"]
     },
     "達": {
         "strokes": 12,
@@ -7440,11 +5180,6 @@ data3 = {
         "meanings": ["Accomplished", "Reach", "Arrive", "Attain"],
         "readings_on": ["たつ", "だ"],
         "readings_kun": ["-たち"],
-        "wk_level": 18,
-        "wk_meanings": ["Attain", "^Plural"],
-        "wk_readings_on": ["たつ"],
-        "wk_readings_kun": ["!たち"],
-        "wk_radicals": ["Scooter", "Happiness"]
     },
     "類": {
         "strokes": 18,
@@ -7455,11 +5190,6 @@ data3 = {
         "meanings": ["Sort", "Kind", "Variety", "Class", "Genus"],
         "readings_on": ["るい"],
         "readings_kun": ["たぐ.い"],
-        "wk_level": 18,
-        "wk_meanings": ["Type", "^Category", "^Kind"],
-        "wk_readings_on": ["るい"],
-        "wk_readings_kun": ["!たぐ"],
-        "wk_radicals": ["Rice", "Big", "Geoduck"]
     },
     "報": {
         "strokes": 12,
@@ -7470,11 +5200,6 @@ data3 = {
         "meanings": ["Report", "News", "Reward", "Retribution"],
         "readings_on": ["ほう"],
         "readings_kun": ["むく.いる"],
-        "wk_level": 18,
-        "wk_meanings": ["News", "^Report"],
-        "wk_readings_on": ["ほう"],
-        "wk_readings_kun": ["!むく"],
-        "wk_radicals": ["Happiness", "Stamp", "Stool"]
     },
     "等": {
         "strokes": 12,
@@ -7485,11 +5210,6 @@ data3 = {
         "meanings": ["Etc.", "And So Forth", "Class (first)", "Quality", "Equal", "Similar"],
         "readings_on": ["とう"],
         "readings_kun": ["ひと.しい", "など", "-ら"],
-        "wk_level": 18,
-        "wk_meanings": ["Equal"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": ["!ひと", "!など"],
-        "wk_radicals": ["Bamboo", "Temple"]
     },
     "座": {
         "strokes": 10,
@@ -7500,11 +5220,6 @@ data3 = {
         "meanings": ["Squat", "Seat", "Cushion", "Gathering", "Sit"],
         "readings_on": ["ざ"],
         "readings_kun": ["すわ.る"],
-        "wk_level": 18,
-        "wk_meanings": ["Sit", "^Seat"],
-        "wk_readings_on": ["ざ"],
-        "wk_readings_kun": ["!すわ"],
-        "wk_radicals": ["Canopy", "Person", "Dirt"]
     },
     "忘": {
         "strokes": 7,
@@ -7515,11 +5230,6 @@ data3 = {
         "meanings": ["Forget"],
         "readings_on": ["ぼう"],
         "readings_kun": ["わす.れる"],
-        "wk_level": 18,
-        "wk_meanings": ["Forget"],
-        "wk_readings_on": ["ぼう"],
-        "wk_readings_kun": ["!わす"],
-        "wk_radicals": ["Death", "Heart"]
     },
     "洗": {
         "strokes": 9,
@@ -7530,11 +5240,6 @@ data3 = {
         "meanings": ["Wash", "Inquire Into", "Probe"],
         "readings_on": ["せん"],
         "readings_kun": ["あら.う"],
-        "wk_level": 18,
-        "wk_meanings": ["Wash"],
-        "wk_readings_on": ["せん"],
-        "wk_readings_kun": ["!あら"],
-        "wk_radicals": ["Tsunami", "Previous"]
     },
     "許": {
         "strokes": 11,
@@ -7545,11 +5250,6 @@ data3 = {
         "meanings": ["Permit", "Approve"],
         "readings_on": ["きょ"],
         "readings_kun": ["ゆる.す", "もと"],
-        "wk_level": 18,
-        "wk_meanings": ["Permit", "^Allow"],
-        "wk_readings_on": ["きょ"],
-        "wk_readings_kun": ["!ゆる"],
-        "wk_radicals": ["Say", "Noon"]
     },
     "静": {
         "strokes": 14,
@@ -7560,11 +5260,6 @@ data3 = {
         "meanings": ["Quiet"],
         "readings_on": ["せい", "じょう"],
         "readings_kun": ["しず-", "しず.か", "しず.まる", "しず.める"],
-        "wk_level": 18,
-        "wk_meanings": ["Quiet"],
-        "wk_readings_on": ["せい"],
-        "wk_readings_kun": ["!しず"],
-        "wk_radicals": ["Blue", "Conflict"]
     },
     "煙": {
         "strokes": 13,
@@ -7575,11 +5270,6 @@ data3 = {
         "meanings": ["Smoke"],
         "readings_on": ["えん"],
         "readings_kun": ["けむ.る", "けむり", "けむ.い"],
-        "wk_level": 18,
-        "wk_meanings": ["Smoke"],
-        "wk_readings_on": ["えん"],
-        "wk_readings_kun": ["!けむ", "!けむり"],
-        "wk_radicals": ["Fire", "Helicopter", "Dirt"]
     },
     "加": {
         "strokes": 5,
@@ -7590,11 +5280,6 @@ data3 = {
         "meanings": ["Add", "Addition", "Increase", "Join", "Include", "Canada"],
         "readings_on": ["か"],
         "readings_kun": ["くわ.える", "くわ.わる"],
-        "wk_level": 19,
-        "wk_meanings": ["Add"],
-        "wk_readings_on": ["か"],
-        "wk_readings_kun": ["!くわ"],
-        "wk_radicals": ["Power", "Mouth"]
     },
     "容": {
         "strokes": 10,
@@ -7605,11 +5290,6 @@ data3 = {
         "meanings": ["Contain", "Form", "Looks"],
         "readings_on": ["よう"],
         "readings_kun": ["い.れる"],
-        "wk_level": 19,
-        "wk_meanings": ["Form", "^Appearance", "^Shape", "^Figure"],
-        "wk_readings_on": ["よう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Roof", "Valley"]
     },
     "易": {
         "strokes": 8,
@@ -7620,11 +5300,6 @@ data3 = {
         "meanings": ["Easy", "Ready To", "Simple", "Fortune-telling", "Divination"],
         "readings_on": ["えき", "い"],
         "readings_kun": ["やさ.しい", "やす.い"],
-        "wk_level": 19,
-        "wk_meanings": ["Easy"],
-        "wk_readings_on": ["い", "^えき"],
-        "wk_readings_kun": ["!やさ"],
-        "wk_radicals": ["Easy"]
     },
     "財": {
         "strokes": 10,
@@ -7635,11 +5310,6 @@ data3 = {
         "meanings": ["Property", "Money", "Wealth", "Assets"],
         "readings_on": ["ざい", "さい", "ぞく"],
         "readings_kun": ["たから"],
-        "wk_level": 19,
-        "wk_meanings": ["Wealth"],
-        "wk_readings_on": ["さい", "ざい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Shellfish", "Genius"]
     },
     "若": {
         "strokes": 8,
@@ -7650,11 +5320,6 @@ data3 = {
         "meanings": ["Young", "If", "Perhaps", "Possibly", "Low Number", "Immature"],
         "readings_on": ["じゃく", "にゃく", "にゃ"],
         "readings_kun": ["わか.い", "わか-", "も.しくわ", "も.し", "も.しくは", "ごと.し"],
-        "wk_level": 19,
-        "wk_meanings": ["Young"],
-        "wk_readings_on": ["!じゃく"],
-        "wk_readings_kun": ["わか", "^も"],
-        "wk_radicals": ["Flowers", "Right"]
     },
     "都": {
         "strokes": 11,
@@ -7665,11 +5330,6 @@ data3 = {
         "meanings": ["Metropolis", "Capital", "All", "Everything"],
         "readings_on": ["と", "つ"],
         "readings_kun": ["みやこ"],
-        "wk_level": 12,
-        "wk_meanings": ["Metropolis"],
-        "wk_readings_on": ["と", "^つ"],
-        "wk_readings_kun": ["!みやこ"],
-        "wk_radicals": ["Someone", "Building"]
     },
 
     "商": {
@@ -7681,11 +5341,6 @@ data3 = {
         "meanings": ["Make A Deal", "Selling", "Dealing In", "Merchant"],
         "readings_on": ["しょう"],
         "readings_kun": ["あきな.う"],
-        "wk_level": 12,
-        "wk_meanings": ["Merchandise"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!あきな"],
-        "wk_radicals": ["Stand", "Mustache", "Legs"]
     },
 
 
@@ -7698,11 +5353,6 @@ data3 = {
         "meanings": ["Deep", "Heighten", "Intensify", "Strengthen"],
         "readings_on": ["しん"],
         "readings_kun": ["ふか.い", "-ぶか.い", "ふか.まる", "ふか.める", "み-"],
-        "wk_level": 12,
-        "wk_meanings": ["Deep"],
-        "wk_readings_on": ["しん"],
-        "wk_readings_kun": ["!ふか"],
-        "wk_radicals": ["Tsunami", "Pi", "Tree"]
     },
     "球": {
         "strokes": 11,
@@ -7713,11 +5363,6 @@ data3 = {
         "meanings": ["Ball", "Sphere"],
         "readings_on": ["きゅう"],
         "readings_kun": ["たま"],
-        "wk_level": 12,
-        "wk_meanings": ["Sphere", "^Ball"],
-        "wk_readings_on": ["きゅう"],
-        "wk_readings_kun": ["!たま"],
-        "wk_radicals": ["King", "Request"]
     },
     "忙": {
         "strokes": 6,
@@ -7728,11 +5373,6 @@ data3 = {
         "meanings": ["Busy", "Occupied", "Restless"],
         "readings_on": ["ぼう", "もう"],
         "readings_kun": ["いそが.しい", "せわ.しい", "おそ.れる", "うれえるさま"],
-        "wk_level": 19,
-        "wk_meanings": ["Busy"],
-        "wk_readings_on": ["ぼう"],
-        "wk_readings_kun": ["!いそが"],
-        "wk_radicals": ["Soul", "Death"]
     },
     "徒": {
         "strokes": 10,
@@ -7743,11 +5383,6 @@ data3 = {
         "meanings": ["On Foot", "Junior", "Emptiness", "Vanity", "Futility", "Uselessness", "Ephemeral Thing", "Gang", "Set", "Party", "People"],
         "readings_on": ["と"],
         "readings_kun": ["いたずら", "あだ"],
-        "wk_level": 19,
-        "wk_meanings": ["Junior", "^Follower"],
-        "wk_readings_on": ["と"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Loiter", "Run"]
     },
     "得": {
         "strokes": 11,
@@ -7758,11 +5393,6 @@ data3 = {
         "meanings": ["Gain", "Get", "Find", "Earn", "Acquire", "Can", "May", "Able To", "Profit", "Advantage", "Benefit"],
         "readings_on": ["とく"],
         "readings_kun": ["え.る", "う.る"],
-        "wk_level": 19,
-        "wk_meanings": ["Acquire"],
-        "wk_readings_on": ["とく"],
-        "wk_readings_kun": ["!え", "!う"],
-        "wk_radicals": ["Loiter", "Sun", "Temple"]
     },
     "続": {
         "strokes": 13,
@@ -7773,11 +5403,6 @@ data3 = {
         "meanings": ["Continue", "Series", "Sequel"],
         "readings_on": ["ぞく", "しょく", "こう", "きょう"],
         "readings_kun": ["つづ.く", "つづ.ける", "つぐ.ない"],
-        "wk_level": 19,
-        "wk_meanings": ["Continue"],
-        "wk_readings_on": ["ぞく"],
-        "wk_readings_kun": ["!つづ"],
-        "wk_radicals": ["Thread", "Sell"]
     },
     "連": {
         "strokes": 10,
@@ -7788,11 +5413,6 @@ data3 = {
         "meanings": ["Take Along", "Lead", "Join", "Connect", "Party", "Gang", "Clique"],
         "readings_on": ["れん"],
         "readings_kun": ["つら.なる", "つら.ねる", "つ.れる", "-づ.れ"],
-        "wk_level": 19,
-        "wk_meanings": ["Take Along"],
-        "wk_readings_on": ["れん"],
-        "wk_readings_kun": ["!つ", "!つら"],
-        "wk_radicals": ["Scooter", "Car"]
     },
     "困": {
         "strokes": 7,
@@ -7803,11 +5423,6 @@ data3 = {
         "meanings": ["Quandary", "Become Distressed", "Annoyed"],
         "readings_on": ["こん"],
         "readings_kun": ["こま.る"],
-        "wk_level": 20,
-        "wk_meanings": ["Distressed", "^Troubled"],
-        "wk_readings_on": ["こん"],
-        "wk_readings_kun": ["!こま"],
-        "wk_radicals": ["Mouth", "Tree"]
     },
     "機": {
         "strokes": 16,
@@ -7818,11 +5433,6 @@ data3 = {
         "meanings": ["Loom", "Mechanism", "Machine", "Airplane", "Opportunity", "Potency", "Efficacy", "Occasion"],
         "readings_on": ["き"],
         "readings_kun": ["はた"],
-        "wk_level": 20,
-        "wk_meanings": ["Machine"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": ["!はた"],
-        "wk_radicals": ["Tree", "Poop", "Drunkard", "Person"]
     },
     "飛": {
         "strokes": 9,
@@ -7833,11 +5443,6 @@ data3 = {
         "meanings": ["Fly", "Skip (pages)", "Scatter"],
         "readings_on": ["ひ"],
         "readings_kun": ["と.ぶ", "と.ばす", "-と.ばす"],
-        "wk_level": 20,
-        "wk_meanings": ["Fly"],
-        "wk_readings_on": ["ひ"],
-        "wk_readings_kun": ["!と"],
-        "wk_radicals": ["Fly"]
     },
     "害": {
         "strokes": 10,
@@ -7848,11 +5453,6 @@ data3 = {
         "meanings": ["Harm", "Injury"],
         "readings_on": ["がい"],
         "readings_kun": [],
-        "wk_level": 20,
-        "wk_meanings": ["Damage", "^Injury", "^Harm"],
-        "wk_readings_on": ["がい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Roof", "Life", "Mouth"]
     },
     "余": {
         "strokes": 7,
@@ -7863,11 +5463,6 @@ data3 = {
         "meanings": ["Too Much", "Myself", "Surplus", "Other", "Remainder"],
         "readings_on": ["よ"],
         "readings_kun": ["あま.る", "あま.り", "あま.す", "あんま.り"],
-        "wk_level": 20,
-        "wk_meanings": ["Surplus", "^Excess"],
-        "wk_readings_on": ["よ"],
-        "wk_readings_kun": ["!あま"],
-        "wk_radicals": ["Hat", "Jackhammer"]
     },
     "難": {
         "strokes": 18,
@@ -7878,11 +5473,6 @@ data3 = {
         "meanings": ["Difficult", "Impossible", "Trouble", "Accident", "Defect"],
         "readings_on": ["なん"],
         "readings_kun": ["かた.い", "-がた.い", "むずか.しい", "むづか.しい", "むつか.しい", "-にく.い"],
-        "wk_level": 20,
-        "wk_meanings": ["Difficult"],
-        "wk_readings_on": ["なん"],
-        "wk_readings_kun": ["!むずか"],
-        "wk_radicals": ["Chinese", "Turkey"]
     },
     "確": {
         "strokes": 15,
@@ -7893,11 +5483,6 @@ data3 = {
         "meanings": ["Assurance", "Firm", "Tight", "Hard", "Solid", "Confirm", "Clear", "Evident"],
         "readings_on": ["かく", "こう"],
         "readings_kun": ["たし.か", "たし.かめる"],
-        "wk_level": 20,
-        "wk_meanings": ["Certain"],
-        "wk_readings_on": ["かく"],
-        "wk_readings_kun": ["!たし"],
-        "wk_radicals": ["Stone", "Forehead", "Turkey"]
     },
     "在": {
         "strokes": 6,
@@ -7908,11 +5493,6 @@ data3 = {
         "meanings": ["Exist", "Outskirts", "Suburbs", "Located In"],
         "readings_on": ["ざい"],
         "readings_kun": ["あ.る"],
-        "wk_level": 20,
-        "wk_meanings": ["Exist"],
-        "wk_readings_on": ["ざい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Narwhal", "Stick", "Dirt"]
     },
     "夢": {
         "strokes": 13,
@@ -7923,11 +5503,6 @@ data3 = {
         "meanings": ["Dream", "Vision", "Illusion"],
         "readings_on": ["む", "ぼう"],
         "readings_kun": ["ゆめ", "ゆめ.みる", "くら.い"],
-        "wk_level": 20,
-        "wk_meanings": ["Dream"],
-        "wk_readings_on": ["む"],
-        "wk_readings_kun": ["!ゆめ"],
-        "wk_radicals": ["Flowers", "Net", "Forehead", "Evening"]
     },
     "産": {
         "strokes": 11,
@@ -7938,11 +5513,6 @@ data3 = {
         "meanings": ["Products", "Bear", "Give Birth", "Yield", "Childbirth", "Native", "Property"],
         "readings_on": ["さん"],
         "readings_kun": ["う.む", "う.まれる", "うぶ-", "む.す"],
-        "wk_level": 20,
-        "wk_meanings": ["Give Birth", "^Birth"],
-        "wk_readings_on": ["さん"],
-        "wk_readings_kun": ["!う"],
-        "wk_radicals": ["Stand", "Cliff", "Life"]
     },
     "倒": {
         "strokes": 10,
@@ -7953,11 +5523,6 @@ data3 = {
         "meanings": ["Overthrow", "Fall", "Collapse", "Drop", "Break Down"],
         "readings_on": ["とう"],
         "readings_kun": ["たお.れる", "-だお.れ", "たお.す", "さかさま", "さかさ", "さかしま"],
-        "wk_level": 20,
-        "wk_meanings": ["Overthrow", "^Collapse"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": ["!たお"],
-        "wk_radicals": ["Leader", "Mole", "Knife"]
     },
     "妻": {
         "strokes": 8,
@@ -7968,11 +5533,6 @@ data3 = {
         "meanings": ["Wife", "Spouse"],
         "readings_on": ["さい"],
         "readings_kun": ["つま"],
-        "wk_level": 20,
-        "wk_meanings": ["Wife"],
-        "wk_readings_on": ["さい"],
-        "wk_readings_kun": ["!つま"],
-        "wk_radicals": ["Ground", "Brush", "Woman"]
     },
     "議": {
         "strokes": 20,
@@ -7983,11 +5543,6 @@ data3 = {
         "meanings": ["Deliberation", "Consultation", "Debate", "Consideration"],
         "readings_on": ["ぎ"],
         "readings_kun": [],
-        "wk_level": 20,
-        "wk_meanings": ["Deliberation", "^Discussion"],
-        "wk_readings_on": ["ぎ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Say", "Righteousness"]
     },
     "犯": {
         "strokes": 5,
@@ -7998,11 +5553,6 @@ data3 = {
         "meanings": ["Crime", "Sin", "Offense"],
         "readings_on": ["はん", "ぼん"],
         "readings_kun": ["おか.す"],
-        "wk_level": 20,
-        "wk_meanings": ["Crime"],
-        "wk_readings_on": ["はん"],
-        "wk_readings_kun": ["!おか"],
-        "wk_radicals": ["Animal", "Snake"]
     },
     "罪": {
         "strokes": 13,
@@ -8013,11 +5563,6 @@ data3 = {
         "meanings": ["Guilt", "Sin", "Crime", "Fault", "Blame", "Offense"],
         "readings_on": ["ざい"],
         "readings_kun": ["つみ"],
-        "wk_level": 20,
-        "wk_meanings": ["Guilt"],
-        "wk_readings_on": ["ざい"],
-        "wk_readings_kun": ["!つみ"],
-        "wk_radicals": ["Net", "Criminal"]
     },
     "論": {
         "strokes": 15,
@@ -8028,11 +5573,6 @@ data3 = {
         "meanings": ["Argument", "Discourse"],
         "readings_on": ["ろん"],
         "readings_kun": [],
-        "wk_level": 20,
-        "wk_meanings": ["Theory"],
-        "wk_readings_on": ["ろん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Say", "Hat", "Ground", "Bookshelf"]
     },
     "経": {
         "strokes": 11,
@@ -8043,11 +5583,6 @@ data3 = {
         "meanings": ["Sutra", "Longitude", "Pass Thru", "Expire", "Warp"],
         "readings_on": ["けい", "きょう", "きん"],
         "readings_kun": ["へ.る", "た.つ", "たていと", "はか.る", "のり"],
-        "wk_level": 20,
-        "wk_meanings": ["Passage of Time", "^Pass Through", "^Manage"],
-        "wk_readings_on": ["けい"],
-        "wk_readings_kun": ["!た", "!へ"],
-        "wk_radicals": ["Thread", "Tombstone"]
     },
     "済": {
         "strokes": 11,
@@ -8058,11 +5593,6 @@ data3 = {
         "meanings": ["Settle (debt, Etc.)", "Relieve (burden)", "Finish", "Come To An End", "Excusable", "Need Not"],
         "readings_on": ["さい", "せい"],
         "readings_kun": ["す.む", "-ず.み", "-ずみ", "す.まない", "す.ます", "-す.ます", "すく.う", "な.す", "わたし", "わた.る"],
-        "wk_level": 21,
-        "wk_meanings": ["Come To An End"],
-        "wk_readings_on": ["さい"],
-        "wk_readings_kun": ["!す"],
-        "wk_radicals": ["Tsunami", "Simultaneous"]
     },
     "判": {
         "strokes": 7,
@@ -8073,11 +5603,6 @@ data3 = {
         "meanings": ["Judgement", "Signature", "Stamp", "Seal"],
         "readings_on": ["はん", "ばん"],
         "readings_kun": ["わか.る"],
-        "wk_level": 21,
-        "wk_meanings": ["Judge"],
-        "wk_readings_on": ["はん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Half", "Knife"]
     },
     "制": {
         "strokes": 8,
@@ -8088,11 +5613,6 @@ data3 = {
         "meanings": ["System", "Law", "Rule"],
         "readings_on": ["せい"],
         "readings_kun": [],
-        "wk_level": 21,
-        "wk_meanings": ["Control", "^System"],
-        "wk_readings_on": ["せい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Life", "Towel", "Knife"]
     },
     "務": {
         "strokes": 11,
@@ -8103,11 +5623,6 @@ data3 = {
         "meanings": ["Task", "Duties"],
         "readings_on": ["む"],
         "readings_kun": ["つと.める"],
-        "wk_level": 21,
-        "wk_meanings": ["Task"],
-        "wk_readings_on": ["む"],
-        "wk_readings_kun": ["!つと"],
-        "wk_radicals": ["Spear", "Winter", "Power"]
     },
     "資": {
         "strokes": 13,
@@ -8118,11 +5633,6 @@ data3 = {
         "meanings": ["Assets", "Resources", "Capital", "Funds", "Data", "Be Conducive To", "Contribute To"],
         "readings_on": ["し"],
         "readings_kun": [],
-        "wk_level": 21,
-        "wk_meanings": ["Resources"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Next", "Shellfish"]
     },
     "権": {
         "strokes": 15,
@@ -8133,11 +5643,6 @@ data3 = {
         "meanings": ["Authority", "Power", "Rights"],
         "readings_on": ["けん", "ごん"],
         "readings_kun": ["おもり", "かり", "はか.る"],
-        "wk_level": 21,
-        "wk_meanings": ["Rights"],
-        "wk_readings_on": ["けん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tree", "Arrow", "Turkey"]
     },
     "件": {
         "strokes": 6,
@@ -8148,11 +5653,6 @@ data3 = {
         "meanings": ["Affair", "Case", "Matter", "Item"],
         "readings_on": ["けん"],
         "readings_kun": ["くだん"],
-        "wk_level": 21,
-        "wk_meanings": ["Matter", "^Affair"],
-        "wk_readings_on": ["けん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Cow"]
     },
     "断": {
         "strokes": 11,
@@ -8163,11 +5663,6 @@ data3 = {
         "meanings": ["Severance", "Decline", "Refuse", "Apologize", "Warn", "Dismiss", "Prohibit", "Decision", "Judgement", "Cutting"],
         "readings_on": ["だん"],
         "readings_kun": ["た.つ", "ことわ.る", "さだ.める"],
-        "wk_level": 21,
-        "wk_meanings": ["Cut Off"],
-        "wk_readings_on": ["だん"],
-        "wk_readings_kun": ["!ことわ", "!た"],
-        "wk_radicals": ["Lion", "Rice", "Axe"]
     },
     "任": {
         "strokes": 6,
@@ -8178,11 +5673,6 @@ data3 = {
         "meanings": ["Responsibility", "Duty", "Term", "Entrust To", "Appoint"],
         "readings_on": ["にん"],
         "readings_kun": ["まか.せる", "まか.す"],
-        "wk_level": 21,
-        "wk_meanings": ["Duty"],
-        "wk_readings_on": ["にん"],
-        "wk_readings_kun": ["!まか"],
-        "wk_radicals": ["Leader", "King"]
     },
     "責": {
         "strokes": 11,
@@ -8193,11 +5683,6 @@ data3 = {
         "meanings": ["Blame", "Condemn", "Censure"],
         "readings_on": ["せき"],
         "readings_kun": ["せ.める"],
-        "wk_level": 21,
-        "wk_meanings": ["Blame"],
-        "wk_readings_on": ["せき"],
-        "wk_readings_kun": ["!せ"],
-        "wk_radicals": ["Life", "Shellfish"]
     },
     "増": {
         "strokes": 14,
@@ -8208,11 +5693,6 @@ data3 = {
         "meanings": ["Increase", "Add", "Augment", "Gain", "Promote"],
         "readings_on": ["ぞう"],
         "readings_kun": ["ま.す", "ま.し", "ふ.える", "ふ.やす"],
-        "wk_level": 21,
-        "wk_meanings": ["Increase"],
-        "wk_readings_on": ["ぞう"],
-        "wk_readings_kun": ["!ふ", "!ま"],
-        "wk_radicals": ["Dirt", "Mask"]
     },
     "解": {
         "strokes": 13,
@@ -8223,11 +5703,6 @@ data3 = {
         "meanings": ["Unravel", "Notes", "Key", "Explanation", "Understanding", "Untie", "Undo", "Solve", "Answer", "Cancel", "Absolve", "Explain", "Minute"],
         "readings_on": ["かい", "げ"],
         "readings_kun": ["と.く", "と.かす", "と.ける", "ほど.く", "ほど.ける", "わか.る", "さと.る"],
-        "wk_level": 21,
-        "wk_meanings": ["Untie", "^Solve"],
-        "wk_readings_on": ["かい"],
-        "wk_readings_kun": ["!と"],
-        "wk_radicals": ["Angle", "Sword", "Cow"]
     },
     "際": {
         "strokes": 14,
@@ -8238,11 +5713,6 @@ data3 = {
         "meanings": ["Occasion", "Side", "Edge", "Verge", "Dangerous", "Adventurous", "Indecent", "Time", "When"],
         "readings_on": ["さい"],
         "readings_kun": ["きわ", "-ぎわ"],
-        "wk_level": 21,
-        "wk_meanings": ["Occasion"],
-        "wk_readings_on": ["さい"],
-        "wk_readings_kun": ["!きわ"],
-        "wk_radicals": ["Building", "Festival"]
     },
     "認": {
         "strokes": 14,
@@ -8253,11 +5723,6 @@ data3 = {
         "meanings": ["Acknowledge", "Witness", "Discern", "Recognize", "Appreciate", "Believe"],
         "readings_on": ["にん"],
         "readings_kun": ["みと.める", "したた.める"],
-        "wk_level": 21,
-        "wk_meanings": ["Recognize"],
-        "wk_readings_on": ["にん"],
-        "wk_readings_kun": ["!みと"],
-        "wk_radicals": ["Say", "Blade", "Heart"]
     },
     "過": {
         "strokes": 12,
@@ -8268,11 +5733,6 @@ data3 = {
         "meanings": ["Overdo", "Exceed", "Go Beyond", "Error"],
         "readings_on": ["か"],
         "readings_kun": ["す.ぎる", "-す.ぎる", "-す.ぎ", "す.ごす", "あやま.つ", "あやま.ち", "よ.ぎる"],
-        "wk_level": 22,
-        "wk_meanings": ["Surpass"],
-        "wk_readings_on": ["か"],
-        "wk_readings_kun": ["!す", "!あやま"],
-        "wk_radicals": ["Scooter", "Mustache"]
     },
     "寝": {
         "strokes": 13,
@@ -8283,11 +5743,6 @@ data3 = {
         "meanings": ["Lie Down", "Sleep", "Rest", "Bed", "Remain Unsold"],
         "readings_on": ["しん"],
         "readings_kun": ["ね.る", "ね.かす", "い.ぬ", "みたまや", "や.める"],
-        "wk_level": 22,
-        "wk_meanings": ["Lie Down", "^Lay Down", "^Sleep"],
-        "wk_readings_on": ["!しん"],
-        "wk_readings_kun": ["ね"],
-        "wk_radicals": ["Roof", "Icicle", "Wolverine", "Forehead", "Stool"]
     },
     "置": {
         "strokes": 13,
@@ -8298,11 +5753,6 @@ data3 = {
         "meanings": ["Placement", "Put", "Set", "Deposit", "Leave Behind", "Keep", "Employ", "Pawn"],
         "readings_on": ["ち"],
         "readings_kun": ["お.く", "-お.き"],
-        "wk_level": 22,
-        "wk_meanings": ["Put"],
-        "wk_readings_on": ["ち"],
-        "wk_readings_kun": ["!お"],
-        "wk_radicals": ["Net", "Fix"]
     },
     "費": {
         "strokes": 12,
@@ -8313,11 +5763,6 @@ data3 = {
         "meanings": ["Expense", "Cost", "Spend", "Consume", "Waste"],
         "readings_on": ["ひ"],
         "readings_kun": ["つい.やす", "つい.える"],
-        "wk_level": 22,
-        "wk_meanings": ["Expense", "^Cost"],
-        "wk_readings_on": ["ひ"],
-        "wk_readings_kun": ["!つい"],
-        "wk_radicals": ["Dollar", "Shellfish"]
     },
     "示": {
         "strokes": 5,
@@ -8328,11 +5773,6 @@ data3 = {
         "meanings": ["Show", "Indicate", "Point Out", "Express", "Display"],
         "readings_on": ["じ", "し"],
         "readings_kun": ["しめ.す"],
-        "wk_level": 22,
-        "wk_meanings": ["Indicate", "^Show"],
-        "wk_readings_on": ["じ", "し"],
-        "wk_readings_kun": ["!しめ"],
-        "wk_radicals": ["Jackhammer"]
     },
     "観": {
         "strokes": 18,
@@ -8343,11 +5783,6 @@ data3 = {
         "meanings": ["Outlook", "Look", "Appearance", "Condition", "View"],
         "readings_on": ["かん"],
         "readings_kun": ["み.る", "しめ.す"],
-        "wk_level": 22,
-        "wk_meanings": ["View"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": ["!み"],
-        "wk_radicals": ["Arrow", "Turkey", "See"]
     },
     "値": {
         "strokes": 10,
@@ -8358,11 +5793,6 @@ data3 = {
         "meanings": ["Price", "Cost", "Value"],
         "readings_on": ["ち"],
         "readings_kun": ["ね", "あたい"],
-        "wk_level": 22,
-        "wk_meanings": ["Value", "^Price"],
-        "wk_readings_on": ["ち"],
-        "wk_readings_kun": ["!ね", "!あたい"],
-        "wk_radicals": ["Leader", "Fix"]
     },
     "吸": {
         "strokes": 6,
@@ -8373,11 +5803,6 @@ data3 = {
         "meanings": ["Suck", "Imbibe", "Inhale", "Sip"],
         "readings_on": ["きゅう"],
         "readings_kun": ["す.う"],
-        "wk_level": 22,
-        "wk_meanings": ["Suck", "^Inhale"],
-        "wk_readings_on": ["きゅう"],
-        "wk_readings_kun": ["!す"],
-        "wk_radicals": ["Mouth", "Escalator"]
     },
     "状": {
         "strokes": 7,
@@ -8388,11 +5813,6 @@ data3 = {
         "meanings": ["Status Quo", "Conditions", "Circumstances", "Form", "Appearance"],
         "readings_on": ["じょう"],
         "readings_kun": [],
-        "wk_level": 22,
-        "wk_meanings": ["Condition"],
-        "wk_readings_on": ["じょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Icicle", "Dog"]
     },
     "収": {
         "strokes": 4,
@@ -8403,11 +5823,6 @@ data3 = {
         "meanings": ["Income", "Obtain", "Reap", "Pay", "Supply", "Store"],
         "readings_on": ["しゅう"],
         "readings_kun": ["おさ.める", "おさ.まる"],
-        "wk_level": 23,
-        "wk_meanings": ["Obtain"],
-        "wk_readings_on": ["しゅう"],
-        "wk_readings_kun": ["!おさ"],
-        "wk_radicals": ["Vines", "Stool"]
     },
     "職": {
         "strokes": 18,
@@ -8418,11 +5833,6 @@ data3 = {
         "meanings": ["Post", "Employment", "Work"],
         "readings_on": ["しょく", "そく"],
         "readings_kun": [],
-        "wk_level": 23,
-        "wk_meanings": ["Employment"],
-        "wk_readings_on": ["しょく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Ear", "Sound", "Drunkard"]
     },
     "規": {
         "strokes": 11,
@@ -8433,11 +5843,6 @@ data3 = {
         "meanings": ["Standard", "Measure"],
         "readings_on": ["き"],
         "readings_kun": [],
-        "wk_level": 23,
-        "wk_meanings": ["Standard"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Husband", "See"]
     },
     "割": {
         "strokes": 12,
@@ -8448,11 +5853,6 @@ data3 = {
         "meanings": ["Proportion", "Comparatively", "Divide", "Cut", "Separate", "Split"],
         "readings_on": ["かつ"],
         "readings_kun": ["わ.る", "わり", "わ.り", "わ.れる", "さ.く"],
-        "wk_level": 23,
-        "wk_meanings": ["Divide"],
-        "wk_readings_on": ["!かつ"],
-        "wk_readings_kun": ["わり", "わ"],
-        "wk_radicals": ["Roof", "Life", "Mouth", "Knife"]
     },
     "演": {
         "strokes": 14,
@@ -8463,11 +5863,6 @@ data3 = {
         "meanings": ["Performance", "Act", "Play", "Render", "Stage"],
         "readings_on": ["えん"],
         "readings_kun": [],
-        "wk_level": 23,
-        "wk_meanings": ["Perform", "^Performance"],
-        "wk_readings_on": ["えん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tsunami", "Roof", "Leaf", "Rice Paddy", "Fins"]
     },
     "師": {
         "strokes": 10,
@@ -8478,11 +5873,6 @@ data3 = {
         "meanings": ["Expert", "Teacher", "Master", "Model", "Exemplar", "Army (incl. Counter)", "War"],
         "readings_on": ["し"],
         "readings_kun": ["いくさ"],
-        "wk_level": 23,
-        "wk_meanings": ["Teacher", "^Expert", "^Master"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Drop", "Bear", "Ground", "Towel"]
     },
     "備": {
         "strokes": 12,
@@ -8493,11 +5883,6 @@ data3 = {
         "meanings": ["Equip", "Provision", "Preparation"],
         "readings_on": ["び"],
         "readings_kun": ["そな.える", "そな.わる", "つぶさ.に"],
-        "wk_level": 23,
-        "wk_meanings": ["Provide", "^Equip"],
-        "wk_readings_on": ["び"],
-        "wk_readings_kun": ["!そな"],
-        "wk_radicals": ["Leader", "Flowers", "Cliff", "Task"]
     },
     "優": {
         "strokes": 17,
@@ -8508,11 +5893,6 @@ data3 = {
         "meanings": ["Tenderness", "Excel", "Surpass", "Actor", "Superiority", "Gentleness"],
         "readings_on": ["ゆう", "う"],
         "readings_kun": ["やさ.しい", "すぐ.れる", "まさ.る"],
-        "wk_level": 23,
-        "wk_meanings": ["Superior", "^Gentle"],
-        "wk_readings_on": ["ゆう"],
-        "wk_readings_kun": ["!やさ", "!すぐ"],
-        "wk_radicals": ["Leader", "Hundred", "Forehead", "Heart", "Winter"]
     },
     "宅": {
         "strokes": 6,
@@ -8523,11 +5903,6 @@ data3 = {
         "meanings": ["Home", "House", "Residence", "Our House", "My Husband"],
         "readings_on": ["たく"],
         "readings_kun": [],
-        "wk_level": 23,
-        "wk_meanings": ["House", "^Home"],
-        "wk_readings_on": ["たく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Roof", "Slide", "Seven"]
     },
     "現": {
         "strokes": 11,
@@ -8538,11 +5913,6 @@ data3 = {
         "meanings": ["Present", "Existing", "Actual"],
         "readings_on": ["げん"],
         "readings_kun": ["あらわ.れる", "あらわ.す", "うつつ", "うつ.つ"],
-        "wk_level": 23,
-        "wk_meanings": ["Present Time", "^Present"],
-        "wk_readings_on": ["げん"],
-        "wk_readings_kun": ["!あらわ"],
-        "wk_radicals": ["King", "See"]
     },
     "呼": {
         "strokes": 8,
@@ -8553,11 +5923,6 @@ data3 = {
         "meanings": ["Call", "Call Out To", "Invite"],
         "readings_on": ["こ"],
         "readings_kun": ["よ.ぶ"],
-        "wk_level": 23,
-        "wk_meanings": ["Call"],
-        "wk_readings_on": ["!こ"],
-        "wk_readings_kun": ["よ"],
-        "wk_radicals": ["Mouth", "Peace"]
     },
     "違": {
         "strokes": 13,
@@ -8568,11 +5933,6 @@ data3 = {
         "meanings": ["Difference", "Differ"],
         "readings_on": ["い"],
         "readings_kun": ["ちが.う", "ちが.い", "ちが.える", "-ちが.える", "たが.う", "たが.える"],
-        "wk_level": 24,
-        "wk_meanings": ["Different"],
-        "wk_readings_on": ["!い"],
-        "wk_readings_kun": ["ちが"],
-        "wk_radicals": ["Scooter", "Korea"]
     },
     "差": {
         "strokes": 10,
@@ -8583,11 +5943,6 @@ data3 = {
         "meanings": ["Distinction", "Difference", "Variation", "Discrepancy", "Margin", "Balance"],
         "readings_on": ["さ"],
         "readings_kun": ["さ.す", "さ.し"],
-        "wk_level": 24,
-        "wk_meanings": ["Distinction"],
-        "wk_readings_on": ["さ"],
-        "wk_readings_kun": ["!さ"],
-        "wk_radicals": ["Horns", "King", "Slide", "Construction"]
     },
     "供": {
         "strokes": 8,
@@ -8598,11 +5953,6 @@ data3 = {
         "meanings": ["Submit", "Offer", "Present", "Serve (meal)", "Accompany"],
         "readings_on": ["きょう", "く", "くう", "ぐ"],
         "readings_kun": ["そな.える", "とも", "-ども"],
-        "wk_level": 24,
-        "wk_meanings": ["Servant", "^Companion"],
-        "wk_readings_on": ["きょう"],
-        "wk_readings_kun": ["!とも", "!そな"],
-        "wk_radicals": ["Leader", "Together"]
     },
     "限": {
         "strokes": 9,
@@ -8613,11 +5963,6 @@ data3 = {
         "meanings": ["Limit", "Restrict", "To Best Of Ability"],
         "readings_on": ["げん"],
         "readings_kun": ["かぎ.る", "かぎ.り", "-かぎ.り"],
-        "wk_level": 25,
-        "wk_meanings": ["Limit"],
-        "wk_readings_on": ["げん"],
-        "wk_readings_kun": ["!かぎ"],
-        "wk_radicals": ["Building", "Root"]
     },
     "与": {
         "strokes": 3,
@@ -8628,11 +5973,6 @@ data3 = {
         "meanings": ["Bestow", "Participate In", "Give", "Award", "Impart", "Provide", "Cause", "Gift", "Godsend"],
         "readings_on": ["よ"],
         "readings_kun": ["あた.える", "あずか.る", "くみ.する", "ともに"],
-        "wk_level": 25,
-        "wk_meanings": ["Give"],
-        "wk_readings_on": ["よ"],
-        "wk_readings_kun": ["!あた"],
-        "wk_radicals": ["Beggar", "Ground"]
     },
     "渡": {
         "strokes": 12,
@@ -8643,11 +5983,6 @@ data3 = {
         "meanings": ["Transit", "Ford", "Ferry", "Cross", "Import", "Deliver", "Diameter", "Migrate"],
         "readings_on": ["と"],
         "readings_kun": ["わた.る", "-わた.る", "わた.す"],
-        "wk_level": 25,
-        "wk_meanings": ["Transit"],
-        "wk_readings_on": ["!と"],
-        "wk_readings_kun": ["わた"],
-        "wk_radicals": ["Tsunami", "Yurt", "Stool"]
     },
     "景": {
         "strokes": 12,
@@ -8658,11 +5993,6 @@ data3 = {
         "meanings": ["Scenery", "View"],
         "readings_on": ["けい"],
         "readings_kun": [],
-        "wk_level": 25,
-        "wk_meanings": ["Scene"],
-        "wk_readings_on": ["けい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Sun", "Capital"]
     },
     "抜": {
         "strokes": 7,
@@ -8673,11 +6003,6 @@ data3 = {
         "meanings": ["Slip Out", "Extract", "Pull Out", "Pilfer", "Quote", "Remove", "Omit"],
         "readings_on": ["ばつ", "はつ", "はい"],
         "readings_kun": ["ぬ.く", "-ぬ.く", "ぬ.き", "ぬ.ける", "ぬ.かす", "ぬ.かる"],
-        "wk_level": 25,
-        "wk_meanings": ["Extract"],
-        "wk_readings_on": ["!ばつ", "!はつ", "!はい"],
-        "wk_readings_kun": ["ぬ"],
-        "wk_radicals": ["Fingers", "Friend"]
     },
     "候": {
         "strokes": 10,
@@ -8688,11 +6013,6 @@ data3 = {
         "meanings": ["Climate", "Season", "Weather", "Wait For", "Expect"],
         "readings_on": ["こう"],
         "readings_kun": ["そうろう"],
-        "wk_level": 25,
-        "wk_meanings": ["Climate", "^Weather", "^Candidate"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Stick", "Hook", "Arrow"]
     },
     "構": {
         "strokes": 14,
@@ -8703,11 +6023,6 @@ data3 = {
         "meanings": ["Posture", "Build", "Pretend"],
         "readings_on": ["こう"],
         "readings_kun": ["かま.える", "かま.う"],
-        "wk_level": 25,
-        "wk_meanings": ["Set Up", "^Care"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!かま"],
-        "wk_radicals": ["Tree", "Lifeguard"]
     },
     "捕": {
         "strokes": 10,
@@ -8718,11 +6033,6 @@ data3 = {
         "meanings": ["Catch", "Capture"],
         "readings_on": ["ほ"],
         "readings_kun": ["と.らえる", "と.らわれる", "と.る", "とら.える", "とら.われる", "つか.まえる", "つか.まる"],
-        "wk_level": 25,
-        "wk_meanings": ["Catch"],
-        "wk_readings_on": ["ほ"],
-        "wk_readings_kun": ["!つか", "!とら"],
-        "wk_radicals": ["Fingers", "Wedding"]
     },
     "慣": {
         "strokes": 14,
@@ -8733,11 +6043,6 @@ data3 = {
         "meanings": ["Accustomed", "Get Used To", "Become Experienced"],
         "readings_on": ["かん"],
         "readings_kun": ["な.れる", "な.らす"],
-        "wk_level": 25,
-        "wk_meanings": ["Accustomed"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": ["!な"],
-        "wk_radicals": ["Soul", "Window", "Shellfish"]
     },
     "満": {
         "strokes": 12,
@@ -8748,11 +6053,6 @@ data3 = {
         "meanings": ["Full", "Fullness", "Enough", "Satisfy"],
         "readings_on": ["まん", "ばん"],
         "readings_kun": ["み.ちる", "み.つ", "み.たす"],
-        "wk_level": 25,
-        "wk_meanings": ["Full"],
-        "wk_readings_on": ["まん"],
-        "wk_readings_kun": ["!み"],
-        "wk_radicals": ["Tsunami", "Flowers", "Both"]
     },
     "掛": {
         "strokes": 11,
@@ -8763,11 +6063,6 @@ data3 = {
         "meanings": ["Hang", "Suspend", "Depend", "Arrive At", "Tax", "Pour"],
         "readings_on": ["かい", "けい"],
         "readings_kun": ["か.ける", "-か.ける", "か.け", "-か.け", "-が.け", "か.かる", "-か.かる", "-が.かる", "か.かり", "-が.かり", "かかり", "-がかり"],
-        "wk_level": 25,
-        "wk_meanings": ["Hang"],
-        "wk_readings_on": ["!がい"],
-        "wk_readings_kun": ["か"],
-        "wk_radicals": ["Fingers", "Dirt", "Toe"]
     },
     "居": {
         "strokes": 8,
@@ -8778,11 +6073,6 @@ data3 = {
         "meanings": ["Reside", "To Be", "Exist", "Live With"],
         "readings_on": ["きょ", "こ"],
         "readings_kun": ["い.る", "-い", "お.る"],
-        "wk_level": 25,
-        "wk_meanings": ["Alive"],
-        "wk_readings_on": ["きょ"],
-        "wk_readings_kun": ["!い"],
-        "wk_radicals": ["Flag", "Old"]
     },
     "突": {
         "strokes": 8,
@@ -8793,11 +6083,6 @@ data3 = {
         "meanings": ["Stab", "Protruding", "Thrust", "Pierce", "Prick", "Collision", "Sudden"],
         "readings_on": ["とつ", "か"],
         "readings_kun": ["つ.く"],
-        "wk_level": 26,
-        "wk_meanings": ["Stab", "^Thrust"],
-        "wk_readings_on": ["とつ"],
-        "wk_readings_kun": ["!つ"],
-        "wk_radicals": ["Hole", "Big"]
     },
     "招": {
         "strokes": 8,
@@ -8808,11 +6093,6 @@ data3 = {
         "meanings": ["Beckon", "Invite", "Summon", "Engage"],
         "readings_on": ["しょう"],
         "readings_kun": ["まね.く"],
-        "wk_level": 27,
-        "wk_meanings": ["Beckon"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!まね"],
-        "wk_radicals": ["Fingers", "Call"]
     },
     "段": {
         "strokes": 9,
@@ -8823,11 +6103,6 @@ data3 = {
         "meanings": ["Grade", "Steps", "Stairs"],
         "readings_on": ["だん", "たん"],
         "readings_kun": [],
-        "wk_level": 27,
-        "wk_meanings": ["Steps", "^Stairs"],
-        "wk_readings_on": ["だん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Comb", "Weapon"]
     },
     "腹": {
         "strokes": 13,
@@ -8838,11 +6113,6 @@ data3 = {
         "meanings": ["Abdomen", "Belly", "Stomach"],
         "readings_on": ["ふく"],
         "readings_kun": ["はら"],
-        "wk_level": 27,
-        "wk_meanings": ["Belly", "^Abdomen", "^Stomach"],
-        "wk_readings_on": ["ふく"],
-        "wk_readings_kun": ["!はら", "!なか"],
-        "wk_radicals": ["Moon", "Black Hole"]
     },
     "痛": {
         "strokes": 12,
@@ -8853,11 +6123,6 @@ data3 = {
         "meanings": ["Pain", "Hurt", "Damage", "Bruise"],
         "readings_on": ["つう"],
         "readings_kun": ["いた.い", "いた.む", "いた.ましい", "いた.める"],
-        "wk_level": 27,
-        "wk_meanings": ["Pain"],
-        "wk_readings_on": ["つう"],
-        "wk_readings_kun": ["!いた"],
-        "wk_radicals": ["Sick", "Mama", "Task"]
     },
     "退": {
         "strokes": 9,
@@ -8868,11 +6133,6 @@ data3 = {
         "meanings": ["Retreat", "Withdraw", "Retire", "Resign", "Repel", "Expel", "Reject"],
         "readings_on": ["たい"],
         "readings_kun": ["しりぞ.く", "しりぞ.ける", "ひ.く", "の.く", "の.ける", "ど.く"],
-        "wk_level": 27,
-        "wk_meanings": ["Retreat", "^Reject"],
-        "wk_readings_on": ["たい"],
-        "wk_readings_kun": ["!しりぞ", "!ひ", "!ど", "!の"],
-        "wk_radicals": ["Scooter", "Root"]
     },
     "迷": {
         "strokes": 9,
@@ -8883,11 +6143,6 @@ data3 = {
         "meanings": ["Astray", "Be Perplexed", "In Doubt", "Lost", "Err", "Illusion"],
         "readings_on": ["めい"],
         "readings_kun": ["まよ.う"],
-        "wk_level": 27,
-        "wk_meanings": ["Astray", "^Lost"],
-        "wk_readings_on": ["めい"],
-        "wk_readings_kun": ["!まよ"],
-        "wk_radicals": ["Scooter", "Rice"]
     },
     "訪": {
         "strokes": 11,
@@ -8898,11 +6153,6 @@ data3 = {
         "meanings": ["Call On", "Visit", "Look Up", "Offer Sympathy"],
         "readings_on": ["ほう"],
         "readings_kun": ["おとず.れる", "たず.ねる", "と.う"],
-        "wk_level": 27,
-        "wk_meanings": ["Visit"],
-        "wk_readings_on": ["ほう"],
-        "wk_readings_kun": ["!たず", "!おとず"],
-        "wk_radicals": ["Say", "Direction"]
     },
     "怒": {
         "strokes": 9,
@@ -8913,11 +6163,6 @@ data3 = {
         "meanings": ["Angry", "Be Offended"],
         "readings_on": ["ど", "ぬ"],
         "readings_kun": ["いか.る", "おこ.る"],
-        "wk_level": 27,
-        "wk_meanings": ["Angry", "^Anger"],
-        "wk_readings_on": ["ど"],
-        "wk_readings_kun": ["!おこ", "!いか"],
-        "wk_radicals": ["Woman", "Stool", "Heart"]
     },
     "眠": {
         "strokes": 10,
@@ -8928,11 +6173,6 @@ data3 = {
         "meanings": ["Sleep", "Die", "Sleepy"],
         "readings_on": ["みん"],
         "readings_kun": ["ねむ.る", "ねむ.い"],
-        "wk_level": 27,
-        "wk_meanings": ["Sleep"],
-        "wk_readings_on": ["みん"],
-        "wk_readings_kun": ["!ねむ"],
-        "wk_radicals": ["Eye", "Peoples"]
     },
     "靴": {
         "strokes": 13,
@@ -8943,11 +6183,6 @@ data3 = {
         "meanings": ["Shoes"],
         "readings_on": ["か"],
         "readings_kun": ["くつ"],
-        "wk_level": 27,
-        "wk_meanings": ["Shoes"],
-        "wk_readings_on": ["!か"],
-        "wk_readings_kun": ["くつ"],
-        "wk_radicals": ["Leather", "Change"]
     },
     "途": {
         "strokes": 10,
@@ -8958,11 +6193,6 @@ data3 = {
         "meanings": ["Route", "Way", "Road"],
         "readings_on": ["と"],
         "readings_kun": ["みち"],
-        "wk_level": 27,
-        "wk_meanings": ["Route"],
-        "wk_readings_on": ["と"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Scooter", "Surplus"]
     },
     "給": {
         "strokes": 12,
@@ -8973,11 +6203,6 @@ data3 = {
         "meanings": ["Salary", "Wage", "Gift", "Allow", "Grant", "Bestow On"],
         "readings_on": ["きゅう"],
         "readings_kun": ["たま.う", "たも.う", "-たま.え"],
-        "wk_level": 27,
-        "wk_meanings": ["Salary"],
-        "wk_readings_on": ["きゅう"],
-        "wk_readings_kun": ["!たま"],
-        "wk_radicals": ["Thread", "Suit"]
     },
     "冷": {
         "strokes": 7,
@@ -8988,11 +6213,6 @@ data3 = {
         "meanings": ["Cool", "Cold (beer, Person)", "Chill"],
         "readings_on": ["れい"],
         "readings_kun": ["つめ.たい", "ひ.える", "ひ.や", "ひ.ややか", "ひ.やす", "ひ.やかす", "さ.める", "さ.ます"],
-        "wk_level": 28,
-        "wk_meanings": ["Cool", "^Cold"],
-        "wk_readings_on": ["れい"],
-        "wk_readings_kun": ["!つめ", "!ひ", "!さ"],
-        "wk_radicals": ["Ice", "Orders"]
     },
     "処": {
         "strokes": 5,
@@ -9003,11 +6223,6 @@ data3 = {
         "meanings": ["Dispose", "Manage", "Deal With", "Sentence", "Condemn", "Act", "Behave", "Place"],
         "readings_on": ["しょ"],
         "readings_kun": ["ところ", "-こ", "お.る"],
-        "wk_level": 28,
-        "wk_meanings": ["Deal With"],
-        "wk_readings_on": ["しょ"],
-        "wk_readings_kun": ["!ところ"],
-        "wk_radicals": ["Winter", "Table"]
     },
     "婦": {
         "strokes": 11,
@@ -9018,11 +6233,6 @@ data3 = {
         "meanings": ["Lady", "Woman", "Wife", "Bride"],
         "readings_on": ["ふ"],
         "readings_kun": ["よめ"],
-        "wk_level": 28,
-        "wk_meanings": ["Wife"],
-        "wk_readings_on": ["ふ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Woman", "Wolverine", "Forehead", "Towel"]
     },
     "程": {
         "strokes": 12,
@@ -9033,11 +6243,6 @@ data3 = {
         "meanings": ["Extent", "Degree", "Law", "Formula", "Distance", "Limits", "Amount"],
         "readings_on": ["てい"],
         "readings_kun": ["ほど", "-ほど"],
-        "wk_level": 28,
-        "wk_meanings": ["Extent"],
-        "wk_readings_on": ["てい"],
-        "wk_readings_kun": ["!ほど"],
-        "wk_radicals": ["Grain", "Mouth", "King"]
     },
     "精": {
         "strokes": 14,
@@ -9048,11 +6253,6 @@ data3 = {
         "meanings": ["Refined", "Ghost", "Fairy", "Energy", "Vitality", "Semen", "Excellence", "Purity", "Skill"],
         "readings_on": ["せい", "しょう"],
         "readings_kun": ["しら.げる", "くわ.しい"],
-        "wk_level": 28,
-        "wk_meanings": ["Spirit"],
-        "wk_readings_on": ["せい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Rice", "Blue"]
     },
     "絶": {
         "strokes": 12,
@@ -9063,11 +6263,6 @@ data3 = {
         "meanings": ["Discontinue", "Sever", "Cut Off", "Abstain", "Interrupt", "Suppress", "Be Beyond", "Without Match", "Peerless", "Unparalleled"],
         "readings_on": ["ぜつ"],
         "readings_kun": ["た.える", "た.やす", "た.つ"],
-        "wk_level": 28,
-        "wk_meanings": ["Extinction", "^Die Out"],
-        "wk_readings_on": ["ぜつ"],
-        "wk_readings_kun": ["!た"],
-        "wk_radicals": ["Thread", "Color"]
     },
     "杯": {
         "strokes": 8,
@@ -9078,11 +6273,6 @@ data3 = {
         "meanings": ["Counter For Cupfuls", "Wine Glass", "Glass", "Toast"],
         "readings_on": ["はい"],
         "readings_kun": ["さかずき"],
-        "wk_level": 29,
-        "wk_meanings": ["Cup Of Liquid", "^Counter For Cups"],
-        "wk_readings_on": ["はい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tree", "Not"]
     },
     "積": {
         "strokes": 16,
@@ -9093,11 +6283,6 @@ data3 = {
         "meanings": ["Volume", "Product (x*y)", "Acreage", "Contents", "Pile Up", "Stack", "Load", "Amass"],
         "readings_on": ["せき"],
         "readings_kun": ["つ.む", "-づ.み", "つ.もる", "つ.もり"],
-        "wk_level": 29,
-        "wk_meanings": ["Accumulate"],
-        "wk_readings_on": ["せき"],
-        "wk_readings_kun": ["!つ"],
-        "wk_radicals": ["Grain", "Blame"]
     },
     "寄": {
         "strokes": 11,
@@ -9108,11 +6293,6 @@ data3 = {
         "meanings": ["Draw Near", "Stop In", "Bring Near", "Gather", "Collect", "Send", "Forward"],
         "readings_on": ["き"],
         "readings_kun": ["よ.る", "-よ.り", "よ.せる"],
-        "wk_level": 29,
-        "wk_meanings": ["Approach"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": ["!よ"],
-        "wk_radicals": ["Roof", "Odd"]
     },
     "娘": {
         "strokes": 10,
@@ -9123,11 +6303,6 @@ data3 = {
         "meanings": ["Daughter", "Girl"],
         "readings_on": ["じょう"],
         "readings_kun": ["むすめ", "こ"],
-        "wk_level": 29,
-        "wk_meanings": ["Daughter"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["むすめ"],
-        "wk_radicals": ["Woman", "Good"]
     },
     "怖": {
         "strokes": 8,
@@ -9138,11 +6313,6 @@ data3 = {
         "meanings": ["Dreadful", "Be Frightened", "Fearful"],
         "readings_on": ["ふ", "ほ"],
         "readings_kun": ["こわ.い", "こわ.がる", "お.じる", "おそ.れる"],
-        "wk_level": 29,
-        "wk_meanings": ["Scary"],
-        "wk_readings_on": ["ふ"],
-        "wk_readings_kun": ["!こわ"],
-        "wk_radicals": ["Soul", "Narwhal", "Towel"]
     },
     "恐": {
         "strokes": 10,
@@ -9153,11 +6323,6 @@ data3 = {
         "meanings": ["Fear", "Dread", "Awe"],
         "readings_on": ["きょう"],
         "readings_kun": ["おそ.れる", "おそ.る", "おそ.ろしい", "こわ.い", "こわ.がる"],
-        "wk_level": 29,
-        "wk_meanings": ["Fear"],
-        "wk_readings_on": ["きょう"],
-        "wk_readings_kun": ["!おそ", "!こわ"],
-        "wk_radicals": ["Saw", "Heart"]
     },
     "婚": {
         "strokes": 11,
@@ -9168,11 +6333,6 @@ data3 = {
         "meanings": ["Marriage"],
         "readings_on": ["こん"],
         "readings_kun": [],
-        "wk_level": 30,
-        "wk_meanings": ["Marriage"],
-        "wk_readings_on": ["こん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Woman", "Clan", "Sun"]
     },
     "遊": {
         "strokes": 12,
@@ -9183,11 +6343,6 @@ data3 = {
         "meanings": ["Play"],
         "readings_on": ["ゆう", "ゆ"],
         "readings_kun": ["あそ.ぶ", "あそ.ばす"],
-        "wk_level": 30,
-        "wk_meanings": ["Play"],
-        "wk_readings_on": ["ゆう"],
-        "wk_readings_kun": ["!あそ"],
-        "wk_radicals": ["Scooter", "Direction", "Gun", "Child"]
     },
     "貧": {
         "strokes": 11,
@@ -9198,11 +6353,6 @@ data3 = {
         "meanings": ["Poverty", "Poor"],
         "readings_on": ["ひん", "びん"],
         "readings_kun": ["まず.しい"],
-        "wk_level": 30,
-        "wk_meanings": ["Poor"],
-        "wk_readings_on": ["びん", "^ひん"],
-        "wk_readings_kun": ["!まず"],
-        "wk_radicals": ["Part", "Shellfish"]
     },
     "適": {
         "strokes": 14,
@@ -9213,11 +6363,6 @@ data3 = {
         "meanings": ["Suitable", "Occasional", "Rare", "Qualified", "Capable"],
         "readings_on": ["てき"],
         "readings_kun": ["かな.う"],
-        "wk_level": 30,
-        "wk_meanings": ["Suitable"],
-        "wk_readings_on": ["てき"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Scooter", "Mohawk"]
     },
     "押": {
         "strokes": 8,
@@ -9228,11 +6373,6 @@ data3 = {
         "meanings": ["Push", "Stop", "Check", "Subdue", "Attach", "Seize", "Weight", "Shove", "Press", "Seal", "Do In Spite Of"],
         "readings_on": ["おう"],
         "readings_kun": ["お.す", "お.し-", "お.っ-", "お.さえる", "おさ.える"],
-        "wk_level": 30,
-        "wk_meanings": ["Push"],
-        "wk_readings_on": ["!おう"],
-        "wk_readings_kun": ["お"],
-        "wk_radicals": ["Fingers", "Turtle Shell"]
     },
     "更": {
         "strokes": 7,
@@ -9243,11 +6383,6 @@ data3 = {
         "meanings": ["Grow Late", "Night Watch", "Sit Up Late", "Of Course", "Renew", "Renovate", "Again", "More And More", "Further"],
         "readings_on": ["こう"],
         "readings_kun": ["さら", "さら.に", "ふ.ける", "ふ.かす"],
-        "wk_level": 30,
-        "wk_meanings": ["Again", "^Renew"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!さら", "!ふ"],
-        "wk_radicals": ["Ground", "Rice Paddy", "Treasure"]
     },
     "浮": {
         "strokes": 10,
@@ -9258,11 +6393,6 @@ data3 = {
         "meanings": ["Floating", "Float", "Rise To Surface"],
         "readings_on": ["ふ"],
         "readings_kun": ["う.く", "う.かれる", "う.かぶ", "む", "う.かべる"],
-        "wk_level": 30,
-        "wk_meanings": ["Float"],
-        "wk_readings_on": ["!ふ"],
-        "wk_readings_kun": ["う", "うわ"],
-        "wk_radicals": ["Tsunami", "Cleat", "Child"]
     },
     "越": {
         "strokes": 12,
@@ -9273,11 +6403,6 @@ data3 = {
         "meanings": ["Surpass", "Cross Over", "Move To", "Exceed", "Vietnam"],
         "readings_on": ["えつ", "おつ"],
         "readings_kun": ["こ.す", "-こ.す", "-ご.し", "こ.える", "-ご.え"],
-        "wk_level": 30,
-        "wk_meanings": ["Go Beyond"],
-        "wk_readings_on": ["えつ"],
-        "wk_readings_kun": ["!こ"],
-        "wk_radicals": ["Run", "Become"]
     },
     "背": {
         "strokes": 9,
@@ -9288,11 +6413,6 @@ data3 = {
         "meanings": ["Stature", "Height", "Back", "Behind", "Disobey", "Defy", "Go Back On", "Rebel"],
         "readings_on": ["はい"],
         "readings_kun": ["せ", "せい", "そむ.く", "そむ.ける"],
-        "wk_level": 30,
-        "wk_meanings": ["Back", "^Height"],
-        "wk_readings_on": ["はい"],
-        "wk_readings_kun": ["!せ", "!そむ"],
-        "wk_radicals": ["North", "Moon"]
     },
     "盗": {
         "strokes": 11,
@@ -9303,11 +6423,6 @@ data3 = {
         "meanings": ["Steal", "Rob", "Pilfer"],
         "readings_on": ["とう"],
         "readings_kun": ["ぬす.む", "ぬす.み"],
-        "wk_level": 30,
-        "wk_meanings": ["Steal"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": ["!ぬす"],
-        "wk_radicals": ["Next", "Plate"]
     },
     "除": {
         "strokes": 10,
@@ -9318,11 +6433,6 @@ data3 = {
         "meanings": ["Exclude", "Division (x/3)", "Remove", "Abolish", "Cancel", "Except"],
         "readings_on": ["じょ", "じ"],
         "readings_kun": ["のぞ.く", "-よ.け"],
-        "wk_level": 31,
-        "wk_meanings": ["Exclude", "^Remove"],
-        "wk_readings_on": ["じょ", "^じ"],
-        "wk_readings_kun": ["!のぞ"],
-        "wk_radicals": ["Building", "Surplus"]
     },
     "幾": {
         "strokes": 12,
@@ -9333,11 +6443,6 @@ data3 = {
         "meanings": ["How Many", "How Much", "How Far", "How Long", "Some", "Several"],
         "readings_on": ["き"],
         "readings_kun": ["いく-", "いく.つ", "いく.ら"],
-        "wk_level": 31,
-        "wk_meanings": ["How Many", "^How Much"],
-        "wk_readings_on": ["!き"],
-        "wk_readings_kun": ["いく"],
-        "wk_radicals": ["Poop", "Drunkard", "Person"]
     },
     "散": {
         "strokes": 12,
@@ -9348,11 +6453,6 @@ data3 = {
         "meanings": ["Scatter", "Disperse", "Spend", "Squander"],
         "readings_on": ["さん"],
         "readings_kun": ["ち.る", "ち.らす", "-ち.らす", "ち.らかす", "ち.らかる", "ち.らばる", "ばら", "ばら.ける"],
-        "wk_level": 31,
-        "wk_meanings": ["Scatter"],
-        "wk_readings_on": ["さん"],
-        "wk_readings_kun": ["!ち"],
-        "wk_radicals": ["Blackjack", "Moon", "Winter"]
     },
     "似": {
         "strokes": 7,
@@ -9363,11 +6463,6 @@ data3 = {
         "meanings": ["Becoming", "Resemble", "Counterfeit", "Imitate", "Suitable"],
         "readings_on": ["じ"],
         "readings_kun": ["に.る", "ひ.る"],
-        "wk_level": 31,
-        "wk_meanings": ["Resemble"],
-        "wk_readings_on": ["ね", "じ"],
-        "wk_readings_kun": ["!に"],
-        "wk_radicals": ["Leader", "Lion", "Drop", "Person"]
     },
     "富": {
         "strokes": 12,
@@ -9378,11 +6473,6 @@ data3 = {
         "meanings": ["Wealth", "Enrich", "Abundant"],
         "readings_on": ["ふ", "ふう"],
         "readings_kun": ["と.む", "とみ"],
-        "wk_level": 31,
-        "wk_meanings": ["Rich"],
-        "wk_readings_on": ["ふ"],
-        "wk_readings_kun": ["!と", "!とみ"],
-        "wk_radicals": ["Roof", "Scarecrow"]
     },
     "探": {
         "strokes": 11,
@@ -9393,11 +6483,6 @@ data3 = {
         "meanings": ["Grope", "Search", "Look For"],
         "readings_on": ["たん"],
         "readings_kun": ["さぐ.る", "さが.す"],
-        "wk_level": 31,
-        "wk_meanings": ["Look For", "^Search For"],
-        "wk_readings_on": ["たん"],
-        "wk_readings_kun": ["!さが", "!さぐ"],
-        "wk_radicals": ["Fingers", "Pi", "Tree"]
     },
     "迎": {
         "strokes": 7,
@@ -9408,11 +6493,6 @@ data3 = {
         "meanings": ["Welcome", "Meet", "Greet"],
         "readings_on": ["げい"],
         "readings_kun": ["むか.える"],
-        "wk_level": 32,
-        "wk_meanings": ["Welcome"],
-        "wk_readings_on": ["げい"],
-        "wk_readings_kun": ["!むか"],
-        "wk_radicals": ["Scooter", "Cat Pirate"]
     },
     "祖": {
         "strokes": 9,
@@ -9423,11 +6503,6 @@ data3 = {
         "meanings": ["Ancestor", "Pioneer", "Founder"],
         "readings_on": ["そ"],
         "readings_kun": [],
-        "wk_level": 32,
-        "wk_meanings": ["Ancestor"],
-        "wk_readings_on": ["そ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Spirit", "Top Hat"]
     },
     "雑": {
         "strokes": 14,
@@ -9438,11 +6513,6 @@ data3 = {
         "meanings": ["Miscellaneous"],
         "readings_on": ["ざつ", "ぞう"],
         "readings_kun": ["まじ.える", "まじ.る"],
-        "wk_level": 32,
-        "wk_meanings": ["Random", "^Miscellaneous"],
-        "wk_readings_on": ["ざつ", "ぞう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Nine", "Tree", "Turkey"]
     },
     "賛": {
         "strokes": 15,
@@ -9453,11 +6523,6 @@ data3 = {
         "meanings": ["Approve", "Praise", "Title Or Inscription On Picture", "Assist", "Agree With"],
         "readings_on": ["さん"],
         "readings_kun": ["たす.ける", "たた.える"],
-        "wk_level": 32,
-        "wk_meanings": ["Agree"],
-        "wk_readings_on": ["さん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Husband", "Shellfish"]
     },
     "込": {
         "strokes": 5,
@@ -9468,11 +6533,6 @@ data3 = {
         "meanings": ["Crowded", "Mixture", "In Bulk", "Included", "(kokuji)"],
         "readings_on": [],
         "readings_kun": ["-こ.む", "こ.む", "こ.み", "-こ.み", "こ.める"],
-        "wk_level": 32,
-        "wk_meanings": ["Crowded"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["こ"],
-        "wk_radicals": ["Scooter", "Enter"]
     },
     "欲": {
         "strokes": 11,
@@ -9483,11 +6543,6 @@ data3 = {
         "meanings": ["Longing", "Covetousness", "Greed", "Passion", "Desire", "Craving"],
         "readings_on": ["よく"],
         "readings_kun": ["ほっ.する", "ほ.しい"],
-        "wk_level": 32,
-        "wk_meanings": ["Want"],
-        "wk_readings_on": ["よく"],
-        "wk_readings_kun": ["!ほ"],
-        "wk_radicals": ["Valley", "Lack"]
     },
     "閉": {
         "strokes": 11,
@@ -9498,11 +6553,6 @@ data3 = {
         "meanings": ["Closed", "Shut"],
         "readings_on": ["へい"],
         "readings_kun": ["と.じる", "と.ざす", "し.める", "し.まる", "た.てる"],
-        "wk_level": 33,
-        "wk_meanings": ["Closed", "^Close", "^Closure"],
-        "wk_readings_on": ["へい"],
-        "wk_readings_kun": ["!し", "!と"],
-        "wk_radicals": ["Gate", "Genius"]
     },
     "窓": {
         "strokes": 11,
@@ -9513,11 +6563,6 @@ data3 = {
         "meanings": ["Window", "Pane"],
         "readings_on": ["そう", "す"],
         "readings_kun": ["まど", "てんまど", "けむだし"],
-        "wk_level": 33,
-        "wk_meanings": ["Window"],
-        "wk_readings_on": ["!そう"],
-        "wk_readings_kun": ["まど"],
-        "wk_radicals": ["Hole", "Private", "Heart"]
     },
     "否": {
         "strokes": 7,
@@ -9528,11 +6573,6 @@ data3 = {
         "meanings": ["Negate", "No", "Noes", "Refuse", "Decline", "Deny"],
         "readings_on": ["ひ"],
         "readings_kun": ["いな", "いや"],
-        "wk_level": 33,
-        "wk_meanings": ["No"],
-        "wk_readings_on": ["ひ"],
-        "wk_readings_kun": ["!いな", "!いや"],
-        "wk_radicals": ["Not", "Mouth"]
     },
     "暮": {
         "strokes": 14,
@@ -9543,11 +6583,6 @@ data3 = {
         "meanings": ["Evening", "Twilight", "Season's End", "Livelihood", "Make A Living", "Spend Time"],
         "readings_on": ["ぼ"],
         "readings_kun": ["く.れる", "く.らす"],
-        "wk_level": 33,
-        "wk_meanings": ["Livelihood"],
-        "wk_readings_on": ["ぼ"],
-        "wk_readings_kun": ["!く"],
-        "wk_radicals": ["Greenhouse", "Sun"]
     }, "誤": {
         "strokes": 14,
         "grade": 6,
@@ -9557,11 +6592,6 @@ data3 = {
         "meanings": ["Mistake", "Err", "Do Wrong", "Mislead"],
         "readings_on": ["ご"],
         "readings_kun": ["あやま.る", "-あやま.る"],
-        "wk_level": 34,
-        "wk_meanings": ["Mistake"],
-        "wk_readings_on": ["ご"],
-        "wk_readings_kun": ["!あやま"],
-        "wk_radicals": ["Say", "Catapult"]
     },
     "降": {
         "strokes": 10,
@@ -9572,11 +6602,6 @@ data3 = {
         "meanings": ["Descend", "Precipitate", "Fall", "Surrender"],
         "readings_on": ["こう", "ご"],
         "readings_kun": ["お.りる", "お.ろす", "ふ.る", "ふ.り", "くだ.る", "くだ.す"],
-        "wk_level": 34,
-        "wk_meanings": ["Descend"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!お", "!ふ"],
-        "wk_radicals": ["Building", "Winter", "Cow"]
     },
     "勤": {
         "strokes": 12,
@@ -9587,11 +6612,6 @@ data3 = {
         "meanings": ["Diligence", "Become Employed", "Serve"],
         "readings_on": ["きん", "ごん"],
         "readings_kun": ["つと.める", "-づと.め", "つと.まる", "いそ.しむ"],
-        "wk_level": 34,
-        "wk_meanings": ["Work"],
-        "wk_readings_on": ["きん"],
-        "wk_readings_kun": ["!つと"],
-        "wk_radicals": ["Boot", "Power"]
     },
     "刻": {
         "strokes": 8,
@@ -9602,11 +6622,6 @@ data3 = {
         "meanings": ["Engrave", "Cut Fine", "Chop", "Hash", "Mince", "Time", "Carving"],
         "readings_on": ["こく"],
         "readings_kun": ["きざ.む", "きざ.み"],
-        "wk_level": 34,
-        "wk_meanings": ["Carve"],
-        "wk_readings_on": ["こく"],
-        "wk_readings_kun": ["!きざ"],
-        "wk_radicals": ["Slice", "Knife"]
     },
     "遅": {
         "strokes": 12,
@@ -9617,11 +6632,6 @@ data3 = {
         "meanings": ["Slow", "Late", "Back", "Later"],
         "readings_on": ["ち"],
         "readings_kun": ["おく.れる", "おく.らす", "おそ.い"],
-        "wk_level": 35,
-        "wk_meanings": ["Slow"],
-        "wk_readings_on": ["ち"],
-        "wk_readings_kun": ["!おそ", "!おく"],
-        "wk_radicals": ["Scooter", "Flag", "Sheep"]
     },
     "破": {
         "strokes": 10,
@@ -9632,11 +6642,6 @@ data3 = {
         "meanings": ["Rend", "Rip", "Tear", "Break", "Destroy", "Defeat", "Frustrate"],
         "readings_on": ["は"],
         "readings_kun": ["やぶ.る", "やぶ.れる", "わ.れる"],
-        "wk_level": 35,
-        "wk_meanings": ["Tear"],
-        "wk_readings_on": ["は"],
-        "wk_readings_kun": ["!やぶ"],
-        "wk_radicals": ["Stone", "Skin"]
     },
     "互": {
         "strokes": 4,
@@ -9647,11 +6652,6 @@ data3 = {
         "meanings": ["Mutually", "Reciprocally", "Together"],
         "readings_on": ["ご"],
         "readings_kun": ["たが.い", "かたみ.に"],
-        "wk_level": 35,
-        "wk_meanings": ["Mutual"],
-        "wk_readings_on": ["ご"],
-        "wk_readings_kun": ["!たが"],
-        "wk_radicals": ["Ground", "Shuriken"]
     },
     "彼": {
         "strokes": 8,
@@ -9662,11 +6662,6 @@ data3 = {
         "meanings": ["He", "That", "The"],
         "readings_on": ["ひ"],
         "readings_kun": ["かれ", "かの", "か.の"],
-        "wk_level": 35,
-        "wk_meanings": ["He"],
-        "wk_readings_on": ["!ひ"],
-        "wk_readings_kun": ["かれ", "かの"],
-        "wk_radicals": ["Loiter", "Skin"]
     },
     "恥": {
         "strokes": 10,
@@ -9677,11 +6672,6 @@ data3 = {
         "meanings": ["Shame", "Dishonor"],
         "readings_on": ["ち"],
         "readings_kun": ["は.じる", "はじ", "は.じらう", "は.ずかしい"],
-        "wk_level": 35,
-        "wk_meanings": ["Shame"],
-        "wk_readings_on": ["!ち"],
-        "wk_readings_kun": ["は", "はじ"],
-        "wk_radicals": ["Ear", "Heart"]
     },
     "払": {
         "strokes": 5,
@@ -9692,11 +6682,6 @@ data3 = {
         "meanings": ["Pay", "Clear Out", "Prune", "Banish", "Dispose Of"],
         "readings_on": ["ふつ", "ひつ", "ほつ"],
         "readings_kun": ["はら.う", "-はら.い", "-ばら.い"],
-        "wk_level": 35,
-        "wk_meanings": ["Pay"],
-        "wk_readings_on": ["!ふつ"],
-        "wk_readings_kun": ["はら"],
-        "wk_radicals": ["Fingers", "Private"]
     },
     "舞": {
         "strokes": 15,
@@ -9707,11 +6692,6 @@ data3 = {
         "meanings": ["Dance", "Flit", "Circle", "Wheel"],
         "readings_on": ["ぶ"],
         "readings_kun": ["ま.う", "-ま.う", "まい"],
-        "wk_level": 36,
-        "wk_meanings": ["Dance"],
-        "wk_readings_on": ["ぶ"],
-        "wk_readings_kun": ["!まい", "!ま"],
-        "wk_radicals": ["Nothing", "Dance"]
     },
     "頼": {
         "strokes": 16,
@@ -9722,11 +6702,6 @@ data3 = {
         "meanings": ["Trust", "Request"],
         "readings_on": ["らい"],
         "readings_kun": ["たの.む", "たの.もしい", "たよ.る"],
-        "wk_level": 36,
-        "wk_meanings": ["Trust"],
-        "wk_readings_on": ["らい"],
-        "wk_readings_kun": ["!たの", "!たよ"],
-        "wk_radicals": ["Bundle", "Geoduck"]
     },
     "戻": {
         "strokes": 7,
@@ -9737,11 +6712,6 @@ data3 = {
         "meanings": ["Re-", "Return", "Revert", "Resume", "Restore", "Go Backwards"],
         "readings_on": ["れい"],
         "readings_kun": ["もど.す", "もど.る"],
-        "wk_level": 37,
-        "wk_meanings": ["Return"],
-        "wk_readings_on": ["!れい"],
-        "wk_readings_kun": ["もど"],
-        "wk_radicals": ["Door", "Big"]
     },
     "抱": {
         "strokes": 8,
@@ -9752,11 +6722,6 @@ data3 = {
         "meanings": ["Embrace", "Hug", "Hold In Arms"],
         "readings_on": ["ほう"],
         "readings_kun": ["だ.く", "いだ.く", "かか.える"],
-        "wk_level": 37,
-        "wk_meanings": ["Hug"],
-        "wk_readings_on": ["!ほう"],
-        "wk_readings_kun": ["だ", "^かか", "^いだ"],
-        "wk_radicals": ["Fingers", "Wrap"]
     },
     "緒": {
         "strokes": 14,
@@ -9767,11 +6732,6 @@ data3 = {
         "meanings": ["Thong", "Beginning", "Inception", "End", "Cord", "Strap", "Mental Or Emotional State"],
         "readings_on": ["しょ", "ちょ"],
         "readings_kun": ["お", "いとぐち"],
-        "wk_level": 38,
-        "wk_meanings": ["Together"],
-        "wk_readings_on": ["しょ"],
-        "wk_readings_kun": ["!お"],
-        "wk_radicals": ["Thread", "Someone"]
     },
     "逃": {
         "strokes": 9,
@@ -9782,11 +6742,6 @@ data3 = {
         "meanings": ["Escape", "Flee", "Shirk", "Evade", "Set Free"],
         "readings_on": ["とう"],
         "readings_kun": ["に.げる", "に.がす", "のが.す", "のが.れる"],
-        "wk_level": 38,
-        "wk_meanings": ["Escape"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": ["!に", "!のが", "!の"],
-        "wk_radicals": ["Scooter", "Omen"]
     },
     "御": {
         "strokes": 12,
@@ -9797,11 +6752,6 @@ data3 = {
         "meanings": ["Honorable", "Manipulate", "Govern"],
         "readings_on": ["ぎょ", "ご"],
         "readings_kun": ["おん-", "お-", "み-"],
-        "wk_level": 39,
-        "wk_meanings": ["Honorable"],
-        "wk_readings_on": ["ご"],
-        "wk_readings_kun": ["!お"],
-        "wk_radicals": ["Loiter", "Gun", "Correct", "Stamp"]
     },
     "吹": {
         "strokes": 7,
@@ -9812,11 +6762,6 @@ data3 = {
         "meanings": ["Blow", "Breathe", "Puff", "Emit", "Smoke"],
         "readings_on": ["すい"],
         "readings_kun": ["ふ.く"],
-        "wk_level": 40,
-        "wk_meanings": ["Blow"],
-        "wk_readings_on": ["!すい"],
-        "wk_readings_kun": ["ふ"],
-        "wk_radicals": ["Mouth", "Lack"]
     },
     "到": {
         "strokes": 8,
@@ -9827,11 +6772,6 @@ data3 = {
         "meanings": ["Arrival", "Proceed", "Reach", "Attain", "Result In"],
         "readings_on": ["とう"],
         "readings_kun": ["いた.る"],
-        "wk_level": 42,
-        "wk_meanings": ["Arrival"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Mole", "Knife"]
     },
     "髪": {
         "strokes": 14,
@@ -9842,11 +6782,6 @@ data3 = {
         "meanings": ["Hair Of The Head"],
         "readings_on": ["はつ"],
         "readings_kun": ["かみ"],
-        "wk_level": 44,
-        "wk_meanings": ["Hair"],
-        "wk_readings_on": ["!はつ"],
-        "wk_readings_kun": ["かみ"],
-        "wk_radicals": ["Long", "Hair", "Friend"]
     },
     "疲": {
         "strokes": 10,
@@ -9857,11 +6792,6 @@ data3 = {
         "meanings": ["Exhausted", "Tire", "Weary"],
         "readings_on": ["ひ"],
         "readings_kun": ["つか.れる", "-づか.れ", "つか.らす"],
-        "wk_level": 45,
-        "wk_meanings": ["Exhausted"],
-        "wk_readings_on": ["ひ"],
-        "wk_readings_kun": ["!つか"],
-        "wk_radicals": ["Sick", "Skin"]
     },
     "歳": {
         "strokes": 13,
@@ -9872,11 +6802,6 @@ data3 = {
         "meanings": ["Year-end", "Age", "Occasion", "Opportunity"],
         "readings_on": ["さい", "せい"],
         "readings_kun": ["とし", "とせ", "よわい"],
-        "wk_level": 46,
-        "wk_meanings": ["Years Old"],
-        "wk_readings_on": ["さい", "せい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Stop", "Slide", "Drunkard", "Jackhammer"]
     },
     "偶": {
         "strokes": 11,
@@ -9887,11 +6812,6 @@ data3 = {
         "meanings": ["Accidentally", "Even Number", "Couple", "Man & Wife", "Same Kind"],
         "readings_on": ["ぐう"],
         "readings_kun": ["たま"],
-        "wk_level": 50,
-        "wk_meanings": ["Accidentally"],
-        "wk_readings_on": ["ぐう"],
-        "wk_readings_kun": ["!たま"],
-        "wk_radicals": ["Leader", "Splinter"]
     },
     "偉": {
         "strokes": 12,
@@ -9902,11 +6822,6 @@ data3 = {
         "meanings": ["Admirable", "Greatness", "Remarkable", "Conceited", "Famous", "Excellent"],
         "readings_on": ["い"],
         "readings_kun": ["えら.い"],
-        "wk_level": 51,
-        "wk_meanings": ["Greatness"],
-        "wk_readings_on": ["い"],
-        "wk_readings_kun": ["!えら"],
-        "wk_radicals": ["Leader", "Korea"]
     },
     "頂": {
         "strokes": 11,
@@ -9917,11 +6832,6 @@ data3 = {
         "meanings": ["Place On The Head", "Receive", "Top Of Head", "Top", "Summit", "Peak"],
         "readings_on": ["ちょう"],
         "readings_kun": ["いただ.く", "いただき"],
-        "wk_level": 51,
-        "wk_meanings": ["Summit", "^Humbly"],
-        "wk_readings_on": ["ちょう"],
-        "wk_readings_kun": ["!いただき", "!いただ"],
-        "wk_radicals": ["Street", "Geoduck"]
     },
     "責": {
         "strokes": 11,
@@ -9932,11 +6842,6 @@ data3 = {
         "meanings": ["Blame", "Condemn", "Censure"],
         "readings_on": ["せき"],
         "readings_kun": ["せ.める"],
-        "wk_level": 21,
-        "wk_meanings": ["Blame"],
-        "wk_readings_on": ["せき"],
-        "wk_readings_kun": ["!せ"],
-        "wk_radicals": ["Life", "Shellfish"]
     },
 
 
@@ -9954,11 +6859,6 @@ data2 = {
         "meanings": ["Complete", "Finish"],
         "readings_on": ["りょう"],
         "readings_kun": [],
-        "wk_level": 2,
-        "wk_meanings": ["Finish", "^Complete", "^End"],
-        "wk_readings_on": ["りょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Barb"]
     },
     "丸": {
         "strokes": 3,
@@ -9969,11 +6869,6 @@ data2 = {
         "meanings": ["Round", "Full (month)", "Perfection", "-ship", "Pills", "Make Round", "Roll Up", "Curl Up", "Seduce", "Explain Away"],
         "readings_on": ["がん"],
         "readings_kun": ["まる", "まる.める", "まる.い"],
-        "wk_level": 2,
-        "wk_meanings": ["Circle", "^Circular", "^Round"],
-        "wk_readings_on": ["!がん"],
-        "wk_readings_kun": ["まる"],
-        "wk_radicals": ["Nine", "Drop"]
     },
     "玉": {
         "strokes": 5,
@@ -9984,11 +6879,6 @@ data2 = {
         "meanings": ["Jewel", "Ball"],
         "readings_on": ["ぎょく"],
         "readings_kun": ["たま", "たま-", "-だま"],
-        "wk_level": 2,
-        "wk_meanings": ["Ball"],
-        "wk_readings_on": ["!ぎょく"],
-        "wk_readings_kun": ["たま"],
-        "wk_radicals": ["King", "Drop"]
     },
     "久": {
         "strokes": 3,
@@ -9999,11 +6889,6 @@ data2 = {
         "meanings": ["Long Time", "Old Story"],
         "readings_on": ["きゅう", "く"],
         "readings_kun": ["ひさ.しい"],
-        "wk_level": 32,
-        "wk_meanings": ["Long Time"],
-        "wk_readings_on": ["きゅう", "^く"],
-        "wk_readings_kun": ["!ひさ"],
-        "wk_radicals": ["Prison", "Slide"]
     },
     "戸": {
         "strokes": 4,
@@ -10014,11 +6899,6 @@ data2 = {
         "meanings": ["Door", "Counter For Houses", "Door Radical (no. 63)"],
         "readings_on": ["こ"],
         "readings_kun": ["と"],
-        "wk_level": 3,
-        "wk_meanings": ["Door"],
-        "wk_readings_on": ["!こ"],
-        "wk_readings_kun": ["と"],
-        "wk_radicals": ["Door"]
     },
     "毛": {
         "strokes": 4,
@@ -10029,11 +6909,6 @@ data2 = {
         "meanings": ["Fur", "Hair", "Feather", "Down"],
         "readings_on": ["もう"],
         "readings_kun": ["け"],
-        "wk_level": 3,
-        "wk_meanings": ["Fur", "^Hair"],
-        "wk_readings_on": ["もう"],
-        "wk_readings_kun": ["!け"],
-        "wk_radicals": ["Fur"]
     },
     "央": {
         "strokes": 5,
@@ -10044,11 +6919,6 @@ data2 = {
         "meanings": ["Center", "Middle"],
         "readings_on": ["おう"],
         "readings_kun": [],
-        "wk_level": 4,
-        "wk_meanings": ["Center", "^Centre"],
-        "wk_readings_on": ["おう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Big", "Head"]
     },
     "氷": {
         "strokes": 5,
@@ -10059,11 +6929,6 @@ data2 = {
         "meanings": ["Icicle", "Ice", "Hail", "Freeze", "Congeal"],
         "readings_on": ["ひょう"],
         "readings_kun": ["こおり", "ひ", "こお.る"],
-        "wk_level": 4,
-        "wk_meanings": ["Ice"],
-        "wk_readings_on": ["!ひょう"],
-        "wk_readings_kun": ["こおり"],
-        "wk_radicals": ["Water", "Drop"]
     },
     "皮": {
         "strokes": 5,
@@ -10074,11 +6939,6 @@ data2 = {
         "meanings": ["Pelt", "Skin", "Hide", "Leather", "Skin Radical (no. 107)"],
         "readings_on": ["ひ"],
         "readings_kun": ["かわ"],
-        "wk_level": 5,
-        "wk_meanings": ["Skin"],
-        "wk_readings_on": ["ひ"],
-        "wk_readings_kun": ["!かわ"],
-        "wk_radicals": ["Slide", "Branch"]
     },
     "皿": {
         "strokes": 5,
@@ -10089,11 +6949,6 @@ data2 = {
         "meanings": ["Dish", "A Helping", "Plate"],
         "readings_on": ["べい"],
         "readings_kun": ["さら"],
-        "wk_level": 4,
-        "wk_meanings": ["Plate", "^Dish"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["さら"],
-        "wk_radicals": ["Plate"]
     },
     "竹": {
         "strokes": 6,
@@ -10104,11 +6959,6 @@ data2 = {
         "meanings": ["Bamboo"],
         "readings_on": ["ちく"],
         "readings_kun": ["たけ"],
-        "wk_level": 4,
-        "wk_meanings": ["Bamboo"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["たけ"],
-        "wk_radicals": ["Bamboo"]
     },
     "糸": {
         "strokes": 6,
@@ -10119,11 +6969,6 @@ data2 = {
         "meanings": ["Thread"],
         "readings_on": ["し"],
         "readings_kun": ["いと"],
-        "wk_level": 4,
-        "wk_meanings": ["Thread"],
-        "wk_readings_on": ["!し"],
-        "wk_readings_kun": ["いと"],
-        "wk_radicals": ["Thread"]
     },
     "虫": {
         "strokes": 6,
@@ -10134,11 +6979,6 @@ data2 = {
         "meanings": ["Insect", "Bug", "Temper"],
         "readings_on": ["ちゅう", "き"],
         "readings_kun": ["むし"],
-        "wk_level": 4,
-        "wk_meanings": ["Insect", "^Bug"],
-        "wk_readings_on": ["!ちゅう", "!き"],
-        "wk_readings_kun": ["むし"],
-        "wk_radicals": ["Insect"]
     },
     "村": {
         "strokes": 7,
@@ -10149,11 +6989,6 @@ data2 = {
         "meanings": ["Village", "Town"],
         "readings_on": ["そん"],
         "readings_kun": ["むら"],
-        "wk_level": 4,
-        "wk_meanings": ["Village"],
-        "wk_readings_on": ["!そん"],
-        "wk_readings_kun": ["むら"],
-        "wk_radicals": ["Tree", "Measurement"]
     },
     "池": {
         "strokes": 6,
@@ -10164,11 +6999,6 @@ data2 = {
         "meanings": ["Pond", "Cistern", "Pool", "Reservoir"],
         "readings_on": ["ち"],
         "readings_kun": ["いけ"],
-        "wk_level": 8,
-        "wk_meanings": ["Pond"],
-        "wk_readings_on": ["ち"],
-        "wk_readings_kun": ["!いけ"],
-        "wk_radicals": ["Alligator", "Tsunami"]
     },
 
     "羽": {
@@ -10180,11 +7010,6 @@ data2 = {
         "meanings": ["Feathers", "Counter For Birds, Rabbits"],
         "readings_on": ["う"],
         "readings_kun": ["は", "わ", "はね"],
-        "wk_level": 5,
-        "wk_meanings": ["Feather", "^Feathers", "^Wing", "^Wings"],
-        "wk_readings_on": ["!う"],
-        "wk_readings_kun": ["はね", "は", "わ"],
-        "wk_radicals": ["Feathers"]
     },
     "角": {
         "strokes": 7,
@@ -10195,11 +7020,6 @@ data2 = {
         "meanings": ["Angle", "Corner", "Square", "Horn", "Antlers"],
         "readings_on": ["かく"],
         "readings_kun": ["かど", "つの"],
-        "wk_level": 5,
-        "wk_meanings": ["Angle", "^Corner"],
-        "wk_readings_on": ["かく"],
-        "wk_readings_kun": ["!かど"],
-        "wk_radicals": ["Prison", "Task"]
     },
     "谷": {
         "strokes": 7,
@@ -10210,11 +7030,6 @@ data2 = {
         "meanings": ["Valley"],
         "readings_on": ["こく"],
         "readings_kun": ["たに", "きわ.まる"],
-        "wk_level": 5,
-        "wk_meanings": ["Valley"],
-        "wk_readings_on": ["!こく"],
-        "wk_readings_kun": ["たに"],
-        "wk_radicals": ["Fins", "Hat", "Mouth"]
     },
     "麦": {
         "strokes": 7,
@@ -10225,11 +7040,6 @@ data2 = {
         "meanings": ["Barley", "Wheat"],
         "readings_on": ["ばく"],
         "readings_kun": ["むぎ"],
-        "wk_level": 5,
-        "wk_meanings": ["Wheat"],
-        "wk_readings_on": ["!ばく"],
-        "wk_readings_kun": ["むぎ"],
-        "wk_radicals": ["Life", "Winter"]
     },
     "林": {
         "strokes": 8,
@@ -10240,11 +7050,6 @@ data2 = {
         "meanings": ["Grove", "Forest"],
         "readings_on": ["りん"],
         "readings_kun": ["はやし"],
-        "wk_level": 5,
-        "wk_meanings": ["Forest", "^Woods"],
-        "wk_readings_on": ["!りん"],
-        "wk_readings_kun": ["はやし"],
-        "wk_radicals": ["Tree"]
     },
     "州": {
         "strokes": 6,
@@ -10255,11 +7060,6 @@ data2 = {
         "meanings": ["State", "Province"],
         "readings_on": ["しゅう", "す"],
         "readings_kun": ["す"],
-        "wk_level": 6,
-        "wk_meanings": ["State", "^Province", "^County"],
-        "wk_readings_on": ["しゅう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Drop", "River"]
     },
     "血": {
         "strokes": 6,
@@ -10270,11 +7070,6 @@ data2 = {
         "meanings": ["Blood"],
         "readings_on": ["けつ"],
         "readings_kun": ["ち"],
-        "wk_level": 6,
-        "wk_meanings": ["Blood"],
-        "wk_readings_on": ["けつ"],
-        "wk_readings_kun": ["!ち"],
-        "wk_radicals": ["Blood"]
     },
     "星": {
         "strokes": 9,
@@ -10285,11 +7080,6 @@ data2 = {
         "meanings": ["Star", "Spot", "Dot", "Mark"],
         "readings_on": ["せい", "しょう"],
         "readings_kun": ["ほし", "-ぼし"],
-        "wk_level": 6,
-        "wk_meanings": ["Star"],
-        "wk_readings_on": ["せい"],
-        "wk_readings_kun": ["!ほし"],
-        "wk_radicals": ["Sun", "Life"]
     },
     "札": {
         "strokes": 5,
@@ -10300,11 +7090,6 @@ data2 = {
         "meanings": ["Tag", "Paper Money", "Counter For Bonds", "Placard", "Bid"],
         "readings_on": ["さつ"],
         "readings_kun": ["ふだ"],
-        "wk_level": 7,
-        "wk_meanings": ["Bill", "^Tag", "^Label", "^Note"],
-        "wk_readings_on": ["さつ"],
-        "wk_readings_kun": ["!ふだ"],
-        "wk_radicals": ["Tree", "Umbrella"]
     },
     "辺": {
         "strokes": 5,
@@ -10315,11 +7100,6 @@ data2 = {
         "meanings": ["Environs", "Boundary", "Border", "Vicinity"],
         "readings_on": ["へん"],
         "readings_kun": ["あた.り", "ほと.り", "-べ"],
-        "wk_level": 7,
-        "wk_meanings": ["Area"],
-        "wk_readings_on": ["へん"],
-        "wk_readings_kun": ["!あた", "!べ"],
-        "wk_radicals": ["Scooter", "Sword"]
     },
     "弱": {
         "strokes": 10,
@@ -10330,11 +7110,6 @@ data2 = {
         "meanings": ["Weak", "Frail"],
         "readings_on": ["じゃく"],
         "readings_kun": ["よわ.い", "よわ.る", "よわ.まる", "よわ.める"],
-        "wk_level": 7,
-        "wk_meanings": ["Weak"],
-        "wk_readings_on": ["じゃく"],
-        "wk_readings_kun": ["!よわ"],
-        "wk_radicals": ["Bow", "Ice"]
     },
     "黄": {
         "strokes": 11,
@@ -10345,11 +7120,6 @@ data2 = {
         "meanings": ["Yellow"],
         "readings_on": ["こう", "おう"],
         "readings_kun": ["き", "こ-"],
-        "wk_level": 7,
-        "wk_meanings": ["Yellow"],
-        "wk_readings_on": ["!おう"],
-        "wk_readings_kun": ["き"],
-        "wk_radicals": ["Yellow"]
     },
     "森": {
         "strokes": 12,
@@ -10360,11 +7130,6 @@ data2 = {
         "meanings": ["Forest", "Woods"],
         "readings_on": ["しん"],
         "readings_kun": ["もり"],
-        "wk_level": 8,
-        "wk_meanings": ["Forest", "^Woods"],
-        "wk_readings_on": ["!しん"],
-        "wk_readings_kun": ["もり"],
-        "wk_radicals": ["Tree"]
     },
     "雲": {
         "strokes": 12,
@@ -10375,11 +7140,6 @@ data2 = {
         "meanings": ["Cloud"],
         "readings_on": ["うん"],
         "readings_kun": ["くも", "-ぐも"],
-        "wk_level": 8,
-        "wk_meanings": ["Cloud"],
-        "wk_readings_on": ["!うん"],
-        "wk_readings_kun": ["くも"],
-        "wk_radicals": ["Rain", "Cloud"]
     },
     "県": {
         "strokes": 9,
@@ -10390,11 +7150,6 @@ data2 = {
         "meanings": ["Prefecture"],
         "readings_on": ["けん"],
         "readings_kun": ["か.ける"],
-        "wk_level": 9,
-        "wk_meanings": ["Prefecture"],
-        "wk_readings_on": ["けん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Eye", "Lion", "Small"]
     },
     "軽": {
         "strokes": 12,
@@ -10405,11 +7160,6 @@ data2 = {
         "meanings": ["Lightly", "Trifling", "Unimportant"],
         "readings_on": ["けい", "きょう", "きん"],
         "readings_kun": ["かる.い", "かろ.やか", "かろ.んじる"],
-        "wk_level": 10,
-        "wk_meanings": ["Lightweight", "^Light", "^Light Weight"],
-        "wk_readings_on": ["!けい"],
-        "wk_readings_kun": ["かる", "かろ"],
-        "wk_radicals": ["Car", "Tombstone"]
     },
 
 
@@ -10422,11 +7172,6 @@ data2 = {
         "meanings": ["Agriculture", "Farmers"],
         "readings_on": ["のう"],
         "readings_kun": [],
-        "wk_level": 10,
-        "wk_meanings": ["Farming", "^Agriculture"],
-        "wk_readings_on": ["のう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Music", "Landslide"]
     },
     "鉄": {
         "strokes": 13,
@@ -10437,11 +7182,6 @@ data2 = {
         "meanings": ["Iron"],
         "readings_on": ["てつ"],
         "readings_kun": ["くろがね"],
-        "wk_level": 10,
-        "wk_meanings": ["Iron"],
-        "wk_readings_on": ["てつ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Gold", "Fault"]
     },
 
     "算": {
@@ -10453,11 +7193,6 @@ data2 = {
         "meanings": ["Calculate", "Divining", "Number", "Abacus", "Probability"],
         "readings_on": ["さん"],
         "readings_kun": ["そろ"],
-        "wk_level": 10,
-        "wk_meanings": ["Calculate", "^Calculation"],
-        "wk_readings_on": ["さん"],
-        "wk_readings_kun": ["!そろ"],
-        "wk_radicals": ["Bamboo", "Eye", "Twenty"]
     },
     "線": {
         "strokes": 15,
@@ -10468,11 +7203,6 @@ data2 = {
         "meanings": ["Line", "Track"],
         "readings_on": ["せん"],
         "readings_kun": ["すじ"],
-        "wk_level": 10,
-        "wk_meanings": ["Line"],
-        "wk_readings_on": ["せん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Thread", "White", "Water"]
     },
     "仲": {
         "strokes": 6,
@@ -10483,11 +7213,6 @@ data2 = {
         "meanings": ["Go-between", "Relationship"],
         "readings_on": ["ちゅう"],
         "readings_kun": ["なか"],
-        "wk_level": 11,
-        "wk_meanings": ["Relationship"],
-        "wk_readings_on": ["!ちゅう"],
-        "wk_readings_kun": ["なか"],
-        "wk_radicals": ["Leader", "Middle"]
     },
     "低": {
         "strokes": 7,
@@ -10498,11 +7223,6 @@ data2 = {
         "meanings": ["Lower", "Short", "Humble"],
         "readings_on": ["てい"],
         "readings_kun": ["ひく.い", "ひく.める", "ひく.まる"],
-        "wk_level": 11,
-        "wk_meanings": ["Low"],
-        "wk_readings_on": ["てい"],
-        "wk_readings_kun": ["!ひく"],
-        "wk_radicals": ["Leader", "Clan", "Ground"]
     },
     "岸": {
         "strokes": 8,
@@ -10513,11 +7233,6 @@ data2 = {
         "meanings": ["Beach"],
         "readings_on": ["がん"],
         "readings_kun": ["きし"],
-        "wk_level": 11,
-        "wk_meanings": ["Coast", "^Shore"],
-        "wk_readings_on": ["がん"],
-        "wk_readings_kun": ["!きし"],
-        "wk_radicals": ["Mountain", "Cliff", "Dry"]
     },
     "波": {
         "strokes": 8,
@@ -10528,11 +7243,6 @@ data2 = {
         "meanings": ["Waves", "Billows", "Poland"],
         "readings_on": ["は"],
         "readings_kun": ["なみ"],
-        "wk_level": 11,
-        "wk_meanings": ["Wave"],
-        "wk_readings_on": ["は"],
-        "wk_readings_kun": ["!なみ"],
-        "wk_radicals": ["Tsunami", "Skin"]
     },
     "拾": {
         "strokes": 9,
@@ -10543,11 +7253,6 @@ data2 = {
         "meanings": ["Pick Up", "Gather", "Find", "Go On Foot", "Ten"],
         "readings_on": ["しゅう", "じゅう"],
         "readings_kun": ["ひろ.う"],
-        "wk_level": 11,
-        "wk_meanings": ["Pick Up"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["ひろ"],
-        "wk_radicals": ["Fingers", "Suit"]
     },
     "秒": {
         "strokes": 9,
@@ -10558,11 +7263,6 @@ data2 = {
         "meanings": ["Second (1/60 Minute)"],
         "readings_on": ["びょう"],
         "readings_kun": [],
-        "wk_level": 11,
-        "wk_meanings": ["Second"],
-        "wk_readings_on": ["びょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Grain", "Few"]
     },
     "競": {
         "strokes": 20,
@@ -10573,11 +7273,6 @@ data2 = {
         "meanings": ["Emulate", "Compete With", "Bid", "Sell At Auction", "Bout", "Contest", "Race"],
         "readings_on": ["きょう", "けい"],
         "readings_kun": ["きそ.う", "せ.る", "くら.べる"],
-        "wk_level": 11,
-        "wk_meanings": ["Compete"],
-        "wk_readings_on": ["きょう"],
-        "wk_readings_kun": ["!きそ"],
-        "wk_radicals": ["Stand", "Older Brother"]
     },
     "令": {
         "strokes": 5,
@@ -10588,11 +7283,6 @@ data2 = {
         "meanings": ["Orders", "Ancient Laws", "Command", "Decree"],
         "readings_on": ["れい"],
         "readings_kun": [],
-        "wk_level": 11,
-        "wk_meanings": ["Orders"],
-        "wk_readings_on": ["れい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Orders"]
     },
     "根": {
         "strokes": 10,
@@ -10603,11 +7293,6 @@ data2 = {
         "meanings": ["Root", "Radical", "Head (pimple)"],
         "readings_on": ["こん"],
         "readings_kun": ["ね", "-ね"],
-        "wk_level": 12,
-        "wk_meanings": ["Root"],
-        "wk_readings_on": ["こん"],
-        "wk_readings_kun": ["!ね"],
-        "wk_radicals": ["Tree", "Root"]
     },
     "倍": {
         "strokes": 10,
@@ -10618,11 +7303,6 @@ data2 = {
         "meanings": ["Double", "Twice", "Times", "Fold"],
         "readings_on": ["ばい"],
         "readings_kun": [],
-        "wk_level": 12,
-        "wk_meanings": ["Double", "^Times", "^Multiply"],
-        "wk_readings_on": ["ばい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Clown"]
     },
     "島": {
         "strokes": 10,
@@ -10633,11 +7313,6 @@ data2 = {
         "meanings": ["Island"],
         "readings_on": ["とう"],
         "readings_kun": ["しま"],
-        "wk_level": 12,
-        "wk_meanings": ["Island"],
-        "wk_readings_on": ["!とう"],
-        "wk_readings_kun": ["しま"],
-        "wk_radicals": ["Bird", "Mountain"]
     },
     "祭": {
         "strokes": 11,
@@ -10648,11 +7323,6 @@ data2 = {
         "meanings": ["Ritual", "Offer Prayers", "Celebrate", "Deify", "Enshrine", "Worship"],
         "readings_on": ["さい"],
         "readings_kun": ["まつ.る", "まつ.り", "まつり"],
-        "wk_level": 12,
-        "wk_meanings": ["Festival"],
-        "wk_readings_on": ["さい"],
-        "wk_readings_kun": ["!まつり", "!まつ"],
-        "wk_radicals": ["Tent", "Jackhammer"]
     },
     "章": {
         "strokes": 11,
@@ -10663,11 +7333,6 @@ data2 = {
         "meanings": ["Badge", "Chapter", "Composition", "Poem", "Design"],
         "readings_on": ["しょう"],
         "readings_kun": [],
-        "wk_level": 12,
-        "wk_meanings": ["Chapter"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Stand", "Early"]
     },
     "童": {
         "strokes": 12,
@@ -10678,11 +7343,6 @@ data2 = {
         "meanings": ["Juvenile", "Child"],
         "readings_on": ["どう"],
         "readings_kun": ["わらべ"],
-        "wk_level": 12,
-        "wk_meanings": ["Juvenile"],
-        "wk_readings_on": ["どう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Stand", "Village"]
     },
     "階": {
         "strokes": 12,
@@ -10693,11 +7353,6 @@ data2 = {
         "meanings": ["Storey", "Stair", "Counter For Storeys Of A Building"],
         "readings_on": ["かい"],
         "readings_kun": ["きざはし"],
-        "wk_level": 12,
-        "wk_meanings": ["Floor", "^Story", "^Storey"],
-        "wk_readings_on": ["かい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Building", "Compare", "White"]
     },
     "植": {
         "strokes": 12,
@@ -10708,11 +7363,6 @@ data2 = {
         "meanings": ["Plant"],
         "readings_on": ["しょく"],
         "readings_kun": ["う.える", "う.わる"],
-        "wk_level": 12,
-        "wk_meanings": ["Plant"],
-        "wk_readings_on": ["しょく"],
-        "wk_readings_kun": ["!う"],
-        "wk_radicals": ["Tree", "Fix"]
     },
     "温": {
         "strokes": 12,
@@ -10723,11 +7373,6 @@ data2 = {
         "meanings": ["Warm"],
         "readings_on": ["おん"],
         "readings_kun": ["あたた.か", "あたた.かい", "あたた.まる", "あたた.める", "ぬく"],
-        "wk_level": 12,
-        "wk_meanings": ["Warm"],
-        "wk_readings_on": ["おん"],
-        "wk_readings_kun": ["!あたた"],
-        "wk_radicals": ["Tsunami", "Sun", "Plate"]
     },
     "湯": {
         "strokes": 12,
@@ -10738,11 +7383,6 @@ data2 = {
         "meanings": ["Hot Water", "Bath", "Hot Spring"],
         "readings_on": ["とう"],
         "readings_kun": ["ゆ"],
-        "wk_level": 12,
-        "wk_meanings": ["Hot Water"],
-        "wk_readings_on": ["!とう"],
-        "wk_readings_kun": ["ゆ"],
-        "wk_radicals": ["Tsunami", "Easy"]
     },
     "短": {
         "strokes": 12,
@@ -10753,11 +7393,6 @@ data2 = {
         "meanings": ["Short", "Brevity", "Fault", "Defect", "Weak Point"],
         "readings_on": ["たん"],
         "readings_kun": ["みじか.い"],
-        "wk_level": 12,
-        "wk_meanings": ["Short"],
-        "wk_readings_on": ["たん"],
-        "wk_readings_kun": ["!みじか"],
-        "wk_radicals": ["Arrow", "Beans"]
     },
     "泉": {
         "strokes": 9,
@@ -10768,11 +7403,6 @@ data2 = {
         "meanings": ["Spring", "Fountain"],
         "readings_on": ["せん"],
         "readings_kun": ["いずみ"],
-        "wk_level": 12,
-        "wk_meanings": ["Spring", "^Fountain"],
-        "wk_readings_on": ["せん"],
-        "wk_readings_kun": ["!いずみ"],
-        "wk_radicals": ["White", "Water"]
     },
     "橋": {
         "strokes": 16,
@@ -10783,11 +7413,6 @@ data2 = {
         "meanings": ["Bridge"],
         "readings_on": ["きょう"],
         "readings_kun": ["はし"],
-        "wk_level": 13,
-        "wk_meanings": ["Bridge"],
-        "wk_readings_on": ["!きょう"],
-        "wk_readings_kun": ["はし"],
-        "wk_radicals": ["Tree", "Heaven", "Mouth", "Mustache"]
     },
 
     "緑": {
@@ -10799,11 +7424,6 @@ data2 = {
         "meanings": ["Green"],
         "readings_on": ["りょく", "ろく"],
         "readings_kun": ["みどり"],
-        "wk_level": 13,
-        "wk_meanings": ["Green"],
-        "wk_readings_on": ["!りょく"],
-        "wk_readings_kun": ["みどり"],
-        "wk_radicals": ["Thread", "Wolverine", "Water"]
     },
     "練": {
         "strokes": 14,
@@ -10814,11 +7434,6 @@ data2 = {
         "meanings": ["Practice", "Gloss", "Train", "Drill", "Polish", "Refine"],
         "readings_on": ["れん"],
         "readings_kun": ["ね.る", "ね.り"],
-        "wk_level": 13,
-        "wk_meanings": ["Practice"],
-        "wk_readings_on": ["れん"],
-        "wk_readings_kun": ["!ね"],
-        "wk_radicals": ["Thread", "East"]
     },
     "億": {
         "strokes": 15,
@@ -10829,11 +7444,6 @@ data2 = {
         "meanings": ["Hundred Million", "10**8"],
         "readings_on": ["おく"],
         "readings_kun": [],
-        "wk_level": 13,
-        "wk_meanings": ["Hundred Million"],
-        "wk_readings_on": ["おく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Idea"]
     },
     "課": {
         "strokes": 15,
@@ -10844,11 +7454,6 @@ data2 = {
         "meanings": ["Chapter", "Lesson", "Section", "Department", "Division", "Counter For Chapters (of A Book)"],
         "readings_on": ["か"],
         "readings_kun": [],
-        "wk_level": 13,
-        "wk_meanings": ["Section"],
-        "wk_readings_on": ["か"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Say", "Fruit"]
     },
     "賞": {
         "strokes": 15,
@@ -10859,11 +7464,6 @@ data2 = {
         "meanings": ["Prize", "Reward", "Praise"],
         "readings_on": ["しょう"],
         "readings_kun": ["ほ.める"],
-        "wk_level": 13,
-        "wk_meanings": ["Prize"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Viking", "Mouth", "Shellfish"]
     },
     "輪": {
         "strokes": 15,
@@ -10874,11 +7474,6 @@ data2 = {
         "meanings": ["Wheel", "Ring", "Circle", "Link", "Loop", "Counter For Wheels And Flowers"],
         "readings_on": ["りん"],
         "readings_kun": ["わ"],
-        "wk_level": 13,
-        "wk_meanings": ["Wheel", "^Ring", "^Loop"],
-        "wk_readings_on": ["りん"],
-        "wk_readings_kun": ["!わ"],
-        "wk_radicals": ["Car", "Hat", "Ground", "Bookshelf"]
     },
     "像": {
         "strokes": 14,
@@ -10889,11 +7484,6 @@ data2 = {
         "meanings": ["Statue", "Picture", "Image", "Figure", "Portrait"],
         "readings_on": ["ぞう"],
         "readings_kun": [],
-        "wk_level": 13,
-        "wk_meanings": ["Statue", "^Image"],
-        "wk_readings_on": ["ぞう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Elephant"]
     },
     "卒": {
         "strokes": 8,
@@ -10904,11 +7494,6 @@ data2 = {
         "meanings": ["Graduate", "Soldier", "Private", "Die"],
         "readings_on": ["そつ", "しゅつ"],
         "readings_kun": ["そっ.する", "お.える", "お.わる", "ついに", "にわか"],
-        "wk_level": 14,
-        "wk_meanings": ["Graduate"],
-        "wk_readings_on": ["そつ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Lid", "Person", "Cross"]
     },
     "協": {
         "strokes": 8,
@@ -10919,11 +7504,6 @@ data2 = {
         "meanings": ["Co-", "Cooperation"],
         "readings_on": ["きょう"],
         "readings_kun": [],
-        "wk_level": 14,
-        "wk_meanings": ["Cooperation"],
-        "wk_readings_on": ["きょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Cross", "Power"]
     },
 
     "周": {
@@ -10935,11 +7515,6 @@ data2 = {
         "meanings": ["Circumference", "Circuit", "Lap"],
         "readings_on": ["しゅう"],
         "readings_kun": ["まわ.り"],
-        "wk_level": 14,
-        "wk_meanings": ["Circumference"],
-        "wk_readings_on": ["しゅう"],
-        "wk_readings_kun": ["!まわ"],
-        "wk_radicals": ["Circumference"]
     },
     "囲": {
         "strokes": 7,
@@ -10950,11 +7525,6 @@ data2 = {
         "meanings": ["Surround", "Besiege", "Store", "Paling", "Enclosure", "Encircle", "Preserve", "Keep"],
         "readings_on": ["い"],
         "readings_kun": ["かこ.む", "かこ.う", "かこ.い"],
-        "wk_level": 14,
-        "wk_meanings": ["Surround"],
-        "wk_readings_on": ["い"],
-        "wk_readings_kun": ["!かこ"],
-        "wk_radicals": ["Mouth", "Well"]
     },
     "固": {
         "strokes": 8,
@@ -10965,11 +7535,6 @@ data2 = {
         "meanings": ["Harden", "Set", "Clot", "Curdle"],
         "readings_on": ["こ"],
         "readings_kun": ["かた.める", "かた.まる", "かた.まり", "かた.い"],
-        "wk_level": 14,
-        "wk_meanings": ["Hard"],
-        "wk_readings_on": ["こ"],
-        "wk_readings_kun": ["!かた"],
-        "wk_radicals": ["Mouth", "Old"]
     },
     "季": {
         "strokes": 8,
@@ -10980,11 +7545,6 @@ data2 = {
         "meanings": ["Seasons"],
         "readings_on": ["き"],
         "readings_kun": [],
-        "wk_level": 14,
-        "wk_meanings": ["Seasons"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Grain", "Child"]
     },
     "希": {
         "strokes": 7,
@@ -10995,11 +7555,6 @@ data2 = {
         "meanings": ["Hope", "Beg", "Request", "Pray", "Beseech", "Greece", "Dilute (acid)", "Rare", "Few", "Phenomenal"],
         "readings_on": ["き", "け"],
         "readings_kun": ["まれ"],
-        "wk_level": 14,
-        "wk_meanings": ["Wish"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": ["!まれ"],
-        "wk_radicals": ["Treasure", "Narwhal", "Towel"]
     },
     "材": {
         "strokes": 7,
@@ -11010,11 +7565,6 @@ data2 = {
         "meanings": ["Lumber", "Log", "Timber", "Wood", "Materials", "Ingredients", "Talent"],
         "readings_on": ["ざい"],
         "readings_kun": [],
-        "wk_level": 14,
-        "wk_meanings": ["Lumber", "^Material", "^Timber"],
-        "wk_readings_on": ["ざい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tree", "Genius"]
     },
     "芸": {
         "strokes": 7,
@@ -11025,11 +7575,6 @@ data2 = {
         "meanings": ["Technique", "Art", "Craft", "Performance", "Acting", "Trick", "Stunt"],
         "readings_on": ["げい", "うん"],
         "readings_kun": ["う.える", "のり", "わざ"],
-        "wk_level": 14,
-        "wk_meanings": ["Acting", "^Art"],
-        "wk_readings_on": ["げい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Flowers", "Cloud"]
     },
     "技": {
         "strokes": 7,
@@ -11040,11 +7585,6 @@ data2 = {
         "meanings": ["Skill", "Art", "Craft", "Ability", "Feat", "Performance", "Vocation", "Arts"],
         "readings_on": ["ぎ"],
         "readings_kun": ["わざ"],
-        "wk_level": 14,
-        "wk_meanings": ["Skill"],
-        "wk_readings_on": ["ぎ"],
-        "wk_readings_kun": ["!わざ"],
-        "wk_radicals": ["Fingers", "Branch"]
     },
     "骨": {
         "strokes": 10,
@@ -11055,11 +7595,6 @@ data2 = {
         "meanings": ["Skeleton", "Bone", "Remains", "Frame"],
         "readings_on": ["こつ"],
         "readings_kun": ["ほね"],
-        "wk_level": 14,
-        "wk_meanings": ["Bone"],
-        "wk_readings_on": ["こつ"],
-        "wk_readings_kun": ["!ほね"],
-        "wk_radicals": ["Mustache", "Forehead", "Moon"]
     },
     "寺": {
         "strokes": 6,
@@ -11070,11 +7605,6 @@ data2 = {
         "meanings": ["Buddhist Temple"],
         "readings_on": ["じ"],
         "readings_kun": ["てら"],
-        "wk_level": 15,
-        "wk_meanings": ["Temple"],
-        "wk_readings_on": ["!じ"],
-        "wk_readings_kun": ["てら"],
-        "wk_radicals": ["Temple"]
     },
     "岩": {
         "strokes": 8,
@@ -11085,11 +7615,6 @@ data2 = {
         "meanings": ["Boulder", "Rock", "Cliff"],
         "readings_on": ["がん"],
         "readings_kun": ["いわ"],
-        "wk_level": 15,
-        "wk_meanings": ["Boulder"],
-        "wk_readings_on": ["!がん"],
-        "wk_readings_kun": ["いわ"],
-        "wk_radicals": ["Mountain", "Stone"]
     },
     "区": {
         "strokes": 4,
@@ -11100,11 +7625,6 @@ data2 = {
         "meanings": ["Ward", "District"],
         "readings_on": ["く", "おう", "こう"],
         "readings_kun": [],
-        "wk_level": 15,
-        "wk_meanings": ["District", "^Ward"],
-        "wk_readings_on": ["く"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Cage", "Treasure"]
     },
     "坂": {
         "strokes": 7,
@@ -11115,11 +7635,6 @@ data2 = {
         "meanings": ["Slope", "Incline", "Hill"],
         "readings_on": ["はん"],
         "readings_kun": ["さか"],
-        "wk_level": 15,
-        "wk_meanings": ["Slope"],
-        "wk_readings_on": ["!はん"],
-        "wk_readings_kun": ["さか"],
-        "wk_radicals": ["Dirt", "Anti"]
     },
     "勇": {
         "strokes": 9,
@@ -11130,11 +7645,6 @@ data2 = {
         "meanings": ["Courage", "Cheer Up", "Be In High Spirits", "Bravery", "Heroism"],
         "readings_on": ["ゆう"],
         "readings_kun": ["いさ.む"],
-        "wk_level": 15,
-        "wk_meanings": ["Courage", "^Bravery", "^Valor", "^Valour"],
-        "wk_readings_on": ["ゆう"],
-        "wk_readings_kun": ["!いさ"],
-        "wk_radicals": ["Mama", "Man"]
     },
     "毒": {
         "strokes": 8,
@@ -11145,11 +7655,6 @@ data2 = {
         "meanings": ["Poison", "Virus", "Venom", "Germ", "Harm", "Injury", "Spite"],
         "readings_on": ["どく"],
         "readings_kun": [],
-        "wk_level": 15,
-        "wk_meanings": ["Poison"],
-        "wk_readings_on": ["どく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Life", "Window"]
     },
     "浅": {
         "strokes": 9,
@@ -11160,11 +7665,6 @@ data2 = {
         "meanings": ["Shallow", "Superficial", "Frivolous", "Wretched", "Shameful"],
         "readings_on": ["せん"],
         "readings_kun": ["あさ.い"],
-        "wk_level": 15,
-        "wk_meanings": ["Shallow"],
-        "wk_readings_on": ["!せん"],
-        "wk_readings_kun": ["あさ"],
-        "wk_radicals": ["Tsunami", "Bar"]
     },
     "軍": {
         "strokes": 9,
@@ -11175,11 +7675,6 @@ data2 = {
         "meanings": ["Army", "Force", "Troops", "War", "Battle"],
         "readings_on": ["ぐん"],
         "readings_kun": ["いくさ"],
-        "wk_level": 15,
-        "wk_meanings": ["Army"],
-        "wk_readings_on": ["ぐん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Forehead", "Car"]
     },
 
     "仏": {
@@ -11191,11 +7686,6 @@ data2 = {
         "meanings": ["Buddha", "The Dead", "France"],
         "readings_on": ["ぶつ", "ふつ"],
         "readings_kun": ["ほとけ"],
-        "wk_level": 15,
-        "wk_meanings": ["Buddha"],
-        "wk_readings_on": ["ぶつ"],
-        "wk_readings_kun": ["!ほとけ"],
-        "wk_radicals": ["Leader", "Private"]
     },
     "築": {
         "strokes": 16,
@@ -11206,11 +7696,6 @@ data2 = {
         "meanings": ["Fabricate", "Build", "Construct"],
         "readings_on": ["ちく"],
         "readings_kun": ["きず.く"],
-        "wk_level": 15,
-        "wk_meanings": ["Construct", "^Build"],
-        "wk_readings_on": ["ちく"],
-        "wk_readings_kun": ["!きず"],
-        "wk_radicals": ["Bamboo", "Saw", "Tree"]
     },
 
     "門": {
@@ -11222,11 +7707,6 @@ data2 = {
         "meanings": ["Gate", "Counter For Cannons"],
         "readings_on": ["もん"],
         "readings_kun": ["かど", "と"],
-        "wk_level": 16,
-        "wk_meanings": ["Gates", "^Gate"],
-        "wk_readings_on": ["もん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Gate"]
     },
 
     "荷": {
@@ -11238,11 +7718,6 @@ data2 = {
         "meanings": ["Baggage", "Shoulder-pole Load", "Bear (a Burden)", "Shoulder (a Gun)", "Load", "Cargo", "Freight"],
         "readings_on": ["か"],
         "readings_kun": ["に"],
-        "wk_level": 16,
-        "wk_meanings": ["Luggage"],
-        "wk_readings_on": ["!か"],
-        "wk_readings_kun": ["に"],
-        "wk_radicals": ["Flowers", "Leader", "Lip Ring"]
     },
     "府": {
         "strokes": 8,
@@ -11253,11 +7728,6 @@ data2 = {
         "meanings": ["Borough", "Urban Prefecture", "Govt Office", "Representative Body", "Storehouse"],
         "readings_on": ["ふ"],
         "readings_kun": [],
-        "wk_level": 16,
-        "wk_meanings": ["Government"],
-        "wk_readings_on": ["ふ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Canopy", "Attach"]
     },
 
     "浴": {
@@ -11269,11 +7739,6 @@ data2 = {
         "meanings": ["Bathe", "Be Favored With", "Bask In"],
         "readings_on": ["よく"],
         "readings_kun": ["あ.びる", "あ.びせる"],
-        "wk_level": 16,
-        "wk_meanings": ["Bathe"],
-        "wk_readings_on": ["よく"],
-        "wk_readings_kun": ["!あ"],
-        "wk_radicals": ["Tsunami", "Valley"]
     },
     "専": {
         "strokes": 9,
@@ -11284,11 +7749,6 @@ data2 = {
         "meanings": ["Specialty", "Exclusive", "Mainly", "Solely"],
         "readings_on": ["せん"],
         "readings_kun": ["もっぱ.ら"],
-        "wk_level": 16,
-        "wk_meanings": ["Specialty"],
-        "wk_readings_on": ["せん"],
-        "wk_readings_kun": ["!もっぱ"],
-        "wk_radicals": ["Cross", "Rice Paddy", "Measurement"]
     },
     "細": {
         "strokes": 11,
@@ -11299,11 +7759,6 @@ data2 = {
         "meanings": ["Dainty", "Get Thin", "Taper", "Slender", "Narrow", "Detailed", "Precise"],
         "readings_on": ["さい"],
         "readings_kun": ["ほそ.い", "ほそ.る", "こま.か", "こま.かい"],
-        "wk_level": 17,
-        "wk_meanings": ["Thin"],
-        "wk_readings_on": ["さい"],
-        "wk_readings_kun": ["!ほそ", "!こま"],
-        "wk_radicals": ["Thread", "Rice Paddy"]
     },
 
     "鼻": {
@@ -11315,11 +7770,6 @@ data2 = {
         "meanings": ["Nose", "Snout"],
         "readings_on": ["び"],
         "readings_kun": ["はな"],
-        "wk_level": 17,
-        "wk_meanings": ["Nose"],
-        "wk_readings_on": ["!び"],
-        "wk_readings_kun": ["はな"],
-        "wk_radicals": ["Self", "Rice Paddy", "Twenty"]
     },
 
     "兵": {
@@ -11331,11 +7781,6 @@ data2 = {
         "meanings": ["Soldier", "Private", "Troops", "Army", "Warfare", "Strategy", "Tactics"],
         "readings_on": ["へい", "ひょう"],
         "readings_kun": ["つわもの"],
-        "wk_level": 17,
-        "wk_meanings": ["Soldier"],
-        "wk_readings_on": ["へい", "ひょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Axe", "Ground", "Fins"]
     },
 
     "塩": {
@@ -11347,11 +7792,6 @@ data2 = {
         "meanings": ["Salt"],
         "readings_on": ["えん"],
         "readings_kun": ["しお"],
-        "wk_level": 17,
-        "wk_meanings": ["Salt"],
-        "wk_readings_on": ["!えん"],
-        "wk_readings_kun": ["しお"],
-        "wk_radicals": ["Dirt", "Gun", "Mouth", "Plate"]
     },
 
     "栄": {
@@ -11363,11 +7803,6 @@ data2 = {
         "meanings": ["Flourish", "Prosperity", "Honor", "Glory", "Splendor"],
         "readings_on": ["えい", "よう"],
         "readings_kun": ["さか.える", "は.え", "-ば.え", "は.える", "え"],
-        "wk_level": 17,
-        "wk_meanings": ["Prosper", "^Flourish"],
-        "wk_readings_on": ["えい"],
-        "wk_readings_kun": ["!さか"],
-        "wk_radicals": ["Viking", "Tree"]
     },
     "干": {
         "strokes": 3,
@@ -11378,11 +7813,6 @@ data2 = {
         "meanings": ["Dry", "Parch", "Ebb", "Recede", "Interfere", "Intercede"],
         "readings_on": ["かん"],
         "readings_kun": ["ほ.す", "ほ.し-", "-ぼ.し", "ひ.る"],
-        "wk_level": 17,
-        "wk_meanings": ["Dry"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": ["!ほ", "!ひ"],
-        "wk_radicals": ["Dry"]
     },
     "底": {
         "strokes": 8,
@@ -11393,11 +7823,6 @@ data2 = {
         "meanings": ["Bottom", "Sole", "Depth", "Bottom Price", "Base", "Kind", "Sort"],
         "readings_on": ["てい"],
         "readings_kun": ["そこ"],
-        "wk_level": 17,
-        "wk_meanings": ["Bottom"],
-        "wk_readings_on": ["!てい"],
-        "wk_readings_kun": ["そこ"],
-        "wk_radicals": ["Canopy", "Clan", "Ground"]
     },
     "署": {
         "strokes": 13,
@@ -11408,11 +7833,6 @@ data2 = {
         "meanings": ["Signature", "Govt Office", "Police Station"],
         "readings_on": ["しょ"],
         "readings_kun": [],
-        "wk_level": 17,
-        "wk_meanings": ["Government Office", "^Political Office", "^Office"],
-        "wk_readings_on": ["しょ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Net", "Someone"]
     },
     "恋": {
         "strokes": 10,
@@ -11423,11 +7843,6 @@ data2 = {
         "meanings": ["Romance", "In Love", "Yearn For", "Miss", "Darling"],
         "readings_on": ["れん"],
         "readings_kun": ["こ.う", "こい", "こい.しい"],
-        "wk_level": 17,
-        "wk_meanings": ["Romance"],
-        "wk_readings_on": ["れん"],
-        "wk_readings_kun": ["!こい"],
-        "wk_radicals": ["Red", "Heart"]
     },
     "訓": {
         "strokes": 10,
@@ -11438,11 +7853,6 @@ data2 = {
         "meanings": ["Instruction", "Japanese Character Reading", "Explanation", "Read"],
         "readings_on": ["くん", "きん"],
         "readings_kun": ["おし.える", "よ.む", "くん.ずる"],
-        "wk_level": 18,
-        "wk_meanings": ["Instruction"],
-        "wk_readings_on": ["くん"],
-        "wk_readings_kun": ["!よ"],
-        "wk_radicals": ["Say", "River"]
     },
     "祈": {
         "strokes": 8,
@@ -11453,11 +7863,6 @@ data2 = {
         "meanings": ["Pray", "Wish"],
         "readings_on": ["き"],
         "readings_kun": ["いの.る"],
-        "wk_level": 18,
-        "wk_meanings": ["Pray"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": ["!いの"],
-        "wk_radicals": ["Spirit", "Axe"]
     },
     "焼": {
         "strokes": 12,
@@ -11468,11 +7873,6 @@ data2 = {
         "meanings": ["Bake", "Burning"],
         "readings_on": ["しょう"],
         "readings_kun": ["や.く", "や.き", "や.き-", "-や.き", "や.ける"],
-        "wk_level": 18,
-        "wk_meanings": ["Bake", "^Cook", "^Burn"],
-        "wk_readings_on": ["!しょう"],
-        "wk_readings_kun": ["や"],
-        "wk_radicals": ["Fire", "Gambler"]
     },
 
     "胸": {
@@ -11484,11 +7884,6 @@ data2 = {
         "meanings": ["Bosom", "Breast", "Chest", "Heart", "Feelings"],
         "readings_on": ["きょう"],
         "readings_kun": ["むね", "むな-"],
-        "wk_level": 18,
-        "wk_meanings": ["Chest", "^Breast"],
-        "wk_readings_on": ["!きょう"],
-        "wk_readings_kun": ["むね"],
-        "wk_radicals": ["Moon", "Prison", "Treasure Chest"]
     },
     "脳": {
         "strokes": 11,
@@ -11499,11 +7894,6 @@ data2 = {
         "meanings": ["Brain", "Memory"],
         "readings_on": ["のう", "どう"],
         "readings_kun": ["のうずる"],
-        "wk_level": 18,
-        "wk_meanings": ["Brain"],
-        "wk_readings_on": ["のう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Moon", "Grass", "Treasure Chest"]
     },
     "枚": {
         "strokes": 8,
@@ -11514,11 +7904,6 @@ data2 = {
         "meanings": ["Sheet Of...", "Counter For Flat Thin Objects Or Sheets"],
         "readings_on": ["まい", "ばい"],
         "readings_kun": [],
-        "wk_level": 18,
-        "wk_meanings": ["Flat Objects Counter", "^Flat Object", "^Counter For Flat Objects"],
-        "wk_readings_on": ["まい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tree", "Winter"]
     },
     "禁": {
         "strokes": 13,
@@ -11529,11 +7914,6 @@ data2 = {
         "meanings": ["Prohibition", "Ban", "Forbid"],
         "readings_on": ["きん"],
         "readings_kun": [],
-        "wk_level": 18,
-        "wk_meanings": ["Prohibit", "^Prohibition"],
-        "wk_readings_on": ["きん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tree", "Jackhammer"]
     },
     "喫": {
         "strokes": 12,
@@ -11544,11 +7924,6 @@ data2 = {
         "meanings": ["Consume", "Eat", "Drink", "Smoke", "Receive (a Blow)"],
         "readings_on": ["きつ"],
         "readings_kun": ["の.む"],
-        "wk_level": 18,
-        "wk_meanings": ["Consume"],
-        "wk_readings_on": ["きつ"],
-        "wk_readings_kun": ["!の"],
-        "wk_radicals": ["Mouth", "Life", "Sword", "Big"]
     },
     "減": {
         "strokes": 12,
@@ -11559,11 +7934,6 @@ data2 = {
         "meanings": ["Dwindle", "Decrease", "Reduce", "Decline", "Curtail", "Get Hungry"],
         "readings_on": ["げん"],
         "readings_kun": ["へ.る", "へ.らす"],
-        "wk_level": 19,
-        "wk_meanings": ["Decrease"],
-        "wk_readings_on": ["げん"],
-        "wk_readings_kun": ["!へ"],
-        "wk_radicals": ["Tsunami", "Feeling"]
     },
     "順": {
         "strokes": 12,
@@ -11574,11 +7944,6 @@ data2 = {
         "meanings": ["Obey", "Order", "Turn", "Right", "Docility", "Occasion"],
         "readings_on": ["じゅん"],
         "readings_kun": [],
-        "wk_level": 19,
-        "wk_meanings": ["Order", "^Sequence"],
-        "wk_readings_on": ["じゅん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["River", "Geoduck"]
     },
     "布": {
         "strokes": 5,
@@ -11589,11 +7954,6 @@ data2 = {
         "meanings": ["Linen", "Cloth", "Spread", "Distribute"],
         "readings_on": ["ふ"],
         "readings_kun": ["ぬの"],
-        "wk_level": 19,
-        "wk_meanings": ["Cloth"],
-        "wk_readings_on": ["ふ"],
-        "wk_readings_kun": ["!ぬの"],
-        "wk_radicals": ["Narwhal", "Towel"]
     },
     "詞": {
         "strokes": 12,
@@ -11604,11 +7964,6 @@ data2 = {
         "meanings": ["Part Of Speech", "Words", "Poetry"],
         "readings_on": ["し"],
         "readings_kun": ["ことば"],
-        "wk_level": 19,
-        "wk_meanings": ["Part Of Speech", "^Speech Particle", "^Particle Of Speech", "^Grammar Particle"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Say", "Director"]
     },
     "歴": {
         "strokes": 14,
@@ -11619,11 +7974,6 @@ data2 = {
         "meanings": ["Curriculum", "Continuation", "Passage Of Time"],
         "readings_on": ["れき", "れっき"],
         "readings_kun": [],
-        "wk_level": 19,
-        "wk_meanings": ["Continuation"],
-        "wk_readings_on": ["れき"],
-        "wk_readings_kun": ["!へ"],
-        "wk_radicals": ["Cliff", "Tree", "Stop"]
     },
     "冊": {
         "strokes": 5,
@@ -11634,11 +7984,6 @@ data2 = {
         "meanings": ["Tome", "Counter For Books", "Volume"],
         "readings_on": ["さつ", "さく"],
         "readings_kun": ["ふみ"],
-        "wk_level": 19,
-        "wk_meanings": ["Book Counter", "^Counter For Books", "^Counter For Volumes"],
-        "wk_readings_on": ["さつ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Bookshelf"]
     },
     "宇": {
         "strokes": 6,
@@ -11649,11 +7994,6 @@ data2 = {
         "meanings": ["Eaves", "Roof", "House", "Heaven"],
         "readings_on": ["う"],
         "readings_kun": [],
-        "wk_level": 19,
-        "wk_meanings": ["Outer Space"],
-        "wk_readings_on": ["う"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Roof", "Dry"]
     },
     "団": {
         "strokes": 6,
@@ -11664,11 +8004,6 @@ data2 = {
         "meanings": ["Group", "Association"],
         "readings_on": ["だん", "とん"],
         "readings_kun": ["かたまり", "まる.い"],
-        "wk_level": 19,
-        "wk_meanings": ["Group"],
-        "wk_readings_on": ["だん", "とん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Mouth", "Measurement"]
     },
     "暴": {
         "strokes": 15,
@@ -11679,11 +8014,6 @@ data2 = {
         "meanings": ["Outburst", "Rave", "Fret", "Force", "Violence", "Cruelty", "Outrage"],
         "readings_on": ["ぼう", "ばく"],
         "readings_kun": ["あば.く", "あば.れる"],
-        "wk_level": 19,
-        "wk_meanings": ["Violence"],
-        "wk_readings_on": ["ぼう"],
-        "wk_readings_kun": ["!あば", "!ばく"],
-        "wk_radicals": ["Sun", "Together", "Water"]
     },
     "混": {
         "strokes": 11,
@@ -11694,11 +8024,6 @@ data2 = {
         "meanings": ["Mix", "Blend", "Confuse"],
         "readings_on": ["こん"],
         "readings_kun": ["ま.じる", "-ま.じり", "ま.ざる", "ま.ぜる", "こ.む"],
-        "wk_level": 19,
-        "wk_meanings": ["Mix"],
-        "wk_readings_on": ["こん"],
-        "wk_readings_kun": ["!ま"],
-        "wk_radicals": ["Tsunami", "Sun", "Compare"]
     },
     "乱": {
         "strokes": 7,
@@ -11709,11 +8034,6 @@ data2 = {
         "meanings": ["Riot", "War", "Disorder", "Disturb"],
         "readings_on": ["らん", "ろん"],
         "readings_kun": ["みだ.れる", "みだ.る", "みだ.す", "みだ", "おさ.める", "わた.る"],
-        "wk_level": 19,
-        "wk_meanings": ["Riot"],
-        "wk_readings_on": ["らん"],
-        "wk_readings_kun": ["!みだ"],
-        "wk_radicals": ["Tongue", "Umbrella"]
     },
     "改": {
         "strokes": 7,
@@ -11724,11 +8044,6 @@ data2 = {
         "meanings": ["Reformation", "Change", "Modify", "Mend", "Renew", "Examine", "Inspect", "Search"],
         "readings_on": ["かい"],
         "readings_kun": ["あらた.める", "あらた.まる"],
-        "wk_level": 19,
-        "wk_meanings": ["Renew"],
-        "wk_readings_on": ["かい"],
-        "wk_readings_kun": ["!あらた"],
-        "wk_radicals": ["Oneself", "Winter"]
     },
     "絡": {
         "strokes": 12,
@@ -11739,11 +8054,6 @@ data2 = {
         "meanings": ["Entwine", "Coil Around", "Get Caught In"],
         "readings_on": ["らく"],
         "readings_kun": ["から.む", "から.まる"],
-        "wk_level": 19,
-        "wk_meanings": ["Entangle", "^Coil Around", "^Entwine"],
-        "wk_readings_on": ["らく"],
-        "wk_readings_kun": ["!から"],
-        "wk_radicals": ["Thread", "Kiss"]
     },
     "比": {
         "strokes": 4,
@@ -11754,11 +8064,6 @@ data2 = {
         "meanings": ["Compare", "Race", "Ratio", "Philippines"],
         "readings_on": ["ひ"],
         "readings_kun": ["くら.べる"],
-        "wk_level": 19,
-        "wk_meanings": ["Compare"],
-        "wk_readings_on": ["ひ"],
-        "wk_readings_kun": ["!くら"],
-        "wk_radicals": ["Compare"]
     },
     "被": {
         "strokes": 10,
@@ -11769,11 +8074,6 @@ data2 = {
         "meanings": ["Incur", "Cover", "Veil", "Brood Over", "Shelter", "Wear", "Put On", "Be Exposed (film)", "Receiving"],
         "readings_on": ["ひ"],
         "readings_kun": ["こうむ.る", "おお.う", "かぶ.る", "かぶ.せる"],
-        "wk_level": 20,
-        "wk_meanings": ["Incur"],
-        "wk_readings_on": ["ひ"],
-        "wk_readings_kun": ["!かぶ"],
-        "wk_radicals": ["Spirit", "Skin"]
     },
     "震": {
         "strokes": 15,
@@ -11784,11 +8084,6 @@ data2 = {
         "meanings": ["Quake", "Shake", "Tremble", "Quiver", "Shiver"],
         "readings_on": ["しん"],
         "readings_kun": ["ふる.う", "ふる.える"],
-        "wk_level": 20,
-        "wk_meanings": ["Earthquake", "^Quake", "^Shake"],
-        "wk_readings_on": ["しん"],
-        "wk_readings_kun": ["!ふる"],
-        "wk_radicals": ["Rain", "Landslide"]
     },
     "械": {
         "strokes": 11,
@@ -11799,11 +8094,6 @@ data2 = {
         "meanings": ["Contraption", "Fetter", "Machine", "Instrument"],
         "readings_on": ["かい"],
         "readings_kun": ["かせ"],
-        "wk_level": 20,
-        "wk_meanings": ["Contraption"],
-        "wk_readings_on": ["かい"],
-        "wk_readings_kun": ["!かせ"],
-        "wk_radicals": ["Tree", "Drunkard", "Twenty"]
     },
     "個": {
         "strokes": 10,
@@ -11814,11 +8104,6 @@ data2 = {
         "meanings": ["Individual", "Counter For Articles"],
         "readings_on": ["こ", "か"],
         "readings_kun": [],
-        "wk_level": 20,
-        "wk_meanings": ["Individual"],
-        "wk_readings_on": ["こ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Mouth", "Old"]
     },
     "圧": {
         "strokes": 5,
@@ -11829,11 +8114,6 @@ data2 = {
         "meanings": ["Pressure", "Push", "Overwhelm", "Oppress", "Dominate"],
         "readings_on": ["あつ", "えん", "おう"],
         "readings_kun": ["お.す", "へ.す", "おさ.える", "お.さえる"],
-        "wk_level": 20,
-        "wk_meanings": ["Pressure"],
-        "wk_readings_on": ["あつ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Cliff", "Dirt"]
     },
     "厚": {
         "strokes": 9,
@@ -11844,11 +8124,6 @@ data2 = {
         "meanings": ["Thick", "Heavy", "Rich", "Kind", "Cordial", "Brazen", "Shameless"],
         "readings_on": ["こう"],
         "readings_kun": ["あつ.い", "あか"],
-        "wk_level": 20,
-        "wk_meanings": ["Thick"],
-        "wk_readings_on": ["!こう"],
-        "wk_readings_kun": ["あつ"],
-        "wk_radicals": ["Cliff", "Sun", "Child"]
     },
     "防": {
         "strokes": 7,
@@ -11859,11 +8134,6 @@ data2 = {
         "meanings": ["Ward Off", "Defend", "Protect", "Resist"],
         "readings_on": ["ぼう"],
         "readings_kun": ["ふせ.ぐ"],
-        "wk_level": 20,
-        "wk_meanings": ["Prevent", "^Prevention"],
-        "wk_readings_on": ["ぼう"],
-        "wk_readings_kun": ["!ふせ"],
-        "wk_radicals": ["Building", "Direction"]
     },
     "史": {
         "strokes": 5,
@@ -11874,11 +8144,6 @@ data2 = {
         "meanings": ["History", "Chronicle"],
         "readings_on": ["し"],
         "readings_kun": [],
-        "wk_level": 19,
-        "wk_meanings": ["History"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["History"]
     },
     "委": {
         "strokes": 8,
@@ -11889,11 +8154,6 @@ data2 = {
         "meanings": ["Committee", "Entrust To", "Leave To", "Devote", "Discard"],
         "readings_on": ["い"],
         "readings_kun": ["ゆだ.ねる"],
-        "wk_level": 21,
-        "wk_meanings": ["Committee"],
-        "wk_readings_on": ["い"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Grain", "Woman"]
     },
     "査": {
         "strokes": 9,
@@ -11904,11 +8164,6 @@ data2 = {
         "meanings": ["Investigate"],
         "readings_on": ["さ"],
         "readings_kun": [],
-        "wk_level": 21,
-        "wk_meanings": ["Inspect", "^Investigate", "^Inspection", "^Investigation"],
-        "wk_readings_on": ["さ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tree", "Top Hat"]
     },
     "総": {
         "strokes": 14,
@@ -11919,11 +8174,6 @@ data2 = {
         "meanings": ["General", "Whole", "All", "Full", "Total"],
         "readings_on": ["そう"],
         "readings_kun": ["す.べて", "すべ.て", "ふさ"],
-        "wk_level": 21,
-        "wk_meanings": ["Whole"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Thread", "Public", "Heart"]
     },
     "設": {
         "strokes": 11,
@@ -11934,11 +8184,6 @@ data2 = {
         "meanings": ["Establishment", "Provision", "Prepare"],
         "readings_on": ["せつ"],
         "readings_kun": ["もう.ける"],
-        "wk_level": 21,
-        "wk_meanings": ["Establish"],
-        "wk_readings_on": ["せつ"],
-        "wk_readings_kun": ["!もう"],
-        "wk_radicals": ["Say", "Weapon"]
     },
     "省": {
         "strokes": 9,
@@ -11949,11 +8194,6 @@ data2 = {
         "meanings": ["Focus", "Government Ministry", "Conserve"],
         "readings_on": ["せい", "しょう"],
         "readings_kun": ["かえり.みる", "はぶ.く"],
-        "wk_level": 21,
-        "wk_meanings": ["Conserve"],
-        "wk_readings_on": ["しょう", "^せい"],
-        "wk_readings_kun": ["!はぶ"],
-        "wk_radicals": ["Few", "Eye"]
     },
     "税": {
         "strokes": 12,
@@ -11964,11 +8204,6 @@ data2 = {
         "meanings": ["Tax", "Duty"],
         "readings_on": ["ぜい"],
         "readings_kun": [],
-        "wk_level": 21,
-        "wk_meanings": ["Tax"],
-        "wk_readings_on": ["ぜい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Grain", "Guard"]
     },
     "各": {
         "strokes": 6,
@@ -11979,11 +8214,6 @@ data2 = {
         "meanings": ["Each", "Every", "Either"],
         "readings_on": ["かく"],
         "readings_kun": ["おのおの"],
-        "wk_level": 22,
-        "wk_meanings": ["Each"],
-        "wk_readings_on": ["かく"],
-        "wk_readings_kun": ["!おの"],
-        "wk_radicals": ["Kiss"]
     },
     "勢": {
         "strokes": 13,
@@ -11994,11 +8224,6 @@ data2 = {
         "meanings": ["Forces", "Energy", "Military Strength"],
         "readings_on": ["せい", "ぜい"],
         "readings_kun": ["いきお.い", "はずみ"],
-        "wk_level": 22,
-        "wk_meanings": ["Force"],
-        "wk_readings_on": ["せい", "せ"],
-        "wk_readings_kun": ["!いきお"],
-        "wk_radicals": ["Womb", "Circle", "Power"]
     },
     "営": {
         "strokes": 12,
@@ -12009,11 +8234,6 @@ data2 = {
         "meanings": ["Occupation", "Camp", "Perform", "Build", "Conduct (business)"],
         "readings_on": ["えい"],
         "readings_kun": ["いとな.む", "いとな.み"],
-        "wk_level": 22,
-        "wk_meanings": ["Manage"],
-        "wk_readings_on": ["えい"],
-        "wk_readings_kun": ["!いとな"],
-        "wk_radicals": ["Viking", "Bathtub"]
     },
     "領": {
         "strokes": 14,
@@ -12024,11 +8244,6 @@ data2 = {
         "meanings": ["Jurisdiction", "Dominion", "Territory", "Fief", "Reign"],
         "readings_on": ["りょう"],
         "readings_kun": ["えり"],
-        "wk_level": 22,
-        "wk_meanings": ["Territory"],
-        "wk_readings_on": ["りょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Orders", "Geoduck"]
     },
     "副": {
         "strokes": 11,
@@ -12039,11 +8254,6 @@ data2 = {
         "meanings": ["Vice-", "Assistant", "Aide", "Duplicate", "Copy"],
         "readings_on": ["ふく"],
         "readings_kun": [],
-        "wk_level": 22,
-        "wk_meanings": ["Vice", "^Side"],
-        "wk_readings_on": ["ふく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Scarecrow", "Knife"]
     },
     "域": {
         "strokes": 11,
@@ -12054,11 +8264,6 @@ data2 = {
         "meanings": ["Range", "Region", "Limits", "Stage", "Level"],
         "readings_on": ["いき"],
         "readings_kun": [],
-        "wk_level": 22,
-        "wk_meanings": ["Region", "^Boundary"],
-        "wk_readings_on": ["いき"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Dirt", "Drunkard", "Mouth", "Ground"]
     },
     "停": {
         "strokes": 11,
@@ -12069,11 +8274,6 @@ data2 = {
         "meanings": ["Halt", "Stopping"],
         "readings_on": ["てい"],
         "readings_kun": ["と.める", "と.まる"],
-        "wk_level": 23,
-        "wk_meanings": ["Halt"],
-        "wk_readings_on": ["てい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Restaurant"]
     },
     "革": {
         "strokes": 9,
@@ -12084,11 +8284,6 @@ data2 = {
         "meanings": ["Leather", "Skin", "Reform", "Become Serious"],
         "readings_on": ["かく"],
         "readings_kun": ["かわ"],
-        "wk_level": 23,
-        "wk_meanings": ["Leather"],
-        "wk_readings_on": ["かく"],
-        "wk_readings_kun": ["!かわ"],
-        "wk_radicals": ["Leather"]
     },
     "律": {
         "strokes": 9,
@@ -12099,11 +8294,6 @@ data2 = {
         "meanings": ["Rhythm", "Law", "Regulation", "Gauge", "Control"],
         "readings_on": ["りつ", "りち", "れつ"],
         "readings_kun": [],
-        "wk_level": 23,
-        "wk_meanings": ["Law"],
-        "wk_readings_on": ["りつ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Loiter", "Brush"]
     },
     "準": {
         "strokes": 13,
@@ -12114,11 +8304,6 @@ data2 = {
         "meanings": ["Semi-", "Correspond To", "Proportionate To", "Conform", "Imitate"],
         "readings_on": ["じゅん"],
         "readings_kun": ["じゅん.じる", "じゅん.ずる", "なぞら.える", "のり", "ひと.しい", "みずもり"],
-        "wk_level": 23,
-        "wk_meanings": ["Standard"],
-        "wk_readings_on": ["じゅん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tsunami", "Turkey", "Cross"]
     },
     "則": {
         "strokes": 9,
@@ -12129,11 +8314,6 @@ data2 = {
         "meanings": ["Rule", "Follow", "Based On", "Model After"],
         "readings_on": ["そく"],
         "readings_kun": ["のっと.る"],
-        "wk_level": 23,
-        "wk_meanings": ["Rule"],
-        "wk_readings_on": ["そく"],
-        "wk_readings_kun": ["!のっと"],
-        "wk_radicals": ["Shellfish", "Knife"]
     },
     "導": {
         "strokes": 15,
@@ -12144,11 +8324,6 @@ data2 = {
         "meanings": ["Guidance", "Leading", "Conduct", "Usher"],
         "readings_on": ["どう"],
         "readings_kun": ["みちび.く"],
-        "wk_level": 23,
-        "wk_meanings": ["Lead"],
-        "wk_readings_on": ["どう"],
-        "wk_readings_kun": ["!みちび"],
-        "wk_radicals": ["Road", "Measurement"]
     },
     "乳": {
         "strokes": 8,
@@ -12159,11 +8334,6 @@ data2 = {
         "meanings": ["Milk", "Breasts"],
         "readings_on": ["にゅう"],
         "readings_kun": ["ちち", "ち"],
-        "wk_level": 23,
-        "wk_meanings": ["Milk"],
-        "wk_readings_on": ["にゅう"],
-        "wk_readings_kun": ["!ちち"],
-        "wk_radicals": ["Cleat", "Child", "Umbrella"]
     },
 
     "城": {
@@ -12175,11 +8345,6 @@ data2 = {
         "meanings": ["Castle"],
         "readings_on": ["じょう", "せい"],
         "readings_kun": ["しろ"],
-        "wk_level": 23,
-        "wk_meanings": ["Castle"],
-        "wk_readings_on": ["!じょう"],
-        "wk_readings_kun": ["しろ"],
-        "wk_radicals": ["Dirt", "Become"]
     },
     "担": {
         "strokes": 8,
@@ -12190,11 +8355,6 @@ data2 = {
         "meanings": ["Shouldering", "Carry", "Raise", "Bear"],
         "readings_on": ["たん"],
         "readings_kun": ["かつ.ぐ", "にな.う"],
-        "wk_level": 24,
-        "wk_meanings": ["Carry", "^Bear"],
-        "wk_readings_on": ["たん"],
-        "wk_readings_kun": ["!にな", "!かつ"],
-        "wk_radicals": ["Fingers", "Dawn"]
     },
     "額": {
         "strokes": 18,
@@ -12205,11 +8365,6 @@ data2 = {
         "meanings": ["Forehead", "Tablet", "Plaque", "Framed Picture", "Sum", "Amount", "Volume"],
         "readings_on": ["がく"],
         "readings_kun": ["ひたい"],
-        "wk_level": 24,
-        "wk_meanings": ["Amount", "^Framed Picture", "^Forehead"],
-        "wk_readings_on": ["がく"],
-        "wk_readings_kun": ["!ひたい"],
-        "wk_radicals": ["Guest", "Geoduck"]
     },
     "輸": {
         "strokes": 16,
@@ -12220,11 +8375,6 @@ data2 = {
         "meanings": ["Transport", "Send", "Be Inferior"],
         "readings_on": ["ゆ", "しゅ"],
         "readings_kun": [],
-        "wk_level": 24,
-        "wk_meanings": ["Transport"],
-        "wk_readings_on": ["ゆ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Car", "Death Star"]
     },
     "燃": {
         "strokes": 16,
@@ -12235,11 +8385,6 @@ data2 = {
         "meanings": ["Burn", "Blaze", "Glow"],
         "readings_on": ["ねん"],
         "readings_kun": ["も.える", "も.やす", "も.す"],
-        "wk_level": 24,
-        "wk_meanings": ["Burn"],
-        "wk_readings_on": ["ねん"],
-        "wk_readings_kun": ["!も"],
-        "wk_radicals": ["Fire", "Nature"]
     },
     "祝": {
         "strokes": 9,
@@ -12250,11 +8395,6 @@ data2 = {
         "meanings": ["Celebrate", "Congratulate"],
         "readings_on": ["しゅく", "しゅう"],
         "readings_kun": ["いわ.う"],
-        "wk_level": 24,
-        "wk_meanings": ["Celebrate"],
-        "wk_readings_on": ["しゅく", "^しゅう"],
-        "wk_readings_kun": ["!いわ"],
-        "wk_radicals": ["Spirit", "Older Brother"]
     },
     "届": {
         "strokes": 8,
@@ -12265,11 +8405,6 @@ data2 = {
         "meanings": ["Deliver", "Reach", "Arrive", "Report", "Notify", "Forward"],
         "readings_on": ["かい"],
         "readings_kun": ["とど.ける", "-とど.け", "とど.く"],
-        "wk_level": 24,
-        "wk_meanings": ["Deliver"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["とど"],
-        "wk_radicals": ["Flag", "Reason"]
     },
     "肩": {
         "strokes": 8,
@@ -12280,11 +8415,6 @@ data2 = {
         "meanings": ["Shoulder"],
         "readings_on": ["けん"],
         "readings_kun": ["かた"],
-        "wk_level": 24,
-        "wk_meanings": ["Shoulder"],
-        "wk_readings_on": ["!けん"],
-        "wk_readings_kun": ["かた"],
-        "wk_radicals": ["Door", "Moon"]
     },
     "腕": {
         "strokes": 12,
@@ -12295,11 +8425,6 @@ data2 = {
         "meanings": ["Arm", "Ability", "Talent"],
         "readings_on": ["わん"],
         "readings_kun": ["うで"],
-        "wk_level": 24,
-        "wk_meanings": ["Arm"],
-        "wk_readings_on": ["!わん"],
-        "wk_readings_kun": ["うで"],
-        "wk_radicals": ["Moon", "Roof", "Evening", "Snake"]
     },
     "腰": {
         "strokes": 13,
@@ -12310,11 +8435,6 @@ data2 = {
         "meanings": ["Loins", "Hips", "Waist", "Low Wainscoting"],
         "readings_on": ["よう"],
         "readings_kun": ["こし"],
-        "wk_level": 24,
-        "wk_meanings": ["Waist"],
-        "wk_readings_on": ["!よう"],
-        "wk_readings_kun": ["こし"],
-        "wk_radicals": ["Moon", "Helicopter", "Woman"]
     },
     "触": {
         "strokes": 13,
@@ -12325,11 +8445,6 @@ data2 = {
         "meanings": ["Contact", "Touch", "Feel", "Hit", "Proclaim", "Announce", "Conflict"],
         "readings_on": ["しょく"],
         "readings_kun": ["ふ.れる", "さわ.る", "さわ"],
-        "wk_level": 24,
-        "wk_meanings": ["Touch"],
-        "wk_readings_on": ["しょく"],
-        "wk_readings_kun": ["!さわ", "!ふ"],
-        "wk_radicals": ["Angle", "Insect"]
     },
     "層": {
         "strokes": 14,
@@ -12340,11 +8455,6 @@ data2 = {
         "meanings": ["Stratum", "Social Class", "Layer", "Story", "Floor"],
         "readings_on": ["そう"],
         "readings_kun": [],
-        "wk_level": 24,
-        "wk_meanings": ["Layer"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Flag", "Mask"]
     },
     "型": {
         "strokes": 9,
@@ -12355,11 +8465,6 @@ data2 = {
         "meanings": ["Mould", "Type", "Model"],
         "readings_on": ["けい"],
         "readings_kun": ["かた", "-がた"],
-        "wk_level": 24,
-        "wk_meanings": ["Model", "^Type"],
-        "wk_readings_on": ["けい"],
-        "wk_readings_kun": ["!かた"],
-        "wk_radicals": ["Lantern", "Knife", "Dirt"]
     },
     "庁": {
         "strokes": 5,
@@ -12370,11 +8475,6 @@ data2 = {
         "meanings": ["Government Office"],
         "readings_on": ["ちょう", "てい"],
         "readings_kun": ["やくしょ"],
-        "wk_level": 24,
-        "wk_meanings": ["Agency", "^Government Office"],
-        "wk_readings_on": ["ちょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Canopy", "Street"]
     },
     "管": {
         "strokes": 14,
@@ -12385,11 +8485,6 @@ data2 = {
         "meanings": ["Pipe", "Tube", "Wind Instrument", "Drunken Talk", "Control", "Jurisdiction"],
         "readings_on": ["かん"],
         "readings_kun": ["くだ"],
-        "wk_level": 24,
-        "wk_meanings": ["Pipe"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": ["!くだ"],
-        "wk_radicals": ["Bamboo", "Roof", "Bear"]
     },
     "象": {
         "strokes": 12,
@@ -12400,11 +8495,6 @@ data2 = {
         "meanings": ["Elephant", "Pattern After", "Imitate", "Image", "Shape", "Sign (of The Times)"],
         "readings_on": ["しょう", "ぞう"],
         "readings_kun": ["かたど.る"],
-        "wk_level": 24,
-        "wk_meanings": ["Elephant", "^Phenomenon"],
-        "wk_readings_on": ["しょう", "ぞう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Elephant"]
     },
     "量": {
         "strokes": 12,
@@ -12415,11 +8505,6 @@ data2 = {
         "meanings": ["Quantity", "Measure", "Weight", "Amount", "Consider", "Estimate", "Surmise"],
         "readings_on": ["りょう"],
         "readings_kun": ["はか.る"],
-        "wk_level": 24,
-        "wk_meanings": ["Quantity", "^Amount"],
-        "wk_readings_on": ["りょう"],
-        "wk_readings_kun": ["!はか"],
-        "wk_radicals": ["Dawn", "Village"]
     },
     "境": {
         "strokes": 14,
@@ -12430,11 +8515,6 @@ data2 = {
         "meanings": ["Boundary", "Border", "Region"],
         "readings_on": ["きょう", "けい"],
         "readings_kun": ["さかい"],
-        "wk_level": 24,
-        "wk_meanings": ["Boundary"],
-        "wk_readings_on": ["きょう"],
-        "wk_readings_kun": ["!さかい"],
-        "wk_radicals": ["Dirt", "Stand", "See"]
     },
     "武": {
         "strokes": 8,
@@ -12445,11 +8525,6 @@ data2 = {
         "meanings": ["Warrior", "Military", "Chivalry", "Arms"],
         "readings_on": ["ぶ", "む"],
         "readings_kun": ["たけ", "たけ.し"],
-        "wk_level": 24,
-        "wk_meanings": ["Military"],
-        "wk_readings_on": ["ぶ", "^む"],
-        "wk_readings_kun": ["!たけ"],
-        "wk_radicals": ["Ground", "Ceremony", "Stop"]
     },
 
     "述": {
@@ -12461,11 +8536,6 @@ data2 = {
         "meanings": ["Mention", "State", "Speak", "Relate"],
         "readings_on": ["じゅつ"],
         "readings_kun": ["の.べる"],
-        "wk_level": 24,
-        "wk_meanings": ["Mention"],
-        "wk_readings_on": ["じゅつ"],
-        "wk_readings_kun": ["!の"],
-        "wk_radicals": ["Scooter", "Angel", "Drop"]
     },
     "販": {
         "strokes": 11,
@@ -12476,11 +8546,6 @@ data2 = {
         "meanings": ["Marketing", "Sell", "Trade"],
         "readings_on": ["はん"],
         "readings_kun": [],
-        "wk_level": 24,
-        "wk_meanings": ["Sell"],
-        "wk_readings_on": ["はん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Shellfish", "Anti"]
     },
     "含": {
         "strokes": 7,
@@ -12491,11 +8556,6 @@ data2 = {
         "meanings": ["Contain", "Include", "Hold In The Mouth", "Bear In Mind", "Understand", "Cherish"],
         "readings_on": ["がん"],
         "readings_kun": ["ふく.む", "ふく.める"],
-        "wk_level": 25,
-        "wk_meanings": ["Include"],
-        "wk_readings_on": ["がん"],
-        "wk_readings_kun": ["!ふく"],
-        "wk_radicals": ["Now", "Mouth"]
     },
     "況": {
         "strokes": 8,
@@ -12506,11 +8566,6 @@ data2 = {
         "meanings": ["Condition", "Situation"],
         "readings_on": ["きょう"],
         "readings_kun": ["まし.て", "いわ.んや", "おもむき"],
-        "wk_level": 25,
-        "wk_meanings": ["Condition"],
-        "wk_readings_on": ["きょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tsunami", "Older Brother"]
     },
     "補": {
         "strokes": 12,
@@ -12521,11 +8576,6 @@ data2 = {
         "meanings": ["Supplement", "Supply", "Make Good", "Offset", "Compensate", "Assistant", "Learner"],
         "readings_on": ["ほ"],
         "readings_kun": ["おぎな.う"],
-        "wk_level": 25,
-        "wk_meanings": ["Supplement"],
-        "wk_readings_on": ["ほ"],
-        "wk_readings_kun": ["!おぎな"],
-        "wk_radicals": ["Spirit", "Wedding"]
     },
     "効": {
         "strokes": 8,
@@ -12536,11 +8586,6 @@ data2 = {
         "meanings": ["Merit", "Efficacy", "Efficiency", "Benefit"],
         "readings_on": ["こう"],
         "readings_kun": ["き.く", "ききめ", "なら.う"],
-        "wk_level": 25,
-        "wk_meanings": ["Effective"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!き"],
-        "wk_radicals": ["Mix", "Power"]
     },
     "豊": {
         "strokes": 13,
@@ -12551,11 +8596,6 @@ data2 = {
         "meanings": ["Bountiful", "Excellent", "Rich"],
         "readings_on": ["ほう", "ぶ"],
         "readings_kun": ["ゆた.か", "とよ"],
-        "wk_level": 25,
-        "wk_meanings": ["Plentiful"],
-        "wk_readings_on": ["ほう"],
-        "wk_readings_kun": ["!ゆた"],
-        "wk_radicals": ["Music", "Beans"]
     },
     "巻": {
         "strokes": 9,
@@ -12566,11 +8606,6 @@ data2 = {
         "meanings": ["Scroll", "Volume", "Book", "Part", "Roll Up", "Wind Up", "Tie", "Coil", "Counter For Texts (or Book Scrolls)"],
         "readings_on": ["かん", "けん"],
         "readings_kun": ["ま.く", "まき", "ま.き"],
-        "wk_level": 25,
-        "wk_meanings": ["Scroll"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": ["!ま"],
-        "wk_radicals": ["Gladiator", "Oneself"]
     },
     "捜": {
         "strokes": 10,
@@ -12581,11 +8616,6 @@ data2 = {
         "meanings": ["Search", "Look For", "Locate"],
         "readings_on": ["そう", "しゅ", "しゅう"],
         "readings_kun": ["さが.す"],
-        "wk_level": 25,
-        "wk_meanings": ["Search"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": ["!さが"],
-        "wk_radicals": ["Fingers", "Humble", "Stool"]
     },
     "替": {
         "strokes": 12,
@@ -12596,11 +8626,6 @@ data2 = {
         "meanings": ["Exchange", "Spare", "Substitute", "Per-"],
         "readings_on": ["たい"],
         "readings_kun": ["か.える", "か.え-", "か.わる"],
-        "wk_level": 25,
-        "wk_meanings": ["Replace", "^Exchange"],
-        "wk_readings_on": ["!たい"],
-        "wk_readings_kun": ["か"],
-        "wk_radicals": ["Husband", "Sun"]
     },
 
     "造": {
@@ -12612,11 +8637,6 @@ data2 = {
         "meanings": ["Create", "Make", "Structure", "Physique"],
         "readings_on": ["ぞう"],
         "readings_kun": ["つく.る", "つく.り", "-づく.り"],
-        "wk_level": 26,
-        "wk_meanings": ["Create"],
-        "wk_readings_on": ["ぞう"],
-        "wk_readings_kun": ["!つく"],
-        "wk_radicals": ["Scooter", "Announce"]
     },
     "印": {
         "strokes": 6,
@@ -12627,11 +8647,6 @@ data2 = {
         "meanings": ["Stamp", "Seal", "Mark", "Imprint", "Symbol", "Emblem", "Trademark", "Evidence", "Souvenir", "India"],
         "readings_on": ["いん"],
         "readings_kun": ["しるし", "-じるし", "しる.す"],
-        "wk_level": 26,
-        "wk_meanings": ["Seal", "^Mark"],
-        "wk_readings_on": ["いん"],
-        "wk_readings_kun": ["!しるし"],
-        "wk_radicals": ["Comb", "Stamp"]
     },
     "復": {
         "strokes": 12,
@@ -12642,11 +8657,6 @@ data2 = {
         "meanings": ["Restore", "Return To", "Revert", "Resume"],
         "readings_on": ["ふく"],
         "readings_kun": ["また"],
-        "wk_level": 26,
-        "wk_meanings": ["Restore"],
-        "wk_readings_on": ["ふく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Loiter", "Black Hole"]
     },
     "貯": {
         "strokes": 12,
@@ -12657,11 +8667,6 @@ data2 = {
         "meanings": ["Savings", "Store", "Lay In", "Keep", "Wear Mustache"],
         "readings_on": ["ちょ"],
         "readings_kun": ["た.める", "たくわ.える"],
-        "wk_level": 26,
-        "wk_meanings": ["Savings"],
-        "wk_readings_on": ["ちょ"],
-        "wk_readings_kun": ["!たくわ"],
-        "wk_radicals": ["Shellfish", "Roof", "Street"]
     },
     "刺": {
         "strokes": 8,
@@ -12672,11 +8677,6 @@ data2 = {
         "meanings": ["Thorn", "Pierce", "Stab", "Prick", "Sting", "Calling Card"],
         "readings_on": ["し"],
         "readings_kun": ["さ.す", "さ.さる", "さ.し", "さし", "とげ"],
-        "wk_level": 26,
-        "wk_meanings": ["Stab"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!さ"],
-        "wk_radicals": ["Tree", "Head", "Knife"]
     },
     "郵": {
         "strokes": 11,
@@ -12687,11 +8687,6 @@ data2 = {
         "meanings": ["Mail", "Stagecoach Stop"],
         "readings_on": ["ゆう"],
         "readings_kun": [],
-        "wk_level": 26,
-        "wk_meanings": ["Mail"],
-        "wk_readings_on": ["ゆう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Car", "Building"]
     },
     "針": {
         "strokes": 10,
@@ -12702,11 +8697,6 @@ data2 = {
         "meanings": ["Needle", "Pin", "Staple", "Stinger"],
         "readings_on": ["しん"],
         "readings_kun": ["はり"],
-        "wk_level": 26,
-        "wk_meanings": ["Needle"],
-        "wk_readings_on": ["しん"],
-        "wk_readings_kun": ["!はり"],
-        "wk_radicals": ["Gold", "Cross"]
     },
     "菓": {
         "strokes": 11,
@@ -12717,11 +8707,6 @@ data2 = {
         "meanings": ["Candy", "Cakes", "Fruit"],
         "readings_on": ["か"],
         "readings_kun": [],
-        "wk_level": 26,
-        "wk_meanings": ["Cake"],
-        "wk_readings_on": ["か"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Flowers", "Fruit"]
     },
     "河": {
         "strokes": 8,
@@ -12732,11 +8717,6 @@ data2 = {
         "meanings": ["River"],
         "readings_on": ["か"],
         "readings_kun": ["かわ"],
-        "wk_level": 26,
-        "wk_meanings": ["River"],
-        "wk_readings_on": ["か"],
-        "wk_readings_kun": ["!かわ"],
-        "wk_radicals": ["Tsunami", "Lip Ring"]
     },
     "汗": {
         "strokes": 6,
@@ -12747,11 +8727,6 @@ data2 = {
         "meanings": ["Sweat", "Perspire"],
         "readings_on": ["かん"],
         "readings_kun": ["あせ"],
-        "wk_level": 26,
-        "wk_meanings": ["Sweat"],
-        "wk_readings_on": ["!かん"],
-        "wk_readings_kun": ["あせ"],
-        "wk_radicals": ["Tsunami", "Dry"]
     },
     "再": {
         "strokes": 6,
@@ -12762,11 +8737,6 @@ data2 = {
         "meanings": ["Again", "Twice", "Second Time"],
         "readings_on": ["さい", "さ"],
         "readings_kun": ["ふたた.び"],
-        "wk_level": 26,
-        "wk_meanings": ["Again"],
-        "wk_readings_on": ["さ", "さい"],
-        "wk_readings_kun": ["!ふたた"],
-        "wk_radicals": ["Leaf", "Task"]
     },
     "接": {
         "strokes": 11,
@@ -12777,11 +8747,6 @@ data2 = {
         "meanings": ["Touch", "Contact", "Adjoin", "Piece Together"],
         "readings_on": ["せつ", "しょう"],
         "readings_kun": ["つ.ぐ"],
-        "wk_level": 26,
-        "wk_meanings": ["Adjoin"],
-        "wk_readings_on": ["せつ"],
-        "wk_readings_kun": ["!つ"],
-        "wk_radicals": ["Fingers", "Stand", "Woman"]
     },
     "占": {
         "strokes": 5,
@@ -12792,11 +8757,6 @@ data2 = {
         "meanings": ["Fortune-telling", "Divining", "Forecasting", "Occupy", "Hold", "Have", "Get", "Take"],
         "readings_on": ["せん"],
         "readings_kun": ["し.める", "うらな.う"],
-        "wk_level": 26,
-        "wk_meanings": ["Fortune", "^Occupy"],
-        "wk_readings_on": ["せん"],
-        "wk_readings_kun": ["!うらな", "!し"],
-        "wk_radicals": ["Fortune"]
     },
 
     "胃": {
@@ -12808,11 +8768,6 @@ data2 = {
         "meanings": ["Stomach", "Paunch", "Crop", "Craw"],
         "readings_on": ["い"],
         "readings_kun": [],
-        "wk_level": 27,
-        "wk_meanings": ["Stomach"],
-        "wk_readings_on": ["い"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Rice Paddy", "Moon"]
     },
     "悩": {
         "strokes": 10,
@@ -12823,11 +8778,6 @@ data2 = {
         "meanings": ["Trouble", "Worry", "In Pain", "Distress", "Illness"],
         "readings_on": ["のう"],
         "readings_kun": ["なや.む", "なや.ます", "なや.ましい", "なやみ"],
-        "wk_level": 27,
-        "wk_meanings": ["Worry"],
-        "wk_readings_on": ["!のう"],
-        "wk_readings_kun": ["なや"],
-        "wk_radicals": ["Soul", "Grass", "Treasure Chest"]
     },
     "昇": {
         "strokes": 8,
@@ -12838,11 +8788,6 @@ data2 = {
         "meanings": ["Rise Up"],
         "readings_on": ["しょう"],
         "readings_kun": ["のぼ.る"],
-        "wk_level": 27,
-        "wk_meanings": ["Ascend"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!のぼ"],
-        "wk_radicals": ["Sun", "Slide", "Twenty"]
     },
     "濃": {
         "strokes": 16,
@@ -12853,11 +8798,6 @@ data2 = {
         "meanings": ["Concentrated", "Thick", "Dark", "Undiluted"],
         "readings_on": ["のう"],
         "readings_kun": ["こ.い"],
-        "wk_level": 27,
-        "wk_meanings": ["Thick"],
-        "wk_readings_on": ["のう"],
-        "wk_readings_kun": ["!こ"],
-        "wk_radicals": ["Tsunami", "Farming"]
     },
     "極": {
         "strokes": 12,
@@ -12868,11 +8808,6 @@ data2 = {
         "meanings": ["Poles", "Settlement", "Conclusion", "End", "Highest Rank", "Electric Poles", "Very", "Extremely", "Most", "Highly", "10**48"],
         "readings_on": ["きょく", "ごく"],
         "readings_kun": ["きわ.める", "きわ.まる", "きわ.まり", "きわ.み", "き.める", "-ぎ.め", "き.まる"],
-        "wk_level": 27,
-        "wk_meanings": ["Extreme"],
-        "wk_readings_on": ["きょく", "ごく"],
-        "wk_readings_kun": ["!きわ"],
-        "wk_radicals": ["Tree", "Beggar", "Mouth", "Stool", "Ground"]
     },
     "逆": {
         "strokes": 9,
@@ -12883,11 +8818,6 @@ data2 = {
         "meanings": ["Inverted", "Reverse", "Opposite", "Wicked"],
         "readings_on": ["ぎゃく", "げき"],
         "readings_kun": ["さか", "さか.さ", "さか.らう"],
-        "wk_level": 28,
-        "wk_meanings": ["Reverse"],
-        "wk_readings_on": ["ぎゃく"],
-        "wk_readings_kun": ["!さか"],
-        "wk_radicals": ["Scooter", "Barracks", "Drop"]
     },
     "巨": {
         "strokes": 5,
@@ -12898,11 +8828,6 @@ data2 = {
         "meanings": ["Gigantic", "Big", "Large", "Great"],
         "readings_on": ["きょ"],
         "readings_kun": [],
-        "wk_level": 28,
-        "wk_meanings": ["Giant"],
-        "wk_readings_on": ["きょ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Giant"]
     },
     "庫": {
         "strokes": 10,
@@ -12913,11 +8838,6 @@ data2 = {
         "meanings": ["Warehouse", "Storehouse"],
         "readings_on": ["こ", "く"],
         "readings_kun": ["くら"],
-        "wk_level": 28,
-        "wk_meanings": ["Storage", "^Warehouse"],
-        "wk_readings_on": ["こ"],
-        "wk_readings_kun": ["!くら"],
-        "wk_radicals": ["Canopy", "Car"]
     },
     "児": {
         "strokes": 7,
@@ -12928,11 +8848,6 @@ data2 = {
         "meanings": ["Newborn Babe", "Child", "Young Of Animals"],
         "readings_on": ["じ", "に", "げい"],
         "readings_kun": ["こ", "-こ", "-っこ"],
-        "wk_level": 28,
-        "wk_meanings": ["Child"],
-        "wk_readings_on": ["じ"],
-        "wk_readings_kun": ["!こ"],
-        "wk_radicals": ["Stick", "Sun", "Legs"]
     },
 
     "凍": {
@@ -12944,11 +8859,6 @@ data2 = {
         "meanings": ["Frozen", "Congeal", "Refrigerate"],
         "readings_on": ["とう"],
         "readings_kun": ["こお.る", "こご.える", "こご.る", "い.てる", "し.みる"],
-        "wk_level": 28,
-        "wk_meanings": ["Frozen"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": ["!こお", "!こご"],
-        "wk_radicals": ["Ice", "East"]
     },
     "幼": {
         "strokes": 5,
@@ -12959,11 +8869,6 @@ data2 = {
         "meanings": ["Infancy", "Childhood"],
         "readings_on": ["よう"],
         "readings_kun": ["おさな.い"],
-        "wk_level": 28,
-        "wk_meanings": ["Infancy", "^Child"],
-        "wk_readings_on": ["よう"],
-        "wk_readings_kun": ["!おさな"],
-        "wk_radicals": ["Poop", "Power"]
     },
     "清": {
         "strokes": 11,
@@ -12974,11 +8879,6 @@ data2 = {
         "meanings": ["Pure", "Purify", "Cleanse", "Exorcise", "Manchu Dynasty"],
         "readings_on": ["せい", "しょう", "しん"],
         "readings_kun": ["きよ.い", "きよ.まる", "きよ.める"],
-        "wk_level": 28,
-        "wk_meanings": ["Pure"],
-        "wk_readings_on": ["せい", "しょう", "しん"],
-        "wk_readings_kun": ["!きよ"],
-        "wk_radicals": ["Tsunami", "Blue"]
     },
     "録": {
         "strokes": 16,
@@ -12989,11 +8889,6 @@ data2 = {
         "meanings": ["Record"],
         "readings_on": ["ろく"],
         "readings_kun": ["しる.す", "と.る"],
-        "wk_level": 28,
-        "wk_meanings": ["Record"],
-        "wk_readings_on": ["ろく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Gold", "Wolverine", "Water"]
     },
     "券": {
         "strokes": 8,
@@ -13004,11 +8899,6 @@ data2 = {
         "meanings": ["Ticket"],
         "readings_on": ["けん"],
         "readings_kun": [],
-        "wk_level": 28,
-        "wk_meanings": ["Ticket"],
-        "wk_readings_on": ["けん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Gladiator", "Sword"]
     },
     "移": {
         "strokes": 11,
@@ -13019,11 +8909,6 @@ data2 = {
         "meanings": ["Shift", "Move", "Change", "Drift", "Catch (cold, Fire)", "Pass Into"],
         "readings_on": ["い"],
         "readings_kun": ["うつ.る", "うつ.す"],
-        "wk_level": 28,
-        "wk_meanings": ["Shift"],
-        "wk_readings_on": ["い"],
-        "wk_readings_kun": ["!うつ"],
-        "wk_radicals": ["Grain", "Evening"]
     },
 
     "並": {
@@ -13035,11 +8920,6 @@ data2 = {
         "meanings": ["Row", "And", "Besides", "As Well As", "Line Up", "Rank With", "Rival", "Equal"],
         "readings_on": ["へい", "ほう"],
         "readings_kun": ["な.み", "なみ", "なら.べる", "なら.ぶ", "なら.びに"],
-        "wk_level": 28,
-        "wk_meanings": ["Line Up"],
-        "wk_readings_on": ["へい"],
-        "wk_readings_kun": ["!なら", "!なみ"],
-        "wk_radicals": ["Horns", "Ground", "Spikes"]
     },
     "乾": {
         "strokes": 11,
@@ -13050,11 +8930,6 @@ data2 = {
         "meanings": ["Drought", "Dry", "Dessicate", "Drink Up", "Heaven", "Emperor"],
         "readings_on": ["かん", "けん"],
         "readings_kun": ["かわ.く", "かわ.かす", "ほ.す", "ひ.る", "いぬい"],
-        "wk_level": 29,
-        "wk_meanings": ["Dry"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": ["!かわ", "!ほ"],
-        "wk_radicals": ["Morning", "Gun", "Nose"]
     },
     "欧": {
         "strokes": 8,
@@ -13065,11 +8940,6 @@ data2 = {
         "meanings": ["Europe"],
         "readings_on": ["おう"],
         "readings_kun": ["うた.う", "は.く"],
-        "wk_level": 29,
-        "wk_meanings": ["Europe"],
-        "wk_readings_on": ["おう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["District", "Lack"]
     },
     "臣": {
         "strokes": 7,
@@ -13080,11 +8950,6 @@ data2 = {
         "meanings": ["Retainer", "Subject"],
         "readings_on": ["しん", "じん"],
         "readings_kun": [],
-        "wk_level": 29,
-        "wk_meanings": ["Servant", "^Retainer"],
-        "wk_readings_on": ["しん", "じん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Servant"]
     },
     "略": {
         "strokes": 11,
@@ -13095,11 +8960,6 @@ data2 = {
         "meanings": ["Abbreviation", "Omission", "Outline", "Shorten", "Capture", "Plunder"],
         "readings_on": ["りゃく"],
         "readings_kun": ["ほぼ", "はぶ.く", "おか.す", "おさ.める", "はかりごと", "はか.る"],
-        "wk_level": 29,
-        "wk_meanings": ["Abbreviation", "^Abbreviate"],
-        "wk_readings_on": ["りゃく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Rice Paddy", "Kiss"]
     },
     "航": {
         "strokes": 10,
@@ -13110,11 +8970,6 @@ data2 = {
         "meanings": ["Navigate", "Sail", "Cruise", "Fly"],
         "readings_on": ["こう"],
         "readings_kun": [],
-        "wk_level": 29,
-        "wk_meanings": ["Navigation"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Boat", "Lid", "Table"]
     },
 
     "板": {
@@ -13126,11 +8981,6 @@ data2 = {
         "meanings": ["Plank", "Board", "Plate", "Stage"],
         "readings_on": ["はん", "ばん"],
         "readings_kun": ["いた"],
-        "wk_level": 29,
-        "wk_meanings": ["Board"],
-        "wk_readings_on": ["はん"],
-        "wk_readings_kun": ["!いた"],
-        "wk_radicals": ["Tree", "Anti"]
     },
     "詰": {
         "strokes": 13,
@@ -13141,11 +8991,6 @@ data2 = {
         "meanings": ["Packed", "Close", "Pressed", "Reprove", "Rebuke", "Blame"],
         "readings_on": ["きつ", "きち"],
         "readings_kun": ["つ.める", "つ.め", "-づ.め", "つ.まる", "つ.む"],
-        "wk_level": 29,
-        "wk_meanings": ["Stuffed"],
-        "wk_readings_on": ["!きつ", "!きち"],
-        "wk_readings_kun": ["つ", "^づ"],
-        "wk_radicals": ["Say", "Good Luck"]
     },
     "照": {
         "strokes": 13,
@@ -13156,11 +9001,6 @@ data2 = {
         "meanings": ["Illuminate", "Shine", "Compare", "Bashful"],
         "readings_on": ["しょう"],
         "readings_kun": ["て.る", "て.らす", "て.れる"],
-        "wk_level": 30,
-        "wk_meanings": ["Illuminate"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!て"],
-        "wk_radicals": ["Sun", "Call", "Boil"]
     },
     "快": {
         "strokes": 7,
@@ -13171,11 +9011,6 @@ data2 = {
         "meanings": ["Cheerful", "Pleasant", "Agreeable", "Comfortable"],
         "readings_on": ["かい"],
         "readings_kun": ["こころよ.い"],
-        "wk_level": 30,
-        "wk_meanings": ["Pleasant"],
-        "wk_readings_on": ["かい"],
-        "wk_readings_kun": ["!こころよ"],
-        "wk_radicals": ["Soul", "Person", "Hook"]
     },
     "版": {
         "strokes": 8,
@@ -13186,11 +9021,6 @@ data2 = {
         "meanings": ["Printing Block", "Printing Plate", "Edition", "Impression", "Label"],
         "readings_on": ["はん"],
         "readings_kun": [],
-        "wk_level": 30,
-        "wk_meanings": ["Edition"],
-        "wk_readings_on": ["はん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["One Sided", "Anti"]
     },
     "預": {
         "strokes": 13,
@@ -13201,11 +9031,6 @@ data2 = {
         "meanings": ["Deposit", "Custody", "Leave With", "Entrust To"],
         "readings_on": ["よ"],
         "readings_kun": ["あず.ける", "あず.かる"],
-        "wk_level": 30,
-        "wk_meanings": ["Deposit"],
-        "wk_readings_on": ["よ"],
-        "wk_readings_kun": ["!あず"],
-        "wk_radicals": ["Beforehand", "Geoduck"]
     },
     "延": {
         "strokes": 8,
@@ -13216,11 +9041,6 @@ data2 = {
         "meanings": ["Prolong", "Stretching"],
         "readings_on": ["えん"],
         "readings_kun": ["の.びる", "の.べる", "の.べ", "の.ばす"],
-        "wk_level": 30,
-        "wk_meanings": ["Prolong"],
-        "wk_readings_on": ["えん"],
-        "wk_readings_kun": ["!のば", "!の"],
-        "wk_radicals": ["Yoga", "Correct"]
     },
     "翌": {
         "strokes": 11,
@@ -13231,11 +9051,6 @@ data2 = {
         "meanings": ["The Following", "Next"],
         "readings_on": ["よく"],
         "readings_kun": [],
-        "wk_level": 30,
-        "wk_meanings": ["The Following", "^Following", "^Next"],
-        "wk_readings_on": ["よく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Feathers", "Stand"]
     },
     "符": {
         "strokes": 11,
@@ -13246,11 +9061,6 @@ data2 = {
         "meanings": ["Token", "Sign", "Mark", "Tally", "Charm"],
         "readings_on": ["ふ"],
         "readings_kun": [],
-        "wk_level": 30,
-        "wk_meanings": ["Token"],
-        "wk_readings_on": ["ふ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Bamboo", "Attach"]
     },
     "編": {
         "strokes": 15,
@@ -13261,11 +9071,6 @@ data2 = {
         "meanings": ["Compilation", "Knit", "Plait", "Braid", "Twist", "Editing", "Completed Poem", "Part Of A Book"],
         "readings_on": ["へん"],
         "readings_kun": ["あ.む", "-あ.み"],
-        "wk_level": 31,
-        "wk_meanings": ["Knit"],
-        "wk_readings_on": ["へん"],
-        "wk_readings_kun": ["!あ"],
-        "wk_radicals": ["Thread", "Library"]
     },
     "普": {
         "strokes": 12,
@@ -13276,11 +9081,6 @@ data2 = {
         "meanings": ["Universal", "Wide(ly)", "Generally", "Prussia"],
         "readings_on": ["ふ"],
         "readings_kun": ["あまね.く", "あまねし"],
-        "wk_level": 31,
-        "wk_meanings": ["Normal"],
-        "wk_readings_on": ["ふ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Line Up", "Sun"]
     },
     "掃": {
         "strokes": 11,
@@ -13291,11 +9091,6 @@ data2 = {
         "meanings": ["Sweep", "Brush"],
         "readings_on": ["そう", "しゅ"],
         "readings_kun": ["は.く"],
-        "wk_level": 31,
-        "wk_meanings": ["Sweep"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": ["!は"],
-        "wk_radicals": ["Fingers", "Wolverine", "Forehead", "Towel"]
     },
     "泥": {
         "strokes": 8,
@@ -13306,11 +9101,6 @@ data2 = {
         "meanings": ["Mud", "Mire", "Adhere To", "Be Attached To"],
         "readings_on": ["でい", "ない", "で", "に"],
         "readings_kun": ["どろ", "なず.む"],
-        "wk_level": 31,
-        "wk_meanings": ["Mud"],
-        "wk_readings_on": ["でい"],
-        "wk_readings_kun": ["!どろ"],
-        "wk_radicals": ["Tsunami", "Flag", "Spoon"]
     },
     "棒": {
         "strokes": 12,
@@ -13321,11 +9111,6 @@ data2 = {
         "meanings": ["Rod", "Stick", "Cane", "Pole", "Club", "Line"],
         "readings_on": ["ぼう"],
         "readings_kun": [],
-        "wk_level": 31,
-        "wk_meanings": ["Pole", "^Rod", "^Wooden Pole"],
-        "wk_readings_on": ["ぼう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tree", "Spring", "Dry"]
     },
     "孫": {
         "strokes": 10,
@@ -13336,11 +9121,6 @@ data2 = {
         "meanings": ["Grandchild", "Descendants"],
         "readings_on": ["そん"],
         "readings_kun": ["まご"],
-        "wk_level": 31,
-        "wk_meanings": ["Grandchild"],
-        "wk_readings_on": ["そん"],
-        "wk_readings_kun": ["!まご"],
-        "wk_radicals": ["Child", "Lineage"]
     },
     "帯": {
         "strokes": 10,
@@ -13351,11 +9131,6 @@ data2 = {
         "meanings": ["Sash", "Belt", "Obi", "Zone", "Region"],
         "readings_on": ["たい"],
         "readings_kun": ["お.びる", "おび"],
-        "wk_level": 31,
-        "wk_meanings": ["Belt"],
-        "wk_readings_on": ["たい"],
-        "wk_readings_kun": ["!おび"],
-        "wk_radicals": ["Mountain", "Ground", "Forehead", "Towel"]
     },
     "粉": {
         "strokes": 10,
@@ -13366,11 +9141,6 @@ data2 = {
         "meanings": ["Flour", "Powder", "Dust"],
         "readings_on": ["ふん"],
         "readings_kun": ["デシメートル", "こ", "こな"],
-        "wk_level": 31,
-        "wk_meanings": ["Powder"],
-        "wk_readings_on": ["ふん"],
-        "wk_readings_kun": ["!こな", "!こ"],
-        "wk_radicals": ["Rice", "Part"]
     },
     "菜": {
         "strokes": 11,
@@ -13381,11 +9151,6 @@ data2 = {
         "meanings": ["Vegetable", "Side Dish", "Greens"],
         "readings_on": ["さい"],
         "readings_kun": ["な"],
-        "wk_level": 31,
-        "wk_meanings": ["Vegetable"],
-        "wk_readings_on": ["さい"],
-        "wk_readings_kun": ["!な"],
-        "wk_radicals": ["Flowers", "Cleat", "Tree"]
     },
     "貨": {
         "strokes": 11,
@@ -13396,11 +9161,6 @@ data2 = {
         "meanings": ["Freight", "Goods", "Property"],
         "readings_on": ["か"],
         "readings_kun": ["たから"],
-        "wk_level": 31,
-        "wk_meanings": ["Freight"],
-        "wk_readings_on": ["か"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Change", "Shellfish"]
     },
     "陸": {
         "strokes": 11,
@@ -13411,11 +9171,6 @@ data2 = {
         "meanings": ["Land", "Six"],
         "readings_on": ["りく", "ろく"],
         "readings_kun": ["おか"],
-        "wk_level": 31,
-        "wk_meanings": ["Land"],
-        "wk_readings_on": ["りく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Building", "Womb"]
     },
     "均": {
         "strokes": 7,
@@ -13426,11 +9181,6 @@ data2 = {
         "meanings": ["Level", "Average"],
         "readings_on": ["きん"],
         "readings_kun": ["なら.す"],
-        "wk_level": 31,
-        "wk_meanings": ["Equal"],
-        "wk_readings_on": ["きん"],
-        "wk_readings_kun": ["!ひと"],
-        "wk_radicals": ["Dirt", "Pool", "Drop"]
     },
     "採": {
         "strokes": 11,
@@ -13441,11 +9191,6 @@ data2 = {
         "meanings": ["Pick", "Take", "Fetch", "Take Up"],
         "readings_on": ["さい"],
         "readings_kun": ["と.る"],
-        "wk_level": 32,
-        "wk_meanings": ["Gather"],
-        "wk_readings_on": ["さい"],
-        "wk_readings_kun": ["!と"],
-        "wk_radicals": ["Fingers", "Cleat", "Tree"]
     },
     "永": {
         "strokes": 5,
@@ -13456,11 +9201,6 @@ data2 = {
         "meanings": ["Eternity", "Long", "Lengthy"],
         "readings_on": ["えい"],
         "readings_kun": ["なが.い"],
-        "wk_level": 32,
-        "wk_meanings": ["Eternity"],
-        "wk_readings_on": ["えい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Eternity"]
     },
     "液": {
         "strokes": 11,
@@ -13471,11 +9211,6 @@ data2 = {
         "meanings": ["Fluid", "Liquid", "Juice", "Sap", "Secretion"],
         "readings_on": ["えき"],
         "readings_kun": [],
-        "wk_level": 32,
-        "wk_meanings": ["Fluid", "^Liquid"],
-        "wk_readings_on": ["えき"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tsunami", "Night"]
     },
     "績": {
         "strokes": 17,
@@ -13486,11 +9221,6 @@ data2 = {
         "meanings": ["Exploits", "Achievements", "Unreeling Cocoons"],
         "readings_on": ["せき"],
         "readings_kun": [],
-        "wk_level": 32,
-        "wk_meanings": ["Exploits"],
-        "wk_readings_on": ["せき"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Thread", "Blame"]
     },
     "複": {
         "strokes": 14,
@@ -13501,11 +9231,6 @@ data2 = {
         "meanings": ["Duplicate", "Double", "Compound", "Multiple"],
         "readings_on": ["ふく"],
         "readings_kun": [],
-        "wk_level": 32,
-        "wk_meanings": ["Duplicate"],
-        "wk_readings_on": ["ふく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Spirit", "Black Hole"]
     },
     "党": {
         "strokes": 10,
@@ -13516,11 +9241,6 @@ data2 = {
         "meanings": ["Party", "Faction", "Clique"],
         "readings_on": ["とう"],
         "readings_kun": ["なかま", "むら"],
-        "wk_level": 32,
-        "wk_meanings": ["Group"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Viking", "Older Brother"]
     },
     "卵": {
         "strokes": 7,
@@ -13531,11 +9251,6 @@ data2 = {
         "meanings": ["Egg", "Ovum", "Spawn", "Roe"],
         "readings_on": ["らん"],
         "readings_kun": ["たまご"],
-        "wk_level": 32,
-        "wk_meanings": ["Egg"],
-        "wk_readings_on": ["!らん"],
-        "wk_readings_kun": ["たまご"],
-        "wk_radicals": ["Pool"]
     },
     "捨": {
         "strokes": 11,
@@ -13546,11 +9261,6 @@ data2 = {
         "meanings": ["Discard", "Throw Away", "Abandon", "Resign", "Reject", "Sacrifice"],
         "readings_on": ["しゃ"],
         "readings_kun": ["す.てる"],
-        "wk_level": 32,
-        "wk_meanings": ["Throw Away"],
-        "wk_readings_on": ["!しゃ"],
-        "wk_readings_kun": ["す"],
-        "wk_radicals": ["Fingers", "Cottage"]
     },
     "汚": {
         "strokes": 6,
@@ -13561,11 +9271,6 @@ data2 = {
         "meanings": ["Dirty", "Pollute", "Disgrace", "Rape", "Defile"],
         "readings_on": ["お"],
         "readings_kun": ["けが.す", "けが.れる", "けが.らわしい", "よご.す", "よご.れる", "きたな.い"],
-        "wk_level": 32,
-        "wk_meanings": ["Dirty"],
-        "wk_readings_on": ["お"],
-        "wk_readings_kun": ["!よご", "!きたな", "!けが"],
-        "wk_radicals": ["Tsunami", "Ground", "Beggar"]
     },
     "机": {
         "strokes": 6,
@@ -13576,11 +9281,6 @@ data2 = {
         "meanings": ["Desk", "Table"],
         "readings_on": ["き"],
         "readings_kun": ["つくえ"],
-        "wk_level": 32,
-        "wk_meanings": ["Desk"],
-        "wk_readings_on": ["!き"],
-        "wk_readings_kun": ["つくえ"],
-        "wk_radicals": ["Tree", "Table"]
     },
     "簡": {
         "strokes": 18,
@@ -13591,11 +9291,6 @@ data2 = {
         "meanings": ["Simplicity", "Brevity"],
         "readings_on": ["かん", "けん"],
         "readings_kun": ["えら.ぶ", "ふだ"],
-        "wk_level": 33,
-        "wk_meanings": ["Simplicity"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Bamboo", "Interval"]
     },
 
     "誌": {
@@ -13607,11 +9302,6 @@ data2 = {
         "meanings": ["Document", "Records"],
         "readings_on": ["し"],
         "readings_kun": [],
-        "wk_level": 33,
-        "wk_meanings": ["Magazine"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Say", "Samurai", "Heart"]
     },
     "宝": {
         "strokes": 8,
@@ -13622,11 +9312,6 @@ data2 = {
         "meanings": ["Treasure", "Wealth", "Valuables"],
         "readings_on": ["ほう"],
         "readings_kun": ["たから"],
-        "wk_level": 4,
-        "wk_meanings": ["Treasure"],
-        "wk_readings_on": ["ほう"],
-        "wk_readings_kun": ["!たから"],
-        "wk_radicals": ["Roof", "King", "Drop"]
     },
     "尊": {
         "strokes": 12,
@@ -13637,11 +9322,6 @@ data2 = {
         "meanings": ["Revered", "Valuable", "Precious", "Noble", "Exalted"],
         "readings_on": ["そん"],
         "readings_kun": ["たっと.い", "とうと.い", "たっと.ぶ", "とうと.ぶ"],
-        "wk_level": 33,
-        "wk_meanings": ["Revered"],
-        "wk_readings_on": ["そん"],
-        "wk_readings_kun": ["!とうと", "!たっと"],
-        "wk_radicals": ["Horns", "Alcohol", "Measurement"]
     },
     "敬": {
         "strokes": 12,
@@ -13652,11 +9332,6 @@ data2 = {
         "meanings": ["Awe", "Respect", "Honor", "Revere"],
         "readings_on": ["けい", "きょう"],
         "readings_kun": ["うやま.う"],
-        "wk_level": 33,
-        "wk_meanings": ["Respect"],
-        "wk_readings_on": ["けい"],
-        "wk_readings_kun": ["!うやま"],
-        "wk_radicals": ["Poem", "Winter"]
     },
 
     "灰": {
@@ -13668,11 +9343,6 @@ data2 = {
         "meanings": ["Ashes", "Puckery Juice", "Cremate"],
         "readings_on": ["かい"],
         "readings_kun": ["はい"],
-        "wk_level": 33,
-        "wk_meanings": ["Ashes"],
-        "wk_readings_on": ["!かい"],
-        "wk_readings_kun": ["はい"],
-        "wk_radicals": ["Cliff", "Fire"]
     },
     "砂": {
         "strokes": 9,
@@ -13683,11 +9353,6 @@ data2 = {
         "meanings": ["Sand"],
         "readings_on": ["さ", "しゃ"],
         "readings_kun": ["すな"],
-        "wk_level": 33,
-        "wk_meanings": ["Sand"],
-        "wk_readings_on": ["さ"],
-        "wk_readings_kun": ["!すな"],
-        "wk_radicals": ["Stone", "Few"]
     },
     "著": {
         "strokes": 11,
@@ -13698,11 +9363,6 @@ data2 = {
         "meanings": ["Renowned", "Publish", "Write", "Remarkable", "Phenomenal", "Put On", "Don", "Wear", "Arrival", "Finish (race)", "Counter For Suits Of Clothing", "Literary Work"],
         "readings_on": ["ちょ", "ちゃく"],
         "readings_kun": ["あらわ.す", "いちじる.しい"],
-        "wk_level": 33,
-        "wk_meanings": ["Author"],
-        "wk_readings_on": ["ちょ"],
-        "wk_readings_kun": ["!いちじる", "!あらわ"],
-        "wk_radicals": ["Flowers", "Someone"]
     },
     "蒸": {
         "strokes": 13,
@@ -13713,11 +9373,6 @@ data2 = {
         "meanings": ["Steam", "Heat", "Sultry", "Foment", "Get Musty"],
         "readings_on": ["じょう", "せい"],
         "readings_kun": ["む.す", "む.れる", "む.らす"],
-        "wk_level": 33,
-        "wk_meanings": ["Steam"],
-        "wk_readings_on": ["じょう"],
-        "wk_readings_kun": ["!む"],
-        "wk_radicals": ["Flowers", "Coral", "Boil"]
     },
     "蔵": {
         "strokes": 15,
@@ -13728,11 +9383,6 @@ data2 = {
         "meanings": ["Storehouse", "Hide", "Own", "Have", "Possess"],
         "readings_on": ["ぞう", "そう"],
         "readings_kun": ["くら", "おさ.める", "かく.れる"],
-        "wk_level": 33,
-        "wk_meanings": ["Storehouse"],
-        "wk_readings_on": ["ぞう"],
-        "wk_readings_kun": ["!くら"],
-        "wk_radicals": ["Storehouse"]
     },
     "装": {
         "strokes": 12,
@@ -13743,11 +9393,6 @@ data2 = {
         "meanings": ["Attire", "Dress", "Pretend", "Disguise", "Profess"],
         "readings_on": ["そう", "しょう"],
         "readings_kun": ["よそお.う", "よそお.い"],
-        "wk_level": 33,
-        "wk_meanings": ["Attire"],
-        "wk_readings_on": ["そう", "^しょう"],
-        "wk_readings_kun": ["!よそお"],
-        "wk_radicals": ["Icicle", "Samurai", "Clothes"]
     },
     "裏": {
         "strokes": 13,
@@ -13758,11 +9403,6 @@ data2 = {
         "meanings": ["Back", "Amidst", "In", "Reverse", "Inside", "Palm", "Sole", "Rear", "Lining", "Wrong Side"],
         "readings_on": ["り"],
         "readings_kun": ["うら"],
-        "wk_level": 33,
-        "wk_meanings": ["Backside", "^Underside", "^Reverse"],
-        "wk_readings_on": ["!り"],
-        "wk_readings_kun": ["うら"],
-        "wk_radicals": ["Lid", "Village", "Kick"]
     },
     "諸": {
         "strokes": 15,
@@ -13773,11 +9413,6 @@ data2 = {
         "meanings": ["Various", "Many", "Several", "Together"],
         "readings_on": ["しょ"],
         "readings_kun": ["もろ"],
-        "wk_level": 33,
-        "wk_meanings": ["Various"],
-        "wk_readings_on": ["しょ"],
-        "wk_readings_kun": ["!もろ"],
-        "wk_radicals": ["Say", "Someone"]
     },
     "臓": {
         "strokes": 19,
@@ -13788,11 +9423,6 @@ data2 = {
         "meanings": ["Entrails", "Viscera", "Bowels"],
         "readings_on": ["ぞう"],
         "readings_kun": ["はらわた"],
-        "wk_level": 34,
-        "wk_meanings": ["Internal Organs"],
-        "wk_readings_on": ["ぞう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Moon", "Storehouse"]
     },
     "純": {
         "strokes": 10,
@@ -13803,11 +9433,6 @@ data2 = {
         "meanings": ["Genuine", "Purity", "Innocence", "Net (profit)"],
         "readings_on": ["じゅん"],
         "readings_kun": [],
-        "wk_level": 34,
-        "wk_meanings": ["Pure"],
-        "wk_readings_on": ["じゅん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Thread", "Barracks"]
     },
     "紅": {
         "strokes": 9,
@@ -13818,11 +9443,6 @@ data2 = {
         "meanings": ["Crimson", "Deep Red"],
         "readings_on": ["こう", "く"],
         "readings_kun": ["べに", "くれない", "あか.い"],
-        "wk_level": 34,
-        "wk_meanings": ["Deep Red", "^Crimson"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!べに", "!くれない"],
-        "wk_radicals": ["Construction", "Thread"]
     },
     "拝": {
         "strokes": 8,
@@ -13833,11 +9453,6 @@ data2 = {
         "meanings": ["Worship", "Adore", "Pray To"],
         "readings_on": ["はい"],
         "readings_kun": ["おが.む", "おろが.む"],
-        "wk_level": 34,
-        "wk_meanings": ["Worship"],
-        "wk_readings_on": ["はい"],
-        "wk_readings_kun": ["!おが"],
-        "wk_radicals": ["Fingers", "Dry"]
     },
     "劇": {
         "strokes": 15,
@@ -13848,11 +9463,6 @@ data2 = {
         "meanings": ["Drama", "Play"],
         "readings_on": ["げき"],
         "readings_kun": [],
-        "wk_level": 17,
-        "wk_meanings": ["Drama"],
-        "wk_readings_on": ["げき"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tiger", "Pig", "Knife"]
     },
     "承": {
         "strokes": 8,
@@ -13863,11 +9473,6 @@ data2 = {
         "meanings": ["Acquiesce", "Hear", "Listen To", "Be Informed", "Receive"],
         "readings_on": ["しょう", "じょう"],
         "readings_kun": ["うけたまわ.る", "う.ける"],
-        "wk_level": 34,
-        "wk_meanings": ["Consent"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!うけたまわ"],
-        "wk_radicals": ["Child", "Two", "Water"]
     },
     "損": {
         "strokes": 13,
@@ -13878,11 +9483,6 @@ data2 = {
         "meanings": ["Damage", "Loss", "Disadvantage", "Hurt", "Injure"],
         "readings_on": ["そん"],
         "readings_kun": ["そこ.なう", "そこな.う", "-そこ.なう", "そこ.ねる", "-そこ.ねる"],
-        "wk_level": 34,
-        "wk_meanings": ["Loss"],
-        "wk_readings_on": ["そん"],
-        "wk_readings_kun": ["!そこ"],
-        "wk_radicals": ["Fingers", "Member"]
     },
     "枝": {
         "strokes": 8,
@@ -13893,11 +9493,6 @@ data2 = {
         "meanings": ["Bough", "Branch", "Twig", "Limb", "Counter For Branches"],
         "readings_on": ["し"],
         "readings_kun": ["えだ"],
-        "wk_level": 34,
-        "wk_meanings": ["Branch"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!えだ"],
-        "wk_radicals": ["Tree", "Branch"]
     },
     "測": {
         "strokes": 12,
@@ -13908,11 +9503,6 @@ data2 = {
         "meanings": ["Fathom", "Plan", "Scheme", "Measure"],
         "readings_on": ["そく"],
         "readings_kun": ["はか.る"],
-        "wk_level": 35,
-        "wk_meanings": ["Measure"],
-        "wk_readings_on": ["そく"],
-        "wk_readings_kun": ["!はか"],
-        "wk_radicals": ["Tsunami", "Shellfish", "Knife"]
     },
     "講": {
         "strokes": 17,
@@ -13923,11 +9513,6 @@ data2 = {
         "meanings": ["Lecture", "Club", "Association"],
         "readings_on": ["こう"],
         "readings_kun": [],
-        "wk_level": 35,
-        "wk_meanings": ["Lecture"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Say", "Lifeguard"]
     },
     "紹": {
         "strokes": 11,
@@ -13938,11 +9523,6 @@ data2 = {
         "meanings": ["Introduce", "Inherit", "Help"],
         "readings_on": ["しょう"],
         "readings_kun": [],
-        "wk_level": 35,
-        "wk_meanings": ["Introduce"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Thread", "Call"]
     },
     "介": {
         "strokes": 4,
@@ -13953,11 +9533,6 @@ data2 = {
         "meanings": ["Jammed In", "Shellfish", "Mediate", "Concern Oneself With"],
         "readings_on": ["かい"],
         "readings_kun": [],
-        "wk_level": 35,
-        "wk_meanings": ["Jammed In"],
-        "wk_readings_on": ["かい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Jammed In"]
     },
     "湖": {
         "strokes": 12,
@@ -13968,11 +9543,6 @@ data2 = {
         "meanings": ["Lake"],
         "readings_on": ["こ"],
         "readings_kun": ["みずうみ"],
-        "wk_level": 35,
-        "wk_meanings": ["Lake"],
-        "wk_readings_on": ["こ"],
-        "wk_readings_kun": ["!みずうみ"],
-        "wk_radicals": ["Tsunami", "Old", "Moon"]
     },
     "銅": {
         "strokes": 14,
@@ -13983,11 +9553,6 @@ data2 = {
         "meanings": ["Copper"],
         "readings_on": ["どう"],
         "readings_kun": ["あかがね"],
-        "wk_level": 35,
-        "wk_meanings": ["Copper"],
-        "wk_readings_on": ["どう"],
-        "wk_readings_kun": ["!あかがね"],
-        "wk_radicals": ["Gold", "Same"]
     },
 
     "油": {
@@ -13999,11 +9564,6 @@ data2 = {
         "meanings": ["Oil", "Fat"],
         "readings_on": ["ゆ", "ゆう"],
         "readings_kun": ["あぶら"],
-        "wk_level": 35,
-        "wk_meanings": ["Oil"],
-        "wk_readings_on": ["ゆ"],
-        "wk_readings_kun": ["!あぶら"],
-        "wk_radicals": ["Tsunami", "Reason"]
     },
     "旧": {
         "strokes": 5,
@@ -14014,11 +9574,6 @@ data2 = {
         "meanings": ["Old Times", "Old Things", "Old Friend", "Former", "Ex-"],
         "readings_on": ["きゅう"],
         "readings_kun": ["ふる.い", "もと"],
-        "wk_level": 36,
-        "wk_meanings": ["Former"],
-        "wk_readings_on": ["きゅう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Stick", "Sun"]
     },
     "姓": {
         "strokes": 8,
@@ -14029,11 +9584,6 @@ data2 = {
         "meanings": ["Surname"],
         "readings_on": ["せい", "しょう"],
         "readings_kun": [],
-        "wk_level": 36,
-        "wk_meanings": ["Surname", "^Family Name"],
-        "wk_readings_on": ["せい", "しょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Woman", "Life"]
     },
     "貿": {
         "strokes": 12,
@@ -14044,11 +9594,6 @@ data2 = {
         "meanings": ["Trade", "Exchange"],
         "readings_on": ["ぼう"],
         "readings_kun": [],
-        "wk_level": 36,
-        "wk_meanings": ["Trade"],
-        "wk_readings_on": ["ぼう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Private", "Sword", "Shellfish"]
     },
     "将": {
         "strokes": 10,
@@ -14059,11 +9604,6 @@ data2 = {
         "meanings": ["Leader", "Commander", "General", "Admiral", "Or", "And Again", "Soon", "From Now On", "Just About"],
         "readings_on": ["しょう", "そう"],
         "readings_kun": ["まさ.に", "はた", "まさ", "ひきい.る", "もって"],
-        "wk_level": 36,
-        "wk_meanings": ["Commander"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Commander"]
     },
     "伸": {
         "strokes": 7,
@@ -14074,11 +9614,6 @@ data2 = {
         "meanings": ["Expand", "Stretch", "Extend", "Lengthen", "Increase"],
         "readings_on": ["しん"],
         "readings_kun": ["の.びる", "の.ばす", "の.べる", "の.す"],
-        "wk_level": 36,
-        "wk_meanings": ["Stretch"],
-        "wk_readings_on": ["!しん"],
-        "wk_readings_kun": ["の"],
-        "wk_radicals": ["Leader", "Humble"]
     },
     "幅": {
         "strokes": 12,
@@ -14089,11 +9624,6 @@ data2 = {
         "meanings": ["Hanging Scroll", "Width"],
         "readings_on": ["ふく"],
         "readings_kun": ["はば"],
-        "wk_level": 36,
-        "wk_meanings": ["Width"],
-        "wk_readings_on": ["!ふく"],
-        "wk_readings_kun": ["はば"],
-        "wk_radicals": ["Towel", "Scarecrow"]
     },
     "甘": {
         "strokes": 5,
@@ -14104,11 +9634,6 @@ data2 = {
         "meanings": ["Sweet", "Coax", "Pamper", "Be Content", "Sugary"],
         "readings_on": ["かん"],
         "readings_kun": ["あま.い", "あま.える", "あま.やかす", "うま.い"],
-        "wk_level": 36,
-        "wk_meanings": ["Sweet"],
-        "wk_readings_on": ["!かん"],
-        "wk_readings_kun": ["あま"],
-        "wk_radicals": ["Sweet"]
     },
     "換": {
         "strokes": 12,
@@ -14119,11 +9644,6 @@ data2 = {
         "meanings": ["Interchange", "Period", "Change", "Convert", "Replace", "Renew"],
         "readings_on": ["かん"],
         "readings_kun": ["か.える", "-か.える", "か.わる"],
-        "wk_level": 36,
-        "wk_meanings": ["Exchange"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": ["!か"],
-        "wk_radicals": ["Fingers", "Prison", "Mouth", "Legs", "Big"]
     },
     "療": {
         "strokes": 17,
@@ -14134,11 +9654,6 @@ data2 = {
         "meanings": ["Heal", "Cure"],
         "readings_on": ["りょう"],
         "readings_kun": [],
-        "wk_level": 36,
-        "wk_meanings": ["Heal"],
-        "wk_readings_on": ["りょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Sick", "Charcoal"]
     },
     "般": {
         "strokes": 10,
@@ -14149,11 +9664,6 @@ data2 = {
         "meanings": ["Carrier", "Carry", "All", "General", "Sort", "Kind"],
         "readings_on": ["はん"],
         "readings_kun": [],
-        "wk_level": 36,
-        "wk_meanings": ["Generally", "^General"],
-        "wk_readings_on": ["はん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Boat", "Weapon"]
     },
 
     "依": {
@@ -14165,11 +9675,6 @@ data2 = {
         "meanings": ["Reliant", "Depend On", "Consequently", "Therefore", "Due To"],
         "readings_on": ["い", "え"],
         "readings_kun": ["よ.る"],
-        "wk_level": 36,
-        "wk_meanings": ["Reliant", "^Dependent"],
-        "wk_readings_on": ["い"],
-        "wk_readings_kun": ["!よ"],
-        "wk_radicals": ["Leader", "Clothes"]
     },
     "漁": {
         "strokes": 14,
@@ -14180,11 +9685,6 @@ data2 = {
         "meanings": ["Fishing", "Fishery"],
         "readings_on": ["ぎょ", "りょう"],
         "readings_kun": ["あさ.る"],
-        "wk_level": 37,
-        "wk_meanings": ["Fishing"],
-        "wk_readings_on": ["ぎょ", "りょう"],
-        "wk_readings_kun": ["!あさ"],
-        "wk_radicals": ["Tsunami", "Fish"]
     },
     "募": {
         "strokes": 12,
@@ -14195,11 +9695,6 @@ data2 = {
         "meanings": ["Recruit", "Campaign", "Gather (contributions)", "Enlist", "Grow Violent"],
         "readings_on": ["ぼ"],
         "readings_kun": ["つの.る"],
-        "wk_level": 37,
-        "wk_meanings": ["Recruit"],
-        "wk_readings_on": ["ぼ"],
-        "wk_readings_kun": ["!つの"],
-        "wk_radicals": ["Greenhouse", "Power"]
     },
     "患": {
         "strokes": 11,
@@ -14210,11 +9705,6 @@ data2 = {
         "meanings": ["Afflicted", "Disease", "Suffer From", "Be Ill"],
         "readings_on": ["かん"],
         "readings_kun": ["わずら.う"],
-        "wk_level": 37,
-        "wk_meanings": ["Afflicted"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": ["!わずら"],
-        "wk_radicals": ["Skewer", "Heart"]
     },
     "湾": {
         "strokes": 12,
@@ -14225,11 +9715,6 @@ data2 = {
         "meanings": ["Gulf", "Bay", "Inlet"],
         "readings_on": ["わん"],
         "readings_kun": ["いりえ"],
-        "wk_level": 37,
-        "wk_meanings": ["Gulf"],
-        "wk_readings_on": ["わん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tsunami", "Red", "Bow"]
     },
     "爆": {
         "strokes": 19,
@@ -14240,11 +9725,6 @@ data2 = {
         "meanings": ["Bomb", "Burst Open", "Pop", "Split"],
         "readings_on": ["ばく"],
         "readings_kun": ["は.ぜる"],
-        "wk_level": 37,
-        "wk_meanings": ["Explode"],
-        "wk_readings_on": ["ばく"],
-        "wk_readings_kun": ["!は"],
-        "wk_radicals": ["Fire", "Violence"]
     },
     "跡": {
         "strokes": 13,
@@ -14255,11 +9735,6 @@ data2 = {
         "meanings": ["Tracks", "Mark", "Print", "Impression"],
         "readings_on": ["せき"],
         "readings_kun": ["あと"],
-        "wk_level": 37,
-        "wk_meanings": ["Traces"],
-        "wk_readings_on": ["せき"],
-        "wk_readings_kun": ["!あと"],
-        "wk_radicals": ["Foot", "Red"]
     },
     "香": {
         "strokes": 9,
@@ -14270,11 +9745,6 @@ data2 = {
         "meanings": ["Incense", "Smell", "Perfume"],
         "readings_on": ["こう", "きょう"],
         "readings_kun": ["か", "かお.り", "かお.る"],
-        "wk_level": 37,
-        "wk_meanings": ["Fragrance"],
-        "wk_readings_on": ["こう", "^きょう"],
-        "wk_readings_kun": ["!かお", "!か"],
-        "wk_radicals": ["Grain", "Sun"]
     },
     "兆": {
         "strokes": 6,
@@ -14285,11 +9755,6 @@ data2 = {
         "meanings": ["Portent", "10**12", "Trillion", "Sign", "Omen", "Symptoms"],
         "readings_on": ["ちょう"],
         "readings_kun": ["きざ.す", "きざ.し"],
-        "wk_level": 37,
-        "wk_meanings": ["Omen"],
-        "wk_readings_on": ["ちょう"],
-        "wk_readings_kun": ["!きざ"],
-        "wk_radicals": ["Omen"]
     },
     "齢": {
         "strokes": 17,
@@ -14300,11 +9765,6 @@ data2 = {
         "meanings": ["Age"],
         "readings_on": ["れい"],
         "readings_kun": ["よわい", "とし"],
-        "wk_level": 38,
-        "wk_meanings": ["Age"],
-        "wk_readings_on": ["れい"],
-        "wk_readings_kun": ["!よわい"],
-        "wk_radicals": ["Tooth", "Orders"]
     },
     "刊": {
         "strokes": 5,
@@ -14315,11 +9775,6 @@ data2 = {
         "meanings": ["Publish", "Carve", "Engrave"],
         "readings_on": ["かん"],
         "readings_kun": [],
-        "wk_level": 38,
-        "wk_meanings": ["Edition"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Dry", "Knife"]
     },
     "傾": {
         "strokes": 13,
@@ -14330,11 +9785,6 @@ data2 = {
         "meanings": ["Lean", "Incline", "Tilt", "Trend", "Wane", "Sink", "Ruin", "Bias"],
         "readings_on": ["けい"],
         "readings_kun": ["かたむ.く", "かたむ.ける", "かたぶ.く", "かた.げる", "かし.げる"],
-        "wk_level": 38,
-        "wk_meanings": ["Lean"],
-        "wk_readings_on": ["けい"],
-        "wk_readings_kun": ["!かたむ"],
-        "wk_radicals": ["Change", "Geoduck"]
     },
     "奥": {
         "strokes": 12,
@@ -14345,11 +9795,6 @@ data2 = {
         "meanings": ["Heart", "Interior"],
         "readings_on": ["おう"],
         "readings_kun": ["おく", "おく.まる", "くま"],
-        "wk_level": 38,
-        "wk_meanings": ["Interior"],
-        "wk_readings_on": ["!おう"],
-        "wk_readings_kun": ["おく"],
-        "wk_radicals": ["Drop", "Head", "Rice", "Big"]
     },
     "贈": {
         "strokes": 18,
@@ -14360,11 +9805,6 @@ data2 = {
         "meanings": ["Presents", "Send", "Give To", "Award To", "Confer On", "Presenting Something"],
         "readings_on": ["ぞう", "そう"],
         "readings_kun": ["おく.る"],
-        "wk_level": 38,
-        "wk_meanings": ["Presents"],
-        "wk_readings_on": ["ぞう"],
-        "wk_readings_kun": ["!おく"],
-        "wk_radicals": ["Shellfish", "Mask"]
     },
     "超": {
         "strokes": 12,
@@ -14375,11 +9815,6 @@ data2 = {
         "meanings": ["Transcend", "Super-", "Ultra-"],
         "readings_on": ["ちょう"],
         "readings_kun": ["こ.える", "こ.す"],
-        "wk_level": 36,
-        "wk_meanings": ["Ultra", "^Super"],
-        "wk_readings_on": ["ちょう"],
-        "wk_readings_kun": ["!こ"],
-        "wk_radicals": ["Run", "Call"]
     },
     "雇": {
         "strokes": 12,
@@ -14390,11 +9825,6 @@ data2 = {
         "meanings": ["Employ", "Hire"],
         "readings_on": ["こ"],
         "readings_kun": ["やと.う"],
-        "wk_level": 39,
-        "wk_meanings": ["Employ"],
-        "wk_readings_on": ["こ"],
-        "wk_readings_kun": ["!やと"],
-        "wk_radicals": ["Turkey", "Door"]
     },
     "片": {
         "strokes": 4,
@@ -14405,11 +9835,6 @@ data2 = {
         "meanings": ["One-sided", "Leaf", "Sheet", "Right-side Kata Radical (no. 91)"],
         "readings_on": ["へん"],
         "readings_kun": ["かた-", "かた"],
-        "wk_level": 39,
-        "wk_meanings": ["One Sided"],
-        "wk_readings_on": ["!へん"],
-        "wk_readings_kun": ["かた"],
-        "wk_radicals": ["One Sided"]
     },
     "群": {
         "strokes": 13,
@@ -14420,11 +9845,6 @@ data2 = {
         "meanings": ["Flock", "Group", "Crowd", "Herd", "Swarm", "Cluster"],
         "readings_on": ["ぐん"],
         "readings_kun": ["む.れる", "む.れ", "むら", "むら.がる"],
-        "wk_level": 39,
-        "wk_meanings": ["Flock"],
-        "wk_readings_on": ["ぐん"],
-        "wk_readings_kun": ["!む", "!むら"],
-        "wk_radicals": ["Buddy", "Sheep"]
     },
     "埋": {
         "strokes": 10,
@@ -14435,11 +9855,6 @@ data2 = {
         "meanings": ["Bury", "Be Filled Up", "Embedded"],
         "readings_on": ["まい"],
         "readings_kun": ["う.める", "う.まる", "う.もれる", "うず.める", "うず.まる", "い.ける"],
-        "wk_level": 39,
-        "wk_meanings": ["Bury"],
-        "wk_readings_on": ["!まい"],
-        "wk_readings_kun": ["う"],
-        "wk_radicals": ["Dirt", "Village"]
     },
     "駐": {
         "strokes": 15,
@@ -14450,11 +9865,6 @@ data2 = {
         "meanings": ["Stop-over", "Reside In", "Resident"],
         "readings_on": ["ちゅう"],
         "readings_kun": [],
-        "wk_level": 40,
-        "wk_meanings": ["Resident"],
-        "wk_readings_on": ["ちゅう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Horse", "Master"]
     },
     "柱": {
         "strokes": 9,
@@ -14465,11 +9875,6 @@ data2 = {
         "meanings": ["Pillar", "Post", "Cylinder", "Support"],
         "readings_on": ["ちゅう"],
         "readings_kun": ["はしら"],
-        "wk_level": 40,
-        "wk_meanings": ["Pillar"],
-        "wk_readings_on": ["ちゅう"],
-        "wk_readings_kun": ["!はしら"],
-        "wk_radicals": ["Tree", "Master"]
     },
     "鋭": {
         "strokes": 15,
@@ -14480,11 +9885,6 @@ data2 = {
         "meanings": ["Pointed", "Sharpness", "Edge", "Weapon", "Sharp", "Violent"],
         "readings_on": ["えい"],
         "readings_kun": ["するど.い"],
-        "wk_level": 40,
-        "wk_meanings": ["Sharp"],
-        "wk_readings_on": ["えい"],
-        "wk_readings_kun": ["!するど"],
-        "wk_radicals": ["Gold", "Guard"]
     },
     "殿": {
         "strokes": 13,
@@ -14495,11 +9895,6 @@ data2 = {
         "meanings": ["Mr.", "Hall", "Mansion", "Palace", "Temple", "Lord"],
         "readings_on": ["でん", "てん"],
         "readings_kun": ["との", "-どの"],
-        "wk_level": 40,
-        "wk_meanings": ["Milord"],
-        "wk_readings_on": ["でん"],
-        "wk_readings_kun": ["!との", "!どの"],
-        "wk_radicals": ["Flag", "Together", "Weapon"]
     },
     "薄": {
         "strokes": 16,
@@ -14510,11 +9905,6 @@ data2 = {
         "meanings": ["Dilute", "Thin", "Weak (tea)", "Pampas Grass"],
         "readings_on": ["はく"],
         "readings_kun": ["うす.い", "うす-", "-うす", "うす.める", "うす.まる", "うす.らぐ", "うす.ら-", "うす.れる", "すすき"],
-        "wk_level": 40,
-        "wk_meanings": ["Dilute"],
-        "wk_readings_on": ["はく"],
-        "wk_readings_kun": ["!うす"],
-        "wk_radicals": ["Flowers", "Tsunami", "Specialty"]
     },
     "伺": {
         "strokes": 7,
@@ -14525,11 +9915,6 @@ data2 = {
         "meanings": ["Pay Respects", "Visit", "Ask", "Inquire", "Question", "Implore"],
         "readings_on": ["し"],
         "readings_kun": ["うかが.う"],
-        "wk_level": 41,
-        "wk_meanings": ["Pay Respects"],
-        "wk_readings_on": ["!し"],
-        "wk_readings_kun": ["うかが"],
-        "wk_radicals": ["Leader", "Director"]
     },
     "炭": {
         "strokes": 9,
@@ -14540,11 +9925,6 @@ data2 = {
         "meanings": ["Charcoal", "Coal"],
         "readings_on": ["たん"],
         "readings_kun": ["すみ"],
-        "wk_level": 41,
-        "wk_meanings": ["Charcoal"],
-        "wk_readings_on": ["たん"],
-        "wk_readings_kun": ["!すみ"],
-        "wk_radicals": ["Mountain", "Cliff", "Fire"]
     },
     "包": {
         "strokes": 5,
@@ -14555,11 +9935,6 @@ data2 = {
         "meanings": ["Wrap", "Pack Up", "Cover", "Conceal"],
         "readings_on": ["ほう"],
         "readings_kun": ["つつ.む", "くる.む"],
-        "wk_level": 41,
-        "wk_meanings": ["Wrap"],
-        "wk_readings_on": ["ほう"],
-        "wk_readings_kun": ["!つつ", "!くる"],
-        "wk_radicals": ["Wrap"]
     },
     "衣": {
         "strokes": 6,
@@ -14570,11 +9945,6 @@ data2 = {
         "meanings": ["Garment", "Clothes", "Dressing"],
         "readings_on": ["い", "え"],
         "readings_kun": ["ころも", "きぬ", "-ぎ"],
-        "wk_level": 41,
-        "wk_meanings": ["Clothes"],
-        "wk_readings_on": ["い", "え"],
-        "wk_readings_kun": ["!ころも"],
-        "wk_radicals": ["Clothes"]
     },
     "鉱": {
         "strokes": 13,
@@ -14585,11 +9955,6 @@ data2 = {
         "meanings": ["Mineral", "Ore"],
         "readings_on": ["こう"],
         "readings_kun": ["あらがね"],
-        "wk_level": 41,
-        "wk_meanings": ["Mineral"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!あらがね"],
-        "wk_radicals": ["Gold", "Wide"]
     },
     "双": {
         "strokes": 4,
@@ -14600,11 +9965,6 @@ data2 = {
         "meanings": ["Pair", "Set", "Comparison", "Counter For Pairs"],
         "readings_on": ["そう"],
         "readings_kun": ["ふた", "たぐい", "ならぶ", "ふたつ"],
-        "wk_level": 42,
-        "wk_meanings": ["Pair"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": ["!ふた"],
-        "wk_radicals": ["Stool"]
     },
     "床": {
         "strokes": 7,
@@ -14615,11 +9975,6 @@ data2 = {
         "meanings": ["Bed", "Counter For Beds", "Floor", "Padding", "Tatami"],
         "readings_on": ["しょう"],
         "readings_kun": ["とこ", "ゆか"],
-        "wk_level": 42,
-        "wk_meanings": ["Floor"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!ゆか", "!とこ"],
-        "wk_radicals": ["Canopy", "Tree"]
     },
     "掘": {
         "strokes": 11,
@@ -14630,11 +9985,6 @@ data2 = {
         "meanings": ["Dig", "Delve", "Excavate"],
         "readings_on": ["くつ"],
         "readings_kun": ["ほ.る"],
-        "wk_level": 42,
-        "wk_meanings": ["Dig"],
-        "wk_readings_on": ["くつ"],
-        "wk_readings_kun": ["!ほ"],
-        "wk_radicals": ["Fingers", "Flag", "Exit"]
     },
     "泊": {
         "strokes": 8,
@@ -14645,11 +9995,6 @@ data2 = {
         "meanings": ["Overnight Stay", "Put Up At", "Ride At Anchor"],
         "readings_on": ["はく"],
         "readings_kun": ["と.まる", "と.める"],
-        "wk_level": 42,
-        "wk_meanings": ["Overnight"],
-        "wk_readings_on": ["はく"],
-        "wk_readings_kun": ["!と"],
-        "wk_radicals": ["Tsunami", "White"]
     },
     "荒": {
         "strokes": 9,
@@ -14660,11 +10005,6 @@ data2 = {
         "meanings": ["Laid Waste", "Rough", "Rude", "Wild"],
         "readings_on": ["こう"],
         "readings_kun": ["あら.い", "あら-", "あ.れる", "あ.らす", "-あ.らし", "すさ.む"],
-        "wk_level": 42,
-        "wk_meanings": ["Wild"],
-        "wk_readings_on": ["!こう"],
-        "wk_readings_kun": ["あ", "あら"],
-        "wk_radicals": ["Flowers", "Death", "River"]
     },
     "袋": {
         "strokes": 11,
@@ -14675,11 +10015,6 @@ data2 = {
         "meanings": ["Sack", "Bag", "Pouch"],
         "readings_on": ["たい", "だい"],
         "readings_kun": ["ふくろ"],
-        "wk_level": 42,
-        "wk_meanings": ["Sack"],
-        "wk_readings_on": ["!たい"],
-        "wk_readings_kun": ["ふくろ"],
-        "wk_radicals": ["Substitute", "Clothes"]
     },
     "珍": {
         "strokes": 9,
@@ -14690,11 +10025,6 @@ data2 = {
         "meanings": ["Rare", "Curious", "Strange"],
         "readings_on": ["ちん"],
         "readings_kun": ["めずら.しい", "たから"],
-        "wk_level": 43,
-        "wk_meanings": ["Rare"],
-        "wk_readings_on": ["ちん"],
-        "wk_readings_kun": ["!めずら"],
-        "wk_radicals": ["King", "Hat", "Hair"]
     },
     "籍": {
         "strokes": 20,
@@ -14705,11 +10035,6 @@ data2 = {
         "meanings": ["Enroll", "Domiciliary Register", "Membership"],
         "readings_on": ["せき"],
         "readings_kun": [],
-        "wk_level": 43,
-        "wk_meanings": ["Enroll"],
-        "wk_readings_on": ["せき"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Bamboo", "Plow", "Long Ago"]
     },
     "刷": {
         "strokes": 8,
@@ -14720,11 +10045,6 @@ data2 = {
         "meanings": ["Printing", "Print", "Brush"],
         "readings_on": ["さつ"],
         "readings_kun": ["す.る", "-ず.り", "-ずり", "は.く"],
-        "wk_level": 43,
-        "wk_meanings": ["Printing"],
-        "wk_readings_on": ["さつ"],
-        "wk_readings_kun": ["!す"],
-        "wk_radicals": ["Flag", "Towel", "Knife"]
     },
     "封": {
         "strokes": 9,
@@ -14735,11 +10055,6 @@ data2 = {
         "meanings": ["Seal", "Closing"],
         "readings_on": ["ふう", "ほう"],
         "readings_kun": [],
-        "wk_level": 43,
-        "wk_meanings": ["Seal", "^Seal In", "^Closing"],
-        "wk_readings_on": ["ふう", "ほう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Dirt", "Measurement"]
     },
     "筒": {
         "strokes": 12,
@@ -14750,11 +10065,6 @@ data2 = {
         "meanings": ["Cylinder", "Pipe", "Tube", "Gun Barrel", "Sleeve"],
         "readings_on": ["とう"],
         "readings_kun": ["つつ"],
-        "wk_level": 43,
-        "wk_meanings": ["Cylinder"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": ["!つつ"],
-        "wk_radicals": ["Bamboo", "Same"]
     },
     "柔": {
         "strokes": 9,
@@ -14765,11 +10075,6 @@ data2 = {
         "meanings": ["Tender", "Weakness", "Gentleness", "Softness"],
         "readings_on": ["じゅう", "にゅう"],
         "readings_kun": ["やわ.らか", "やわ.らかい", "やわ", "やわ.ら"],
-        "wk_level": 43,
-        "wk_meanings": ["Gentle"],
-        "wk_readings_on": ["じゅう", "^にゅう"],
-        "wk_readings_kun": ["!やわ"],
-        "wk_radicals": ["Spear", "Tree"]
     },
     "沈": {
         "strokes": 7,
@@ -14780,11 +10085,6 @@ data2 = {
         "meanings": ["Sink", "Be Submerged", "Subside", "Be Depressed", "Aloes"],
         "readings_on": ["ちん", "じん"],
         "readings_kun": ["しず.む", "しず.める"],
-        "wk_level": 43,
-        "wk_meanings": ["Sink"],
-        "wk_readings_on": ["ちん"],
-        "wk_readings_kun": ["!しず"],
-        "wk_radicals": ["Tsunami", "Pirate"]
     },
     "辛": {
         "strokes": 7,
@@ -14795,11 +10095,6 @@ data2 = {
         "meanings": ["Spicy", "Bitter", "Hot", "Acrid"],
         "readings_on": ["しん"],
         "readings_kun": ["から.い", "つら.い", "-づら.い", "かのと"],
-        "wk_level": 44,
-        "wk_meanings": ["Spicy"],
-        "wk_readings_on": ["しん"],
-        "wk_readings_kun": ["!から", "!つら"],
-        "wk_radicals": ["Spicy"]
     },
     "匹": {
         "strokes": 4,
@@ -14810,11 +10105,6 @@ data2 = {
         "meanings": ["Equal", "Head", "Counter For Small Animals", "Roll Of Cloth"],
         "readings_on": ["ひつ"],
         "readings_kun": ["ひき"],
-        "wk_level": 44,
-        "wk_meanings": ["Small Animal", "^Small Animal Counter"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["ひき"],
-        "wk_radicals": ["Cage", "Legs"]
     },
     "叫": {
         "strokes": 6,
@@ -14825,11 +10115,6 @@ data2 = {
         "meanings": ["Shout", "Exclaim", "Yell"],
         "readings_on": ["きょう"],
         "readings_kun": ["さけ.ぶ"],
-        "wk_level": 44,
-        "wk_meanings": ["Shout"],
-        "wk_readings_on": ["きょう"],
-        "wk_readings_kun": ["!さけ"],
-        "wk_radicals": ["Mouth", "Vines"]
     },
     "涙": {
         "strokes": 10,
@@ -14840,11 +10125,6 @@ data2 = {
         "meanings": ["Tears", "Sympathy"],
         "readings_on": ["るい", "れい"],
         "readings_kun": ["なみだ"],
-        "wk_level": 44,
-        "wk_meanings": ["Teardrop"],
-        "wk_readings_on": ["るい"],
-        "wk_readings_kun": ["!なみだ"],
-        "wk_radicals": ["Tsunami", "Door", "Big"]
     },
     "缶": {
         "strokes": 6,
@@ -14855,11 +10135,6 @@ data2 = {
         "meanings": ["Tin Can", "Container", "Jar Radical (no. 121)"],
         "readings_on": ["かん"],
         "readings_kun": ["かま"],
-        "wk_level": 44,
-        "wk_meanings": ["Can", "^Tin Can"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Can"]
     },
     "粒": {
         "strokes": 11,
@@ -14870,11 +10145,6 @@ data2 = {
         "meanings": ["Grains", "Drop", "Counter For Tiny Particles"],
         "readings_on": ["りゅう"],
         "readings_kun": ["つぶ"],
-        "wk_level": 44,
-        "wk_meanings": ["Grains"],
-        "wk_readings_on": ["りゅう"],
-        "wk_readings_kun": ["!つぶ"],
-        "wk_radicals": ["Rice", "Stand"]
     },
     "塔": {
         "strokes": 12,
@@ -14885,11 +10155,6 @@ data2 = {
         "meanings": ["Pagoda", "Tower", "Steeple"],
         "readings_on": ["とう"],
         "readings_kun": [],
-        "wk_level": 44,
-        "wk_meanings": ["Tower"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Dirt", "Flowers", "Suit"]
     },
     "肌": {
         "strokes": 6,
@@ -14900,11 +10165,6 @@ data2 = {
         "meanings": ["Texture", "Skin", "Body", "Grain"],
         "readings_on": ["き"],
         "readings_kun": ["はだ"],
-        "wk_level": 45,
-        "wk_meanings": ["Skin"],
-        "wk_readings_on": ["!き"],
-        "wk_readings_kun": ["はだ"],
-        "wk_radicals": ["Moon", "Table"]
     },
     "舟": {
         "strokes": 6,
@@ -14915,11 +10175,6 @@ data2 = {
         "meanings": ["Boat", "Ship"],
         "readings_on": ["しゅう"],
         "readings_kun": ["ふね", "ふな-", "-ぶね"],
-        "wk_level": 45,
-        "wk_meanings": ["Boat"],
-        "wk_readings_on": ["!しゅう"],
-        "wk_readings_kun": ["ふね", "ふな"],
-        "wk_radicals": ["Boat"]
     },
     "曇": {
         "strokes": 16,
@@ -14930,11 +10185,6 @@ data2 = {
         "meanings": ["Cloudy Weather", "Cloud Up"],
         "readings_on": ["どん"],
         "readings_kun": ["くも.る"],
-        "wk_level": 45,
-        "wk_meanings": ["Cloudy"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["くも"],
-        "wk_radicals": ["Sun", "Rain", "Cloud"]
     },
     "磨": {
         "strokes": 16,
@@ -14945,11 +10195,6 @@ data2 = {
         "meanings": ["Grind", "Polish", "Scour", "Improve", "Brush (teeth)"],
         "readings_on": ["ま"],
         "readings_kun": ["みが.く", "す.る"],
-        "wk_level": 45,
-        "wk_meanings": ["Polish"],
-        "wk_readings_on": ["!ま"],
-        "wk_readings_kun": ["みが"],
-        "wk_radicals": ["Canopy", "Tree", "Stone"]
     },
     "湿": {
         "strokes": 12,
@@ -14960,11 +10205,6 @@ data2 = {
         "meanings": ["Damp", "Wet", "Moist"],
         "readings_on": ["しつ", "しゅう"],
         "readings_kun": ["しめ.る", "しめ.す", "うるお.う", "うるお.す"],
-        "wk_level": 45,
-        "wk_meanings": ["Damp"],
-        "wk_readings_on": ["しつ"],
-        "wk_readings_kun": ["!しめ"],
-        "wk_radicals": ["Tsunami", "Sun", "Spikes"]
     },
     "硬": {
         "strokes": 12,
@@ -14975,11 +10215,6 @@ data2 = {
         "meanings": ["Stiff", "Hard"],
         "readings_on": ["こう"],
         "readings_kun": ["かた.い"],
-        "wk_level": 45,
-        "wk_meanings": ["Stiff"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!かた"],
-        "wk_radicals": ["Stone", "Again"]
     },
     "鈍": {
         "strokes": 12,
@@ -14990,11 +10225,6 @@ data2 = {
         "meanings": ["Dull", "Slow", "Foolish", "Blunt"],
         "readings_on": ["どん"],
         "readings_kun": ["にぶ.い", "にぶ.る", "にぶ-", "なま.る", "なまく.ら"],
-        "wk_level": 46,
-        "wk_meanings": ["Dull"],
-        "wk_readings_on": ["どん"],
-        "wk_readings_kun": ["!にぶ", "!のろ"],
-        "wk_radicals": ["Gold", "Barracks"]
     },
     "涼": {
         "strokes": 11,
@@ -15005,11 +10235,6 @@ data2 = {
         "meanings": ["Refreshing", "Nice And Cool"],
         "readings_on": ["りょう"],
         "readings_kun": ["すず.しい", "すず.む", "すず.やか", "うす.い", "ひや.す", "まことに"],
-        "wk_level": 46,
-        "wk_meanings": ["Cool"],
-        "wk_readings_on": ["りょう"],
-        "wk_readings_kun": ["!すず"],
-        "wk_radicals": ["Tsunami", "Capital"]
     },
     "零": {
         "strokes": 13,
@@ -15020,11 +10245,6 @@ data2 = {
         "meanings": ["Zero", "Spill", "Overflow", "Nothing", "Cipher"],
         "readings_on": ["れい"],
         "readings_kun": ["ぜろ", "こぼ.す", "こぼ.れる"],
-        "wk_level": 46,
-        "wk_meanings": ["Zero", "^Spill"],
-        "wk_readings_on": ["れい"],
-        "wk_readings_kun": ["!こぼ"],
-        "wk_radicals": ["Rain", "Orders"]
     },
     "綿": {
         "strokes": 14,
@@ -15035,11 +10255,6 @@ data2 = {
         "meanings": ["Cotton"],
         "readings_on": ["めん"],
         "readings_kun": ["わた"],
-        "wk_level": 46,
-        "wk_meanings": ["Cotton"],
-        "wk_readings_on": ["めん"],
-        "wk_readings_kun": ["!わた"],
-        "wk_radicals": ["Thread", "White", "Towel"]
     },
     "帽": {
         "strokes": 12,
@@ -15050,11 +10265,6 @@ data2 = {
         "meanings": ["Cap", "Headgear"],
         "readings_on": ["ぼう", "もう"],
         "readings_kun": ["ずきん", "おお.う"],
-        "wk_level": 47,
-        "wk_meanings": ["Hat"],
-        "wk_readings_on": ["ぼう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Towel", "Sun", "Eye"]
     },
     "憎": {
         "strokes": 14,
@@ -15065,11 +10275,6 @@ data2 = {
         "meanings": ["Hate", "Detest"],
         "readings_on": ["ぞう"],
         "readings_kun": ["にく.む", "にく.い", "にく.らしい", "にく.しみ"],
-        "wk_level": 47,
-        "wk_meanings": ["Hate"],
-        "wk_readings_on": ["ぞう"],
-        "wk_readings_kun": ["!にく"],
-        "wk_radicals": ["Soul", "Mask"]
     },
     "滴": {
         "strokes": 14,
@@ -15080,11 +10285,6 @@ data2 = {
         "meanings": ["Drip", "Drop"],
         "readings_on": ["てき"],
         "readings_kun": ["しずく", "したた.る"],
-        "wk_level": 47,
-        "wk_meanings": ["Drip"],
-        "wk_readings_on": ["てき"],
-        "wk_readings_kun": ["!したた", "!しずく"],
-        "wk_radicals": ["Tsunami", "Mohawk"]
     },
     "畳": {
         "strokes": 12,
@@ -15095,11 +10295,6 @@ data2 = {
         "meanings": ["Tatami Mat", "Counter For Tatami Mats", "Fold", "Shut Up", "Do Away With"],
         "readings_on": ["じょう", "ちょう"],
         "readings_kun": ["たた.む", "たたみ", "かさ.なる"],
-        "wk_level": 47,
-        "wk_meanings": ["Tatami Mat"],
-        "wk_readings_on": ["じょう"],
-        "wk_readings_kun": ["!たたみ"],
-        "wk_radicals": ["Rice Paddy", "Forehead", "Top Hat"]
     },
     "畜": {
         "strokes": 10,
@@ -15110,11 +10305,6 @@ data2 = {
         "meanings": ["Livestock", "Domestic Fowl And Animals"],
         "readings_on": ["ちく"],
         "readings_kun": [],
-        "wk_level": 48,
-        "wk_meanings": ["Livestock"],
-        "wk_readings_on": ["ちく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Mysterious", "Rice Paddy"]
     },
     "溶": {
         "strokes": 13,
@@ -15125,11 +10315,6 @@ data2 = {
         "meanings": ["Melt", "Dissolve", "Thaw"],
         "readings_on": ["よう"],
         "readings_kun": ["と.ける", "と.かす", "と.く"],
-        "wk_level": 48,
-        "wk_meanings": ["Melt"],
-        "wk_readings_on": ["よう"],
-        "wk_readings_kun": ["!と"],
-        "wk_radicals": ["Tsunami", "Form"]
     },
     "踊": {
         "strokes": 14,
@@ -15140,11 +10325,6 @@ data2 = {
         "meanings": ["Jump", "Dance", "Leap", "Skip"],
         "readings_on": ["よう"],
         "readings_kun": ["おど.る"],
-        "wk_level": 48,
-        "wk_meanings": ["Dance"],
-        "wk_readings_on": ["!よう"],
-        "wk_readings_kun": ["おど"],
-        "wk_radicals": ["Foot", "Mama", "Task"]
     },
     "賢": {
         "strokes": 16,
@@ -15155,11 +10335,6 @@ data2 = {
         "meanings": ["Intelligent", "Wise", "Wisdom", "Cleverness"],
         "readings_on": ["けん"],
         "readings_kun": ["かしこ.い"],
-        "wk_level": 48,
-        "wk_meanings": ["Clever"],
-        "wk_readings_on": ["けん"],
-        "wk_readings_kun": ["!かしこ"],
-        "wk_radicals": ["Servant", "Stool", "Shellfish"]
     },
     "灯": {
         "strokes": 6,
@@ -15170,11 +10345,6 @@ data2 = {
         "meanings": ["Lamp", "A Light", "Light", "Counter For Lights"],
         "readings_on": ["とう"],
         "readings_kun": ["ひ", "ほ-", "ともしび", "とも.す", "あかり"],
-        "wk_level": 48,
-        "wk_meanings": ["Lamp"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": ["!あかり", "!とも"],
-        "wk_radicals": ["Fire", "Street"]
     },
     "咲": {
         "strokes": 9,
@@ -15185,11 +10355,6 @@ data2 = {
         "meanings": ["Blossom", "Bloom"],
         "readings_on": ["しょう"],
         "readings_kun": ["さ.く", "-ざき"],
-        "wk_level": 48,
-        "wk_meanings": ["Blossom"],
-        "wk_readings_on": ["!しょう"],
-        "wk_readings_kun": ["さ"],
-        "wk_radicals": ["Mouth", "Horns", "Heaven"]
     },
     "塗": {
         "strokes": 13,
@@ -15200,11 +10365,6 @@ data2 = {
         "meanings": ["Paint", "Plaster", "Daub", "Smear", "Coating"],
         "readings_on": ["と"],
         "readings_kun": ["ぬ.る", "ぬ.り", "まみ.れる"],
-        "wk_level": 48,
-        "wk_meanings": ["Paint"],
-        "wk_readings_on": ["と"],
-        "wk_readings_kun": ["!ぬ"],
-        "wk_radicals": ["Tsunami", "Surplus", "Dirt"]
     },
     "召": {
         "strokes": 5,
@@ -15215,11 +10375,6 @@ data2 = {
         "meanings": ["Seduce", "Call", "Send For", "Wear", "Put On", "Ride In", "Buy", "Eat", "Drink", "Catch (cold)"],
         "readings_on": ["しょう"],
         "readings_kun": ["め.す"],
-        "wk_level": 51,
-        "wk_meanings": ["Call", "^Eat"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!め"],
-        "wk_radicals": ["Call"]
     },
     "挟": {
         "strokes": 9,
@@ -15230,11 +10385,6 @@ data2 = {
         "meanings": ["Pinch", "Between"],
         "readings_on": ["きょう", "しょう"],
         "readings_kun": ["はさ.む", "はさ.まる", "わきばさ.む", "さしはさ.む"],
-        "wk_level": 51,
-        "wk_meanings": ["Between"],
-        "wk_readings_on": ["!きょう", "!しょう"],
-        "wk_readings_kun": ["はさ"],
-        "wk_radicals": ["Fingers", "Husband", "Horns"]
     },
     "枯": {
         "strokes": 9,
@@ -15245,11 +10395,6 @@ data2 = {
         "meanings": ["Wither", "Die", "Dry Up", "Be Seasoned"],
         "readings_on": ["こ"],
         "readings_kun": ["か.れる", "か.らす"],
-        "wk_level": 51,
-        "wk_meanings": ["Wither"],
-        "wk_readings_on": ["こ"],
-        "wk_readings_kun": ["!か"],
-        "wk_radicals": ["Tree", "Old"]
     },
     "沸": {
         "strokes": 8,
@@ -15260,11 +10405,6 @@ data2 = {
         "meanings": ["Seethe", "Boil", "Ferment", "Uproar", "Breed"],
         "readings_on": ["ふつ"],
         "readings_kun": ["わ.く", "わ.かす"],
-        "wk_level": 51,
-        "wk_meanings": ["Boil"],
-        "wk_readings_on": ["ふつ"],
-        "wk_readings_kun": ["!わ"],
-        "wk_radicals": ["Tsunami", "Dollar"]
     },
     "濯": {
         "strokes": 17,
@@ -15275,11 +10415,6 @@ data2 = {
         "meanings": ["Laundry", "Wash", "Pour On", "Rinse"],
         "readings_on": ["たく"],
         "readings_kun": ["すす.ぐ", "ゆす.ぐ"],
-        "wk_level": 51,
-        "wk_meanings": ["Wash"],
-        "wk_readings_on": ["たく"],
-        "wk_readings_kun": ["!すす", "!ゆす", "!そそぐ"],
-        "wk_radicals": ["Tsunami", "Wolverine", "Turkey"]
     },
     "燥": {
         "strokes": 17,
@@ -15290,11 +10425,6 @@ data2 = {
         "meanings": ["Parch", "Dry Up"],
         "readings_on": ["そう"],
         "readings_kun": ["はしゃ.ぐ"],
-        "wk_level": 51,
-        "wk_meanings": ["Dry Up"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": ["!はしゃ"],
-        "wk_radicals": ["Fire", "Syrup"]
     },
     "瓶": {
         "strokes": 11,
@@ -15305,11 +10435,6 @@ data2 = {
         "meanings": ["Bottle", "Vial", "Jar", "Jug", "Vat", "Urn"],
         "readings_on": ["びん"],
         "readings_kun": ["かめ"],
-        "wk_level": 51,
-        "wk_meanings": ["Bottle"],
-        "wk_readings_on": ["びん"],
-        "wk_readings_kun": ["!かめ"],
-        "wk_radicals": ["Horns", "Lantern", "Ten Thousand", "Drop", "Ground"]
     },
     "耕": {
         "strokes": 10,
@@ -15320,11 +10445,6 @@ data2 = {
         "meanings": ["Till", "Plow", "Cultivate"],
         "readings_on": ["こう"],
         "readings_kun": ["たがや.す"],
-        "wk_level": 51,
-        "wk_meanings": ["Plow"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!たがや"],
-        "wk_radicals": ["Plow", "Well"]
     },
     "肯": {
         "strokes": 8,
@@ -15335,11 +10455,6 @@ data2 = {
         "meanings": ["Agreement", "Consent", "Comply With"],
         "readings_on": ["こう"],
         "readings_kun": ["がえんじ.る"],
-        "wk_level": 51,
-        "wk_meanings": ["Agreement", "^Consent"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!がえんじ"],
-        "wk_radicals": ["Stop", "Moon"]
     },
     "脂": {
         "strokes": 10,
@@ -15350,11 +10465,6 @@ data2 = {
         "meanings": ["Fat", "Grease", "Tallow", "Lard", "Rosin", "Gum", "Tar"],
         "readings_on": ["し"],
         "readings_kun": ["あぶら"],
-        "wk_level": 51,
-        "wk_meanings": ["Fat"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!あぶら"],
-        "wk_radicals": ["Moon", "Spoon", "Sun"]
     },
     "膚": {
         "strokes": 15,
@@ -15365,11 +10475,6 @@ data2 = {
         "meanings": ["Skin", "Body", "Grain", "Texture", "Disposition"],
         "readings_on": ["ふ"],
         "readings_kun": ["はだ"],
-        "wk_level": 51,
-        "wk_meanings": ["Skin"],
-        "wk_readings_on": ["ふ"],
-        "wk_readings_kun": ["!はだ"],
-        "wk_radicals": ["Tiger", "Stomach"]
     },
     "軒": {
         "strokes": 10,
@@ -15380,11 +10485,6 @@ data2 = {
         "meanings": ["Flats", "Counter For Houses", "Eaves"],
         "readings_on": ["けん"],
         "readings_kun": ["のき"],
-        "wk_level": 51,
-        "wk_meanings": ["House Counter", "^Eaves"],
-        "wk_readings_on": ["けん"],
-        "wk_readings_kun": ["!のき"],
-        "wk_radicals": ["Car", "Dry"]
     },
     "軟": {
         "strokes": 11,
@@ -15395,11 +10495,6 @@ data2 = {
         "meanings": ["Soft"],
         "readings_on": ["なん"],
         "readings_kun": ["やわ.らか", "やわ.らかい"],
-        "wk_level": 51,
-        "wk_meanings": ["Soft"],
-        "wk_readings_on": ["なん"],
-        "wk_readings_kun": ["!やわ"],
-        "wk_radicals": ["Car", "Lack"]
     },
     "郊": {
         "strokes": 9,
@@ -15410,11 +10505,6 @@ data2 = {
         "meanings": ["Outskirts", "Suburbs", "Rural Area"],
         "readings_on": ["こう"],
         "readings_kun": [],
-        "wk_level": 51,
-        "wk_meanings": ["Suburbs"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Mix", "Building"]
     },
     "隅": {
         "strokes": 12,
@@ -15425,11 +10515,6 @@ data2 = {
         "meanings": ["Corner", "Nook"],
         "readings_on": ["ぐう"],
         "readings_kun": ["すみ"],
-        "wk_level": 51,
-        "wk_meanings": ["Corner"],
-        "wk_readings_on": ["!ぐう"],
-        "wk_readings_kun": ["すみ"],
-        "wk_radicals": ["Building", "Splinter"]
     },
     "隻": {
         "strokes": 10,
@@ -15440,11 +10525,6 @@ data2 = {
         "meanings": ["Vessels", "Counter For Ships", "Fish", "Birds", "Arrows", "One Of A Pair"],
         "readings_on": ["せき"],
         "readings_kun": [],
-        "wk_level": 51,
-        "wk_meanings": ["Ship Counter"],
-        "wk_readings_on": ["せき"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Turkey", "Stool"]
     }
 };
 data1 = {
@@ -15457,11 +10537,6 @@ data1 = {
         "meanings": ["Sword", "Saber", "Knife"],
         "readings_on": ["とう"],
         "readings_kun": ["かたな", "そり"],
-        "wk_level": 2,
-        "wk_meanings": ["Sword", "^Katana"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": ["!かたな"],
-        "wk_radicals": ["Sword"]
     },
     "丁": {
         "strokes": 2,
@@ -15472,11 +10547,6 @@ data1 = {
         "meanings": ["Street", "Ward", "Town", "Counter For Guns, Tools, Leaves Or Cakes Of Something", "Even Number", "4th Calendar Sign"],
         "readings_on": ["ちょう", "てい", "ちん", "とう", "ち"],
         "readings_kun": ["ひのと"],
-        "wk_level": 2,
-        "wk_meanings": ["Street"],
-        "wk_readings_on": ["ちょう", "^てい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Street"]
     },
     "又": {
         "strokes": 2,
@@ -15487,11 +10557,6 @@ data1 = {
         "meanings": ["Or Again", "Furthermore", "On The Other Hand"],
         "readings_on": ["ゆう"],
         "readings_kun": ["また", "また-", "また.の-"],
-        "wk_level": 2,
-        "wk_meanings": ["Again"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["また"],
-        "wk_radicals": ["Stool"]
     },
     "矢": {
         "strokes": 5,
@@ -15502,11 +10567,6 @@ data1 = {
         "meanings": ["Dart", "Arrow"],
         "readings_on": ["し"],
         "readings_kun": ["や"],
-        "wk_level": 3,
-        "wk_meanings": ["Arrow"],
-        "wk_readings_on": ["!し"],
-        "wk_readings_kun": ["や"],
-        "wk_radicals": ["Arrow"]
     },
     "里": {
         "strokes": 7,
@@ -15517,11 +10577,6 @@ data1 = {
         "meanings": ["Ri", "Village", "Parent's Home", "League"],
         "readings_on": ["り"],
         "readings_kun": ["さと"],
-        "wk_level": 5,
-        "wk_meanings": ["Home Village", "^Home Town"],
-        "wk_readings_on": ["!り"],
-        "wk_readings_kun": ["さと"],
-        "wk_radicals": ["Village"]
     },
     "羊": {
         "strokes": 6,
@@ -15532,11 +10587,6 @@ data1 = {
         "meanings": ["Sheep"],
         "readings_on": ["よう"],
         "readings_kun": ["ひつじ"],
-        "wk_level": 6,
-        "wk_meanings": ["Sheep"],
-        "wk_readings_on": ["よう"],
-        "wk_readings_kun": ["!ひつじ"],
-        "wk_radicals": ["Sheep"]
     },
     "氏": {
         "strokes": 4,
@@ -15547,11 +10597,6 @@ data1 = {
         "meanings": ["Family Name", "Surname", "Clan"],
         "readings_on": ["し"],
         "readings_kun": ["うじ", "-うじ"],
-        "wk_level": 7,
-        "wk_meanings": ["Family Name", "^Last Name", "^Surname"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!うじ"],
-        "wk_radicals": ["Clan"]
     },
     "身": {
         "strokes": 7,
@@ -15562,11 +10607,6 @@ data1 = {
         "meanings": ["Somebody", "Person", "One's Station In Life"],
         "readings_on": ["しん"],
         "readings_kun": ["み"],
-        "wk_level": 8,
-        "wk_meanings": ["Somebody", "^Someone", "^Body"],
-        "wk_readings_on": ["しん"],
-        "wk_readings_kun": ["!み"],
-        "wk_radicals": ["Self", "Slide"]
     },
     "仮": {
         "strokes": 6,
@@ -15577,11 +10617,6 @@ data1 = {
         "meanings": ["Sham", "Temporary", "Interim", "Assumed (name)", "Informal"],
         "readings_on": ["か", "け"],
         "readings_kun": ["かり", "かり-"],
-        "wk_level": 9,
-        "wk_meanings": ["Temporary"],
-        "wk_readings_on": ["か"],
-        "wk_readings_kun": ["!かり"],
-        "wk_radicals": ["Leader", "Anti"]
     },
     "級": {
         "strokes": 9,
@@ -15592,11 +10627,6 @@ data1 = {
         "meanings": ["Class", "Rank", "Grade"],
         "readings_on": ["きゅう"],
         "readings_kun": [],
-        "wk_level": 11,
-        "wk_meanings": ["Level", "^Grade", "^Rank"],
-        "wk_readings_on": ["きゅう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Thread", "Escalator"]
     },
     "功": {
         "strokes": 5,
@@ -15607,11 +10637,6 @@ data1 = {
         "meanings": ["Achievement", "Merits", "Success", "Honor", "Credit"],
         "readings_on": ["こう", "く"],
         "readings_kun": ["いさお"],
-        "wk_level": 11,
-        "wk_meanings": ["Achievement", "^Accomplishment"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Construction", "Power"]
     },
     "第": {
         "strokes": 11,
@@ -15622,11 +10647,6 @@ data1 = {
         "meanings": ["No.", "Residence"],
         "readings_on": ["だい", "てい"],
         "readings_kun": [],
-        "wk_level": 12,
-        "wk_meanings": ["Ordinal Number Prefix", "^Ordinal Prefix", "^Number"],
-        "wk_readings_on": ["だい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Bamboo", "Younger Brother"]
     },
     "暑": {
         "strokes": 12,
@@ -15637,11 +10657,6 @@ data1 = {
         "meanings": ["Sultry", "Hot", "Summer Heat"],
         "readings_on": ["しょ"],
         "readings_kun": ["あつ.い"],
-        "wk_level": 12,
-        "wk_meanings": ["Hot", "^Hot Weather"],
-        "wk_readings_on": ["!しょ"],
-        "wk_readings_kun": ["あつ"],
-        "wk_radicals": ["Sun", "Someone"]
     },
     "整": {
         "strokes": 16,
@@ -15652,11 +10667,6 @@ data1 = {
         "meanings": ["Organize", "Arranging", "Tune", "Tone", "Meter", "Key (music)"],
         "readings_on": ["せい"],
         "readings_kun": ["ととの.える", "ととの.う"],
-        "wk_level": 13,
-        "wk_meanings": ["Arrange", "^Organize"],
-        "wk_readings_on": ["せい"],
-        "wk_readings_kun": ["!ととの"],
-        "wk_radicals": ["Bundle", "Winter", "Correct"]
     },
     "詩": {
         "strokes": 13,
@@ -15667,11 +10677,6 @@ data1 = {
         "meanings": ["Poem", "Poetry"],
         "readings_on": ["し"],
         "readings_kun": ["うた"],
-        "wk_level": 13,
-        "wk_meanings": ["Poem"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!うた"],
-        "wk_radicals": ["Say", "Temple"]
     },
     "器": {
         "strokes": 15,
@@ -15682,11 +10687,6 @@ data1 = {
         "meanings": ["Utensil", "Vessel", "Receptacle", "Implement", "Instrument", "Ability", "Container", "Tool", "Set"],
         "readings_on": ["き"],
         "readings_kun": ["うつわ"],
-        "wk_level": 13,
-        "wk_meanings": ["Container", "^Vessel"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": ["!うつわ"],
-        "wk_radicals": ["Big", "Products"]
     },
     "士": {
         "strokes": 3,
@@ -15697,11 +10697,6 @@ data1 = {
         "meanings": ["Gentleman", "Scholar", "Samurai", "Samurai Radical (no. 33)"],
         "readings_on": ["し"],
         "readings_kun": ["さむらい"],
-        "wk_level": 13,
-        "wk_meanings": ["Samurai"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!さむらい"],
-        "wk_radicals": ["Samurai"]
     },
 
     "標": {
@@ -15713,11 +10708,6 @@ data1 = {
         "meanings": ["Signpost", "Seal", "Mark", "Stamp", "Imprint", "Symbol", "Emblem", "Trademark", "Evidence", "Souvenir", "Target"],
         "readings_on": ["ひょう"],
         "readings_kun": ["しるべ", "しるし"],
-        "wk_level": 13,
-        "wk_meanings": ["Signpost"],
-        "wk_readings_on": ["ひょう"],
-        "wk_readings_kun": ["!しるし"],
-        "wk_radicals": ["Tree", "Helicopter", "Jackhammer"]
     },
     "鏡": {
         "strokes": 19,
@@ -15728,11 +10718,6 @@ data1 = {
         "meanings": ["Mirror", "Speculum", "Barrel-head", "Round Rice-cake Offering"],
         "readings_on": ["きょう", "けい"],
         "readings_kun": ["かがみ"],
-        "wk_level": 13,
-        "wk_meanings": ["Mirror"],
-        "wk_readings_on": ["!きょう"],
-        "wk_readings_kun": ["かがみ"],
-        "wk_radicals": ["Gold", "Stand", "See"]
     },
 
     "養": {
@@ -15744,11 +10729,6 @@ data1 = {
         "meanings": ["Foster", "Bring Up", "Rear", "Develop", "Nurture"],
         "readings_on": ["よう", "りょう"],
         "readings_kun": ["やしな.う"],
-        "wk_level": 13,
-        "wk_meanings": ["Foster"],
-        "wk_readings_on": ["よう"],
-        "wk_readings_kun": ["!やしな"],
-        "wk_radicals": ["Sheep", "Good", "Fins"]
     },
     "謝": {
         "strokes": 17,
@@ -15759,11 +10739,6 @@ data1 = {
         "meanings": ["Apologize", "Thank", "Refuse"],
         "readings_on": ["しゃ"],
         "readings_kun": ["あやま.る"],
-        "wk_level": 13,
-        "wk_meanings": ["Apologize", "^Apologise"],
-        "wk_readings_on": ["しゃ"],
-        "wk_readings_kun": ["!あやま"],
-        "wk_radicals": ["Say", "Body", "Measurement"]
     },
     "松": {
         "strokes": 8,
@@ -15774,11 +10749,6 @@ data1 = {
         "meanings": ["Pine Tree"],
         "readings_on": ["しょう"],
         "readings_kun": ["まつ"],
-        "wk_level": 14,
-        "wk_meanings": ["Pine", "^Pine Tree"],
-        "wk_readings_on": ["!しょう"],
-        "wk_readings_kun": ["まつ"],
-        "wk_radicals": ["Tree", "Public"]
     },
 
     "的": {
@@ -15790,11 +10760,6 @@ data1 = {
         "meanings": ["Bull's Eye", "Mark", "Target", "Object", "Adjective Ending"],
         "readings_on": ["てき"],
         "readings_kun": ["まと"],
-        "wk_level": 14,
-        "wk_meanings": ["Target", "^Al", "^~Al", "^Like", "^~Like"],
-        "wk_readings_on": ["てき"],
-        "wk_readings_kun": ["!まと"],
-        "wk_radicals": ["White", "Pool"]
     },
 
 
@@ -15807,11 +10772,6 @@ data1 = {
         "meanings": ["Fundamentals", "Radical (chem)", "Counter For Machines", "Foundation"],
         "readings_on": ["き"],
         "readings_kun": ["もと", "もとい"],
-        "wk_level": 14,
-        "wk_meanings": ["Foundation"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": ["!もと"],
-        "wk_radicals": ["Crab", "Dirt"]
     },
 
 
@@ -15824,11 +10784,6 @@ data1 = {
         "meanings": ["Gentle", "Peace", "Depravity"],
         "readings_on": ["だ"],
         "readings_kun": [],
-        "wk_level": 14,
-        "wk_meanings": ["Gentle"],
-        "wk_readings_on": ["だ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Cleat", "Woman"]
     },
     "雰": {
         "strokes": 12,
@@ -15839,11 +10794,6 @@ data1 = {
         "meanings": ["Atmosphere", "Fog"],
         "readings_on": ["ふん"],
         "readings_kun": [],
-        "wk_level": 14,
-        "wk_meanings": ["Atmosphere"],
-        "wk_readings_on": ["ふん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Rain", "Part"]
     },
     "頑": {
         "strokes": 13,
@@ -15854,11 +10804,6 @@ data1 = {
         "meanings": ["Stubborn", "Foolish", "Firmly"],
         "readings_on": ["がん"],
         "readings_kun": ["かたく"],
-        "wk_level": 14,
-        "wk_meanings": ["Stubborn"],
-        "wk_readings_on": ["がん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Origin", "Geoduck"]
     },
 
 
@@ -15871,11 +10816,6 @@ data1 = {
         "meanings": ["Director", "Official", "Govt Office", "Rule", "Administer"],
         "readings_on": ["し"],
         "readings_kun": ["つかさど.る"],
-        "wk_level": 15,
-        "wk_meanings": ["Director"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!つかさど"],
-        "wk_radicals": ["Cape", "Creeper"]
     },
 
 
@@ -15889,11 +10829,6 @@ data1 = {
         "meanings": ["Cry", "Weep", "Moan"],
         "readings_on": ["きゅう"],
         "readings_kun": ["な.く"],
-        "wk_level": 15,
-        "wk_meanings": ["Cry"],
-        "wk_readings_on": ["!きゅう"],
-        "wk_readings_kun": ["な"],
-        "wk_radicals": ["Tsunami", "Stand"]
     },
 
     "紀": {
@@ -15905,11 +10840,6 @@ data1 = {
         "meanings": ["Chronicle", "Account", "Narrative", "History", "Annals", "Geologic Period"],
         "readings_on": ["き"],
         "readings_kun": [],
-        "wk_level": 15,
-        "wk_meanings": ["Account", "^Narrative"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Thread", "Oneself"]
     },
 
 
@@ -15923,11 +10853,6 @@ data1 = {
         "meanings": ["Code", "Ceremony", "Law", "Rule"],
         "readings_on": ["てん", "でん"],
         "readings_kun": [],
-        "wk_level": 16,
-        "wk_meanings": ["Rule"],
-        "wk_readings_on": ["てん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Music", "Fins"]
     },
 
 
@@ -15941,11 +10866,6 @@ data1 = {
         "meanings": ["Protect", "Guarantee", "Keep", "Preserve", "Sustain", "Support"],
         "readings_on": ["ほ", "ほう"],
         "readings_kun": ["たも.つ"],
-        "wk_level": 9,
-        "wk_meanings": ["Preserve", "^Guarantee"],
-        "wk_readings_on": ["ほ"],
-        "wk_readings_kun": ["!たも"],
-        "wk_radicals": ["Leader", "Mouth", "Tree"]
     },
     "弁": {
         "strokes": 5,
@@ -15956,11 +10876,6 @@ data1 = {
         "meanings": ["Valve", "Petal", "Braid", "Speech", "Dialect", "Discrimination", "Dispose Of", "Distinguish", "Conical Cap"],
         "readings_on": ["べん", "へん"],
         "readings_kun": ["かんむり", "わきま.える", "わ.ける", "はなびら", "あらそ.う"],
-        "wk_level": 16,
-        "wk_meanings": ["Dialect", "^Speech"],
-        "wk_readings_on": ["べん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Private", "Twenty"]
     },
 
     "証": {
@@ -15972,11 +10887,6 @@ data1 = {
         "meanings": ["Evidence", "Proof", "Certificate"],
         "readings_on": ["しょう"],
         "readings_kun": ["あかし"],
-        "wk_level": 16,
-        "wk_meanings": ["Evidence", "^Proof"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!あかし"],
-        "wk_radicals": ["Say", "Correct"]
     },
 
 
@@ -15989,11 +10899,6 @@ data1 = {
         "meanings": ["Risk", "Face", "Defy", "Dare", "Damage", "Assume (a Name)"],
         "readings_on": ["ぼう"],
         "readings_kun": ["おか.す"],
-        "wk_level": 16,
-        "wk_meanings": ["Dare"],
-        "wk_readings_on": ["ぼう"],
-        "wk_readings_kun": ["!おか"],
-        "wk_radicals": ["Sun", "Eye"]
     },
     "冗": {
         "strokes": 4,
@@ -16004,11 +10909,6 @@ data1 = {
         "meanings": ["Superfluous", "Uselessness"],
         "readings_on": ["じょう"],
         "readings_kun": [],
-        "wk_level": 16,
-        "wk_meanings": ["Superfluous", "^Unnecessary", "^Uselessness"],
-        "wk_readings_on": ["じょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Forehead", "Table"]
     },
     "阪": {
         "strokes": 7,
@@ -16019,11 +10919,6 @@ data1 = {
         "meanings": ["Heights", "Slope"],
         "readings_on": ["はん"],
         "readings_kun": ["さか"],
-        "wk_level": 16,
-        "wk_meanings": ["Heights", "^Slope"],
-        "wk_readings_on": ["はん"],
-        "wk_readings_kun": ["!さか"],
-        "wk_radicals": ["Building", "Anti"]
     },
 
 
@@ -16036,11 +10931,6 @@ data1 = {
         "meanings": ["Plum"],
         "readings_on": ["ばい"],
         "readings_kun": ["うめ"],
-        "wk_level": 17,
-        "wk_meanings": ["Ume", "^Japanese Plum"],
-        "wk_readings_on": ["!ばい"],
-        "wk_readings_kun": ["うめ"],
-        "wk_radicals": ["Tree", "Gun", "Window"]
     },
     "無": {
         "strokes": 12,
@@ -16051,11 +10941,6 @@ data1 = {
         "meanings": ["Nothingness", "None", "Ain't", "Nothing", "Nil", "Not"],
         "readings_on": ["む", "ぶ"],
         "readings_kun": ["な.い"],
-        "wk_level": 17,
-        "wk_meanings": ["Nothing"],
-        "wk_readings_on": ["む", "ぶ"],
-        "wk_readings_kun": ["!な"],
-        "wk_radicals": ["Nothing"]
     },
     "結": {
         "strokes": 12,
@@ -16066,11 +10951,6 @@ data1 = {
         "meanings": ["Tie", "Bind", "Contract", "Join", "Organize", "Do Up Hair", "Fasten"],
         "readings_on": ["けつ", "けち"],
         "readings_kun": ["むす.ぶ", "ゆ.う", "ゆ.わえる"],
-        "wk_level": 17,
-        "wk_meanings": ["Bind", "^Tie"],
-        "wk_readings_on": ["けつ"],
-        "wk_readings_kun": ["!むす", "!ゆ"],
-        "wk_radicals": ["Thread", "Good Luck"]
     },
 
 
@@ -16083,11 +10963,6 @@ data1 = {
         "meanings": ["Just So", "This", "Right", "Justice"],
         "readings_on": ["ぜ", "し"],
         "readings_kun": ["これ", "この", "ここ"],
-        "wk_level": 17,
-        "wk_meanings": ["Absolutely"],
-        "wk_readings_on": ["ぜ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Sun", "Correct"]
     },
     "渉": {
         "strokes": 11,
@@ -16098,11 +10973,6 @@ data1 = {
         "meanings": ["Ford", "Go Cross", "Transit", "Ferry", "Import", "Involve"],
         "readings_on": ["しょう"],
         "readings_kun": ["わた.る"],
-        "wk_level": 17,
-        "wk_meanings": ["Ford"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!わた"],
-        "wk_radicals": ["Tsunami", "Walk"]
     },
     "虚": {
         "strokes": 11,
@@ -16113,11 +10983,6 @@ data1 = {
         "meanings": ["Void", "Emptiness", "Unpreparedness", "Crack", "Fissure", "Untruth"],
         "readings_on": ["きょ", "こ"],
         "readings_kun": ["むな.しい", "うつ.ろ"],
-        "wk_level": 17,
-        "wk_meanings": ["Void"],
-        "wk_readings_on": ["きょ", "こ"],
-        "wk_readings_kun": ["!むな"],
-        "wk_radicals": ["Tiger", "Spikes"]
     },
 
 
@@ -16131,11 +10996,6 @@ data1 = {
         "meanings": ["Phantasm", "Vision", "Dream", "Illusion", "Apparition"],
         "readings_on": ["げん"],
         "readings_kun": ["まぼろし"],
-        "wk_level": 17,
-        "wk_meanings": ["Illusion"],
-        "wk_readings_on": ["げん"],
-        "wk_readings_kun": ["!まぼろし"],
-        "wk_radicals": ["Poop", "Cape"]
     },
 
 
@@ -16148,11 +11008,6 @@ data1 = {
         "meanings": ["Bow", "Bow (archery, Violin)"],
         "readings_on": ["きゅう"],
         "readings_kun": ["ゆみ"],
-        "wk_level": 18,
-        "wk_meanings": ["Bow"],
-        "wk_readings_on": ["きゅう"],
-        "wk_readings_kun": ["!ゆみ"],
-        "wk_radicals": ["Bow"]
     },
 
 
@@ -16166,11 +11021,6 @@ data1 = {
         "meanings": ["Vapor", "Steam"],
         "readings_on": ["き"],
         "readings_kun": [],
-        "wk_level": 18,
-        "wk_meanings": ["Steam"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tsunami", "Energy"]
     },
 
 
@@ -16183,11 +11033,6 @@ data1 = {
         "meanings": ["Buddhist Priest", "Monk"],
         "readings_on": ["そう"],
         "readings_kun": [],
-        "wk_level": 18,
-        "wk_meanings": ["Priest", "^Monk"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Mask"]
     },
     "禅": {
         "strokes": 13,
@@ -16198,11 +11043,6 @@ data1 = {
         "meanings": ["Zen", "Silent Meditation"],
         "readings_on": ["ぜん", "せん"],
         "readings_kun": ["しずか", "ゆず.る"],
-        "wk_level": 18,
-        "wk_meanings": ["Zen", "^Zen Buddhism"],
-        "wk_readings_on": ["ぜん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Spirit", "Simple"]
     },
     "可": {
         "strokes": 5,
@@ -16213,11 +11053,6 @@ data1 = {
         "meanings": ["Can", "Passable", "Mustn't", "Should Not", "Do Not"],
         "readings_on": ["か", "こく"],
         "readings_kun": ["-べ.き", "-べ.し"],
-        "wk_level": 18,
-        "wk_meanings": ["Possible", "^Passable"],
-        "wk_readings_on": ["か"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Lip Ring"]
     },
     "句": {
         "strokes": 5,
@@ -16228,11 +11063,6 @@ data1 = {
         "meanings": ["Phrase", "Clause", "Sentence", "Passage", "Paragraph", "Counter For Haiku"],
         "readings_on": ["く"],
         "readings_kun": [],
-        "wk_level": 18,
-        "wk_meanings": ["Paragraph"],
-        "wk_readings_on": ["く"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Paragraph"]
     },
     "節": {
         "strokes": 13,
@@ -16243,11 +11073,6 @@ data1 = {
         "meanings": ["Node", "Season", "Period", "Occasion", "Verse", "Clause", "Stanza", "Honor", "Joint", "Knuckle", "Knob", "Knot", "Tune", "Melody"],
         "readings_on": ["せつ", "せち"],
         "readings_kun": ["ふし", "-ぶし", "のっと"],
-        "wk_level": 19,
-        "wk_meanings": ["Season"],
-        "wk_readings_on": ["せつ"],
-        "wk_readings_kun": ["!ふし"],
-        "wk_radicals": ["Bamboo", "Root", "Stamp"]
     },
 
     "昆": {
@@ -16259,11 +11084,6 @@ data1 = {
         "meanings": ["Descendants", "Elder Brother", "Insect"],
         "readings_on": ["こん"],
         "readings_kun": [],
-        "wk_level": 19,
-        "wk_meanings": ["Descendants"],
-        "wk_readings_on": ["こん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Sun", "Compare"]
     },
     "閥": {
         "strokes": 14,
@@ -16274,11 +11094,6 @@ data1 = {
         "meanings": ["Clique", "Lineage", "Pedigree", "Faction", "Clan"],
         "readings_on": ["ばつ"],
         "readings_kun": [],
-        "wk_level": 19,
-        "wk_meanings": ["Clique", "^Clan"],
-        "wk_readings_on": ["ばつ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Gate", "Leader", "Drunkard"]
     },
 
     "舌": {
@@ -16290,11 +11105,6 @@ data1 = {
         "meanings": ["Tongue", "Reed", "Clapper"],
         "readings_on": ["ぜつ"],
         "readings_kun": ["した"],
-        "wk_level": 19,
-        "wk_meanings": ["Tongue"],
-        "wk_readings_on": ["!ぜつ"],
-        "wk_readings_kun": ["した"],
-        "wk_radicals": ["Tongue"]
     },
 
     "宙": {
@@ -16306,11 +11116,6 @@ data1 = {
         "meanings": ["Mid-air", "Air", "Space", "Sky", "Memorization", "Interval Of Time"],
         "readings_on": ["ちゅう"],
         "readings_kun": [],
-        "wk_level": 19,
-        "wk_meanings": ["Midair"],
-        "wk_readings_on": ["ちゅう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Roof", "Reason"]
     },
 
     "履": {
@@ -16322,11 +11127,6 @@ data1 = {
         "meanings": ["Perform", "Complete", "Footgear", "Shoes", "Boots", "Put On (the Feet)"],
         "readings_on": ["り"],
         "readings_kun": ["は.く"],
-        "wk_level": 19,
-        "wk_meanings": ["Boots"],
-        "wk_readings_on": ["り"],
-        "wk_readings_kun": ["!は"],
-        "wk_radicals": ["Flag", "Loiter", "Black Hole"]
     },
 
 
@@ -16339,11 +11139,6 @@ data1 = {
         "meanings": ["Virtuous", "Good", "Goodness"],
         "readings_on": ["ぜん"],
         "readings_kun": ["よ.い", "い.い", "よ.く", "よし.とする"],
-        "wk_level": 19,
-        "wk_meanings": ["Morally Good", "^Good"],
-        "wk_readings_on": ["ぜん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Sheep", "Horns", "Ground", "Mouth"]
     },
 
 
@@ -16356,11 +11151,6 @@ data1 = {
         "meanings": ["Disaster", "Calamity", "Woe", "Curse", "Evil"],
         "readings_on": ["さい"],
         "readings_kun": ["わざわ.い"],
-        "wk_level": 20,
-        "wk_meanings": ["Disaster"],
-        "wk_readings_on": ["さい"],
-        "wk_readings_kun": ["!わざわ"],
-        "wk_radicals": ["Flood", "Fire"]
     },
 
     "率": {
@@ -16372,11 +11162,6 @@ data1 = {
         "meanings": ["Ratio", "Rate", "Proportion", "%", "Factor", "Lead", "Spearhead", "Command"],
         "readings_on": ["そつ", "りつ", "しゅつ"],
         "readings_kun": ["ひき.いる"],
-        "wk_level": 20,
-        "wk_meanings": ["Percent", "^Percentage"],
-        "wk_readings_on": ["りつ", "そつ"],
-        "wk_readings_kun": ["!ひき"],
-        "wk_radicals": ["Lid", "Poop", "Explosion", "Cross"]
     },
 
     "妨": {
@@ -16388,11 +11173,6 @@ data1 = {
         "meanings": ["Disturb", "Prevent", "Hamper", "Obstruct"],
         "readings_on": ["ぼう"],
         "readings_kun": ["さまた.げる"],
-        "wk_level": 20,
-        "wk_meanings": ["Obstruct", "^Impede"],
-        "wk_readings_on": ["ぼう"],
-        "wk_readings_kun": ["!さまた"],
-        "wk_radicals": ["Woman", "Direction"]
     },
 
     "裕": {
@@ -16404,11 +11184,6 @@ data1 = {
         "meanings": ["Abundant", "Rich", "Fertile"],
         "readings_on": ["ゆう"],
         "readings_kun": [],
-        "wk_level": 20,
-        "wk_meanings": ["Abundant", "^Plentiful"],
-        "wk_readings_on": ["ゆう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Spirit", "Valley"]
     },
 
     "尻": {
@@ -16420,11 +11195,6 @@ data1 = {
         "meanings": ["Buttocks", "Hips", "Butt", "Rear"],
         "readings_on": ["こう"],
         "readings_kun": ["しり"],
-        "wk_level": 20,
-        "wk_meanings": ["Butt"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["しり"],
-        "wk_radicals": ["Flag", "Nine"]
     },
     "尾": {
         "strokes": 7,
@@ -16435,11 +11205,6 @@ data1 = {
         "meanings": ["Tail", "End", "Counter For Fish", "Lower Slope Of Mountain"],
         "readings_on": ["び"],
         "readings_kun": ["お"],
-        "wk_level": 20,
-        "wk_meanings": ["Tail"],
-        "wk_readings_on": ["び"],
-        "wk_readings_kun": ["!お", "!ぽ"],
-        "wk_radicals": ["Flag", "Fur"]
     },
 
 
@@ -16452,11 +11217,6 @@ data1 = {
         "meanings": ["Dislike", "Detest", "Hate"],
         "readings_on": ["けん", "げん"],
         "readings_kun": ["きら.う", "きら.い", "いや"],
-        "wk_level": 20,
-        "wk_meanings": ["Dislike"],
-        "wk_readings_on": ["けん", "げん"],
-        "wk_readings_kun": ["!いや", "!きら"],
-        "wk_radicals": ["Woman", "Mona Lisa"]
     },
 
 
@@ -16469,11 +11229,6 @@ data1 = {
         "meanings": ["Stinking", "Ill-smelling", "Suspicious Looking", "Odor", "Savor", "Fragrance", "Be Fragrant", "Stink", "Glow", "Be Bright"],
         "readings_on": ["しゅう"],
         "readings_kun": ["くさ.い", "-くさ.い", "にお.う", "にお.い"],
-        "wk_level": 20,
-        "wk_meanings": ["Stinking", "^Stinky", "^Smelly"],
-        "wk_readings_on": ["!しゅう"],
-        "wk_readings_kun": ["くさ"],
-        "wk_radicals": ["Self", "Big"]
     },
 
     "穴": {
@@ -16485,11 +11240,6 @@ data1 = {
         "meanings": ["Hole", "Aperture", "Slit", "Cave", "Den"],
         "readings_on": ["けつ"],
         "readings_kun": ["あな"],
-        "wk_level": 20,
-        "wk_meanings": ["Hole", "^Cave"],
-        "wk_readings_on": ["!けつ"],
-        "wk_readings_kun": ["あな"],
-        "wk_radicals": ["Hole"]
     },
 
     "笛": {
@@ -16501,11 +11251,6 @@ data1 = {
         "meanings": ["Flute", "Clarinet", "Pipe", "Whistle", "Bagpipe", "Piccolo"],
         "readings_on": ["てき"],
         "readings_kun": ["ふえ"],
-        "wk_level": 19,
-        "wk_meanings": ["Flute"],
-        "wk_readings_on": ["てき"],
-        "wk_readings_kun": ["!ふえ"],
-        "wk_radicals": ["Bamboo", "Reason"]
     },
 
     "敵": {
@@ -16517,11 +11262,6 @@ data1 = {
         "meanings": ["Enemy", "Foe", "Opponent"],
         "readings_on": ["てき"],
         "readings_kun": ["かたき", "あだ", "かな.う"],
-        "wk_level": 21,
-        "wk_meanings": ["Enemy"],
-        "wk_readings_on": ["てき"],
-        "wk_readings_kun": ["!かな", "!かたき"],
-        "wk_radicals": ["Mohawk", "Winter"]
     },
 
 
@@ -16534,11 +11274,6 @@ data1 = {
         "meanings": ["Raise", "Plan", "Project", "Behavior", "Actions"],
         "readings_on": ["きょ"],
         "readings_kun": ["あ.げる", "あ.がる", "こぞ.る"],
-        "wk_level": 21,
-        "wk_meanings": ["Raise"],
-        "wk_readings_on": ["きょ"],
-        "wk_readings_kun": ["!あ"],
-        "wk_radicals": ["Grass", "Ground", "Fins", "Hand"]
     },
 
 
@@ -16552,11 +11287,6 @@ data1 = {
         "meanings": ["Faction", "Group", "Party", "Clique", "Sect", "School"],
         "readings_on": ["は"],
         "readings_kun": [],
-        "wk_level": 21,
-        "wk_meanings": ["Sect"],
-        "wk_readings_on": ["は"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tsunami", "Cliff", "Tofu"]
     },
     "岡": {
         "strokes": 8,
@@ -16567,11 +11297,6 @@ data1 = {
         "meanings": ["Mount", "Hill", "Knoll"],
         "readings_on": ["こう"],
         "readings_kun": ["おか"],
-        "wk_level": 21,
-        "wk_meanings": ["Hill"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["おか"],
-        "wk_radicals": ["Head", "Horns", "Ground", "Mountain"]
     },
     "素": {
         "strokes": 10,
@@ -16582,11 +11307,6 @@ data1 = {
         "meanings": ["Elementary", "Principle", "Naked", "Uncovered"],
         "readings_on": ["そ", "す"],
         "readings_kun": ["もと"],
-        "wk_level": 21,
-        "wk_meanings": ["Element"],
-        "wk_readings_on": ["^す", "そ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Life", "Thread"]
     },
 
     "評": {
@@ -16598,11 +11318,6 @@ data1 = {
         "meanings": ["Evaluate", "Criticism", "Comment"],
         "readings_on": ["ひょう"],
         "readings_kun": [],
-        "wk_level": 21,
-        "wk_meanings": ["Evaluate"],
-        "wk_readings_on": ["ひょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Say", "Peace"]
     },
     "批": {
         "strokes": 7,
@@ -16613,11 +11328,6 @@ data1 = {
         "meanings": ["Criticism", "Strike"],
         "readings_on": ["ひ"],
         "readings_kun": [],
-        "wk_level": 21,
-        "wk_meanings": ["Criticism"],
-        "wk_readings_on": ["ひ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Fingers", "Compare"]
     },
 
     "検": {
@@ -16629,11 +11339,6 @@ data1 = {
         "meanings": ["Examination", "Investigate"],
         "readings_on": ["けん"],
         "readings_kun": ["しら.べる"],
-        "wk_level": 21,
-        "wk_meanings": ["Examine"],
-        "wk_readings_on": ["けん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tree", "Squid"]
     },
     "審": {
         "strokes": 15,
@@ -16644,11 +11349,6 @@ data1 = {
         "meanings": ["Hearing", "Judge", "Trial"],
         "readings_on": ["しん"],
         "readings_kun": ["つまび.らか", "つぶさ.に"],
-        "wk_level": 21,
-        "wk_meanings": ["Judge"],
-        "wk_readings_on": ["しん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Roof", "Number"]
     },
     "条": {
         "strokes": 7,
@@ -16659,11 +11359,6 @@ data1 = {
         "meanings": ["Article", "Clause", "Item", "Stripe", "Streak"],
         "readings_on": ["じょう", "ちょう", "でき"],
         "readings_kun": ["えだ", "すじ"],
-        "wk_level": 21,
-        "wk_meanings": ["Clause"],
-        "wk_readings_on": ["じょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Winter", "Tree"]
     },
 
 
@@ -16677,11 +11372,6 @@ data1 = {
         "meanings": ["Undertake", "Scheme", "Design", "Attempt", "Plan"],
         "readings_on": ["き"],
         "readings_kun": ["くわだ.てる", "たくら.む"],
-        "wk_level": 21,
-        "wk_meanings": ["Plan"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": ["!くわだ"],
-        "wk_radicals": ["Hat", "Stop"]
     },
     "義": {
         "strokes": 13,
@@ -16692,11 +11382,6 @@ data1 = {
         "meanings": ["Righteousness", "Justice", "Morality", "Honor", "Loyalty", "Meaning"],
         "readings_on": ["ぎ"],
         "readings_kun": [],
-        "wk_level": 21,
-        "wk_meanings": ["Righteousness"],
-        "wk_readings_on": ["ぎ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Righteousness"]
     },
     "罰": {
         "strokes": 14,
@@ -16707,11 +11392,6 @@ data1 = {
         "meanings": ["Penalty", "Punishment"],
         "readings_on": ["ばつ", "ばち", "はつ"],
         "readings_kun": ["ばっ.する"],
-        "wk_level": 22,
-        "wk_meanings": ["Penalty", "^Punishment"],
-        "wk_readings_on": ["ばつ"],
-        "wk_readings_kun": ["!ばっ"],
-        "wk_radicals": ["Net", "Say", "Knife"]
     },
     "誕": {
         "strokes": 15,
@@ -16722,11 +11402,6 @@ data1 = {
         "meanings": ["Nativity", "Be Born", "Declension", "Lie", "Be Arbitrary"],
         "readings_on": ["たん"],
         "readings_kun": [],
-        "wk_level": 22,
-        "wk_meanings": ["Birth"],
-        "wk_readings_on": ["たん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Say", "Yoga", "Correct"]
     },
     "脱": {
         "strokes": 11,
@@ -16737,11 +11412,6 @@ data1 = {
         "meanings": ["Undress", "Removing", "Escape From", "Get Rid Of", "Be Left Out", "Take Off"],
         "readings_on": ["だつ"],
         "readings_kun": ["ぬ.ぐ", "ぬ.げる"],
-        "wk_level": 22,
-        "wk_meanings": ["Undress"],
-        "wk_readings_on": ["だつ"],
-        "wk_readings_kun": ["!ぬ"],
-        "wk_radicals": ["Moon", "Guard"]
     },
 
     "坊": {
@@ -16753,11 +11423,6 @@ data1 = {
         "meanings": ["Boy", "Priest's Residence", "Priest"],
         "readings_on": ["ぼう", "ぼっ"],
         "readings_kun": [],
-        "wk_level": 22,
-        "wk_meanings": ["Monk"],
-        "wk_readings_on": ["ぼう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Dirt", "Direction"]
     },
 
     "宮": {
@@ -16769,11 +11434,6 @@ data1 = {
         "meanings": ["Shinto Shrine", "Constellations", "Palace", "Princess"],
         "readings_on": ["きゅう", "ぐう", "く", "くう"],
         "readings_kun": ["みや"],
-        "wk_level": 22,
-        "wk_meanings": ["Shinto Shrine", "^Shrine", "^Palace"],
-        "wk_readings_on": ["!きゅう"],
-        "wk_readings_kun": ["みや"],
-        "wk_radicals": ["Roof", "Bathtub"]
     },
 
     "案": {
@@ -16785,11 +11445,6 @@ data1 = {
         "meanings": ["Plan", "Suggestion", "Draft", "Ponder", "Fear", "Proposition", "Idea", "Expectation", "Worry", "Table", "Bench"],
         "readings_on": ["あん"],
         "readings_kun": ["つくえ"],
-        "wk_level": 22,
-        "wk_meanings": ["Plan"],
-        "wk_readings_on": ["あん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Cheap", "Tree"]
     },
 
     "価": {
@@ -16801,11 +11456,6 @@ data1 = {
         "meanings": ["Value", "Price"],
         "readings_on": ["か", "け"],
         "readings_kun": ["あたい"],
-        "wk_level": 22,
-        "wk_meanings": ["Value"],
-        "wk_readings_on": ["か"],
-        "wk_readings_kun": ["!あたい"],
-        "wk_radicals": ["Leader", "Helicopter"]
     },
 
 
@@ -16818,11 +11468,6 @@ data1 = {
         "meanings": ["Overall", "Relationship", "Ruling", "Governing"],
         "readings_on": ["とう"],
         "readings_kun": ["す.べる", "ほび.る"],
-        "wk_level": 22,
-        "wk_meanings": ["Unite"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": ["!す"],
-        "wk_radicals": ["Thread", "Allocate"]
     },
 
     "策": {
@@ -16834,11 +11479,6 @@ data1 = {
         "meanings": ["Scheme", "Plan", "Policy", "Step", "Means"],
         "readings_on": ["さく"],
         "readings_kun": [],
-        "wk_level": 22,
-        "wk_meanings": ["Plan"],
-        "wk_readings_on": ["さく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Bamboo", "Tree", "Head"]
     },
     "藤": {
         "strokes": 18,
@@ -16849,11 +11489,6 @@ data1 = {
         "meanings": ["Wisteria"],
         "readings_on": ["とう", "どう"],
         "readings_kun": ["ふじ"],
-        "wk_level": 22,
-        "wk_meanings": ["Wisteria"],
-        "wk_readings_on": ["!とう", "!どう"],
-        "wk_readings_kun": ["ふじ"],
-        "wk_radicals": ["Flowers", "Moon", "Gladiator", "Water"]
     },
 
     "姿": {
@@ -16865,11 +11500,6 @@ data1 = {
         "meanings": ["Figure", "Form", "Shape"],
         "readings_on": ["し"],
         "readings_kun": ["すがた"],
-        "wk_level": 22,
-        "wk_meanings": ["Figure", "^Shape", "^Form"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!すがた"],
-        "wk_radicals": ["Next", "Woman"]
     },
     "応": {
         "strokes": 7,
@@ -16880,11 +11510,6 @@ data1 = {
         "meanings": ["Apply", "Answer", "Yes", "Ok", "Reply", "Accept"],
         "readings_on": ["おう", "よう", "-のう"],
         "readings_kun": ["あた.る", "まさに", "こた.える"],
-        "wk_level": 22,
-        "wk_meanings": ["Respond"],
-        "wk_readings_on": ["おう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Canopy", "Heart"]
     },
     "提": {
         "strokes": 12,
@@ -16895,11 +11520,6 @@ data1 = {
         "meanings": ["Propose", "Take Along", "Carry In Hand"],
         "readings_on": ["てい", "ちょう", "だい"],
         "readings_kun": ["さ.げる"],
-        "wk_level": 22,
-        "wk_meanings": ["Present", "^Submit"],
-        "wk_readings_on": ["てい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Fingers", "Sun", "Correct"]
     },
     "援": {
         "strokes": 12,
@@ -16910,11 +11530,6 @@ data1 = {
         "meanings": ["Abet", "Help", "Save"],
         "readings_on": ["えん"],
         "readings_kun": [],
-        "wk_level": 22,
-        "wk_meanings": ["Aid", "^Assist"],
-        "wk_readings_on": ["えん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Fingers", "Football"]
     },
 
     "態": {
@@ -16926,11 +11541,6 @@ data1 = {
         "meanings": ["Attitude", "Condition", "Figure", "Appearance", "Voice (of Verbs)"],
         "readings_on": ["たい"],
         "readings_kun": ["わざ.と"],
-        "wk_level": 22,
-        "wk_meanings": ["Appearance"],
-        "wk_readings_on": ["たい"],
-        "wk_readings_kun": ["!わざ"],
-        "wk_radicals": ["Ability", "Heart"]
     },
     "賀": {
         "strokes": 12,
@@ -16941,11 +11551,6 @@ data1 = {
         "meanings": ["Congratulations", "Joy"],
         "readings_on": ["が"],
         "readings_kun": [],
-        "wk_level": 22,
-        "wk_meanings": ["Congratulations"],
-        "wk_readings_on": ["が"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Power", "Mouth", "Shellfish"]
     },
 
 
@@ -16959,11 +11564,6 @@ data1 = {
         "meanings": ["Ghost", "Devil"],
         "readings_on": ["き"],
         "readings_kun": ["おに", "おに-"],
-        "wk_level": 23,
-        "wk_meanings": ["Demon"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": ["!おに"],
-        "wk_radicals": ["Demon"]
     },
 
     "護": {
@@ -16975,11 +11575,6 @@ data1 = {
         "meanings": ["Safeguard", "Protect"],
         "readings_on": ["ご"],
         "readings_kun": ["まも.る"],
-        "wk_level": 23,
-        "wk_meanings": ["Defend"],
-        "wk_readings_on": ["ご"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Say", "Flowers", "Turkey", "Stool"]
     },
 
     "裁": {
@@ -16991,11 +11586,6 @@ data1 = {
         "meanings": ["Tailor", "Judge", "Decision", "Cut Out (pattern)"],
         "readings_on": ["さい"],
         "readings_kun": ["た.つ", "さば.く"],
-        "wk_level": 23,
-        "wk_meanings": ["Judge"],
-        "wk_readings_on": ["さい"],
-        "wk_readings_kun": ["!さば", "!た"],
-        "wk_radicals": ["Cross", "Drunkard", "Clothes"]
     },
     "崎": {
         "strokes": 11,
@@ -17006,11 +11596,6 @@ data1 = {
         "meanings": ["Promontory", "Cape", "Spit"],
         "readings_on": ["き"],
         "readings_kun": ["さき", "さい", "みさき"],
-        "wk_level": 23,
-        "wk_meanings": ["Cape"],
-        "wk_readings_on": ["!き"],
-        "wk_readings_kun": ["さき"],
-        "wk_radicals": ["Mountain", "Big", "Lip Ring"]
     },
 
 
@@ -17024,11 +11609,6 @@ data1 = {
         "meanings": ["Watch Over", "See"],
         "readings_on": ["かん"],
         "readings_kun": ["み.る"],
-        "wk_level": 23,
-        "wk_meanings": ["Watch Over"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Hand", "Eye"]
     },
 
     "幹": {
@@ -17040,11 +11620,6 @@ data1 = {
         "meanings": ["Tree Trunk", "Main Part", "Talent", "Capability"],
         "readings_on": ["かん"],
         "readings_kun": ["みき"],
-        "wk_level": 23,
-        "wk_meanings": ["Tree Trunk"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": ["!みき"],
-        "wk_radicals": ["Morning", "Hat", "Dry"]
     },
     "張": {
         "strokes": 11,
@@ -17055,11 +11630,6 @@ data1 = {
         "meanings": ["Lengthen", "Counter For Bows & Stringed Instruments", "Stretch", "Spread", "Put Up (tent)"],
         "readings_on": ["ちょう"],
         "readings_kun": ["は.る", "-は.り", "-ば.り"],
-        "wk_level": 23,
-        "wk_meanings": ["Stretch"],
-        "wk_readings_on": ["ちょう"],
-        "wk_readings_kun": ["!は"],
-        "wk_radicals": ["Bow", "Long"]
     },
 
     "沢": {
@@ -17071,11 +11641,6 @@ data1 = {
         "meanings": ["Swamp", "Marsh", "Brilliance", "Grace"],
         "readings_on": ["たく"],
         "readings_kun": ["さわ", "うるお.い", "うるお.す", "つや"],
-        "wk_level": 23,
-        "wk_meanings": ["Swamp"],
-        "wk_readings_on": ["たく"],
-        "wk_readings_kun": ["!さわ"],
-        "wk_radicals": ["Tsunami", "Shrimp"]
     },
     "贅": {
         "strokes": 18,
@@ -17086,11 +11651,6 @@ data1 = {
         "meanings": ["Luxury"],
         "readings_on": ["せい"],
         "readings_kun": ["いぼ"],
-        "wk_level": 23,
-        "wk_meanings": ["Luxury"],
-        "wk_readings_on": ["ぜい"],
-        "wk_readings_kun": ["!いぼ"],
-        "wk_radicals": ["Dirt", "Direction", "Winter", "Shellfish"]
     },
     "施": {
         "strokes": 9,
@@ -17101,11 +11661,6 @@ data1 = {
         "meanings": ["Give", "Bestow", "Perform", "Alms"],
         "readings_on": ["し", "せ"],
         "readings_kun": ["ほどこ.す"],
-        "wk_level": 23,
-        "wk_meanings": ["Carry Out"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!ほどこ"],
-        "wk_radicals": ["Direction", "Gun", "Alligator"]
     },
 
 
@@ -17118,11 +11673,6 @@ data1 = {
         "meanings": ["Haiku", "Actor"],
         "readings_on": ["はい"],
         "readings_kun": [],
-        "wk_level": 23,
-        "wk_meanings": ["Haiku"],
-        "wk_readings_on": ["はい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Criminal"]
     },
     "秀": {
         "strokes": 7,
@@ -17133,11 +11683,6 @@ data1 = {
         "meanings": ["Excel", "Excellence", "Beauty", "Surpass"],
         "readings_on": ["しゅう"],
         "readings_kun": ["ひい.でる"],
-        "wk_level": 23,
-        "wk_meanings": ["Excel"],
-        "wk_readings_on": ["しゅう"],
-        "wk_readings_kun": ["!ひい"],
-        "wk_radicals": ["Grain", "Stairs"]
     },
 
     "製": {
@@ -17149,11 +11694,6 @@ data1 = {
         "meanings": ["Made In...", "Manufacture"],
         "readings_on": ["せい"],
         "readings_kun": [],
-        "wk_level": 24,
-        "wk_meanings": ["Manufacture"],
-        "wk_readings_on": ["せい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Control", "Clothes"]
     },
 
 
@@ -17166,11 +11706,6 @@ data1 = {
         "meanings": ["Cramped", "Narrow", "Contract", "Tight"],
         "readings_on": ["きょう", "こう"],
         "readings_kun": ["せま.い", "せば.める", "せば.まる", "さ"],
-        "wk_level": 24,
-        "wk_meanings": ["Narrow"],
-        "wk_readings_on": ["!きょう"],
-        "wk_readings_kun": ["せま", "せば"],
-        "wk_radicals": ["Animal", "Husband", "Horns"]
     },
 
     "載": {
@@ -17182,11 +11717,6 @@ data1 = {
         "meanings": ["Ride", "Board", "Get On", "Place", "Spread", "10**44", "Record", "Publish"],
         "readings_on": ["さい"],
         "readings_kun": ["の.せる", "の.る"],
-        "wk_level": 24,
-        "wk_meanings": ["Publish"],
-        "wk_readings_on": ["さい"],
-        "wk_readings_kun": ["!の"],
-        "wk_radicals": ["Cross", "Drunkard", "Car"]
     },
 
     "視": {
@@ -17198,11 +11728,6 @@ data1 = {
         "meanings": ["Inspection", "Regard As", "See", "Look At"],
         "readings_on": ["し"],
         "readings_kun": ["み.る"],
-        "wk_level": 24,
-        "wk_meanings": ["Look At"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Spirit", "See"]
     },
 
 
@@ -17215,11 +11740,6 @@ data1 = {
         "meanings": ["Ring", "Circle", "Link", "Wheel"],
         "readings_on": ["かん"],
         "readings_kun": ["わ"],
-        "wk_level": 24,
-        "wk_meanings": ["Loop"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["King", "Net", "Zombie"]
     },
 
 
@@ -17232,11 +11752,6 @@ data1 = {
         "meanings": ["Unfold", "Expand"],
         "readings_on": ["てん"],
         "readings_kun": [],
-        "wk_level": 24,
-        "wk_meanings": ["Expand"],
-        "wk_readings_on": ["てん"],
-        "wk_readings_kun": ["!のぶ", "!のび"],
-        "wk_radicals": ["Flag", "Blackjack", "Kick"]
     },
 
     "株": {
@@ -17248,11 +11763,6 @@ data1 = {
         "meanings": ["Stocks", "Stump", "Shares", "Stock", "Counter For Small Plants"],
         "readings_on": ["しゅ"],
         "readings_kun": ["かぶ"],
-        "wk_level": 24,
-        "wk_meanings": ["Stocks", "^Shares"],
-        "wk_readings_on": ["!しゅ"],
-        "wk_readings_kun": ["かぶ"],
-        "wk_radicals": ["Tree", "Slide", "Jet"]
     },
 
 
@@ -17265,11 +11775,6 @@ data1 = {
         "meanings": ["Shadow", "Silhouette", "Phantom"],
         "readings_on": ["えい"],
         "readings_kun": ["かげ"],
-        "wk_level": 25,
-        "wk_meanings": ["Shadow"],
-        "wk_readings_on": ["えい"],
-        "wk_readings_kun": ["!かげ"],
-        "wk_radicals": ["Sun", "Capital", "Hair"]
     },
 
 
@@ -17282,11 +11787,6 @@ data1 = {
         "meanings": ["Echo", "Sound", "Resound", "Ring", "Vibrate"],
         "readings_on": ["きょう"],
         "readings_kun": ["ひび.く"],
-        "wk_level": 25,
-        "wk_meanings": ["Echo", "^Reverberation", "^Resound"],
-        "wk_readings_on": ["きょう"],
-        "wk_readings_kun": ["!ひび"],
-        "wk_radicals": ["Poop", "Root", "Building", "Sound"]
     },
     "票": {
         "strokes": 11,
@@ -17297,11 +11797,6 @@ data1 = {
         "meanings": ["Ballot", "Label", "Ticket", "Sign"],
         "readings_on": ["ひょう"],
         "readings_kun": [],
-        "wk_level": 25,
-        "wk_meanings": ["Ballot"],
-        "wk_readings_on": ["ひょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Helicopter", "Jackhammer"]
     },
 
     "訴": {
@@ -17313,11 +11808,6 @@ data1 = {
         "meanings": ["Accusation", "Sue", "Complain Of Pain", "Appeal To"],
         "readings_on": ["そ"],
         "readings_kun": ["うった.える"],
-        "wk_level": 25,
-        "wk_meanings": ["Sue"],
-        "wk_readings_on": ["そ"],
-        "wk_readings_kun": ["!うった"],
-        "wk_radicals": ["Say", "Axe", "Drop"]
     },
     "訟": {
         "strokes": 11,
@@ -17328,11 +11818,6 @@ data1 = {
         "meanings": ["Sue", "Accuse"],
         "readings_on": ["しょう"],
         "readings_kun": [],
-        "wk_level": 25,
-        "wk_meanings": ["Lawsuit"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Say", "Public"]
     },
     "逮": {
         "strokes": 11,
@@ -17343,11 +11828,6 @@ data1 = {
         "meanings": ["Apprehend", "Chase"],
         "readings_on": ["たい"],
         "readings_kun": [],
-        "wk_level": 25,
-        "wk_meanings": ["Apprehend"],
-        "wk_readings_on": ["たい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Scooter", "Brush", "Water"]
     },
 
 
@@ -17360,11 +11840,6 @@ data1 = {
         "meanings": ["Imitation", "Copy", "Mock"],
         "readings_on": ["も", "ぼ"],
         "readings_kun": [],
-        "wk_level": 25,
-        "wk_meanings": ["Imitation"],
-        "wk_readings_on": ["も", "ぼ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tree", "Greenhouse"]
     },
     "鮮": {
         "strokes": 17,
@@ -17375,11 +11850,6 @@ data1 = {
         "meanings": ["Fresh", "Vivid", "Clear", "Brilliant", "Korea"],
         "readings_on": ["せん"],
         "readings_kun": ["あざ.やか"],
-        "wk_level": 25,
-        "wk_meanings": ["Fresh"],
-        "wk_readings_on": ["せん"],
-        "wk_readings_kun": ["!あざ"],
-        "wk_radicals": ["Sheep", "Fish"]
     },
 
     "属": {
@@ -17391,11 +11861,6 @@ data1 = {
         "meanings": ["Belong", "Genus", "Subordinate Official", "Affiliated"],
         "readings_on": ["ぞく", "しょく"],
         "readings_kun": ["さかん", "つく", "やから"],
-        "wk_level": 25,
-        "wk_meanings": ["Belong"],
-        "wk_readings_on": ["ぞく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Flag", "Mantis"]
     },
 
 
@@ -17409,11 +11874,6 @@ data1 = {
         "meanings": ["Fertilizer", "Get Fat", "Fertile", "Manure", "Pamper"],
         "readings_on": ["ひ"],
         "readings_kun": ["こ.える", "こえ", "こ.やす", "こ.やし", "ふと.る"],
-        "wk_level": 25,
-        "wk_meanings": ["Obese"],
-        "wk_readings_on": ["ひ"],
-        "wk_readings_kun": ["!こ", "!こえ"],
-        "wk_radicals": ["Moon", "Bed"]
     },
 
     "絞": {
@@ -17425,11 +11885,6 @@ data1 = {
         "meanings": ["Strangle", "Constrict", "Wring"],
         "readings_on": ["こう"],
         "readings_kun": ["しぼ.る", "し.める", "し.まる"],
-        "wk_level": 25,
-        "wk_meanings": ["Strangle"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!し", "!しぼ"],
-        "wk_radicals": ["Thread", "Mix"]
     },
     "輩": {
         "strokes": 15,
@@ -17440,11 +11895,6 @@ data1 = {
         "meanings": ["Comrade", "Fellow", "People", "Companions"],
         "readings_on": ["はい"],
         "readings_kun": ["-ばら", "やから", "やかい", "ともがら"],
-        "wk_level": 25,
-        "wk_meanings": ["Comrade"],
-        "wk_readings_on": ["はい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Criminal", "Car"]
     },
     "隠": {
         "strokes": 14,
@@ -17455,11 +11905,6 @@ data1 = {
         "meanings": ["Conceal", "Hide", "Cover"],
         "readings_on": ["いん", "おん"],
         "readings_kun": ["かく.す", "かく.し", "かく.れる", "かか.す", "よ.る"],
-        "wk_level": 25,
-        "wk_meanings": ["Hide"],
-        "wk_readings_on": ["いん"],
-        "wk_readings_kun": ["!かく"],
-        "wk_radicals": ["Building", "Cleat", "Wolverine", "Heart"]
     },
 
 
@@ -17472,11 +11917,6 @@ data1 = {
         "meanings": ["Impart", "Instruct", "Grant", "Confer"],
         "readings_on": ["じゅ"],
         "readings_kun": ["さず.ける", "さず.かる"],
-        "wk_level": 26,
-        "wk_meanings": ["Instruct"],
-        "wk_readings_on": ["じゅ"],
-        "wk_readings_kun": ["!さず"],
-        "wk_radicals": ["Fingers", "Accept"]
     },
 
     "創": {
@@ -17488,11 +11928,6 @@ data1 = {
         "meanings": ["Genesis", "Wound", "Injury", "Hurt", "Start", "Originate"],
         "readings_on": ["そう", "しょう"],
         "readings_kun": ["つく.る", "はじ.める", "きず", "けず.しける"],
-        "wk_level": 26,
-        "wk_meanings": ["Create"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Warehouse", "Knife"]
     },
 
     "往": {
@@ -17504,11 +11939,6 @@ data1 = {
         "meanings": ["Journey", "Travel", "Chase Away", "Let Go", "Going", "Before", "Formerly"],
         "readings_on": ["おう"],
         "readings_kun": ["い.く", "いにしえ", "さき.に", "ゆ.く"],
-        "wk_level": 26,
-        "wk_meanings": ["Depart"],
-        "wk_readings_on": ["おう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Loiter", "Master"]
     },
     "較": {
         "strokes": 13,
@@ -17519,11 +11949,6 @@ data1 = {
         "meanings": ["Contrast", "Compare"],
         "readings_on": ["かく", "こう"],
         "readings_kun": ["くら.べる"],
-        "wk_level": 26,
-        "wk_meanings": ["Contrast", "^Compare"],
-        "wk_readings_on": ["かく", "こう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Car", "Mix"]
     },
 
     "鉛": {
@@ -17535,11 +11960,6 @@ data1 = {
         "meanings": ["Lead"],
         "readings_on": ["えん"],
         "readings_kun": ["なまり"],
-        "wk_level": 26,
-        "wk_meanings": ["Lead"],
-        "wk_readings_on": ["えん"],
-        "wk_readings_kun": ["!なまり"],
-        "wk_radicals": ["Gold", "Fins", "Mouth"]
     },
     "故": {
         "strokes": 9,
@@ -17550,11 +11970,6 @@ data1 = {
         "meanings": ["Happenstance", "Especially", "Intentionally", "Reason", "Cause", "Circumstances", "The Late", "Therefore", "Consequently"],
         "readings_on": ["こ"],
         "readings_kun": ["ゆえ", "ふる.い", "もと"],
-        "wk_level": 26,
-        "wk_meanings": ["Circumstance", "^Reason"],
-        "wk_readings_on": ["こ"],
-        "wk_readings_kun": ["!ゆえ"],
-        "wk_radicals": ["Old", "Winter"]
     },
     "障": {
         "strokes": 14,
@@ -17565,11 +11980,6 @@ data1 = {
         "meanings": ["Hinder", "Hurt", "Harm"],
         "readings_on": ["しょう"],
         "readings_kun": ["さわ.る"],
-        "wk_level": 26,
-        "wk_meanings": ["Hinder"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!さわ"],
-        "wk_radicals": ["Building", "Chapter"]
     },
     "従": {
         "strokes": 10,
@@ -17580,11 +11990,6 @@ data1 = {
         "meanings": ["Accompany", "Obey", "Submit To", "Comply", "Follow", "Secondary", "Incidental", "Subordinate"],
         "readings_on": ["じゅう", "しょう", "じゅ"],
         "readings_kun": ["したが.う", "したが.える", "より"],
-        "wk_level": 26,
-        "wk_meanings": ["Obey", "^Accompany", "^Follow"],
-        "wk_readings_on": ["じゅう"],
-        "wk_readings_kun": ["!したが"],
-        "wk_radicals": ["Loiter", "Horns", "Correct"]
     },
     "我": {
         "strokes": 7,
@@ -17595,11 +12000,6 @@ data1 = {
         "meanings": ["Ego", "I", "Selfish", "Our", "Oneself"],
         "readings_on": ["が"],
         "readings_kun": ["われ", "わ", "わ.が-", "わが-"],
-        "wk_level": 26,
-        "wk_meanings": ["I", "^Me"],
-        "wk_readings_on": ["が"],
-        "wk_readings_kun": ["!われ"],
-        "wk_radicals": ["Ego"]
     },
     "激": {
         "strokes": 16,
@@ -17610,11 +12010,6 @@ data1 = {
         "meanings": ["Violent", "Get Excited", "Enraged", "Chafe", "Incite"],
         "readings_on": ["げき"],
         "readings_kun": ["はげ.しい"],
-        "wk_level": 26,
-        "wk_meanings": ["Fierce", "^Violent"],
-        "wk_readings_on": ["げき"],
-        "wk_readings_kun": ["!はげ"],
-        "wk_radicals": ["Tsunami", "White", "Direction", "Winter"]
     },
 
     "励": {
@@ -17626,11 +12021,6 @@ data1 = {
         "meanings": ["Encourage", "Be Diligent", "Inspire"],
         "readings_on": ["れい"],
         "readings_kun": ["はげ.む", "はげ.ます"],
-        "wk_level": 26,
-        "wk_meanings": ["Encourage"],
-        "wk_readings_on": ["れい"],
-        "wk_readings_kun": ["!はげ"],
-        "wk_radicals": ["Cliff", "Ten Thousand", "Power"]
     },
     "討": {
         "strokes": 10,
@@ -17641,11 +12031,6 @@ data1 = {
         "meanings": ["Chastise", "Attack", "Defeat", "Destroy", "Conquer"],
         "readings_on": ["とう"],
         "readings_kun": ["う.つ"],
-        "wk_level": 26,
-        "wk_meanings": ["Chastise"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Say", "Measurement"]
     },
 
     "徴": {
@@ -17657,11 +12042,6 @@ data1 = {
         "meanings": ["Indications", "Sign", "Omen", "Symptom", "Collect", "Seek", "Refer To", "Question"],
         "readings_on": ["ちょう", "ち"],
         "readings_kun": ["しるし"],
-        "wk_level": 26,
-        "wk_meanings": ["Indication", "^Sign"],
-        "wk_readings_on": ["ちょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Loiter", "Mountain", "King", "Winter"]
     },
     "怪": {
         "strokes": 8,
@@ -17672,11 +12052,6 @@ data1 = {
         "meanings": ["Suspicious", "Mystery", "Apparition"],
         "readings_on": ["かい", "け"],
         "readings_kun": ["あや.しい", "あや.しむ"],
-        "wk_level": 26,
-        "wk_meanings": ["Suspicious"],
-        "wk_readings_on": ["かい", "け"],
-        "wk_readings_kun": ["!あや"],
-        "wk_radicals": ["Soul", "Tombstone"]
     },
     "獣": {
         "strokes": 16,
@@ -17687,11 +12062,6 @@ data1 = {
         "meanings": ["Animal", "Beast"],
         "readings_on": ["じゅう"],
         "readings_kun": ["けもの", "けだもの"],
-        "wk_level": 26,
-        "wk_meanings": ["Beast", "^Animal"],
-        "wk_readings_on": ["じゅう"],
-        "wk_readings_kun": ["!けもの"],
-        "wk_radicals": ["Grass", "Rice Paddy", "Creeper", "Dog"]
     },
 
 
@@ -17704,11 +12074,6 @@ data1 = {
         "meanings": ["Shake", "Wave", "Wag", "Swing"],
         "readings_on": ["しん"],
         "readings_kun": ["ふ.る", "ぶ.る", "ふ.り", "-ぶ.り", "ふ.るう"],
-        "wk_level": 26,
-        "wk_meanings": ["Shake", "^Wave"],
-        "wk_readings_on": ["しん"],
-        "wk_readings_kun": ["!ふ"],
-        "wk_radicals": ["Fingers", "Landslide"]
     },
 
     "豚": {
@@ -17720,11 +12085,6 @@ data1 = {
         "meanings": ["Pork", "Pig"],
         "readings_on": ["とん"],
         "readings_kun": ["ぶた"],
-        "wk_level": 26,
-        "wk_meanings": ["Pork", "^Pig"],
-        "wk_readings_on": ["!とん"],
-        "wk_readings_kun": ["ぶた"],
-        "wk_radicals": ["Moon", "Pig"]
     },
 
     "独": {
@@ -17736,11 +12096,6 @@ data1 = {
         "meanings": ["Single", "Alone", "Spontaneously", "Germany"],
         "readings_on": ["どく", "とく"],
         "readings_kun": ["ひと.り"],
-        "wk_level": 26,
-        "wk_meanings": ["Alone"],
-        "wk_readings_on": ["どく"],
-        "wk_readings_kun": ["!ひと"],
-        "wk_radicals": ["Animal", "Insect"]
     },
 
 
@@ -17753,11 +12108,6 @@ data1 = {
         "meanings": ["Yield", "Bend", "Flinch", "Submit"],
         "readings_on": ["くつ"],
         "readings_kun": ["かが.む", "かが.める"],
-        "wk_level": 27,
-        "wk_meanings": ["Yield"],
-        "wk_readings_on": ["くつ"],
-        "wk_readings_kun": ["!かが"],
-        "wk_radicals": ["Flag", "Exit"]
     },
 
     "暇": {
@@ -17769,11 +12119,6 @@ data1 = {
         "meanings": ["Spare Time", "Rest", "Leisure", "Time", "Leave Of Absence"],
         "readings_on": ["か"],
         "readings_kun": ["ひま", "いとま"],
-        "wk_level": 27,
-        "wk_meanings": ["Spare Time", "^Free Time"],
-        "wk_readings_on": ["か"],
-        "wk_readings_kun": ["!ひま", "!いとま"],
-        "wk_radicals": ["Sun", "Comb", "Cage", "Stool"]
     },
     "織": {
         "strokes": 18,
@@ -17784,11 +12129,6 @@ data1 = {
         "meanings": ["Weave", "Fabric"],
         "readings_on": ["しょく", "しき"],
         "readings_kun": ["お.る", "お.り", "おり", "-おり", "-お.り"],
-        "wk_level": 27,
-        "wk_meanings": ["Weave"],
-        "wk_readings_on": ["しき", "しょく"],
-        "wk_readings_kun": ["!お"],
-        "wk_radicals": ["Thread", "Sound", "Drunkard"]
     },
 
     "惑": {
@@ -17800,11 +12140,6 @@ data1 = {
         "meanings": ["Beguile", "Delusion", "Perplexity"],
         "readings_on": ["わく"],
         "readings_kun": ["まど.う"],
-        "wk_level": 27,
-        "wk_meanings": ["Misguided"],
-        "wk_readings_on": ["わく"],
-        "wk_readings_kun": ["!まど"],
-        "wk_radicals": ["Drunkard", "Mouth", "Ground", "Heart"]
     },
     "誘": {
         "strokes": 14,
@@ -17815,11 +12150,6 @@ data1 = {
         "meanings": ["Entice", "Lead", "Tempt", "Invite", "Ask", "Call For", "Seduce", "Allure"],
         "readings_on": ["ゆう"],
         "readings_kun": ["さそ.う", "いざな.う"],
-        "wk_level": 27,
-        "wk_meanings": ["Invite"],
-        "wk_readings_on": ["ゆう"],
-        "wk_readings_kun": ["!さそ"],
-        "wk_radicals": ["Say", "Grain", "Stairs"]
     },
     "就": {
         "strokes": 12,
@@ -17830,11 +12160,6 @@ data1 = {
         "meanings": ["Concerning", "Settle", "Take Position", "Depart", "Study", "Per"],
         "readings_on": ["しゅう", "じゅ"],
         "readings_kun": ["つ.く", "つ.ける"],
-        "wk_level": 27,
-        "wk_meanings": ["Settle In"],
-        "wk_readings_on": ["しゅう"],
-        "wk_readings_kun": ["!つ"],
-        "wk_radicals": ["Capital", "Dog"]
     },
 
     "睡": {
@@ -17846,11 +12171,6 @@ data1 = {
         "meanings": ["Drowsy", "Sleep", "Die"],
         "readings_on": ["すい"],
         "readings_kun": ["ねむ.る", "ねむ.い"],
-        "wk_level": 27,
-        "wk_meanings": ["Drowsy"],
-        "wk_readings_on": ["すい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Eye", "Car"]
     },
     "症": {
         "strokes": 10,
@@ -17861,11 +12181,6 @@ data1 = {
         "meanings": ["Symptoms", "Illness"],
         "readings_on": ["しょう"],
         "readings_kun": [],
-        "wk_level": 27,
-        "wk_meanings": ["Symptom"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Sick", "Correct"]
     },
     "締": {
         "strokes": 15,
@@ -17876,11 +12191,6 @@ data1 = {
         "meanings": ["Tighten", "Tie", "Shut", "Lock", "Fasten"],
         "readings_on": ["てい"],
         "readings_kun": ["し.まる", "し.まり", "し.める", "-し.め", "-じ.め"],
-        "wk_level": 27,
-        "wk_meanings": ["Tighten"],
-        "wk_readings_on": ["てい"],
-        "wk_readings_kun": ["!し"],
-        "wk_radicals": ["Thread", "Stand", "Towel"]
     },
     "迫": {
         "strokes": 8,
@@ -17891,11 +12201,6 @@ data1 = {
         "meanings": ["Urge", "Force", "Imminent", "Spur On"],
         "readings_on": ["はく"],
         "readings_kun": ["せま.る"],
-        "wk_level": 27,
-        "wk_meanings": ["Urge", "^Compel", "^Coerce"],
-        "wk_readings_on": ["はく"],
-        "wk_readings_kun": ["!せま"],
-        "wk_radicals": ["Scooter", "White"]
     },
 
 
@@ -17908,11 +12213,6 @@ data1 = {
         "meanings": ["Edge", "Origin", "End", "Point", "Border", "Verge", "Cape"],
         "readings_on": ["たん"],
         "readings_kun": ["はし", "は", "はた", "-ばた", "はな"],
-        "wk_level": 27,
-        "wk_meanings": ["Edge"],
-        "wk_readings_on": ["たん"],
-        "wk_readings_kun": ["!はし", "!はた"],
-        "wk_radicals": ["Stand", "Mountain", "Rake"]
     },
 
 
@@ -17925,11 +12225,6 @@ data1 = {
         "meanings": ["Healthy", "Health", "Strength", "Persistence"],
         "readings_on": ["けん"],
         "readings_kun": ["すこ.やか"],
-        "wk_level": 27,
-        "wk_meanings": ["Healthy"],
-        "wk_readings_on": ["けん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Yoga", "Brush"]
     },
     "康": {
         "strokes": 11,
@@ -17940,11 +12235,6 @@ data1 = {
         "meanings": ["Ease", "Peace"],
         "readings_on": ["こう"],
         "readings_kun": [],
-        "wk_level": 27,
-        "wk_meanings": ["Ease", "^Peace"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Canopy", "Brush", "Water"]
     },
     "郎": {
         "strokes": 9,
@@ -17955,11 +12245,6 @@ data1 = {
         "meanings": ["Son", "Counter For Sons"],
         "readings_on": ["ろう", "りょう"],
         "readings_kun": ["おとこ"],
-        "wk_level": 27,
-        "wk_meanings": ["Guy"],
-        "wk_readings_on": ["ろう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Good", "Building"]
     },
 
 
@@ -17972,11 +12257,6 @@ data1 = {
         "meanings": ["Immature", "Young"],
         "readings_on": ["ち", "じ"],
         "readings_kun": ["いとけない", "おさない", "おくて", "おでる"],
-        "wk_level": 28,
-        "wk_meanings": ["Immature"],
-        "wk_readings_on": ["ち"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Grain", "Turkey"]
     },
 
     "博": {
@@ -17988,11 +12268,6 @@ data1 = {
         "meanings": ["Dr.", "Command", "Esteem", "Win Acclaim", "Ph.d.", "Exposition", "Fair"],
         "readings_on": ["はく", "ばく"],
         "readings_kun": [],
-        "wk_level": 28,
-        "wk_meanings": ["Exhibition", "^Gambling"],
-        "wk_readings_on": ["はく", "ばく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Cross", "Specialty"]
     },
 
     "潔": {
@@ -18004,11 +12279,6 @@ data1 = {
         "meanings": ["Undefiled", "Pure", "Clean", "Righteous", "Gallant"],
         "readings_on": ["けつ"],
         "readings_kun": ["いさぎよ.い"],
-        "wk_level": 28,
-        "wk_meanings": ["Pure"],
-        "wk_readings_on": ["けつ"],
-        "wk_readings_kun": ["!いさぎよ"],
-        "wk_radicals": ["Tsunami", "Life", "Sword", "Thread"]
     },
 
     "隊": {
@@ -18020,11 +12290,6 @@ data1 = {
         "meanings": ["Regiment", "Party", "Company", "Squad"],
         "readings_on": ["たい"],
         "readings_kun": [],
-        "wk_level": 28,
-        "wk_meanings": ["Squad"],
-        "wk_readings_on": ["たい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Building", "Horns", "Pig"]
     },
     "修": {
         "strokes": 10,
@@ -18035,11 +12300,6 @@ data1 = {
         "meanings": ["Discipline", "Conduct Oneself Well", "Study", "Master"],
         "readings_on": ["しゅう", "しゅ"],
         "readings_kun": ["おさ.める", "おさ.まる"],
-        "wk_level": 28,
-        "wk_meanings": ["Discipline"],
-        "wk_readings_on": ["しゅう"],
-        "wk_readings_kun": ["!おさ"],
-        "wk_radicals": ["Leader", "Stick", "Winter", "Hair"]
     },
 
 
@@ -18052,11 +12312,6 @@ data1 = {
         "meanings": ["Strange", "Strangeness", "Curiosity"],
         "readings_on": ["き"],
         "readings_kun": ["く.しき", "あや.しい", "くし", "めずら.しい"],
-        "wk_level": 28,
-        "wk_meanings": ["Odd", "^Strange"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Odd"]
     },
     "妙": {
         "strokes": 7,
@@ -18067,11 +12322,6 @@ data1 = {
         "meanings": ["Exquisite", "Strange", "Queer", "Mystery", "Miracle", "Excellent", "Delicate", "Charming"],
         "readings_on": ["みょう", "びょう"],
         "readings_kun": ["たえ"],
-        "wk_level": 28,
-        "wk_meanings": ["Strange"],
-        "wk_readings_on": ["みょう"],
-        "wk_readings_kun": ["!たえ"],
-        "wk_radicals": ["Woman", "Few"]
     },
     "麗": {
         "strokes": 19,
@@ -18082,11 +12332,6 @@ data1 = {
         "meanings": ["Lovely", "Beautiful", "Graceful", "Resplendent"],
         "readings_on": ["れい"],
         "readings_kun": ["うるわ.しい", "うら.らか"],
-        "wk_level": 28,
-        "wk_meanings": ["Lovely"],
-        "wk_readings_on": ["れい"],
-        "wk_readings_kun": ["!うるわ"],
-        "wk_radicals": ["Lovely"]
     },
     "微": {
         "strokes": 13,
@@ -18097,11 +12342,6 @@ data1 = {
         "meanings": ["Delicate", "Minuteness", "Insignificance"],
         "readings_on": ["び"],
         "readings_kun": ["かす.か"],
-        "wk_level": 28,
-        "wk_meanings": ["Delicate"],
-        "wk_readings_on": ["び"],
-        "wk_readings_kun": ["!かす"],
-        "wk_radicals": ["Loiter", "Mountain", "Pi", "Winter"]
     },
     "益": {
         "strokes": 10,
@@ -18112,11 +12352,6 @@ data1 = {
         "meanings": ["Benefit", "Gain", "Profit", "Advantage"],
         "readings_on": ["えき", "やく"],
         "readings_kun": ["ま.す"],
-        "wk_level": 28,
-        "wk_meanings": ["Benefit"],
-        "wk_readings_on": ["えき"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Horns", "Ground", "Fins", "Plate"]
     },
 
     "憲": {
@@ -18128,11 +12363,6 @@ data1 = {
         "meanings": ["Constitution", "Law"],
         "readings_on": ["けん"],
         "readings_kun": [],
-        "wk_level": 28,
-        "wk_meanings": ["Constitution"],
-        "wk_readings_on": ["けん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Roof", "Life", "Net", "Heart"]
     },
     "衆": {
         "strokes": 12,
@@ -18143,11 +12373,6 @@ data1 = {
         "meanings": ["Masses", "Great Numbers", "Multitude", "Populace"],
         "readings_on": ["しゅう", "しゅ"],
         "readings_kun": ["おお.い"],
-        "wk_level": 28,
-        "wk_meanings": ["Populace"],
-        "wk_readings_on": ["しゅう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Blood", "Hair", "Tofu"]
     },
     "傘": {
         "strokes": 12,
@@ -18158,11 +12383,6 @@ data1 = {
         "meanings": ["Umbrella"],
         "readings_on": ["さん"],
         "readings_kun": ["かさ"],
-        "wk_level": 28,
-        "wk_meanings": ["Umbrella"],
-        "wk_readings_on": ["!さん"],
-        "wk_readings_kun": ["かさ"],
-        "wk_radicals": ["Hat", "Person", "Cross"]
     },
     "浜": {
         "strokes": 10,
@@ -18173,11 +12393,6 @@ data1 = {
         "meanings": ["Seacoast", "Beach", "Seashore"],
         "readings_on": ["ひん"],
         "readings_kun": ["はま"],
-        "wk_level": 28,
-        "wk_meanings": ["Beach"],
-        "wk_readings_on": ["!ひん"],
-        "wk_readings_kun": ["はま"],
-        "wk_radicals": ["Tsunami", "Axe", "Ground", "Fins"]
     },
     "撃": {
         "strokes": 15,
@@ -18188,11 +12403,6 @@ data1 = {
         "meanings": ["Beat", "Attack", "Defeat", "Conquer"],
         "readings_on": ["げき"],
         "readings_kun": ["う.つ"],
-        "wk_level": 28,
-        "wk_meanings": ["Attack"],
-        "wk_readings_on": ["げき"],
-        "wk_readings_kun": ["!う"],
-        "wk_radicals": ["Car", "Weapon", "Hand"]
     },
     "攻": {
         "strokes": 7,
@@ -18203,11 +12413,6 @@ data1 = {
         "meanings": ["Aggression", "Attack", "Criticize", "Polish"],
         "readings_on": ["こう"],
         "readings_kun": ["せ.める"],
-        "wk_level": 28,
-        "wk_meanings": ["Aggression"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!せ"],
-        "wk_radicals": ["Construction", "Winter"]
     },
     "監": {
         "strokes": 15,
@@ -18218,11 +12423,6 @@ data1 = {
         "meanings": ["Oversee", "Official", "Govt Office", "Rule", "Administer"],
         "readings_on": ["かん"],
         "readings_kun": [],
-        "wk_level": 29,
-        "wk_meanings": ["Oversee"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Servant", "Gun", "Ground", "Plate"]
     },
 
     "催": {
@@ -18234,11 +12434,6 @@ data1 = {
         "meanings": ["Sponsor", "Hold (a Meeting)", "Give (a Dinner)"],
         "readings_on": ["さい"],
         "readings_kun": ["もよう.す", "もよお.す"],
-        "wk_level": 29,
-        "wk_meanings": ["Sponsor"],
-        "wk_readings_on": ["さい"],
-        "wk_readings_kun": ["!もよお"],
-        "wk_radicals": ["Leader", "Mountain", "Turkey"]
     },
     "促": {
         "strokes": 9,
@@ -18249,11 +12444,6 @@ data1 = {
         "meanings": ["Stimulate", "Urge", "Press", "Demand", "Incite"],
         "readings_on": ["そく"],
         "readings_kun": ["うなが.す"],
-        "wk_level": 29,
-        "wk_meanings": ["Urge"],
-        "wk_readings_on": ["そく"],
-        "wk_readings_kun": ["!うなが"],
-        "wk_radicals": ["Leader", "Foot"]
     },
 
     "江": {
@@ -18265,11 +12455,6 @@ data1 = {
         "meanings": ["Creek", "Inlet", "Bay"],
         "readings_on": ["こう"],
         "readings_kun": ["え"],
-        "wk_level": 29,
-        "wk_meanings": ["Inlet", "^Bay"],
-        "wk_readings_on": ["!こう"],
-        "wk_readings_kun": ["え"],
-        "wk_radicals": ["Tsunami", "Construction"]
     },
     "請": {
         "strokes": 15,
@@ -18280,11 +12465,6 @@ data1 = {
         "meanings": ["Solicit", "Invite", "Ask"],
         "readings_on": ["せい", "しん", "しょう"],
         "readings_kun": ["こ.う", "う.ける"],
-        "wk_level": 29,
-        "wk_meanings": ["Request"],
-        "wk_readings_on": ["せい", "しん", "しょう"],
-        "wk_readings_kun": ["!う", "!こ"],
-        "wk_radicals": ["Say", "Blue"]
     },
     "雄": {
         "strokes": 12,
@@ -18295,11 +12475,6 @@ data1 = {
         "meanings": ["Masculine", "Male", "Hero", "Leader", "Superiority", "Excellence"],
         "readings_on": ["ゆう"],
         "readings_kun": ["お-", "おす", "おん"],
-        "wk_level": 29,
-        "wk_meanings": ["Male", "^Brave"],
-        "wk_readings_on": ["ゆう"],
-        "wk_readings_kun": ["!おす"],
-        "wk_radicals": ["Narwhal", "Private", "Turkey"]
     },
     "韓": {
         "strokes": 18,
@@ -18310,11 +12485,6 @@ data1 = {
         "meanings": ["Korea"],
         "readings_on": ["かん"],
         "readings_kun": ["から", "いげた"],
-        "wk_level": 29,
-        "wk_meanings": ["Korea"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Korea", "Morning"]
     },
     "壊": {
         "strokes": 16,
@@ -18325,11 +12495,6 @@ data1 = {
         "meanings": ["Demolition", "Break", "Destroy"],
         "readings_on": ["かい", "え"],
         "readings_kun": ["こわ.す", "こわ.れる", "やぶ.る"],
-        "wk_level": 29,
-        "wk_meanings": ["Break"],
-        "wk_readings_on": ["かい"],
-        "wk_readings_kun": ["!こわ"],
-        "wk_radicals": ["Dirt", "Cross", "Net", "Clothes"]
     },
     "診": {
         "strokes": 12,
@@ -18340,11 +12505,6 @@ data1 = {
         "meanings": ["Checkup", "Seeing", "Diagnose", "Examine"],
         "readings_on": ["しん"],
         "readings_kun": ["み.る"],
-        "wk_level": 29,
-        "wk_meanings": ["Diagnose"],
-        "wk_readings_on": ["しん"],
-        "wk_readings_kun": ["!み"],
-        "wk_radicals": ["Say", "Hat", "Hair"]
     },
     "閣": {
         "strokes": 14,
@@ -18355,11 +12515,6 @@ data1 = {
         "meanings": ["Tower", "Tall Building", "Palace"],
         "readings_on": ["かく"],
         "readings_kun": [],
-        "wk_level": 29,
-        "wk_meanings": ["The Cabinet", "^Cabinet"],
-        "wk_readings_on": ["かく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Gate", "Kiss"]
     },
     "僚": {
         "strokes": 14,
@@ -18370,11 +12525,6 @@ data1 = {
         "meanings": ["Colleague", "Official", "Companion"],
         "readings_on": ["りょう"],
         "readings_kun": [],
-        "wk_level": 29,
-        "wk_meanings": ["Colleague"],
-        "wk_readings_on": ["りょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Charcoal"]
     },
 
     "督": {
@@ -18386,11 +12536,6 @@ data1 = {
         "meanings": ["Coach", "Command", "Urge", "Lead", "Supervise"],
         "readings_on": ["とく"],
         "readings_kun": [],
-        "wk_level": 29,
-        "wk_meanings": ["Coach"],
-        "wk_readings_on": ["とく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Above", "Small", "Stool", "Eye"]
     },
 
     "街": {
@@ -18402,11 +12547,6 @@ data1 = {
         "meanings": ["Boulevard", "Street", "Town"],
         "readings_on": ["がい", "かい"],
         "readings_kun": ["まち"],
-        "wk_level": 29,
-        "wk_meanings": ["Street"],
-        "wk_readings_on": ["がい", "^かい"],
-        "wk_readings_kun": ["!まち"],
-        "wk_radicals": ["Dirt", "Go"]
     },
     "宗": {
         "strokes": 8,
@@ -18417,11 +12557,6 @@ data1 = {
         "meanings": ["Religion", "Sect", "Denomination", "Main Point", "Origin", "Essence"],
         "readings_on": ["しゅう", "そう"],
         "readings_kun": ["むね"],
-        "wk_level": 29,
-        "wk_meanings": ["Religion"],
-        "wk_readings_on": ["しゅう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Roof", "Jackhammer"]
     },
     "緊": {
         "strokes": 15,
@@ -18432,11 +12567,6 @@ data1 = {
         "meanings": ["Tense", "Solid", "Hard", "Reliable", "Tight"],
         "readings_on": ["きん"],
         "readings_kun": ["し.める", "し.まる"],
-        "wk_level": 29,
-        "wk_meanings": ["Tense"],
-        "wk_readings_on": ["きん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Servant", "Stool", "Thread"]
     },
 
     "宴": {
@@ -18448,11 +12578,6 @@ data1 = {
         "meanings": ["Banquet", "Feast", "Party"],
         "readings_on": ["えん"],
         "readings_kun": ["うたげ"],
-        "wk_level": 29,
-        "wk_meanings": ["Banquet"],
-        "wk_readings_on": ["えん"],
-        "wk_readings_kun": ["!うたげ"],
-        "wk_radicals": ["Roof", "Sun", "Woman"]
     },
 
     "添": {
@@ -18464,11 +12589,6 @@ data1 = {
         "meanings": ["Annexed", "Accompany", "Marry", "Suit", "Meet", "Satisfy", "Attach", "Append", "Garnish", "Imitate"],
         "readings_on": ["てん"],
         "readings_kun": ["そ.える", "そ.う"],
-        "wk_level": 29,
-        "wk_meanings": ["Append"],
-        "wk_readings_on": ["てん"],
-        "wk_readings_kun": ["!そ"],
-        "wk_radicals": ["Tsunami", "Heaven", "Small", "Drop"]
     },
     "猛": {
         "strokes": 11,
@@ -18479,11 +12599,6 @@ data1 = {
         "meanings": ["Fierce", "Rave", "Rush", "Become Furious", "Wildness", "Strength"],
         "readings_on": ["もう"],
         "readings_kun": [],
-        "wk_level": 29,
-        "wk_meanings": ["Fierce"],
-        "wk_readings_on": ["もう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Animal", "Child", "Plate"]
     },
     "烈": {
         "strokes": 10,
@@ -18494,11 +12609,6 @@ data1 = {
         "meanings": ["Ardent", "Violent", "Vehement", "Furious", "Severe", "Extreme"],
         "readings_on": ["れつ"],
         "readings_kun": ["はげ.しい"],
-        "wk_level": 29,
-        "wk_meanings": ["Violent", "^Intense"],
-        "wk_readings_on": ["れつ"],
-        "wk_readings_kun": ["!はげ"],
-        "wk_radicals": ["Yakuza", "Knife", "Boil"]
     },
     "索": {
         "strokes": 10,
@@ -18509,11 +12619,6 @@ data1 = {
         "meanings": ["Cord", "Rope", "Searching", "Inquiring"],
         "readings_on": ["さく"],
         "readings_kun": [],
-        "wk_level": 29,
-        "wk_meanings": ["Search"],
-        "wk_readings_on": ["さく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Cross", "Forehead", "Thread"]
     },
 
     "詳": {
@@ -18525,11 +12630,6 @@ data1 = {
         "meanings": ["Detailed", "Full", "Minute", "Accurate", "Well-informed"],
         "readings_on": ["しょう"],
         "readings_kun": ["くわ.しい", "つまび.らか"],
-        "wk_level": 17,
-        "wk_meanings": ["Detailed"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!くわ"],
-        "wk_radicals": ["Say", "Sheep"]
     },
     "魅": {
         "strokes": 15,
@@ -18540,11 +12640,6 @@ data1 = {
         "meanings": ["Fascination", "Charm", "Bewitch"],
         "readings_on": ["み"],
         "readings_kun": [],
-        "wk_level": 30,
-        "wk_meanings": ["Alluring"],
-        "wk_readings_on": ["み"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Demon", "Jet"]
     },
     "渇": {
         "strokes": 11,
@@ -18555,11 +12650,6 @@ data1 = {
         "meanings": ["Thirst", "Dry Up", "Parch"],
         "readings_on": ["かつ"],
         "readings_kun": ["かわ.く"],
-        "wk_level": 30,
-        "wk_meanings": ["Thirst"],
-        "wk_readings_on": ["!かつ"],
-        "wk_readings_kun": ["かわ"],
-        "wk_radicals": ["Tsunami", "Sun", "Prison", "Spoon"]
     },
     "系": {
         "strokes": 7,
@@ -18570,11 +12660,6 @@ data1 = {
         "meanings": ["Lineage", "System"],
         "readings_on": ["けい"],
         "readings_kun": [],
-        "wk_level": 30,
-        "wk_meanings": ["Lineage"],
-        "wk_readings_on": ["けい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Lineage"]
     },
 
     "旗": {
@@ -18586,11 +12671,6 @@ data1 = {
         "meanings": ["National Flag", "Banner", "Standard"],
         "readings_on": ["き"],
         "readings_kun": ["はた"],
-        "wk_level": 30,
-        "wk_meanings": ["Flag"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": ["!はた"],
-        "wk_radicals": ["Direction", "Gun", "Crab"]
     },
 
 
@@ -18603,11 +12683,6 @@ data1 = {
         "meanings": ["Destitution", "Scarce", "Limited"],
         "readings_on": ["ぼう"],
         "readings_kun": ["とぼ.しい", "とも.しい"],
-        "wk_level": 30,
-        "wk_meanings": ["Scarce"],
-        "wk_readings_on": ["ぼう"],
-        "wk_readings_kun": ["!とぼ"],
-        "wk_radicals": ["Leaf", "Hills"]
     },
 
     "覧": {
@@ -18619,11 +12694,6 @@ data1 = {
         "meanings": ["Perusal", "See"],
         "readings_on": ["らん"],
         "readings_kun": ["み.る"],
-        "wk_level": 30,
-        "wk_meanings": ["Look At"],
-        "wk_readings_on": ["らん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Servant", "Gun", "Ground", "See"]
     },
     "懐": {
         "strokes": 16,
@@ -18634,11 +12704,6 @@ data1 = {
         "meanings": ["Pocket", "Feelings", "Heart", "Yearn", "Miss Someone", "Become Attached To", "Bosom", "Breast"],
         "readings_on": ["かい", "え"],
         "readings_kun": ["ふところ", "なつ.かしい", "なつ.かしむ", "なつ.く", "なつ.ける", "なず.ける", "いだ.く", "おも.う"],
-        "wk_level": 30,
-        "wk_meanings": ["Nostalgia"],
-        "wk_readings_on": ["!かい"],
-        "wk_readings_kun": ["なつ"],
-        "wk_radicals": ["Soul", "Cross", "Net", "Clothes"]
     },
 
     "枕": {
@@ -18650,11 +12715,6 @@ data1 = {
         "meanings": ["Pillow"],
         "readings_on": ["ちん", "しん"],
         "readings_kun": ["まくら"],
-        "wk_level": 30,
-        "wk_meanings": ["Pillow"],
-        "wk_readings_on": ["!しん"],
-        "wk_readings_kun": ["まくら"],
-        "wk_radicals": ["Tree", "Pirate"]
     },
 
     "漏": {
@@ -18666,11 +12726,6 @@ data1 = {
         "meanings": ["Leak", "Escape", "Time"],
         "readings_on": ["ろう"],
         "readings_kun": ["も.る", "も.れる", "も.らす"],
-        "wk_level": 30,
-        "wk_meanings": ["Leak"],
-        "wk_readings_on": ["ろう"],
-        "wk_readings_kun": ["!も"],
-        "wk_radicals": ["Tsunami", "Flag", "Rain"]
     },
 
     "購": {
@@ -18682,11 +12737,6 @@ data1 = {
         "meanings": ["Subscription", "Buy"],
         "readings_on": ["こう"],
         "readings_kun": [],
-        "wk_level": 30,
-        "wk_meanings": ["Subscription"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Shellfish", "Lifeguard"]
     },
 
     "飾": {
@@ -18698,11 +12748,6 @@ data1 = {
         "meanings": ["Decorate", "Ornament", "Adorn", "Embellish"],
         "readings_on": ["しょく"],
         "readings_kun": ["かざ.る", "かざ.り"],
-        "wk_level": 30,
-        "wk_meanings": ["Decorate"],
-        "wk_readings_on": ["しょく"],
-        "wk_readings_kun": ["!かざ"],
-        "wk_radicals": ["Eat", "Gun", "Towel"]
     },
     "騒": {
         "strokes": 18,
@@ -18713,11 +12758,6 @@ data1 = {
         "meanings": ["Boisterous", "Make Noise", "Clamor", "Disturb", "Excite"],
         "readings_on": ["そう"],
         "readings_kun": ["さわ.ぐ", "うれい", "さわ.がしい"],
-        "wk_level": 30,
-        "wk_meanings": ["Boisterous"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": ["!さわ"],
-        "wk_radicals": ["Horse", "Stool", "Insect"]
     },
 
     "撮": {
@@ -18729,11 +12769,6 @@ data1 = {
         "meanings": ["Snapshot", "Take Pictures"],
         "readings_on": ["さつ"],
         "readings_kun": ["と.る", "つま.む", "-ど.り"],
-        "wk_level": 30,
-        "wk_meanings": ["Photograph", "^Photo"],
-        "wk_readings_on": ["さつ"],
-        "wk_readings_kun": ["!と"],
-        "wk_radicals": ["Fingers", "Sun", "Ear", "Stool"]
     },
 
     "離": {
@@ -18745,11 +12780,6 @@ data1 = {
         "meanings": ["Detach", "Separation", "Disjoin", "Digress"],
         "readings_on": ["り"],
         "readings_kun": ["はな.れる", "はな.す"],
-        "wk_level": 31,
-        "wk_meanings": ["Detach"],
-        "wk_readings_on": ["り"],
-        "wk_readings_kun": ["!はな"],
-        "wk_radicals": ["Rocket", "Turkey"]
     },
     "融": {
         "strokes": 16,
@@ -18760,11 +12790,6 @@ data1 = {
         "meanings": ["Dissolve", "Melt"],
         "readings_on": ["ゆう"],
         "readings_kun": ["と.ける", "と.かす"],
-        "wk_level": 31,
-        "wk_meanings": ["Dissolve"],
-        "wk_readings_on": ["ゆう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Bully", "Insect"]
     },
 
     "華": {
@@ -18776,11 +12801,6 @@ data1 = {
         "meanings": ["Splendor", "Flower", "Petal", "Shine", "Luster", "Ostentatious", "Showy", "Gay", "Gorgeous"],
         "readings_on": ["か", "け"],
         "readings_kun": ["はな"],
-        "wk_level": 31,
-        "wk_meanings": ["Showy", "^Flower", "^Gorgeous"],
-        "wk_readings_on": ["か"],
-        "wk_readings_kun": ["!はな"],
-        "wk_radicals": ["Flowers", "Rice Paddy", "Cross"]
     },
     "既": {
         "strokes": 10,
@@ -18791,11 +12811,6 @@ data1 = {
         "meanings": ["Previously", "Already", "Long Ago"],
         "readings_on": ["き"],
         "readings_kun": ["すで.に"],
-        "wk_level": 31,
-        "wk_meanings": ["Previously"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": ["!すで"],
-        "wk_radicals": ["Root", "Fang"]
     },
 
     "豪": {
@@ -18807,11 +12822,6 @@ data1 = {
         "meanings": ["Overpowering", "Great", "Powerful", "Excelling", "Australia"],
         "readings_on": ["ごう"],
         "readings_kun": ["えら.い"],
-        "wk_level": 31,
-        "wk_meanings": ["Luxurious"],
-        "wk_readings_on": ["ごう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Lid", "Mouth", "Forehead", "Pig"]
     },
     "鑑": {
         "strokes": 23,
@@ -18822,11 +12832,6 @@ data1 = {
         "meanings": ["Specimen", "Take Warning From", "Learn From"],
         "readings_on": ["かん"],
         "readings_kun": ["かんが.みる", "かがみ"],
-        "wk_level": 31,
-        "wk_meanings": ["Model"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Gold", "Oversee"]
     },
 
     "尋": {
@@ -18838,11 +12843,6 @@ data1 = {
         "meanings": ["Inquire", "Fathom", "Look For"],
         "readings_on": ["じん"],
         "readings_kun": ["たず.ねる", "ひろ"],
-        "wk_level": 31,
-        "wk_meanings": ["Inquire"],
-        "wk_readings_on": ["じん"],
-        "wk_readings_kun": ["!たず", "!ひろ"],
-        "wk_radicals": ["Wolverine", "Construction", "Mouth", "Measurement"]
     },
 
     "廊": {
@@ -18854,11 +12854,6 @@ data1 = {
         "meanings": ["Corridor", "Hall", "Tower"],
         "readings_on": ["ろう"],
         "readings_kun": [],
-        "wk_level": 31,
-        "wk_meanings": ["Corridor"],
-        "wk_readings_on": ["ろう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Canopy", "Guy"]
     },
 
     "驚": {
@@ -18870,11 +12865,6 @@ data1 = {
         "meanings": ["Wonder", "Be Surprised", "Frightened", "Amazed"],
         "readings_on": ["きょう"],
         "readings_kun": ["おどろ.く", "おどろ.かす"],
-        "wk_level": 31,
-        "wk_meanings": ["Surprised"],
-        "wk_readings_on": ["きょう"],
-        "wk_readings_kun": ["!おどろ"],
-        "wk_radicals": ["Poem", "Winter", "Horse"]
     },
     "嘆": {
         "strokes": 13,
@@ -18885,11 +12875,6 @@ data1 = {
         "meanings": ["Sigh", "Lament", "Moan", "Grieve", "Sigh Of Admiration"],
         "readings_on": ["たん"],
         "readings_kun": ["なげ.く", "なげ.かわしい"],
-        "wk_level": 31,
-        "wk_meanings": ["Sigh"],
-        "wk_readings_on": ["たん"],
-        "wk_readings_kun": ["!なげ"],
-        "wk_radicals": ["Mouth", "Chinese"]
     },
     "倉": {
         "strokes": 10,
@@ -18900,11 +12885,6 @@ data1 = {
         "meanings": ["Godown", "Warehouse", "Storehouse", "Cellar", "Treasury"],
         "readings_on": ["そう"],
         "readings_kun": ["くら"],
-        "wk_level": 31,
-        "wk_meanings": ["Warehouse"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": ["!くら"],
-        "wk_radicals": ["Warehouse"]
     },
 
     "巣": {
@@ -18916,11 +12896,6 @@ data1 = {
         "meanings": ["Nest", "Rookery", "Hive", "Cobweb", "Den"],
         "readings_on": ["そう"],
         "readings_kun": ["す", "す.くう"],
-        "wk_level": 31,
-        "wk_meanings": ["Nest"],
-        "wk_readings_on": ["!そう"],
-        "wk_readings_kun": ["す"],
-        "wk_radicals": ["Grass", "Fruit"]
     },
 
     "径": {
@@ -18932,11 +12907,6 @@ data1 = {
         "meanings": ["Diameter", "Path", "Method"],
         "readings_on": ["けい"],
         "readings_kun": ["みち", "こみち", "さしわたし", "ただちに"],
-        "wk_level": 31,
-        "wk_meanings": ["Diameter"],
-        "wk_readings_on": ["けい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Loiter", "Tombstone"]
     },
     "救": {
         "strokes": 11,
@@ -18947,11 +12917,6 @@ data1 = {
         "meanings": ["Salvation", "Save", "Help", "Rescue", "Reclaim"],
         "readings_on": ["きゅう"],
         "readings_kun": ["すく.う"],
-        "wk_level": 31,
-        "wk_meanings": ["Rescue"],
-        "wk_readings_on": ["きゅう"],
-        "wk_readings_kun": ["!すく"],
-        "wk_radicals": ["Request", "Winter"]
     },
     "脈": {
         "strokes": 10,
@@ -18962,11 +12927,6 @@ data1 = {
         "meanings": ["Vein", "Pulse", "Hope"],
         "readings_on": ["みゃく"],
         "readings_kun": ["すじ"],
-        "wk_level": 31,
-        "wk_meanings": ["Vein"],
-        "wk_readings_on": ["みゃく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Moon", "Cliff", "Tofu"]
     },
 
     "墓": {
@@ -18978,11 +12938,6 @@ data1 = {
         "meanings": ["Grave", "Tomb"],
         "readings_on": ["ぼ"],
         "readings_kun": ["はか"],
-        "wk_level": 31,
-        "wk_meanings": ["Grave"],
-        "wk_readings_on": ["ぼ"],
-        "wk_readings_kun": ["!はか"],
-        "wk_radicals": ["Dirt", "Greenhouse"]
     },
 
     "徳": {
@@ -18994,11 +12949,6 @@ data1 = {
         "meanings": ["Benevolence", "Virtue", "Goodness", "Commanding Respect"],
         "readings_on": ["とく"],
         "readings_kun": [],
-        "wk_level": 31,
-        "wk_meanings": ["Virtue"],
-        "wk_readings_on": ["とく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Loiter", "Cross", "Net", "Heart"]
     },
 
     "偵": {
@@ -19010,11 +12960,6 @@ data1 = {
         "meanings": ["Spy"],
         "readings_on": ["てい"],
         "readings_kun": [],
-        "wk_level": 31,
-        "wk_meanings": ["Spy"],
-        "wk_readings_on": ["てい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Toe", "Shellfish"]
     },
     "綺": {
         "strokes": 14,
@@ -19025,11 +12970,6 @@ data1 = {
         "meanings": ["Figured Cloth", "Beautiful"],
         "readings_on": ["き"],
         "readings_kun": ["あや"],
-        "wk_level": 28,
-        "wk_meanings": ["Beautiful"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Thread", "Odd"]
     },
     "序": {
         "strokes": 7,
@@ -19040,11 +12980,6 @@ data1 = {
         "meanings": ["Preface", "Beginning", "Order", "Precedence", "Occasion", "Chance", "Incidentally"],
         "readings_on": ["じょ"],
         "readings_kun": ["つい.で", "ついで"],
-        "wk_level": 32,
-        "wk_meanings": ["Preface"],
-        "wk_readings_on": ["じょ"],
-        "wk_readings_kun": ["!つい", "!ついで"],
-        "wk_radicals": ["Canopy", "Beforehand"]
     },
 
     "志": {
@@ -19056,11 +12991,6 @@ data1 = {
         "meanings": ["Intention", "Plan", "Resolve", "Aspire", "Motive", "Hopes", "Shilling"],
         "readings_on": ["し"],
         "readings_kun": ["シリング", "こころざ.す", "こころざし"],
-        "wk_level": 32,
-        "wk_meanings": ["Intention"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!こころざし"],
-        "wk_radicals": ["Samurai", "Heart"]
     },
     "恩": {
         "strokes": 10,
@@ -19071,11 +13001,6 @@ data1 = {
         "meanings": ["Grace", "Kindness", "Goodness", "Favor", "Mercy", "Blessing", "Benefit"],
         "readings_on": ["おん"],
         "readings_kun": [],
-        "wk_level": 32,
-        "wk_meanings": ["Kindness"],
-        "wk_readings_on": ["おん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Mouth", "Big", "Heart"]
     },
 
     "桜": {
@@ -19087,11 +13012,6 @@ data1 = {
         "meanings": ["Cherry"],
         "readings_on": ["おう", "よう"],
         "readings_kun": ["さくら"],
-        "wk_level": 32,
-        "wk_meanings": ["Sakura", "^Cherry Tree", "^Cherry Blossom"],
-        "wk_readings_on": ["!おう", "!よう"],
-        "wk_readings_kun": ["さくら"],
-        "wk_radicals": ["Tree", "Grass", "Woman"]
     },
 
     "眼": {
@@ -19103,11 +13023,6 @@ data1 = {
         "meanings": ["Eyeball"],
         "readings_on": ["がん", "げん"],
         "readings_kun": ["まなこ", "め"],
-        "wk_level": 32,
-        "wk_meanings": ["Eyeball"],
-        "wk_readings_on": ["がん"],
-        "wk_readings_kun": ["!め"],
-        "wk_radicals": ["Eye", "Root"]
     },
 
 
@@ -19120,11 +13035,6 @@ data1 = {
         "meanings": ["Entertain", "Revive", "Retrieve", "Interest", "Pleasure"],
         "readings_on": ["こう", "きょう"],
         "readings_kun": ["おこ.る", "おこ.す"],
-        "wk_level": 32,
-        "wk_meanings": ["Interest"],
-        "wk_readings_on": ["きょう", "^こう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Comb", "Same", "Ground", "Fins"]
     },
     "衛": {
         "strokes": 16,
@@ -19135,11 +13045,6 @@ data1 = {
         "meanings": ["Defense", "Protection"],
         "readings_on": ["えい", "え"],
         "readings_kun": [],
-        "wk_level": 32,
-        "wk_meanings": ["Defense"],
-        "wk_readings_on": ["えい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Go", "Korea"]
     },
 
 
@@ -19152,11 +13057,6 @@ data1 = {
         "meanings": ["Acid", "Bitterness", "Sour", "Tart"],
         "readings_on": ["さん"],
         "readings_kun": ["す.い"],
-        "wk_level": 32,
-        "wk_meanings": ["Acid"],
-        "wk_readings_on": ["さん"],
-        "wk_readings_kun": ["!す"],
-        "wk_radicals": ["Alcohol", "Spider"]
     },
     "銭": {
         "strokes": 14,
@@ -19167,11 +13067,6 @@ data1 = {
         "meanings": ["Coin", ".01 Yen", "Money"],
         "readings_on": ["せん", "ぜん"],
         "readings_kun": ["ぜに", "すき"],
-        "wk_level": 32,
-        "wk_meanings": ["Coin"],
-        "wk_readings_on": ["せん"],
-        "wk_readings_kun": ["!ぜに"],
-        "wk_radicals": ["Gold", "Bar"]
     },
     "飼": {
         "strokes": 13,
@@ -19182,11 +13077,6 @@ data1 = {
         "meanings": ["Domesticate", "Raise", "Keep", "Feed"],
         "readings_on": ["し"],
         "readings_kun": ["か.う"],
-        "wk_level": 32,
-        "wk_meanings": ["Domesticate"],
-        "wk_readings_on": ["!し"],
-        "wk_readings_kun": ["か"],
-        "wk_radicals": ["Eat", "Director"]
     },
     "傷": {
         "strokes": 13,
@@ -19197,11 +13087,6 @@ data1 = {
         "meanings": ["Wound", "Hurt", "Injure", "Impair", "Pain", "Injury", "Cut", "Gash", "Scar", "Weak Point"],
         "readings_on": ["しょう"],
         "readings_kun": ["きず", "いた.む", "いた.める"],
-        "wk_level": 32,
-        "wk_meanings": ["Wound"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!きず", "!いた"],
-        "wk_radicals": ["Leader", "Gun", "Easy"]
     },
 
     "厳": {
@@ -19213,11 +13098,6 @@ data1 = {
         "meanings": ["Stern", "Strictness", "Severity", "Rigidity"],
         "readings_on": ["げん", "ごん"],
         "readings_kun": ["おごそ.か", "きび.しい", "いか.めしい", "いつくし"],
-        "wk_level": 32,
-        "wk_meanings": ["Strict"],
-        "wk_readings_on": ["げん", "^ごん"],
-        "wk_readings_kun": ["!きび", "!おごそ"],
-        "wk_radicals": ["Grass", "Cliff", "Elf", "Winter"]
     },
 
     "密": {
@@ -19229,11 +13109,6 @@ data1 = {
         "meanings": ["Secrecy", "Density (pop)", "Minuteness", "Carefulness"],
         "readings_on": ["みつ"],
         "readings_kun": ["ひそ.か"],
-        "wk_level": 32,
-        "wk_meanings": ["Secrecy"],
-        "wk_readings_on": ["みつ"],
-        "wk_readings_kun": ["!ひそ"],
-        "wk_radicals": ["Roof", "Certain", "Mountain"]
     },
 
 
@@ -19246,11 +13121,6 @@ data1 = {
         "meanings": ["Warmth"],
         "readings_on": ["だん", "のん"],
         "readings_kun": ["あたた.か", "あたた.かい", "あたた.まる", "あたた.める"],
-        "wk_level": 32,
-        "wk_meanings": ["Warm"],
-        "wk_readings_on": ["だん"],
-        "wk_readings_kun": ["!あたた"],
-        "wk_radicals": ["Sun", "Football"]
     },
 
     "秘": {
@@ -19262,11 +13132,6 @@ data1 = {
         "meanings": ["Secret", "Conceal"],
         "readings_on": ["ひ"],
         "readings_kun": ["ひ.める", "ひそ.か", "かく.す"],
-        "wk_level": 32,
-        "wk_meanings": ["Secret"],
-        "wk_readings_on": ["ひ"],
-        "wk_readings_kun": ["!ひ"],
-        "wk_radicals": ["Grain", "Certain"]
     },
     "訳": {
         "strokes": 11,
@@ -19277,11 +13142,6 @@ data1 = {
         "meanings": ["Translate", "Reason", "Circumstance", "Case"],
         "readings_on": ["やく"],
         "readings_kun": ["わけ"],
-        "wk_level": 32,
-        "wk_meanings": ["Translation", "^Reason"],
-        "wk_readings_on": ["やく"],
-        "wk_readings_kun": ["!わけ"],
-        "wk_radicals": ["Say", "Shrimp"]
     },
     "染": {
         "strokes": 9,
@@ -19292,11 +13152,6 @@ data1 = {
         "meanings": ["Dye", "Color", "Paint", "Stain", "Print"],
         "readings_on": ["せん"],
         "readings_kun": ["そ.める", "-ぞ.め", "-ぞめ", "そ.まる", "し.みる", "-じ.みる", "し.み", "-し.める"],
-        "wk_level": 32,
-        "wk_meanings": ["Dye"],
-        "wk_readings_on": ["せん"],
-        "wk_readings_kun": ["!しみ", "!そ", "!し"],
-        "wk_radicals": ["Tsunami", "Nine", "Tree"]
     },
 
 
@@ -19309,11 +13164,6 @@ data1 = {
         "meanings": ["Muscle", "Sinew", "Tendon", "Fiber", "Plot", "Plan", "Descent"],
         "readings_on": ["きん"],
         "readings_kun": ["すじ"],
-        "wk_level": 33,
-        "wk_meanings": ["Muscle", "^Tendon"],
-        "wk_readings_on": ["きん"],
-        "wk_readings_kun": ["!すじ"],
-        "wk_radicals": ["Bamboo", "Moon", "Power"]
     },
     "垂": {
         "strokes": 8,
@@ -19324,11 +13174,6 @@ data1 = {
         "meanings": ["Droop", "Suspend", "Hang", "Slouch"],
         "readings_on": ["すい"],
         "readings_kun": ["た.れる", "た.らす", "た.れ", "-た.れ", "なんなんと.す"],
-        "wk_level": 33,
-        "wk_meanings": ["Dangle", "^Drip"],
-        "wk_readings_on": ["すい"],
-        "wk_readings_kun": ["!た"],
-        "wk_radicals": ["Car"]
     },
 
     "宣": {
@@ -19340,11 +13185,6 @@ data1 = {
         "meanings": ["Proclaim", "Say", "Announce"],
         "readings_on": ["せん"],
         "readings_kun": ["のたま.う"],
-        "wk_level": 33,
-        "wk_meanings": ["Proclaim"],
-        "wk_readings_on": ["せん"],
-        "wk_readings_kun": ["!のたま"],
-        "wk_radicals": ["Roof", "Ground", "Dawn"]
     },
 
     "忠": {
@@ -19356,11 +13196,6 @@ data1 = {
         "meanings": ["Loyalty", "Fidelity", "Faithfulness"],
         "readings_on": ["ちゅう"],
         "readings_kun": [],
-        "wk_level": 33,
-        "wk_meanings": ["Loyalty"],
-        "wk_readings_on": ["ちゅう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Middle", "Heart"]
     },
     "拡": {
         "strokes": 8,
@@ -19371,11 +13206,6 @@ data1 = {
         "meanings": ["Broaden", "Extend", "Expand", "Enlarge"],
         "readings_on": ["かく", "こう"],
         "readings_kun": ["ひろ.がる", "ひろ.げる", "ひろ.める"],
-        "wk_level": 33,
-        "wk_meanings": ["Extend"],
-        "wk_readings_on": ["かく"],
-        "wk_readings_kun": ["!ひろ"],
-        "wk_radicals": ["Fingers", "Wide"]
     },
     "操": {
         "strokes": 16,
@@ -19386,11 +13216,6 @@ data1 = {
         "meanings": ["Maneuver", "Manipulate", "Operate", "Steer", "Chastity", "Virginity", "Fidelity"],
         "readings_on": ["そう", "さん"],
         "readings_kun": ["みさお", "あやつ.る"],
-        "wk_level": 33,
-        "wk_meanings": ["Manipulate", "^Chastity"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": ["!あやつ", "!みさお"],
-        "wk_radicals": ["Fingers", "Syrup"]
     },
 
     "熟": {
@@ -19402,11 +13227,6 @@ data1 = {
         "meanings": ["Mellow", "Ripen", "Mature", "Acquire Skill"],
         "readings_on": ["じゅく"],
         "readings_kun": ["う.れる"],
-        "wk_level": 33,
-        "wk_meanings": ["Ripen"],
-        "wk_readings_on": ["じゅく"],
-        "wk_readings_kun": ["!う"],
-        "wk_radicals": ["Sock", "Circle", "Boil"]
     },
     "異": {
         "strokes": 11,
@@ -19417,11 +13237,6 @@ data1 = {
         "meanings": ["Uncommon", "Different", "Queerness", "Strangeness", "Wonderful", "Curious", "Unusual"],
         "readings_on": ["い"],
         "readings_kun": ["こと", "こと.なる", "け"],
-        "wk_level": 33,
-        "wk_meanings": ["Differ"],
-        "wk_readings_on": ["い"],
-        "wk_readings_kun": ["!こと"],
-        "wk_radicals": ["Rice Paddy", "Together"]
     },
     "皇": {
         "strokes": 9,
@@ -19432,11 +13247,6 @@ data1 = {
         "meanings": ["Emperor"],
         "readings_on": ["こう", "おう"],
         "readings_kun": [],
-        "wk_level": 33,
-        "wk_meanings": ["Emperor"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["White", "King"]
     },
     "盛": {
         "strokes": 11,
@@ -19447,11 +13257,6 @@ data1 = {
         "meanings": ["Boom", "Prosper", "Copulate"],
         "readings_on": ["せい", "じょう"],
         "readings_kun": ["も.る", "さか.る", "さか.ん"],
-        "wk_level": 33,
-        "wk_meanings": ["Pile", "^Prosperous", "^Heap"],
-        "wk_readings_on": ["せい", "じょう"],
-        "wk_readings_kun": ["!も", "!さか"],
-        "wk_radicals": ["Become", "Plate"]
     },
     "漠": {
         "strokes": 13,
@@ -19462,11 +13267,6 @@ data1 = {
         "meanings": ["Vague", "Obscure", "Desert", "Wide"],
         "readings_on": ["ばく"],
         "readings_kun": [],
-        "wk_level": 33,
-        "wk_meanings": ["Desert", "^Vague"],
-        "wk_readings_on": ["ばく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tsunami", "Greenhouse"]
     },
     "糖": {
         "strokes": 16,
@@ -19477,11 +13277,6 @@ data1 = {
         "meanings": ["Sugar"],
         "readings_on": ["とう"],
         "readings_kun": [],
-        "wk_level": 33,
-        "wk_meanings": ["Sugar"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Rice", "Canopy", "Brush", "Mouth"]
     },
     "納": {
         "strokes": 10,
@@ -19492,11 +13287,6 @@ data1 = {
         "meanings": ["Settlement", "Obtain", "Reap", "Pay", "Supply", "Store"],
         "readings_on": ["のう", "なっ", "な", "なん", "とう"],
         "readings_kun": ["おさ.める", "-おさ.める", "おさ.まる"],
-        "wk_level": 33,
-        "wk_meanings": ["Supply"],
-        "wk_readings_on": ["のう"],
-        "wk_readings_kun": ["!おさ", "!なっ"],
-        "wk_radicals": ["Thread", "Inside"]
     },
     "肺": {
         "strokes": 9,
@@ -19507,11 +13297,6 @@ data1 = {
         "meanings": ["Lungs"],
         "readings_on": ["はい"],
         "readings_kun": [],
-        "wk_level": 33,
-        "wk_meanings": ["Lung"],
-        "wk_readings_on": ["はい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Moon", "City"]
     },
 
     "賃": {
@@ -19523,11 +13308,6 @@ data1 = {
         "meanings": ["Fare", "Fee", "Hire", "Rent", "Wages", "Charge"],
         "readings_on": ["ちん"],
         "readings_kun": [],
-        "wk_level": 33,
-        "wk_meanings": ["Rent"],
-        "wk_readings_on": ["ちん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "King", "Shellfish"]
     },
 
 
@@ -19540,11 +13320,6 @@ data1 = {
         "meanings": ["Precious", "Value", "Prize", "Esteem", "Honor"],
         "readings_on": ["き"],
         "readings_kun": ["たっと.い", "とうと.い", "たっと.ぶ", "とうと.ぶ"],
-        "wk_level": 34,
-        "wk_meanings": ["Valuable"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": ["!とうと"],
-        "wk_radicals": ["Middle", "Ground", "Shellfish"]
     },
 
     "丼": {
@@ -19556,11 +13331,6 @@ data1 = {
         "meanings": ["Bowl", "Bowl Of Food"],
         "readings_on": ["とん", "たん", "しょう", "せい"],
         "readings_kun": ["どんぶり"],
-        "wk_level": 34,
-        "wk_meanings": ["Rice Bowl"],
-        "wk_readings_on": ["どん"],
-        "wk_readings_kun": ["!どんぶり"],
-        "wk_radicals": ["Well", "Drop"]
     },
     "吐": {
         "strokes": 6,
@@ -19571,11 +13341,6 @@ data1 = {
         "meanings": ["Spit", "Vomit", "Belch", "Confess", "Tell (lies)"],
         "readings_on": ["と"],
         "readings_kun": ["は.く", "つ.く"],
-        "wk_level": 34,
-        "wk_meanings": ["Throw Up", "^Spit", "^Vomit"],
-        "wk_readings_on": ["!と"],
-        "wk_readings_kun": ["は"],
-        "wk_radicals": ["Mouth", "Dirt"]
     },
     "奴": {
         "strokes": 5,
@@ -19586,11 +13351,6 @@ data1 = {
         "meanings": ["Guy", "Slave", "Manservant", "Fellow"],
         "readings_on": ["ど"],
         "readings_kun": ["やつ", "やっこ"],
-        "wk_level": 34,
-        "wk_meanings": ["Dude"],
-        "wk_readings_on": ["ど"],
-        "wk_readings_kun": ["!やつ"],
-        "wk_radicals": ["Woman", "Stool"]
     },
     "隷": {
         "strokes": 16,
@@ -19601,11 +13361,6 @@ data1 = {
         "meanings": ["Slave", "Servant", "Prisoner", "Criminal", "Follower"],
         "readings_on": ["れい"],
         "readings_kun": ["したが.う", "しもべ"],
-        "wk_level": 34,
-        "wk_meanings": ["Slave"],
-        "wk_readings_on": ["れい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Samurai", "Jackhammer", "Brush", "Water"]
     },
     "芋": {
         "strokes": 6,
@@ -19616,11 +13371,6 @@ data1 = {
         "meanings": ["Potato"],
         "readings_on": ["う"],
         "readings_kun": ["いも"],
-        "wk_level": 34,
-        "wk_meanings": ["Potato"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["いも"],
-        "wk_radicals": ["Flowers", "Dry"]
     },
     "縮": {
         "strokes": 17,
@@ -19631,11 +13381,6 @@ data1 = {
         "meanings": ["Shrink", "Contract", "Shrivel", "Wrinkle", "Reduce"],
         "readings_on": ["しゅく"],
         "readings_kun": ["ちぢ.む", "ちぢ.まる", "ちぢ.める", "ちぢ.れる", "ちぢ.らす"],
-        "wk_level": 34,
-        "wk_meanings": ["Shrink"],
-        "wk_readings_on": ["しゅく"],
-        "wk_readings_kun": ["!ちぢ", "!ちじ"],
-        "wk_radicals": ["Thread", "Roof", "Leader", "Hundred"]
     },
 
     "縦": {
@@ -19647,11 +13392,6 @@ data1 = {
         "meanings": ["Vertical", "Length", "Height", "Self-indulgent", "Wayward"],
         "readings_on": ["じゅう"],
         "readings_kun": ["たて"],
-        "wk_level": 34,
-        "wk_meanings": ["Vertical"],
-        "wk_readings_on": ["!じゅう"],
-        "wk_readings_kun": ["たて"],
-        "wk_radicals": ["Thread", "Loiter", "Horns", "Correct"]
     },
     "粋": {
         "strokes": 10,
@@ -19662,11 +13402,6 @@ data1 = {
         "meanings": ["Chic", "Style", "Purity", "Essence", "Pith", "Cream", "Elite", "Choice"],
         "readings_on": ["すい"],
         "readings_kun": ["いき"],
-        "wk_level": 34,
-        "wk_meanings": ["Stylish"],
-        "wk_readings_on": ["すい"],
-        "wk_readings_kun": ["!いき"],
-        "wk_radicals": ["Rice", "Nine", "Cross"]
     },
     "聖": {
         "strokes": 13,
@@ -19677,11 +13412,6 @@ data1 = {
         "meanings": ["Holy", "Saint", "Sage", "Master", "Priest"],
         "readings_on": ["せい", "しょう"],
         "readings_kun": ["ひじり"],
-        "wk_level": 34,
-        "wk_meanings": ["Holy"],
-        "wk_readings_on": ["せい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Ear", "Mouth", "King"]
     },
     "磁": {
         "strokes": 14,
@@ -19692,11 +13422,6 @@ data1 = {
         "meanings": ["Magnet", "Porcelain"],
         "readings_on": ["じ"],
         "readings_kun": [],
-        "wk_level": 34,
-        "wk_meanings": ["Magnet"],
-        "wk_readings_on": ["じ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Stone", "Horns", "Ground", "Poop"]
     },
 
     "射": {
@@ -19708,11 +13433,6 @@ data1 = {
         "meanings": ["Shoot", "Shine Into", "Onto", "Archery"],
         "readings_on": ["しゃ"],
         "readings_kun": ["い.る", "さ.す", "う.つ"],
-        "wk_level": 34,
-        "wk_meanings": ["Shoot"],
-        "wk_readings_on": ["しゃ"],
-        "wk_readings_kun": ["!い", "!さ", "!う"],
-        "wk_radicals": ["Body", "Measurement"]
     },
     "幕": {
         "strokes": 13,
@@ -19723,11 +13443,6 @@ data1 = {
         "meanings": ["Curtain", "Bunting", "Act Of Play"],
         "readings_on": ["まく", "ばく"],
         "readings_kun": ["とばり"],
-        "wk_level": 34,
-        "wk_meanings": ["Curtain"],
-        "wk_readings_on": ["まく", "^ばく"],
-        "wk_readings_kun": ["!とばり"],
-        "wk_radicals": ["Greenhouse", "Towel"]
     },
 
     "薦": {
@@ -19739,11 +13454,6 @@ data1 = {
         "meanings": ["Recommend", "Mat", "Advise", "Encourage", "Offer"],
         "readings_on": ["せん"],
         "readings_kun": ["すす.める"],
-        "wk_level": 34,
-        "wk_meanings": ["Recommend"],
-        "wk_readings_on": ["せん"],
-        "wk_readings_kun": ["!すす"],
-        "wk_radicals": ["Flowers", "Canopy", "Helicopter", "Bird"]
     },
     "推": {
         "strokes": 11,
@@ -19754,11 +13464,6 @@ data1 = {
         "meanings": ["Conjecture", "Infer", "Guess", "Suppose", "Support", "Push (for)"],
         "readings_on": ["すい"],
         "readings_kun": ["お.す"],
-        "wk_level": 34,
-        "wk_meanings": ["Infer"],
-        "wk_readings_on": ["すい"],
-        "wk_readings_kun": ["!お"],
-        "wk_radicals": ["Fingers", "Turkey"]
     },
     "揮": {
         "strokes": 12,
@@ -19769,11 +13474,6 @@ data1 = {
         "meanings": ["Brandish", "Wave", "Wag", "Swing", "Shake"],
         "readings_on": ["き"],
         "readings_kun": ["ふる.う"],
-        "wk_level": 34,
-        "wk_meanings": ["Brandish"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Fingers", "Forehead", "Car"]
     },
     "沿": {
         "strokes": 8,
@@ -19784,11 +13484,6 @@ data1 = {
         "meanings": ["Run Alongside", "Follow Along", "Run Along", "Lie Along"],
         "readings_on": ["えん"],
         "readings_kun": ["そ.う", "-ぞ.い"],
-        "wk_level": 34,
-        "wk_meanings": ["Run Alongside"],
-        "wk_readings_on": ["えん"],
-        "wk_readings_kun": ["!そ"],
-        "wk_radicals": ["Tsunami", "Fins", "Mouth"]
     },
     "源": {
         "strokes": 13,
@@ -19799,11 +13494,6 @@ data1 = {
         "meanings": ["Source", "Origin"],
         "readings_on": ["げん"],
         "readings_kun": ["みなもと"],
-        "wk_level": 34,
-        "wk_meanings": ["Origin"],
-        "wk_readings_on": ["げん"],
-        "wk_readings_kun": ["!みなもと"],
-        "wk_radicals": ["Tsunami", "Original"]
     },
 
 
@@ -19816,11 +13506,6 @@ data1 = {
         "meanings": ["Delight", "Joy"],
         "readings_on": ["かん"],
         "readings_kun": ["よろこ.ぶ"],
-        "wk_level": 34,
-        "wk_meanings": ["Delight"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Arrow", "Turkey", "Lack"]
     },
 
     "爪": {
@@ -19832,11 +13517,6 @@ data1 = {
         "meanings": ["Claw", "Nail", "Talon"],
         "readings_on": ["そう"],
         "readings_kun": ["つめ", "つま-"],
-        "wk_level": 34,
-        "wk_meanings": ["Claw"],
-        "wk_readings_on": ["!そう"],
-        "wk_readings_kun": ["つま", "つめ"],
-        "wk_radicals": ["Claw"]
     },
     "豆": {
         "strokes": 7,
@@ -19847,11 +13527,6 @@ data1 = {
         "meanings": ["Beans", "Pea", "Midget"],
         "readings_on": ["とう", "ず"],
         "readings_kun": ["まめ", "まめ-"],
-        "wk_level": 34,
-        "wk_meanings": ["Beans"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": ["!まめ"],
-        "wk_radicals": ["Beans"]
     },
 
     "腐": {
@@ -19863,11 +13538,6 @@ data1 = {
         "meanings": ["Rot", "Decay", "Sour"],
         "readings_on": ["ふ"],
         "readings_kun": ["くさ.る", "-くさ.る", "くさ.れる", "くさ.れ", "くさ.らす", "くさ.す"],
-        "wk_level": 34,
-        "wk_meanings": ["Rot"],
-        "wk_readings_on": ["ふ"],
-        "wk_readings_kun": ["!くさ"],
-        "wk_radicals": ["Canopy", "Attach", "Meat"]
     },
 
     "彫": {
@@ -19879,11 +13549,6 @@ data1 = {
         "meanings": ["Carve", "Engrave", "Chisel"],
         "readings_on": ["ちょう"],
         "readings_kun": ["ほ.る", "-ぼ.り"],
-        "wk_level": 35,
-        "wk_meanings": ["Carve"],
-        "wk_readings_on": ["ちょう"],
-        "wk_readings_kun": ["!ほ"],
-        "wk_radicals": ["Circumference", "Hair"]
     },
 
     "舎": {
@@ -19895,11 +13560,6 @@ data1 = {
         "meanings": ["Cottage", "Inn", "Hut", "House", "Mansion"],
         "readings_on": ["しゃ", "せき"],
         "readings_kun": ["やど.る"],
-        "wk_level": 35,
-        "wk_meanings": ["Cottage"],
-        "wk_readings_on": ["しゃ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Cottage"]
     },
 
     "滞": {
@@ -19911,11 +13571,6 @@ data1 = {
         "meanings": ["Stagnate", "Be Delayed", "Overdue", "Arrears"],
         "readings_on": ["たい", "てい"],
         "readings_kun": ["とどこお.る"],
-        "wk_level": 35,
-        "wk_meanings": ["Stagnate"],
-        "wk_readings_on": ["たい"],
-        "wk_readings_kun": ["!とどこお"],
-        "wk_radicals": ["Belt", "Tsunami"]
     },
 
     "己": {
@@ -19927,11 +13582,6 @@ data1 = {
         "meanings": ["Self"],
         "readings_on": ["こ", "き"],
         "readings_kun": ["おのれ", "つちのと", "な"],
-        "wk_level": 35,
-        "wk_meanings": ["Oneself"],
-        "wk_readings_on": ["こ", "^き"],
-        "wk_readings_kun": ["!おのれ"],
-        "wk_radicals": ["Oneself"]
     },
     "厄": {
         "strokes": 4,
@@ -19942,11 +13592,6 @@ data1 = {
         "meanings": ["Unlucky", "Misfortune", "Bad Luck", "Disaster"],
         "readings_on": ["やく"],
         "readings_kun": [],
-        "wk_level": 35,
-        "wk_meanings": ["Unlucky"],
-        "wk_readings_on": ["やく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Cliff", "Snake"]
     },
     "亀": {
         "strokes": 11,
@@ -19957,11 +13602,6 @@ data1 = {
         "meanings": ["Tortoise", "Turtle"],
         "readings_on": ["き", "きゅう", "きん"],
         "readings_kun": ["かめ"],
-        "wk_level": 35,
-        "wk_meanings": ["Turtle"],
-        "wk_readings_on": ["!き"],
-        "wk_readings_kun": ["かめ"],
-        "wk_radicals": ["Turtle"]
     },
 
     "剣": {
@@ -19973,11 +13613,6 @@ data1 = {
         "meanings": ["Sabre", "Sword", "Blade", "Clock Hand"],
         "readings_on": ["けん"],
         "readings_kun": ["つるぎ"],
-        "wk_level": 35,
-        "wk_meanings": ["Sword"],
-        "wk_readings_on": ["けん"],
-        "wk_readings_kun": ["!つるぎ"],
-        "wk_radicals": ["Squid", "Knife"]
     },
     "寿": {
         "strokes": 7,
@@ -19988,11 +13623,6 @@ data1 = {
         "meanings": ["Longevity", "Congratulations", "One's Natural Life"],
         "readings_on": ["じゅ", "す", "しゅう"],
         "readings_kun": ["ことぶき", "ことぶ.く", "ことほ.ぐ"],
-        "wk_level": 35,
-        "wk_meanings": ["Lifespan", "^Longevity"],
-        "wk_readings_on": ["じゅ", "^す"],
-        "wk_readings_kun": ["!ことぶき"],
-        "wk_radicals": ["Spring", "Measurement"]
     },
 
     "杉": {
@@ -20004,11 +13634,6 @@ data1 = {
         "meanings": ["Cedar", "Cryptomeria"],
         "readings_on": ["さん"],
         "readings_kun": ["すぎ"],
-        "wk_level": 35,
-        "wk_meanings": ["Cedar"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["すぎ"],
-        "wk_radicals": ["Tree", "Hair"]
     },
     "汁": {
         "strokes": 5,
@@ -20019,11 +13644,6 @@ data1 = {
         "meanings": ["Soup", "Juice", "Broth", "Sap", "Gravy", "Pus"],
         "readings_on": ["じゅう"],
         "readings_kun": ["しる", "-しる", "つゆ"],
-        "wk_level": 35,
-        "wk_meanings": ["Soup"],
-        "wk_readings_on": ["じゅう"],
-        "wk_readings_kun": ["!しる"],
-        "wk_radicals": ["Tsunami", "Cross"]
     },
     "噌": {
         "strokes": 14,
@@ -20034,11 +13654,6 @@ data1 = {
         "meanings": ["Boisterous"],
         "readings_on": ["そう", "しょう", "そ"],
         "readings_kun": ["かまびす.しい"],
-        "wk_level": 35,
-        "wk_meanings": ["Boisterous"],
-        "wk_readings_on": ["そ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Mouth", "Mask"]
     },
     "炎": {
         "strokes": 8,
@@ -20049,11 +13664,6 @@ data1 = {
         "meanings": ["Inflammation", "Flame", "Blaze"],
         "readings_on": ["えん"],
         "readings_kun": ["ほのお"],
-        "wk_level": 35,
-        "wk_meanings": ["Flame", "^Big Fire"],
-        "wk_readings_on": ["えん"],
-        "wk_readings_kun": ["!ほのお"],
-        "wk_radicals": ["Fire"]
     },
     "為": {
         "strokes": 9,
@@ -20064,11 +13674,6 @@ data1 = {
         "meanings": ["Do", "Change", "Make", "Benefit", "Welfare", "Be Of Use", "Reach To", "Try", "Practice", "Cost", "Serve As", "Good", "Advantage", "As A Result Of"],
         "readings_on": ["い"],
         "readings_kun": ["ため", "な.る", "な.す", "す.る", "たり", "つく.る", "なり"],
-        "wk_level": 35,
-        "wk_meanings": ["Sake"],
-        "wk_readings_on": ["い"],
-        "wk_readings_kun": ["!ため", "!な", "!す"],
-        "wk_radicals": ["Sake"]
     },
     "熊": {
         "strokes": 14,
@@ -20079,11 +13684,6 @@ data1 = {
         "meanings": ["Bear"],
         "readings_on": ["ゆう"],
         "readings_kun": ["くま"],
-        "wk_level": 35,
-        "wk_meanings": ["Bear"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["くま"],
-        "wk_radicals": ["Ability", "Boil"]
     },
     "獄": {
         "strokes": 14,
@@ -20094,11 +13694,6 @@ data1 = {
         "meanings": ["Prison", "Jail"],
         "readings_on": ["ごく"],
         "readings_kun": [],
-        "wk_level": 35,
-        "wk_meanings": ["Prison"],
-        "wk_readings_on": ["ごく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Animal", "Say", "Dog"]
     },
     "酔": {
         "strokes": 11,
@@ -20109,11 +13704,6 @@ data1 = {
         "meanings": ["Drunk", "Feel Sick", "Poisoned", "Elated", "Spellbound"],
         "readings_on": ["すい"],
         "readings_kun": ["よ.う", "よ.い", "よ"],
-        "wk_level": 35,
-        "wk_meanings": ["Drunk"],
-        "wk_readings_on": ["すい"],
-        "wk_readings_kun": ["!よ"],
-        "wk_radicals": ["Alcohol", "Nine", "Cross"]
     },
     "酢": {
         "strokes": 12,
@@ -20124,11 +13714,6 @@ data1 = {
         "meanings": ["Vinegar", "Sour", "Acid", "Tart"],
         "readings_on": ["さく"],
         "readings_kun": ["す"],
-        "wk_level": 35,
-        "wk_meanings": ["Vinegar"],
-        "wk_readings_on": ["!さく"],
-        "wk_readings_kun": ["す"],
-        "wk_radicals": ["Alcohol", "Key"]
     },
     "鍋": {
         "strokes": 17,
@@ -20139,11 +13724,6 @@ data1 = {
         "meanings": ["Pot", "Pan", "Kettle"],
         "readings_on": ["か"],
         "readings_kun": ["なべ"],
-        "wk_level": 35,
-        "wk_meanings": ["Pot"],
-        "wk_readings_on": ["!か"],
-        "wk_readings_kun": ["なべ"],
-        "wk_radicals": ["Gold", "Mustache"]
     },
 
     "醤": {
@@ -20155,11 +13735,6 @@ data1 = {
         "meanings": ["A Kind Of Miso"],
         "readings_on": ["しょう"],
         "readings_kun": ["ひしお"],
-        "wk_level": 35,
-        "wk_meanings": ["Soy Sauce"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Commander", "Alcohol"]
     },
 
     "盟": {
@@ -20171,11 +13746,6 @@ data1 = {
         "meanings": ["Alliance", "Oath"],
         "readings_on": ["めい"],
         "readings_kun": [],
-        "wk_level": 36,
-        "wk_meanings": ["Alliance"],
-        "wk_readings_on": ["めい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Bright", "Plate"]
     },
     "遺": {
         "strokes": 15,
@@ -20186,11 +13756,6 @@ data1 = {
         "meanings": ["Bequeath", "Leave Behind", "Reserve"],
         "readings_on": ["い", "ゆい"],
         "readings_kun": ["のこ.す"],
-        "wk_level": 36,
-        "wk_meanings": ["Leave Behind"],
-        "wk_readings_on": ["い"],
-        "wk_readings_kun": ["!のこ"],
-        "wk_radicals": ["Scooter", "Valuable"]
     },
     "債": {
         "strokes": 13,
@@ -20201,11 +13766,6 @@ data1 = {
         "meanings": ["Bond", "Loan", "Debt"],
         "readings_on": ["さい"],
         "readings_kun": [],
-        "wk_level": 36,
-        "wk_meanings": ["Debt"],
-        "wk_readings_on": ["さい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Blame"]
     },
     "及": {
         "strokes": 3,
@@ -20216,11 +13776,6 @@ data1 = {
         "meanings": ["Reach Out", "Exert", "Exercise", "Cause"],
         "readings_on": ["きゅう"],
         "readings_kun": ["およ.ぶ", "およ.び", "および", "およ.ぼす"],
-        "wk_level": 36,
-        "wk_meanings": ["Reach"],
-        "wk_readings_on": ["きゅう"],
-        "wk_readings_kun": ["!およ"],
-        "wk_radicals": ["Escalator"]
     },
     "奈": {
         "strokes": 8,
@@ -20231,11 +13786,6 @@ data1 = {
         "meanings": ["Nara", "What?"],
         "readings_on": ["な", "ない", "だい"],
         "readings_kun": ["いかん", "からなし"],
-        "wk_level": 36,
-        "wk_meanings": ["Nara"],
-        "wk_readings_on": ["な"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Big", "Jackhammer"]
     },
 
     "廃": {
@@ -20247,11 +13797,6 @@ data1 = {
         "meanings": ["Abolish", "Obsolete", "Cessation", "Discarding", "Abandon"],
         "readings_on": ["はい"],
         "readings_kun": ["すた.れる", "すた.る"],
-        "wk_level": 36,
-        "wk_meanings": ["Obsolete"],
-        "wk_readings_on": ["はい"],
-        "wk_readings_kun": ["!すた"],
-        "wk_radicals": ["Canopy", "Departure"]
     },
 
     "摘": {
@@ -20263,11 +13808,6 @@ data1 = {
         "meanings": ["Pinch", "Pick", "Pluck", "Trim", "Clip", "Summarize"],
         "readings_on": ["てき"],
         "readings_kun": ["つ.む"],
-        "wk_level": 36,
-        "wk_meanings": ["Pluck"],
-        "wk_readings_on": ["てき"],
-        "wk_readings_kun": ["!つ"],
-        "wk_radicals": ["Fingers", "Mohawk"]
     },
     "核": {
         "strokes": 10,
@@ -20278,11 +13818,6 @@ data1 = {
         "meanings": ["Nucleus", "Core", "Kernel"],
         "readings_on": ["かく"],
         "readings_kun": [],
-        "wk_level": 36,
-        "wk_meanings": ["Nucleus"],
-        "wk_readings_on": ["かく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tree", "Slice"]
     },
     "沖": {
         "strokes": 7,
@@ -20293,11 +13828,6 @@ data1 = {
         "meanings": ["Open Sea", "Offing", "Rise High Into Sky"],
         "readings_on": ["ちゅう"],
         "readings_kun": ["おき", "おきつ", "ちゅう.する", "わく"],
-        "wk_level": 36,
-        "wk_meanings": ["Open Sea"],
-        "wk_readings_on": ["!ちゅう"],
-        "wk_readings_kun": ["おき"],
-        "wk_radicals": ["Tsunami", "Middle"]
     },
     "縄": {
         "strokes": 15,
@@ -20308,11 +13838,6 @@ data1 = {
         "meanings": ["Straw Rope", "Cord"],
         "readings_on": ["じょう"],
         "readings_kun": ["なわ", "ただ.す"],
-        "wk_level": 36,
-        "wk_meanings": ["Rope"],
-        "wk_readings_on": ["じょう"],
-        "wk_readings_kun": ["!なわ"],
-        "wk_radicals": ["Thread", "Turtle"]
     },
     "津": {
         "strokes": 9,
@@ -20323,11 +13848,6 @@ data1 = {
         "meanings": ["Haven", "Port", "Harbor", "Ferry"],
         "readings_on": ["しん"],
         "readings_kun": ["つ"],
-        "wk_level": 36,
-        "wk_meanings": ["Haven"],
-        "wk_readings_on": ["!しん"],
-        "wk_readings_kun": ["つ"],
-        "wk_radicals": ["Tsunami", "Brush"]
     },
     "献": {
         "strokes": 13,
@@ -20338,11 +13858,6 @@ data1 = {
         "meanings": ["Offering", "Counter For Drinks", "Present", "Offer"],
         "readings_on": ["けん", "こん"],
         "readings_kun": ["たてまつ.る"],
-        "wk_level": 36,
-        "wk_meanings": ["Offer"],
-        "wk_readings_on": ["けん", "^こん"],
-        "wk_readings_kun": ["!たてまつ"],
-        "wk_radicals": ["South", "Dog"]
     },
 
     "継": {
@@ -20354,11 +13869,6 @@ data1 = {
         "meanings": ["Inherit", "Succeed", "Continue", "Patch", "Graft (tree)"],
         "readings_on": ["けい"],
         "readings_kun": ["つ.ぐ", "まま-"],
-        "wk_level": 36,
-        "wk_meanings": ["Inherit"],
-        "wk_readings_on": ["けい"],
-        "wk_readings_kun": ["!つ"],
-        "wk_radicals": ["Thread", "Lion", "Rice"]
     },
     "維": {
         "strokes": 14,
@@ -20369,11 +13879,6 @@ data1 = {
         "meanings": ["Fiber", "Tie", "Rope"],
         "readings_on": ["い"],
         "readings_kun": [],
-        "wk_level": 36,
-        "wk_meanings": ["Maintain"],
-        "wk_readings_on": ["い"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Thread", "Turkey"]
     },
 
     "伎": {
@@ -20385,11 +13890,6 @@ data1 = {
         "meanings": ["Deed", "Skill"],
         "readings_on": ["ぎ", "き"],
         "readings_kun": ["わざ", "わざおぎ"],
-        "wk_level": 36,
-        "wk_meanings": ["Deed"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": ["!わざ"],
-        "wk_radicals": ["Leader", "Branch"]
     },
     "踏": {
         "strokes": 15,
@@ -20400,11 +13900,6 @@ data1 = {
         "meanings": ["Step", "Trample", "Carry Through", "Appraise", "Evade Payment"],
         "readings_on": ["とう"],
         "readings_kun": ["ふ.む", "ふ.まえる"],
-        "wk_level": 36,
-        "wk_meanings": ["Step"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": ["!ふ"],
-        "wk_radicals": ["Foot", "Water", "Sun"]
     },
 
     "鹿": {
@@ -20416,11 +13911,6 @@ data1 = {
         "meanings": ["Deer"],
         "readings_on": ["ろく"],
         "readings_kun": ["しか", "か"],
-        "wk_level": 36,
-        "wk_meanings": ["Deer"],
-        "wk_readings_on": ["!ろく"],
-        "wk_readings_kun": ["か", "^しか"],
-        "wk_radicals": ["Canopy", "Helicopter", "Compare"]
     },
     "諾": {
         "strokes": 15,
@@ -20431,11 +13921,6 @@ data1 = {
         "meanings": ["Consent", "Assent", "Agreement"],
         "readings_on": ["だく"],
         "readings_kun": [],
-        "wk_level": 36,
-        "wk_meanings": ["Agreement"],
-        "wk_readings_on": ["だく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Say", "Flowers", "Right"]
     },
     "牙": {
         "strokes": 5,
@@ -20446,11 +13931,6 @@ data1 = {
         "meanings": ["Tusk", "Fang", "Tusk Radical (no. 92)"],
         "readings_on": ["が", "げ"],
         "readings_kun": ["きば", "は"],
-        "wk_level": 36,
-        "wk_meanings": ["Fang", "^Tusk"],
-        "wk_readings_on": ["げ", "が"],
-        "wk_readings_kun": ["!きば"],
-        "wk_radicals": ["Fang"]
     },
     "跳": {
         "strokes": 13,
@@ -20461,11 +13941,6 @@ data1 = {
         "meanings": ["Hop", "Leap Up", "Spring", "Jerk", "Prance", "Buck", "Splash", "Sputter", "Snap"],
         "readings_on": ["ちょう"],
         "readings_kun": ["は.ねる", "と.ぶ", "-と.び"],
-        "wk_level": 37,
-        "wk_meanings": ["Hop"],
-        "wk_readings_on": ["ちょう"],
-        "wk_readings_kun": ["!と", "!は"],
-        "wk_radicals": ["Foot", "Omen"]
     },
     "昭": {
         "strokes": 9,
@@ -20476,11 +13951,6 @@ data1 = {
         "meanings": ["Shining", "Bright"],
         "readings_on": ["しょう"],
         "readings_kun": [],
-        "wk_level": 37,
-        "wk_meanings": ["Shining"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Sun", "Call"]
     },
 
     "償": {
@@ -20492,11 +13962,6 @@ data1 = {
         "meanings": ["Reparation", "Make Up For", "Recompense", "Redeem"],
         "readings_on": ["しょう"],
         "readings_kun": ["つぐな.う"],
-        "wk_level": 37,
-        "wk_meanings": ["Reparation"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!つぐな"],
-        "wk_radicals": ["Leader", "Prize"]
     },
     "刑": {
         "strokes": 6,
@@ -20507,11 +13972,6 @@ data1 = {
         "meanings": ["Punish", "Penalty", "Sentence", "Punishment"],
         "readings_on": ["けい"],
         "readings_kun": [],
-        "wk_level": 37,
-        "wk_meanings": ["Punish"],
-        "wk_readings_on": ["けい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Lantern", "Knife"]
     },
 
     "執": {
@@ -20523,11 +13983,6 @@ data1 = {
         "meanings": ["Tenacious", "Take Hold", "Grasp", "Take To Heart"],
         "readings_on": ["しつ", "しゅう"],
         "readings_kun": ["と.る"],
-        "wk_level": 37,
-        "wk_meanings": ["Tenacious"],
-        "wk_readings_on": ["しゅう", "しつ"],
-        "wk_readings_kun": ["!と"],
-        "wk_radicals": ["Happiness", "Circle"]
     },
     "塁": {
         "strokes": 12,
@@ -20538,11 +13993,6 @@ data1 = {
         "meanings": ["Bases", "Fort", "Rampart", "Walls", "Base(ball)"],
         "readings_on": ["るい", "らい", "すい"],
         "readings_kun": ["とりで"],
-        "wk_level": 37,
-        "wk_meanings": ["Base", "^Baseball Base"],
-        "wk_readings_on": ["るい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Rice Paddy", "Explosion", "Dirt"]
     },
     "崩": {
         "strokes": 11,
@@ -20553,11 +14003,6 @@ data1 = {
         "meanings": ["Crumble", "Die", "Demolish", "Level"],
         "readings_on": ["ほう"],
         "readings_kun": ["くず.れる", "-くず.れ", "くず.す"],
-        "wk_level": 37,
-        "wk_meanings": ["Crumble"],
-        "wk_readings_on": ["ほう"],
-        "wk_readings_kun": ["!くず"],
-        "wk_radicals": ["Mountain", "Moon"]
     },
 
 
@@ -20570,11 +14015,6 @@ data1 = {
         "meanings": ["Confront", "Resist", "Defy", "Oppose"],
         "readings_on": ["こう"],
         "readings_kun": ["あらが.う"],
-        "wk_level": 37,
-        "wk_meanings": ["Confront"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!あらが"],
-        "wk_radicals": ["Fingers", "Lid", "Table"]
     },
     "抵": {
         "strokes": 8,
@@ -20585,11 +14025,6 @@ data1 = {
         "meanings": ["Resist", "Reach", "Touch"],
         "readings_on": ["てい"],
         "readings_kun": [],
-        "wk_level": 37,
-        "wk_meanings": ["Resist"],
-        "wk_readings_on": ["てい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Fingers", "Clan", "Ground"]
     },
     "旬": {
         "strokes": 6,
@@ -20600,11 +14035,6 @@ data1 = {
         "meanings": ["Decameron", "Ten-day Period", "Season (for Specific Products)"],
         "readings_on": ["じゅん", "しゅん"],
         "readings_kun": [],
-        "wk_level": 37,
-        "wk_meanings": ["In Season", "^Time Of Month", "^Season"],
-        "wk_readings_on": ["しゅん", "じゅん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Prison", "Sun"]
     },
 
     "弾": {
@@ -20616,11 +14046,6 @@ data1 = {
         "meanings": ["Bullet", "Twang", "Flip", "Snap"],
         "readings_on": ["だん", "たん"],
         "readings_kun": ["ひ.く", "-ひ.き", "はず.む", "たま", "はじ.く", "はじ.ける", "ただ.す", "はじ.きゆみ"],
-        "wk_level": 37,
-        "wk_meanings": ["Bullet"],
-        "wk_readings_on": ["だん"],
-        "wk_readings_kun": ["!ひ", "!はず", "!たま"],
-        "wk_radicals": ["Bow", "Simple"]
     },
     "聴": {
         "strokes": 17,
@@ -20631,11 +14056,6 @@ data1 = {
         "meanings": ["Listen", "Headstrong", "Naughty", "Careful Inquiry"],
         "readings_on": ["ちょう", "てい"],
         "readings_kun": ["き.く", "ゆる.す"],
-        "wk_level": 37,
-        "wk_meanings": ["Listen"],
-        "wk_readings_on": ["ちょう"],
-        "wk_readings_kun": ["!き"],
-        "wk_radicals": ["Ear", "Cross", "Net", "Heart"]
     },
 
     "遣": {
@@ -20647,11 +14067,6 @@ data1 = {
         "meanings": ["Dispatch", "Despatch", "Send", "Give", "Donate", "Do", "Undertake"],
         "readings_on": ["けん"],
         "readings_kun": ["つか.う", "-つか.い", "-づか.い", "つか.わす", "や.る"],
-        "wk_level": 37,
-        "wk_meanings": ["Dispatch"],
-        "wk_readings_on": ["けん"],
-        "wk_readings_kun": ["!つか", "!や"],
-        "wk_radicals": ["Scooter", "Insect", "Bear"]
     },
     "闘": {
         "strokes": 18,
@@ -20662,11 +14077,6 @@ data1 = {
         "meanings": ["Fight", "War"],
         "readings_on": ["とう"],
         "readings_kun": ["たたか.う", "あらそ.う"],
-        "wk_level": 37,
-        "wk_meanings": ["Struggle"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": ["!たたか"],
-        "wk_radicals": ["Gate", "Beans", "Measurement"]
     },
     "陣": {
         "strokes": 10,
@@ -20677,11 +14087,6 @@ data1 = {
         "meanings": ["Camp", "Battle Array", "Ranks", "Position", "Sudden", "Brief Time"],
         "readings_on": ["じん"],
         "readings_kun": [],
-        "wk_level": 37,
-        "wk_meanings": ["Army Base"],
-        "wk_readings_on": ["じん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Building", "Car"]
     },
 
     "臨": {
@@ -20693,11 +14098,6 @@ data1 = {
         "meanings": ["Look To", "Face", "Meet", "Confront", "Attend", "Call On"],
         "readings_on": ["りん"],
         "readings_kun": ["のぞ.む"],
-        "wk_level": 37,
-        "wk_meanings": ["Look To"],
-        "wk_readings_on": ["りん"],
-        "wk_readings_kun": ["!のぞ"],
-        "wk_radicals": ["Servant", "Gun", "Products"]
     },
     "削": {
         "strokes": 9,
@@ -20708,11 +14108,6 @@ data1 = {
         "meanings": ["Plane", "Sharpen", "Whittle", "Pare", "Shave"],
         "readings_on": ["さく"],
         "readings_kun": ["けず.る", "はつ.る", "そ.ぐ"],
-        "wk_level": 37,
-        "wk_meanings": ["Whittle Down"],
-        "wk_readings_on": ["さく"],
-        "wk_readings_kun": ["!けず"],
-        "wk_radicals": ["Triceratops", "Moon", "Knife"]
     },
     "契": {
         "strokes": 9,
@@ -20723,11 +14118,6 @@ data1 = {
         "meanings": ["Pledge", "Promise", "Vow"],
         "readings_on": ["けい"],
         "readings_kun": ["ちぎ.る"],
-        "wk_level": 37,
-        "wk_meanings": ["Pledge"],
-        "wk_readings_on": ["けい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Life", "Sword", "Big"]
     },
     "恵": {
         "strokes": 10,
@@ -20738,11 +14128,6 @@ data1 = {
         "meanings": ["Favor", "Blessing", "Grace", "Kindness"],
         "readings_on": ["けい", "え"],
         "readings_kun": ["めぐ.む", "めぐ.み"],
-        "wk_level": 37,
-        "wk_meanings": ["Favor"],
-        "wk_readings_on": ["え", "けい"],
-        "wk_readings_kun": ["!めぐ"],
-        "wk_radicals": ["Cross", "Rice Paddy", "Heart"]
     },
 
     "掲": {
@@ -20754,11 +14139,6 @@ data1 = {
         "meanings": ["Put Up (a Notice)", "Put Up", "Hoist", "Display", "Hang Out", "Publish", "Describe"],
         "readings_on": ["けい"],
         "readings_kun": ["かか.げる"],
-        "wk_level": 37,
-        "wk_meanings": ["Display"],
-        "wk_readings_on": ["けい"],
-        "wk_readings_kun": ["!かか"],
-        "wk_radicals": ["Fingers", "Sun", "Prison", "Spoon"]
     },
     "狙": {
         "strokes": 8,
@@ -20769,11 +14149,6 @@ data1 = {
         "meanings": ["Aim At", "Sight", "Shadow", "Stalk"],
         "readings_on": ["そ", "しょ"],
         "readings_kun": ["ねら.う", "ねら.い"],
-        "wk_level": 37,
-        "wk_meanings": ["Aim"],
-        "wk_readings_on": ["そ"],
-        "wk_readings_kun": ["!ねら"],
-        "wk_radicals": ["Animal", "Top Hat"]
     },
     "葬": {
         "strokes": 12,
@@ -20784,11 +14159,6 @@ data1 = {
         "meanings": ["Interment", "Bury", "Shelve"],
         "readings_on": ["そう"],
         "readings_kun": ["ほうむ.る"],
-        "wk_level": 37,
-        "wk_meanings": ["Burial"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": ["!ほうむ"],
-        "wk_radicals": ["Flowers", "Yakuza", "Spoon", "Twenty"]
     },
     "需": {
         "strokes": 14,
@@ -20799,11 +14169,6 @@ data1 = {
         "meanings": ["Demand", "Request", "Need"],
         "readings_on": ["じゅ"],
         "readings_kun": [],
-        "wk_level": 38,
-        "wk_meanings": ["Demand"],
-        "wk_readings_on": ["じゅ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Rain", "Rake"]
     },
 
     "宜": {
@@ -20815,11 +14180,6 @@ data1 = {
         "meanings": ["Best Regards", "Good"],
         "readings_on": ["ぎ"],
         "readings_kun": ["よろ.しい", "よろ.しく"],
-        "wk_level": 38,
-        "wk_meanings": ["Best Regards"],
-        "wk_readings_on": ["!ぎ"],
-        "wk_readings_kun": ["よろ"],
-        "wk_radicals": ["Roof", "Top Hat"]
     },
     "繰": {
         "strokes": 19,
@@ -20830,11 +14190,6 @@ data1 = {
         "meanings": ["Winding", "Reel", "Spin", "Turn (pages)", "Look Up", "Refer To"],
         "readings_on": ["そう"],
         "readings_kun": ["く.る"],
-        "wk_level": 38,
-        "wk_meanings": ["Spin"],
-        "wk_readings_on": ["!そう"],
-        "wk_readings_kun": ["く"],
-        "wk_radicals": ["Thread", "Syrup"]
     },
     "避": {
         "strokes": 16,
@@ -20845,11 +14200,6 @@ data1 = {
         "meanings": ["Evade", "Avoid", "Avert", "Ward Off", "Shirk", "Shun"],
         "readings_on": ["ひ"],
         "readings_kun": ["さ.ける", "よ.ける"],
-        "wk_level": 38,
-        "wk_meanings": ["Dodge", "^Avoid"],
-        "wk_readings_on": ["ひ"],
-        "wk_readings_kun": ["!さ", "!よ"],
-        "wk_radicals": ["Scooter", "Hot Pepper"]
     },
     "妊": {
         "strokes": 7,
@@ -20860,11 +14210,6 @@ data1 = {
         "meanings": ["Pregnancy"],
         "readings_on": ["にん", "じん"],
         "readings_kun": ["はら.む", "みごも.る"],
-        "wk_level": 38,
-        "wk_meanings": ["Pregnant"],
-        "wk_readings_on": ["にん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Woman", "King"]
     },
     "娠": {
         "strokes": 10,
@@ -20875,11 +14220,6 @@ data1 = {
         "meanings": ["With Child", "Pregnancy"],
         "readings_on": ["しん"],
         "readings_kun": [],
-        "wk_level": 38,
-        "wk_meanings": ["Pregnant"],
-        "wk_readings_on": ["しん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Woman", "Landslide"]
     },
     "致": {
         "strokes": 10,
@@ -20890,11 +14230,6 @@ data1 = {
         "meanings": ["Doth", "Do", "Send", "Forward", "Cause", "Exert", "Incur", "Engage"],
         "readings_on": ["ち"],
         "readings_kun": ["いた.す"],
-        "wk_level": 38,
-        "wk_meanings": ["Do"],
-        "wk_readings_on": ["ち"],
-        "wk_readings_kun": ["!いた"],
-        "wk_radicals": ["Mole", "Winter"]
     },
     "奏": {
         "strokes": 9,
@@ -20905,11 +14240,6 @@ data1 = {
         "meanings": ["Play Music", "Speak To A Ruler", "Complete"],
         "readings_on": ["そう"],
         "readings_kun": ["かな.でる"],
-        "wk_level": 38,
-        "wk_meanings": ["Play Music"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": ["!かな"],
-        "wk_radicals": ["Spring", "Heaven"]
     },
     "伴": {
         "strokes": 7,
@@ -20920,11 +14250,6 @@ data1 = {
         "meanings": ["Consort", "Accompany", "Bring With", "Companion"],
         "readings_on": ["はん", "ばん"],
         "readings_kun": ["ともな.う"],
-        "wk_level": 38,
-        "wk_meanings": ["Accompany"],
-        "wk_readings_on": ["はん"],
-        "wk_readings_kun": ["!ともな"],
-        "wk_radicals": ["Leader", "Half"]
     },
     "併": {
         "strokes": 8,
@@ -20935,11 +14260,6 @@ data1 = {
         "meanings": ["Join", "Get Together", "Unite", "Collective"],
         "readings_on": ["へい"],
         "readings_kun": ["あわ.せる"],
-        "wk_level": 38,
-        "wk_meanings": ["Join"],
-        "wk_readings_on": ["へい"],
-        "wk_readings_kun": ["!あわ"],
-        "wk_radicals": ["Leader", "Horns", "Lantern"]
     },
 
     "却": {
@@ -20951,11 +14271,6 @@ data1 = {
         "meanings": ["Instead", "On The Contrary", "Rather", "Step Back", "Withdraw", "Retreat"],
         "readings_on": ["きゃく"],
         "readings_kun": ["かえ.って", "しりぞ.く", "しりぞ.ける"],
-        "wk_level": 38,
-        "wk_meanings": ["Contrary"],
-        "wk_readings_on": ["きゃく"],
-        "wk_readings_kun": ["!かえって"],
-        "wk_radicals": ["Past", "Stamp"]
     },
 
     "慮": {
@@ -20967,11 +14282,6 @@ data1 = {
         "meanings": ["Prudence", "Thought", "Concern", "Consider", "Deliberate", "Fear"],
         "readings_on": ["りょ"],
         "readings_kun": ["おもんぱく.る", "おもんぱか.る"],
-        "wk_level": 38,
-        "wk_meanings": ["Consider"],
-        "wk_readings_on": ["りょ"],
-        "wk_readings_kun": ["!おもんぱく", "!おもんぱか"],
-        "wk_radicals": ["Tiger", "Think"]
     },
     "懸": {
         "strokes": 20,
@@ -20982,11 +14292,6 @@ data1 = {
         "meanings": ["State Of Suspension", "Hang", "Depend", "Consult", "Distant", "Far Apart"],
         "readings_on": ["けん", "け"],
         "readings_kun": ["か.ける", "か.かる"],
-        "wk_level": 38,
-        "wk_meanings": ["Suspend"],
-        "wk_readings_on": ["けん"],
-        "wk_readings_kun": ["!か"],
-        "wk_radicals": ["Prefecture", "Lineage", "Heart"]
     },
     "房": {
         "strokes": 8,
@@ -20997,11 +14302,6 @@ data1 = {
         "meanings": ["Tassel", "Tuft", "Fringe", "Bunch", "Lock (hair)", "Segment (orange)", "House", "Room"],
         "readings_on": ["ぼう"],
         "readings_kun": ["ふさ"],
-        "wk_level": 38,
-        "wk_meanings": ["Cluster"],
-        "wk_readings_on": ["ぼう"],
-        "wk_readings_kun": ["!ふさ"],
-        "wk_radicals": ["Door", "Direction"]
     },
     "扱": {
         "strokes": 6,
@@ -21012,11 +14312,6 @@ data1 = {
         "meanings": ["Handle", "Entertain", "Thresh", "Strip"],
         "readings_on": ["そう", "きゅう"],
         "readings_kun": ["あつか.い", "あつか.う", "あつか.る", "こ.く"],
-        "wk_level": 38,
-        "wk_meanings": ["Handle"],
-        "wk_readings_on": ["!きゅう"],
-        "wk_readings_kun": ["あつか"],
-        "wk_radicals": ["Fingers", "Escalator"]
     },
     "抑": {
         "strokes": 7,
@@ -21027,11 +14322,6 @@ data1 = {
         "meanings": ["Repress", "Well", "Now", "In The First Place", "Push", "Shove", "Press", "Seal", "Do In Spite Of"],
         "readings_on": ["よく"],
         "readings_kun": ["おさ.える"],
-        "wk_level": 38,
-        "wk_meanings": ["Suppress"],
-        "wk_readings_on": ["よく"],
-        "wk_readings_kun": ["!おさ"],
-        "wk_radicals": ["Fingers", "Cat Pirate"]
     },
     "択": {
         "strokes": 7,
@@ -21042,11 +14332,6 @@ data1 = {
         "meanings": ["Choose", "Select", "Elect", "Prefer"],
         "readings_on": ["たく"],
         "readings_kun": ["えら.ぶ"],
-        "wk_level": 38,
-        "wk_meanings": ["Select"],
-        "wk_readings_on": ["たく"],
-        "wk_readings_kun": ["!えら"],
-        "wk_radicals": ["Fingers", "Shrimp"]
     },
     "描": {
         "strokes": 11,
@@ -21057,11 +14342,6 @@ data1 = {
         "meanings": ["Sketch", "Compose", "Write", "Draw", "Paint"],
         "readings_on": ["びょう"],
         "readings_kun": ["えが.く", "か.く"],
-        "wk_level": 38,
-        "wk_meanings": ["Draw"],
-        "wk_readings_on": ["びょう"],
-        "wk_readings_kun": ["!か", "!えが"],
-        "wk_radicals": ["Fingers", "Flowers", "Rice Paddy"]
     },
     "盤": {
         "strokes": 15,
@@ -21072,11 +14352,6 @@ data1 = {
         "meanings": ["Tray", "Shallow Bowl", "Platter", "Tub", "Board", "Phonograph Record"],
         "readings_on": ["ばん"],
         "readings_kun": [],
-        "wk_level": 38,
-        "wk_meanings": ["Tray", "^Platter", "^Board"],
-        "wk_readings_on": ["ばん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Boat", "Weapon", "Plate"]
     },
     "称": {
         "strokes": 10,
@@ -21087,11 +14362,6 @@ data1 = {
         "meanings": ["Appellation", "Praise", "Admire", "Name", "Title", "Fame"],
         "readings_on": ["しょう"],
         "readings_kun": ["たた.える", "とな.える", "あ.げる", "かな.う", "はか.り", "はか.る", "ほめ.る"],
-        "wk_level": 38,
-        "wk_meanings": ["Title"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!とな", "!たた", "!ほめ"],
-        "wk_radicals": ["Grain", "Gun", "Small"]
     },
 
     "緩": {
@@ -21103,11 +14373,6 @@ data1 = {
         "meanings": ["Slacken", "Loosen", "Relax", "Lessen", "Be Moderate", "Ease"],
         "readings_on": ["かん"],
         "readings_kun": ["ゆる.い", "ゆる.やか", "ゆる.む", "ゆる.める"],
-        "wk_level": 38,
-        "wk_meanings": ["Loose"],
-        "wk_readings_on": ["!かん"],
-        "wk_readings_kun": ["ゆる"],
-        "wk_radicals": ["Thread", "Football"]
     },
     "託": {
         "strokes": 10,
@@ -21118,11 +14383,6 @@ data1 = {
         "meanings": ["Consign", "Requesting", "Entrusting With", "Pretend", "Hint"],
         "readings_on": ["たく"],
         "readings_kun": ["かこつ.ける", "かこ.つ", "かこ.つける"],
-        "wk_level": 38,
-        "wk_meanings": ["Consign"],
-        "wk_readings_on": ["たく"],
-        "wk_readings_kun": ["!かこ"],
-        "wk_radicals": ["Say", "Slide", "Seven"]
     },
     "賄": {
         "strokes": 13,
@@ -21133,11 +14393,6 @@ data1 = {
         "meanings": ["Bribe", "Board", "Supply", "Finance"],
         "readings_on": ["わい"],
         "readings_kun": ["まかな.う"],
-        "wk_level": 38,
-        "wk_meanings": ["Bribe"],
-        "wk_readings_on": ["わい"],
-        "wk_readings_kun": ["!まかな"],
-        "wk_radicals": ["Shellfish", "Have"]
     },
     "賂": {
         "strokes": 13,
@@ -21148,11 +14403,6 @@ data1 = {
         "meanings": ["Bribe"],
         "readings_on": ["ろ"],
         "readings_kun": ["まいな.い", "まいな.う"],
-        "wk_level": 38,
-        "wk_meanings": ["Bribe"],
-        "wk_readings_on": ["ろ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Shellfish", "Kiss"]
     },
 
 
@@ -21165,11 +14415,6 @@ data1 = {
         "meanings": ["Send Back", "Return"],
         "readings_on": ["かん"],
         "readings_kun": ["かえ.る"],
-        "wk_level": 38,
-        "wk_meanings": ["Send Back"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": ["!かえ"],
-        "wk_radicals": ["Scooter", "Net", "Zombie"]
     },
 
     "邦": {
@@ -21181,11 +14426,6 @@ data1 = {
         "meanings": ["Home Country", "Country", "Japan"],
         "readings_on": ["ほう"],
         "readings_kun": ["くに"],
-        "wk_level": 39,
-        "wk_meanings": ["Home Country"],
-        "wk_readings_on": ["ほう"],
-        "wk_readings_kun": ["!くに"],
-        "wk_radicals": ["Three", "Slide", "Building"]
     },
     "鈴": {
         "strokes": 13,
@@ -21196,11 +14436,6 @@ data1 = {
         "meanings": ["Small Bell", "Buzzer"],
         "readings_on": ["れい", "りん"],
         "readings_kun": ["すず"],
-        "wk_level": 39,
-        "wk_meanings": ["Buzzer", "^Small Bell"],
-        "wk_readings_on": ["りん"],
-        "wk_readings_kun": ["!すず"],
-        "wk_radicals": ["Gold", "Orders"]
     },
     "阜": {
         "strokes": 8,
@@ -21211,11 +14446,6 @@ data1 = {
         "meanings": ["Hill", "Mound", "Left Village Radical (no. 170)"],
         "readings_on": ["ふ", "ふう"],
         "readings_kun": [],
-        "wk_level": 39,
-        "wk_meanings": ["Mound"],
-        "wk_readings_on": ["ふ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Drop", "Bear", "Cross"]
     },
     "岐": {
         "strokes": 7,
@@ -21226,11 +14456,6 @@ data1 = {
         "meanings": ["Branch Off", "Fork In Road", "Scene", "Arena", "Theater"],
         "readings_on": ["き", "ぎ"],
         "readings_kun": [],
-        "wk_level": 39,
-        "wk_meanings": ["Branch Off"],
-        "wk_readings_on": ["き", "ぎ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Mountain", "Branch"]
     },
     "隆": {
         "strokes": 11,
@@ -21241,11 +14466,6 @@ data1 = {
         "meanings": ["Hump", "High", "Noble", "Prosperity"],
         "readings_on": ["りゅう"],
         "readings_kun": [],
-        "wk_level": 39,
-        "wk_meanings": ["Prosperity"],
-        "wk_readings_on": ["りゅう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Building", "Winter", "Life"]
     },
 
     "控": {
@@ -21257,11 +14477,6 @@ data1 = {
         "meanings": ["Withdraw", "Draw In", "Hold Back", "Refrain From", "Be Moderate"],
         "readings_on": ["こう"],
         "readings_kun": ["ひか.える", "ひか.え"],
-        "wk_level": 39,
-        "wk_meanings": ["Abstain"],
-        "wk_readings_on": ["!こう"],
-        "wk_readings_kun": ["ひか"],
-        "wk_radicals": ["Fingers", "Sky"]
     },
     "壁": {
         "strokes": 16,
@@ -21272,11 +14487,6 @@ data1 = {
         "meanings": ["Wall", "Lining (stomach)", "Fence"],
         "readings_on": ["へき"],
         "readings_kun": ["かべ"],
-        "wk_level": 39,
-        "wk_meanings": ["Wall"],
-        "wk_readings_on": ["!へき"],
-        "wk_readings_kun": ["かべ"],
-        "wk_radicals": ["Dirt", "Hot Pepper"]
     },
     "棋": {
         "strokes": 12,
@@ -21287,11 +14497,6 @@ data1 = {
         "meanings": ["Chess Piece", "Japanese Chess", "Shogi"],
         "readings_on": ["き"],
         "readings_kun": ["ご"],
-        "wk_level": 39,
-        "wk_meanings": ["Chess Piece"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": ["!ご"],
-        "wk_radicals": ["Tree", "Crab"]
     },
     "渋": {
         "strokes": 11,
@@ -21302,11 +14507,6 @@ data1 = {
         "meanings": ["Astringent", "Hesitate", "Reluctant", "Have Diarrhea"],
         "readings_on": ["じゅう", "しゅう"],
         "readings_kun": ["しぶ", "しぶ.い", "しぶ.る"],
-        "wk_level": 39,
-        "wk_meanings": ["Bitter", "^Astringent", "^Reluctant"],
-        "wk_readings_on": ["じゅう"],
-        "wk_readings_kun": ["!しぶ"],
-        "wk_radicals": ["Tsunami", "Stop", "Explosion"]
     },
 
     "仙": {
@@ -21318,11 +14518,6 @@ data1 = {
         "meanings": ["Hermit", "Wizard", "Cent"],
         "readings_on": ["せん", "せんと"],
         "readings_kun": [],
-        "wk_level": 39,
-        "wk_meanings": ["Hermit"],
-        "wk_readings_on": ["せん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Mountain"]
     },
     "充": {
         "strokes": 6,
@@ -21333,11 +14528,6 @@ data1 = {
         "meanings": ["Allot", "Fill"],
         "readings_on": ["じゅう"],
         "readings_kun": ["あ.てる", "み.たす"],
-        "wk_level": 39,
-        "wk_meanings": ["Allocate"],
-        "wk_readings_on": ["じゅう"],
-        "wk_readings_kun": ["!あ", "!み"],
-        "wk_radicals": ["Allocate"]
     },
     "免": {
         "strokes": 8,
@@ -21348,11 +14538,6 @@ data1 = {
         "meanings": ["Excuse", "Dismissal"],
         "readings_on": ["めん"],
         "readings_kun": ["まぬか.れる", "まぬが.れる"],
-        "wk_level": 39,
-        "wk_meanings": ["Excuse"],
-        "wk_readings_on": ["めん"],
-        "wk_readings_kun": ["!まぬか"],
-        "wk_radicals": ["Excuse"]
     },
     "勧": {
         "strokes": 13,
@@ -21363,11 +14548,6 @@ data1 = {
         "meanings": ["Persuade", "Recommend", "Advise", "Encourage", "Offer"],
         "readings_on": ["かん", "けん"],
         "readings_kun": ["すす.める"],
-        "wk_level": 39,
-        "wk_meanings": ["Recommend"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": ["!すす"],
-        "wk_radicals": ["Arrow", "Turkey", "Power"]
     },
     "圏": {
         "strokes": 12,
@@ -21378,11 +14558,6 @@ data1 = {
         "meanings": ["Sphere", "Circle", "Radius", "Range"],
         "readings_on": ["けん"],
         "readings_kun": ["かこ.い"],
-        "wk_level": 39,
-        "wk_meanings": ["Range", "^Sphere"],
-        "wk_readings_on": ["けん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Mouth", "Scroll"]
     },
 
     "埼": {
@@ -21394,11 +14569,6 @@ data1 = {
         "meanings": ["Cape", "Spit", "Promontory"],
         "readings_on": ["き"],
         "readings_kun": ["さき", "さい", "みさき"],
-        "wk_level": 39,
-        "wk_meanings": ["Cape"],
-        "wk_readings_on": ["!き"],
-        "wk_readings_kun": ["さい"],
-        "wk_radicals": ["Dirt", "Odd"]
     },
     "奪": {
         "strokes": 14,
@@ -21409,11 +14579,6 @@ data1 = {
         "meanings": ["Rob", "Take By Force", "Snatch Away", "Dispossess", "Plunder", "Usurp"],
         "readings_on": ["だつ"],
         "readings_kun": ["うば.う"],
-        "wk_level": 39,
-        "wk_meanings": ["Rob"],
-        "wk_readings_on": ["!だつ"],
-        "wk_readings_kun": ["うば"],
-        "wk_radicals": ["Big", "Turkey", "Measurement"]
     },
 
     "慎": {
@@ -21425,11 +14590,6 @@ data1 = {
         "meanings": ["Humility", "Be Careful", "Discreet", "Prudent"],
         "readings_on": ["しん"],
         "readings_kun": ["つつし.む", "つつ.ましい", "つつし", "つつし.み"],
-        "wk_level": 39,
-        "wk_meanings": ["Humility"],
-        "wk_readings_on": ["しん"],
-        "wk_readings_kun": ["!つつし"],
-        "wk_radicals": ["Soul", "Reality"]
     },
     "拒": {
         "strokes": 8,
@@ -21440,11 +14600,6 @@ data1 = {
         "meanings": ["Repel", "Refuse", "Reject", "Decline"],
         "readings_on": ["きょ", "ご"],
         "readings_kun": ["こば.む"],
-        "wk_level": 39,
-        "wk_meanings": ["Refuse", "^Refusal"],
-        "wk_readings_on": ["きょ"],
-        "wk_readings_kun": ["!こば"],
-        "wk_radicals": ["Fingers", "Giant"]
     },
     "枠": {
         "strokes": 8,
@@ -21455,11 +14610,6 @@ data1 = {
         "meanings": ["Frame", "Framework", "Spindle", "Spool", "Bounding-box", "(kokuji)"],
         "readings_on": [],
         "readings_kun": ["わく"],
-        "wk_level": 39,
-        "wk_meanings": ["Frame"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["わく"],
-        "wk_radicals": ["Tree", "Nine", "Cross"]
     },
     "甲": {
         "strokes": 5,
@@ -21470,11 +14620,6 @@ data1 = {
         "meanings": ["Armor", "High (voice)", "A Grade", "First Class", "Former", "Instep", "Carapace"],
         "readings_on": ["こう", "かん"],
         "readings_kun": ["きのえ"],
-        "wk_level": 39,
-        "wk_meanings": ["Turtle Shell", "^A"],
-        "wk_readings_on": ["こう", "^かん"],
-        "wk_readings_kun": ["!か"],
-        "wk_radicals": ["Turtle Shell"]
     },
     "斐": {
         "strokes": 12,
@@ -21485,11 +14630,6 @@ data1 = {
         "meanings": ["Beautiful", "Patterned"],
         "readings_on": ["ひ", "い"],
         "readings_kun": [],
-        "wk_level": 39,
-        "wk_meanings": ["Patterned"],
-        "wk_readings_on": ["い"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Criminal", "Writing"]
     },
     "祉": {
         "strokes": 8,
@@ -21500,11 +14640,6 @@ data1 = {
         "meanings": ["Welfare", "Happiness"],
         "readings_on": ["し"],
         "readings_kun": [],
-        "wk_level": 39,
-        "wk_meanings": ["Welfare"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Spirit", "Stop"]
     },
     "稲": {
         "strokes": 14,
@@ -21515,11 +14650,6 @@ data1 = {
         "meanings": ["Rice Plant"],
         "readings_on": ["とう", "て"],
         "readings_kun": ["いね", "いな-"],
-        "wk_level": 39,
-        "wk_meanings": ["Rice Plant"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["いね", "いな"],
-        "wk_radicals": ["Grain", "Cleat", "Former"]
     },
     "譲": {
         "strokes": 20,
@@ -21530,11 +14660,6 @@ data1 = {
         "meanings": ["Defer", "Turnover", "Transfer", "Convey"],
         "readings_on": ["じょう"],
         "readings_kun": ["ゆず.る"],
-        "wk_level": 39,
-        "wk_meanings": ["Defer"],
-        "wk_readings_on": ["じょう"],
-        "wk_readings_kun": ["!ゆず"],
-        "wk_radicals": ["Say", "Nurse"]
     },
     "謙": {
         "strokes": 17,
@@ -21545,11 +14670,6 @@ data1 = {
         "meanings": ["Self-effacing", "Humble Oneself", "Condescend", "Be Modest"],
         "readings_on": ["けん"],
         "readings_kun": ["へりくだ.る"],
-        "wk_level": 39,
-        "wk_meanings": ["Modesty"],
-        "wk_readings_on": ["けん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Say", "Mona Lisa"]
     },
     "躍": {
         "strokes": 21,
@@ -21560,11 +14680,6 @@ data1 = {
         "meanings": ["Leap", "Dance", "Skip"],
         "readings_on": ["やく"],
         "readings_kun": ["おど.る"],
-        "wk_level": 39,
-        "wk_meanings": ["Leap"],
-        "wk_readings_on": ["やく"],
-        "wk_readings_kun": ["!おど"],
-        "wk_radicals": ["Foot", "Wolverine", "Turkey"]
     },
     "銃": {
         "strokes": 14,
@@ -21575,11 +14690,6 @@ data1 = {
         "meanings": ["Gun", "Arms"],
         "readings_on": ["じゅう"],
         "readings_kun": ["つつ"],
-        "wk_level": 39,
-        "wk_meanings": ["Gun"],
-        "wk_readings_on": ["じゅう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Gold", "Allocate"]
     },
     "項": {
         "strokes": 12,
@@ -21590,11 +14700,6 @@ data1 = {
         "meanings": ["Paragraph", "Nape Of Neck", "Clause", "Item", "Term (expression)"],
         "readings_on": ["こう"],
         "readings_kun": ["うなじ"],
-        "wk_level": 39,
-        "wk_meanings": ["Paragraph"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Construction", "Geoduck"]
     },
     "鋼": {
         "strokes": 16,
@@ -21605,11 +14710,6 @@ data1 = {
         "meanings": ["Steel"],
         "readings_on": ["こう"],
         "readings_kun": ["はがね"],
-        "wk_level": 39,
-        "wk_meanings": ["Steel"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!はがね"],
-        "wk_radicals": ["Gold", "Hill"]
     },
     "顧": {
         "strokes": 21,
@@ -21620,11 +14720,6 @@ data1 = {
         "meanings": ["Look Back", "Review", "Examine Oneself", "Turn Around"],
         "readings_on": ["こ"],
         "readings_kun": ["かえり.みる"],
-        "wk_level": 40,
-        "wk_meanings": ["Review"],
-        "wk_readings_on": ["こ"],
-        "wk_readings_kun": ["!かえり"],
-        "wk_radicals": ["Employ", "Geoduck"]
     },
 
     "駆": {
@@ -21636,11 +14731,6 @@ data1 = {
         "meanings": ["Drive", "Run", "Gallop", "Advance", "Inspire", "Impel"],
         "readings_on": ["く"],
         "readings_kun": ["か.ける", "か.る"],
-        "wk_level": 40,
-        "wk_meanings": ["Gallop"],
-        "wk_readings_on": ["!く"],
-        "wk_readings_kun": ["か"],
-        "wk_radicals": ["Horse", "District"]
     },
 
     "唱": {
@@ -21652,11 +14742,6 @@ data1 = {
         "meanings": ["Chant", "Recite", "Call Upon", "Yell"],
         "readings_on": ["しょう"],
         "readings_kun": ["とな.える"],
-        "wk_level": 40,
-        "wk_meanings": ["Chant"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!とな"],
-        "wk_radicals": ["Mouth", "Sun"]
     },
     "孝": {
         "strokes": 7,
@@ -21667,11 +14752,6 @@ data1 = {
         "meanings": ["Filial Piety", "Child's Respect"],
         "readings_on": ["こう", "きょう"],
         "readings_kun": [],
-        "wk_level": 40,
-        "wk_meanings": ["Filial Piety"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Teacher"]
     },
     "俊": {
         "strokes": 9,
@@ -21682,11 +14762,6 @@ data1 = {
         "meanings": ["Sagacious", "Genius", "Excellence"],
         "readings_on": ["しゅん"],
         "readings_kun": [],
-        "wk_level": 40,
-        "wk_meanings": ["Genius"],
-        "wk_readings_on": ["しゅん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Spider"]
     },
     "兼": {
         "strokes": 10,
@@ -21697,11 +14772,6 @@ data1 = {
         "meanings": ["Concurrently", "And", "Beforehand", "In Advance"],
         "readings_on": ["けん"],
         "readings_kun": ["か.ねる", "-か.ねる"],
-        "wk_level": 40,
-        "wk_meanings": ["Concurrently"],
-        "wk_readings_on": ["けん"],
-        "wk_readings_kun": ["!か"],
-        "wk_radicals": ["Mona Lisa"]
     },
     "剤": {
         "strokes": 10,
@@ -21712,11 +14782,6 @@ data1 = {
         "meanings": ["Dose", "Medicine", "Drug"],
         "readings_on": ["ざい", "すい", "せい"],
         "readings_kun": ["かる", "けず.る"],
-        "wk_level": 40,
-        "wk_meanings": ["Dose"],
-        "wk_readings_on": ["ざい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Simultaneous", "Knife"]
     },
     "堀": {
         "strokes": 11,
@@ -21727,11 +14792,6 @@ data1 = {
         "meanings": ["Ditch", "Moat", "Canal"],
         "readings_on": ["くつ"],
         "readings_kun": ["ほり"],
-        "wk_level": 40,
-        "wk_meanings": ["Ditch"],
-        "wk_readings_on": ["!くつ"],
-        "wk_readings_kun": ["ほり"],
-        "wk_radicals": ["Dirt", "Flag", "Exit"]
     },
     "巡": {
         "strokes": 6,
@@ -21742,11 +14802,6 @@ data1 = {
         "meanings": ["Patrol", "Go Around", "Circumference"],
         "readings_on": ["じゅん"],
         "readings_kun": ["めぐ.る", "めぐ.り"],
-        "wk_level": 40,
-        "wk_meanings": ["Patrol"],
-        "wk_readings_on": ["じゅん"],
-        "wk_readings_kun": ["!めぐ"],
-        "wk_radicals": ["Scooter", "Flood"]
     },
     "戒": {
         "strokes": 7,
@@ -21757,11 +14812,6 @@ data1 = {
         "meanings": ["Commandment"],
         "readings_on": ["かい"],
         "readings_kun": ["いまし.める"],
-        "wk_level": 40,
-        "wk_meanings": ["Commandment"],
-        "wk_readings_on": ["かい"],
-        "wk_readings_kun": ["!いまし"],
-        "wk_radicals": ["Drunkard", "Twenty"]
     },
     "排": {
         "strokes": 11,
@@ -21772,11 +14822,6 @@ data1 = {
         "meanings": ["Repudiate", "Exclude", "Expel", "Reject", "Line Up", "Arrange"],
         "readings_on": ["はい"],
         "readings_kun": [],
-        "wk_level": 40,
-        "wk_meanings": ["Reject", "^Refuse"],
-        "wk_readings_on": ["はい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Fingers", "Criminal"]
     },
     "携": {
         "strokes": 13,
@@ -21787,11 +14832,6 @@ data1 = {
         "meanings": ["Portable", "Carry (in Hand)", "Armed With", "Bring Along"],
         "readings_on": ["けい"],
         "readings_kun": ["たずさ.える", "たずさ.わる"],
-        "wk_level": 40,
-        "wk_meanings": ["Portable"],
-        "wk_readings_on": ["けい"],
-        "wk_readings_kun": ["!たずさ"],
-        "wk_radicals": ["Fingers", "Turkey", "Stairs"]
     },
     "敏": {
         "strokes": 10,
@@ -21802,11 +14842,6 @@ data1 = {
         "meanings": ["Cleverness", "Agile", "Alert"],
         "readings_on": ["びん"],
         "readings_kun": ["さとい"],
-        "wk_level": 40,
-        "wk_meanings": ["Alert"],
-        "wk_readings_on": ["びん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Every", "Winter"]
     },
 
     "敷": {
@@ -21818,11 +14853,6 @@ data1 = {
         "meanings": ["Spread", "Pave", "Sit", "Promulgate"],
         "readings_on": ["ふ"],
         "readings_kun": ["し.く", "-し.き"],
-        "wk_level": 40,
-        "wk_meanings": ["Spread"],
-        "wk_readings_on": ["!ふ"],
-        "wk_readings_kun": ["しき", "し"],
-        "wk_radicals": ["Cross", "Rice Paddy", "Direction", "Winter"]
     },
 
     "犠": {
@@ -21834,11 +14864,6 @@ data1 = {
         "meanings": ["Sacrifice"],
         "readings_on": ["ぎ", "き"],
         "readings_kun": ["いけにえ"],
-        "wk_level": 40,
-        "wk_meanings": ["Sacrifice"],
-        "wk_readings_on": ["ぎ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Cow", "Righteousness"]
     },
     "獲": {
         "strokes": 16,
@@ -21849,11 +14874,6 @@ data1 = {
         "meanings": ["Seize", "Get", "Find", "Earn", "Acquire", "Can", "May", "Able To"],
         "readings_on": ["かく"],
         "readings_kun": ["え.る"],
-        "wk_level": 40,
-        "wk_meanings": ["Seize"],
-        "wk_readings_on": ["かく"],
-        "wk_readings_kun": ["!え"],
-        "wk_radicals": ["Animal", "Flowers", "Turkey", "Stool"]
     },
     "茂": {
         "strokes": 8,
@@ -21864,11 +14884,6 @@ data1 = {
         "meanings": ["Overgrown", "Grow Thick", "Be Luxuriant"],
         "readings_on": ["も"],
         "readings_kun": ["しげ.る"],
-        "wk_level": 40,
-        "wk_meanings": ["Luxuriant"],
-        "wk_readings_on": ["も"],
-        "wk_readings_kun": ["!しげ"],
-        "wk_radicals": ["Flowers", "Slide", "Drunkard"]
     },
     "繁": {
         "strokes": 16,
@@ -21879,11 +14894,6 @@ data1 = {
         "meanings": ["Luxuriant", "Thick", "Overgrown", "Frequency", "Complexity", "Trouble"],
         "readings_on": ["はん"],
         "readings_kun": ["しげ.る", "しげ.く"],
-        "wk_level": 40,
-        "wk_meanings": ["Overgrown"],
-        "wk_readings_on": ["はん"],
-        "wk_readings_kun": ["!しげ"],
-        "wk_radicals": ["Every", "Winter", "Thread"]
     },
     "頻": {
         "strokes": 17,
@@ -21894,11 +14904,6 @@ data1 = {
         "meanings": ["Repeatedly", "Recur"],
         "readings_on": ["ひん"],
         "readings_kun": ["しき.りに"],
-        "wk_level": 40,
-        "wk_meanings": ["Frequent"],
-        "wk_readings_on": ["ひん"],
-        "wk_readings_kun": ["!しき"],
-        "wk_radicals": ["Walk", "Geoduck"]
     },
     "殖": {
         "strokes": 12,
@@ -21909,11 +14914,6 @@ data1 = {
         "meanings": ["Augment", "Increase", "Multiply", "Raise"],
         "readings_on": ["しょく"],
         "readings_kun": ["ふ.える", "ふ.やす"],
-        "wk_level": 40,
-        "wk_meanings": ["Multiply"],
-        "wk_readings_on": ["しょく"],
-        "wk_readings_kun": ["!ふ"],
-        "wk_radicals": ["Yakuza", "Fix"]
     },
 
     "衝": {
@@ -21925,11 +14925,6 @@ data1 = {
         "meanings": ["Collide", "Brunt", "Highway", "Opposition (astronomy)", "Thrust", "Pierce", "Stab", "Prick"],
         "readings_on": ["しょう"],
         "readings_kun": ["つ.く"],
-        "wk_level": 40,
-        "wk_meanings": ["Collide"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!つ"],
-        "wk_radicals": ["Go", "Heavy"]
     },
     "誉": {
         "strokes": 13,
@@ -21940,11 +14935,6 @@ data1 = {
         "meanings": ["Reputation", "Praise", "Honor", "Glory"],
         "readings_on": ["よ"],
         "readings_kun": ["ほま.れ", "ほ.める"],
-        "wk_level": 40,
-        "wk_meanings": ["Honor"],
-        "wk_readings_on": ["よ"],
-        "wk_readings_kun": ["!ほ"],
-        "wk_radicals": ["Grass", "Ground", "Fins", "Say"]
     },
     "褒": {
         "strokes": 15,
@@ -21955,11 +14945,6 @@ data1 = {
         "meanings": ["Praise", "Extol"],
         "readings_on": ["ほう"],
         "readings_kun": ["ほ.める"],
-        "wk_level": 40,
-        "wk_meanings": ["Praise"],
-        "wk_readings_on": ["ほう"],
-        "wk_readings_kun": ["!ほ"],
-        "wk_radicals": ["Lid", "Preserve", "Kick"]
     },
     "透": {
         "strokes": 10,
@@ -21970,11 +14955,6 @@ data1 = {
         "meanings": ["Transparent", "Permeate", "Filter", "Penetrate"],
         "readings_on": ["とう"],
         "readings_kun": ["す.く", "す.かす", "す.ける", "とう.る", "とう.す"],
-        "wk_level": 40,
-        "wk_meanings": ["Transparent"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": ["!す"],
-        "wk_radicals": ["Scooter", "Grain", "Stairs"]
     },
     "隣": {
         "strokes": 16,
@@ -21985,11 +14965,6 @@ data1 = {
         "meanings": ["Neighboring"],
         "readings_on": ["りん"],
         "readings_kun": ["とな.る", "となり"],
-        "wk_level": 40,
-        "wk_meanings": ["Neighbor", "^Neighbour"],
-        "wk_readings_on": ["りん"],
-        "wk_readings_kun": ["!となり"],
-        "wk_radicals": ["Building", "Rice", "Dance"]
     },
     "雅": {
         "strokes": 13,
@@ -22000,11 +14975,6 @@ data1 = {
         "meanings": ["Gracious", "Elegant", "Graceful", "Refined"],
         "readings_on": ["が"],
         "readings_kun": ["みや.び"],
-        "wk_level": 40,
-        "wk_meanings": ["Elegant"],
-        "wk_readings_on": ["が"],
-        "wk_readings_kun": ["!みや"],
-        "wk_radicals": ["Fang", "Turkey"]
     },
     "遜": {
         "strokes": 13,
@@ -22015,11 +14985,6 @@ data1 = {
         "meanings": ["Humble", "Modest"],
         "readings_on": ["そん"],
         "readings_kun": ["したが.う", "へりくだ.る", "ゆず.る"],
-        "wk_level": 41,
-        "wk_meanings": ["Humble"],
-        "wk_readings_on": ["そん"],
-        "wk_readings_kun": ["!したが"],
-        "wk_radicals": ["Scooter", "Child", "Lineage"]
     },
 
     "徹": {
@@ -22031,11 +14996,6 @@ data1 = {
         "meanings": ["Penetrate", "Clear", "Pierce", "Strike Home", "Sit Up (all Night)"],
         "readings_on": ["てつ"],
         "readings_kun": [],
-        "wk_level": 41,
-        "wk_meanings": ["Penetrate", "^Clear"],
-        "wk_readings_on": ["てつ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Loiter", "Trash", "Moon", "Winter"]
     },
     "瀬": {
         "strokes": 19,
@@ -22046,11 +15006,6 @@ data1 = {
         "meanings": ["Rapids", "Current", "Torrent", "Shallows", "Shoal"],
         "readings_on": ["らい"],
         "readings_kun": ["せ"],
-        "wk_level": 41,
-        "wk_meanings": ["Rapids", "^Shallows"],
-        "wk_readings_on": ["!らい"],
-        "wk_readings_kun": ["せ"],
-        "wk_radicals": ["Tsunami", "Bundle", "Geoduck"]
     },
     "撤": {
         "strokes": 15,
@@ -22061,11 +15016,6 @@ data1 = {
         "meanings": ["Remove", "Withdraw", "Disarm", "Dismantle", "Reject", "Exclude"],
         "readings_on": ["てつ"],
         "readings_kun": [],
-        "wk_level": 41,
-        "wk_meanings": ["Withdrawal"],
-        "wk_readings_on": ["てつ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Fingers", "Trash", "Moon", "Winter"]
     },
     "措": {
         "strokes": 11,
@@ -22076,11 +15026,6 @@ data1 = {
         "meanings": ["Set Aside", "Give Up", "Suspend", "Discontinue", "Lay Aside", "Except"],
         "readings_on": ["そ"],
         "readings_kun": ["お.く"],
-        "wk_level": 41,
-        "wk_meanings": ["Set Aside"],
-        "wk_readings_on": ["そ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Fingers", "Long Ago"]
     },
     "拠": {
         "strokes": 8,
@@ -22091,11 +15036,6 @@ data1 = {
         "meanings": ["Foothold", "Based On", "Follow", "Therefore"],
         "readings_on": ["きょ", "こ"],
         "readings_kun": ["よ.る"],
-        "wk_level": 41,
-        "wk_meanings": ["Based On"],
-        "wk_readings_on": ["きょ"],
-        "wk_readings_kun": ["!よ"],
-        "wk_radicals": ["Fingers", "Winter", "Table"]
     },
     "儀": {
         "strokes": 15,
@@ -22106,11 +15046,6 @@ data1 = {
         "meanings": ["Ceremony", "Rule", "Affair", "Case", "A Matter"],
         "readings_on": ["ぎ"],
         "readings_kun": [],
-        "wk_level": 41,
-        "wk_meanings": ["Ceremony"],
-        "wk_readings_on": ["ぎ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Righteousness"]
     },
     "樹": {
         "strokes": 16,
@@ -22121,11 +15056,6 @@ data1 = {
         "meanings": ["Timber", "Trees", "Wood", "Establish", "Set Up"],
         "readings_on": ["じゅ"],
         "readings_kun": ["き"],
-        "wk_level": 41,
-        "wk_meanings": ["Wood"],
-        "wk_readings_on": ["じゅ"],
-        "wk_readings_kun": ["!き"],
-        "wk_radicals": ["Tree", "Drum", "Measurement"]
     },
     "棄": {
         "strokes": 13,
@@ -22136,11 +15066,6 @@ data1 = {
         "meanings": ["Abandon", "Throw Away", "Discard", "Resign", "Reject", "Sacrifice"],
         "readings_on": ["き"],
         "readings_kun": ["す.てる"],
-        "wk_level": 41,
-        "wk_meanings": ["Abandon"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Trash", "Fruit"]
     },
     "虎": {
         "strokes": 8,
@@ -22151,11 +15076,6 @@ data1 = {
         "meanings": ["Tiger", "Drunkard"],
         "readings_on": ["こ"],
         "readings_kun": ["とら"],
-        "wk_level": 41,
-        "wk_meanings": ["Tiger"],
-        "wk_readings_on": ["!こ"],
-        "wk_readings_kun": ["とら"],
-        "wk_radicals": ["Tiger", "Legs"]
     },
     "蛍": {
         "strokes": 11,
@@ -22166,11 +15086,6 @@ data1 = {
         "meanings": ["Lightning-bug", "Firefly"],
         "readings_on": ["けい"],
         "readings_kun": ["ほたる"],
-        "wk_level": 41,
-        "wk_meanings": ["Firefly"],
-        "wk_readings_on": ["!けい"],
-        "wk_readings_kun": ["ほたる"],
-        "wk_radicals": ["Viking", "Insect"]
     },
     "蜂": {
         "strokes": 13,
@@ -22181,11 +15096,6 @@ data1 = {
         "meanings": ["Bee", "Wasp", "Hornet"],
         "readings_on": ["ほう"],
         "readings_kun": ["はち"],
-        "wk_level": 41,
-        "wk_meanings": ["Bee"],
-        "wk_readings_on": ["!ほう"],
-        "wk_readings_kun": ["はち"],
-        "wk_radicals": ["Insect", "Signpost"]
     },
     "酎": {
         "strokes": 10,
@@ -22196,11 +15106,6 @@ data1 = {
         "meanings": ["Sake"],
         "readings_on": ["ちゅう", "ちゅ"],
         "readings_kun": ["かも.す"],
-        "wk_level": 41,
-        "wk_meanings": ["Sake"],
-        "wk_readings_on": ["ちゅう", "ちゅ"],
-        "wk_readings_kun": ["!かも"],
-        "wk_radicals": ["Alcohol", "Measurement"]
     },
     "蜜": {
         "strokes": 14,
@@ -22211,11 +15116,6 @@ data1 = {
         "meanings": ["Honey", "Nectar", "Molasses"],
         "readings_on": ["みつ", "びつ"],
         "readings_kun": [],
-        "wk_level": 41,
-        "wk_meanings": ["Honey"],
-        "wk_readings_on": ["みつ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Roof", "Certain", "Insect"]
     },
     "墟": {
         "strokes": 15,
@@ -22226,11 +15126,6 @@ data1 = {
         "meanings": ["Ruins"],
         "readings_on": ["きょ"],
         "readings_kun": ["あと"],
-        "wk_level": 41,
-        "wk_meanings": ["Ruins"],
-        "wk_readings_on": ["きょ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Dirt", "Tiger", "Cactus"]
     },
     "艦": {
         "strokes": 21,
@@ -22241,11 +15136,6 @@ data1 = {
         "meanings": ["Warship"],
         "readings_on": ["かん"],
         "readings_kun": [],
-        "wk_level": 41,
-        "wk_meanings": ["Warship"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Boat", "Oversee"]
     },
     "潜": {
         "strokes": 15,
@@ -22256,11 +15146,6 @@ data1 = {
         "meanings": ["Submerge", "Conceal", "Hide", "Lower (voice)", "Hush"],
         "readings_on": ["せん"],
         "readings_kun": ["ひそ.む", "もぐ.る", "かく.れる", "くぐ.る", "ひそ.める"],
-        "wk_level": 41,
-        "wk_meanings": ["Conceal"],
-        "wk_readings_on": ["せん"],
-        "wk_readings_kun": ["!くぐ", "!ひそ", "!もぐ"],
-        "wk_radicals": ["Tsunami", "Husband", "Sun"]
     },
     "拳": {
         "strokes": 10,
@@ -22271,11 +15156,6 @@ data1 = {
         "meanings": ["Fist"],
         "readings_on": ["けん", "げん"],
         "readings_kun": ["こぶし"],
-        "wk_level": 41,
-        "wk_meanings": ["Fist"],
-        "wk_readings_on": ["けん", "^げん"],
-        "wk_readings_kun": ["!こぶし"],
-        "wk_radicals": ["Gladiator", "Hand"]
     },
 
     "畑": {
@@ -22287,11 +15167,6 @@ data1 = {
         "meanings": ["Farm", "Field", "Garden", "One's Specialty", "(kokuji)"],
         "readings_on": [],
         "readings_kun": ["はた", "はたけ", "-ばたけ"],
-        "wk_level": 41,
-        "wk_meanings": ["Field"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["はたけ", "はた"],
-        "wk_radicals": ["Fire", "Rice Paddy"]
     },
 
     "仁": {
@@ -22303,11 +15178,6 @@ data1 = {
         "meanings": ["Humanity", "Virtue", "Benevolence", "Charity", "Man", "Kernel"],
         "readings_on": ["じん", "に", "にん"],
         "readings_kun": [],
-        "wk_level": 41,
-        "wk_meanings": ["Humanity"],
-        "wk_readings_on": ["じん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Two"]
     },
 
     "至": {
@@ -22319,11 +15189,6 @@ data1 = {
         "meanings": ["Climax", "Arrive", "Proceed", "Reach", "Attain", "Result In"],
         "readings_on": ["し"],
         "readings_kun": ["いた.る"],
-        "wk_level": 41,
-        "wk_meanings": ["Attain"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!いた"],
-        "wk_radicals": ["Mole"]
     },
     "誠": {
         "strokes": 13,
@@ -22334,11 +15199,6 @@ data1 = {
         "meanings": ["Sincerity", "Admonish", "Warn", "Prohibit", "Truth", "Fidelity"],
         "readings_on": ["せい"],
         "readings_kun": ["まこと"],
-        "wk_level": 41,
-        "wk_meanings": ["Sincerity"],
-        "wk_readings_on": ["せい"],
-        "wk_readings_kun": ["!まこと"],
-        "wk_radicals": ["Say", "Become"]
     },
     "郷": {
         "strokes": 11,
@@ -22349,11 +15209,6 @@ data1 = {
         "meanings": ["Home Town", "Village", "Native Place", "District"],
         "readings_on": ["きょう", "ごう"],
         "readings_kun": ["さと"],
-        "wk_level": 41,
-        "wk_meanings": ["Hometown"],
-        "wk_readings_on": ["きょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Poop", "Guy"]
     },
     "侵": {
         "strokes": 9,
@@ -22364,11 +15219,6 @@ data1 = {
         "meanings": ["Encroach", "Invade", "Raid", "Trespass", "Violate"],
         "readings_on": ["しん"],
         "readings_kun": ["おか.す"],
-        "wk_level": 41,
-        "wk_meanings": ["Invade"],
-        "wk_readings_on": ["しん"],
-        "wk_readings_kun": ["!おか"],
-        "wk_radicals": ["Leader", "Wolverine", "Forehead", "Stool"]
     },
     "偽": {
         "strokes": 11,
@@ -22379,11 +15229,6 @@ data1 = {
         "meanings": ["Falsehood", "Lie", "Deceive", "Pretend", "Counterfeit", "Forgery"],
         "readings_on": ["ぎ", "か"],
         "readings_kun": ["いつわ.る", "にせ", "いつわ.り"],
-        "wk_level": 41,
-        "wk_meanings": ["Fake"],
-        "wk_readings_on": ["ぎ"],
-        "wk_readings_kun": ["!にせ", "!いつわ"],
-        "wk_radicals": ["Leader", "Sake"]
     },
     "克": {
         "strokes": 7,
@@ -22394,11 +15239,6 @@ data1 = {
         "meanings": ["Overcome", "Kindly", "Skillfully"],
         "readings_on": ["こく"],
         "readings_kun": ["か.つ"],
-        "wk_level": 42,
-        "wk_meanings": ["Overcome"],
-        "wk_readings_on": ["こく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Old", "Legs"]
     },
 
 
@@ -22411,11 +15251,6 @@ data1 = {
         "meanings": ["Philosophy", "Clear"],
         "readings_on": ["てつ"],
         "readings_kun": ["さとい", "あきらか"],
-        "wk_level": 42,
-        "wk_meanings": ["Philosophy"],
-        "wk_readings_on": ["てつ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Fingers", "Axe", "Mouth"]
     },
     "喪": {
         "strokes": 12,
@@ -22426,11 +15261,6 @@ data1 = {
         "meanings": ["Miss", "Mourning"],
         "readings_on": ["そう"],
         "readings_kun": ["も"],
-        "wk_level": 42,
-        "wk_meanings": ["Mourning"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": ["!も"],
-        "wk_radicals": ["Cross", "Mouth", "Clothes"]
     },
     "堅": {
         "strokes": 12,
@@ -22441,11 +15271,6 @@ data1 = {
         "meanings": ["Strict", "Hard", "Solid", "Tough", "Tight", "Reliable"],
         "readings_on": ["けん"],
         "readings_kun": ["かた.い", "-がた.い"],
-        "wk_level": 42,
-        "wk_meanings": ["Solid"],
-        "wk_readings_on": ["!けん"],
-        "wk_readings_kun": ["かた"],
-        "wk_radicals": ["Servant", "Stool", "Dirt"]
     },
 
     "括": {
@@ -22457,11 +15282,6 @@ data1 = {
         "meanings": ["Fasten", "Tie Up", "Arrest", "Constrict"],
         "readings_on": ["かつ"],
         "readings_kun": ["くく.る"],
-        "wk_level": 42,
-        "wk_meanings": ["Fasten"],
-        "wk_readings_on": ["かつ"],
-        "wk_readings_kun": ["!くく"],
-        "wk_radicals": ["Fingers", "Tongue"]
     },
     "弧": {
         "strokes": 9,
@@ -22472,11 +15292,6 @@ data1 = {
         "meanings": ["Arc", "Arch", "Bow"],
         "readings_on": ["こ"],
         "readings_kun": [],
-        "wk_level": 42,
-        "wk_meanings": ["Arc"],
-        "wk_readings_on": ["こ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Bow", "Melon"]
     },
     "挑": {
         "strokes": 9,
@@ -22487,11 +15302,6 @@ data1 = {
         "meanings": ["Challenge", "Contend For", "Make Love To"],
         "readings_on": ["ちょう"],
         "readings_kun": ["いど.む"],
-        "wk_level": 42,
-        "wk_meanings": ["Challenge"],
-        "wk_readings_on": ["ちょう"],
-        "wk_readings_kun": ["!いど"],
-        "wk_radicals": ["Fingers", "Omen"]
     },
 
     "揚": {
@@ -22503,11 +15313,6 @@ data1 = {
         "meanings": ["Raise", "Elevate", "Hoist", "Praise", "Extol", "Fry In Deep Fat"],
         "readings_on": ["よう"],
         "readings_kun": ["あ.げる", "-あ.げ", "あ.がる"],
-        "wk_level": 42,
-        "wk_meanings": ["Hoist"],
-        "wk_readings_on": ["よう"],
-        "wk_readings_kun": ["!あ"],
-        "wk_radicals": ["Fingers", "Easy"]
     },
     "握": {
         "strokes": 12,
@@ -22518,11 +15323,6 @@ data1 = {
         "meanings": ["Grip", "Hold", "Mould Sushi", "Bribe"],
         "readings_on": ["あく"],
         "readings_kun": ["にぎ.る"],
-        "wk_level": 42,
-        "wk_meanings": ["Grip"],
-        "wk_readings_on": ["あく"],
-        "wk_readings_kun": ["!にぎ"],
-        "wk_radicals": ["Fingers", "Shop"]
     },
     "揺": {
         "strokes": 12,
@@ -22533,11 +15333,6 @@ data1 = {
         "meanings": ["Swing", "Shake", "Sway", "Rock", "Tremble", "Vibrate"],
         "readings_on": ["よう"],
         "readings_kun": ["ゆ.れる", "ゆ.る", "ゆ.らぐ", "ゆ.るぐ", "ゆ.する", "ゆ.さぶる", "ゆ.すぶる", "うご.く"],
-        "wk_level": 42,
-        "wk_meanings": ["Shake"],
-        "wk_readings_on": ["よう"],
-        "wk_readings_kun": ["!ゆ"],
-        "wk_radicals": ["Fingers", "Satellite"]
     },
     "斎": {
         "strokes": 11,
@@ -22548,11 +15343,6 @@ data1 = {
         "meanings": ["Purification", "Buddhist Food", "Room", "Worship", "Avoid", "Alike"],
         "readings_on": ["さい"],
         "readings_kun": ["とき", "つつし.む", "ものいみ", "い.む", "いわ.う", "いつ.く"],
-        "wk_level": 42,
-        "wk_meanings": ["Purification"],
-        "wk_readings_on": ["さい"],
-        "wk_readings_kun": ["!いつ"],
-        "wk_radicals": ["Simultaneous", "Jackhammer"]
     },
     "暫": {
         "strokes": 15,
@@ -22563,11 +15353,6 @@ data1 = {
         "meanings": ["Temporarily", "A While", "Moment", "Long Time"],
         "readings_on": ["ざん"],
         "readings_kun": ["しばら.く"],
-        "wk_level": 42,
-        "wk_meanings": ["Temporarily"],
-        "wk_readings_on": ["ざん"],
-        "wk_readings_kun": ["!しばら"],
-        "wk_radicals": ["Car", "Axe", "Sun"]
     },
     "析": {
         "strokes": 8,
@@ -22578,11 +15363,6 @@ data1 = {
         "meanings": ["Chop", "Divide", "Tear", "Analyze"],
         "readings_on": ["せき"],
         "readings_kun": [],
-        "wk_level": 42,
-        "wk_meanings": ["Analysis"],
-        "wk_readings_on": ["せき"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tree", "Axe"]
     },
     "枢": {
         "strokes": 8,
@@ -22593,11 +15373,6 @@ data1 = {
         "meanings": ["Hinge", "Pivot", "Door"],
         "readings_on": ["すう", "しゅ"],
         "readings_kun": ["とぼそ", "からくり"],
-        "wk_level": 42,
-        "wk_meanings": ["Hinge"],
-        "wk_readings_on": ["すう"],
-        "wk_readings_kun": ["!からくり"],
-        "wk_radicals": ["Tree", "District"]
     },
     "軸": {
         "strokes": 12,
@@ -22608,11 +15383,6 @@ data1 = {
         "meanings": ["Axis", "Pivot", "Stem", "Stalk", "Counter For Book Scrolls"],
         "readings_on": ["じく"],
         "readings_kun": [],
-        "wk_level": 42,
-        "wk_meanings": ["Axis"],
-        "wk_readings_on": ["じく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Car", "Reason"]
     },
     "柄": {
         "strokes": 9,
@@ -22623,11 +15393,6 @@ data1 = {
         "meanings": ["Design", "Pattern", "Build", "Nature", "Character", "Handle", "Crank", "Grip", "Knob", "Shaft"],
         "readings_on": ["へい"],
         "readings_kun": ["がら", "え", "つか"],
-        "wk_level": 42,
-        "wk_meanings": ["Pattern"],
-        "wk_readings_on": ["!へい"],
-        "wk_readings_kun": ["がら"],
-        "wk_radicals": ["Tree", "Dynamite"]
     },
 
     "滑": {
@@ -22639,11 +15404,6 @@ data1 = {
         "meanings": ["Slippery", "Slide", "Slip", "Flunk"],
         "readings_on": ["かつ", "こつ"],
         "readings_kun": ["すべ.る", "なめ.らか"],
-        "wk_level": 42,
-        "wk_meanings": ["Slippery"],
-        "wk_readings_on": ["かつ"],
-        "wk_readings_kun": ["!すべ", "!なめ"],
-        "wk_radicals": ["Tsunami", "Bone"]
     },
     "潟": {
         "strokes": 15,
@@ -22654,11 +15414,6 @@ data1 = {
         "meanings": ["Lagoon"],
         "readings_on": ["せき"],
         "readings_kun": ["かた", "-がた"],
-        "wk_level": 42,
-        "wk_meanings": ["Lagoon"],
-        "wk_readings_on": ["!せき"],
-        "wk_readings_kun": ["かた"],
-        "wk_radicals": ["Tsunami", "Sun", "Wing"]
     },
     "焦": {
         "strokes": 12,
@@ -22669,11 +15424,6 @@ data1 = {
         "meanings": ["Char", "Hurry", "Impatient", "Irritate", "Burn", "Scorch", "Singe"],
         "readings_on": ["しょう"],
         "readings_kun": ["こ.げる", "こ.がす", "こ.がれる", "あせ.る"],
-        "wk_level": 42,
-        "wk_meanings": ["Char"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!こ", "!あせ"],
-        "wk_radicals": ["Turkey", "Boil"]
     },
     "範": {
         "strokes": 15,
@@ -22684,11 +15434,6 @@ data1 = {
         "meanings": ["Pattern", "Example", "Model"],
         "readings_on": ["はん"],
         "readings_kun": [],
-        "wk_level": 42,
-        "wk_meanings": ["Example"],
-        "wk_readings_on": ["はん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Bamboo", "Car", "Snake"]
     },
     "紛": {
         "strokes": 10,
@@ -22699,11 +15444,6 @@ data1 = {
         "meanings": ["Distract", "Be Mistaken For", "Go Astray", "Divert"],
         "readings_on": ["ふん"],
         "readings_kun": ["まぎ.れる", "-まぎ.れ", "まぎ.らす", "まぎ.らわす", "まぎ.らわしい"],
-        "wk_level": 42,
-        "wk_meanings": ["Distract"],
-        "wk_readings_on": ["ふん"],
-        "wk_readings_kun": ["!まぎ", "!まぐ"],
-        "wk_radicals": ["Thread", "Part"]
     },
     "糾": {
         "strokes": 9,
@@ -22714,11 +15454,6 @@ data1 = {
         "meanings": ["Twist", "Ask", "Investigate", "Verify"],
         "readings_on": ["きゅう"],
         "readings_kun": ["ただ.す"],
-        "wk_level": 42,
-        "wk_meanings": ["Twist"],
-        "wk_readings_on": ["きゅう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Thread", "Vines"]
     },
     "綱": {
         "strokes": 14,
@@ -22729,11 +15464,6 @@ data1 = {
         "meanings": ["Hawser", "Class (genus)", "Rope", "Cord", "Cable"],
         "readings_on": ["こう"],
         "readings_kun": ["つな"],
-        "wk_level": 42,
-        "wk_meanings": ["Cable"],
-        "wk_readings_on": ["!こう"],
-        "wk_readings_kun": ["つな"],
-        "wk_radicals": ["Thread", "Hill"]
     },
     "網": {
         "strokes": 14,
@@ -22744,11 +15474,6 @@ data1 = {
         "meanings": ["Netting", "Network"],
         "readings_on": ["もう"],
         "readings_kun": ["あみ"],
-        "wk_level": 42,
-        "wk_meanings": ["Netting"],
-        "wk_readings_on": ["もう"],
-        "wk_readings_kun": ["!あみ"],
-        "wk_radicals": ["Thread", "Hill"]
     },
     "肝": {
         "strokes": 7,
@@ -22759,11 +15484,6 @@ data1 = {
         "meanings": ["Liver", "Pluck", "Nerve", "Chutzpah"],
         "readings_on": ["かん"],
         "readings_kun": ["きも"],
-        "wk_level": 42,
-        "wk_meanings": ["Liver"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": ["!きも"],
-        "wk_radicals": ["Moon", "Dry"]
     },
     "芝": {
         "strokes": 6,
@@ -22774,11 +15494,6 @@ data1 = {
         "meanings": ["Turf", "Lawn"],
         "readings_on": ["し"],
         "readings_kun": ["しば"],
-        "wk_level": 42,
-        "wk_meanings": ["Lawn"],
-        "wk_readings_on": ["!し"],
-        "wk_readings_kun": ["しば"],
-        "wk_radicals": ["Flowers", "Hills"]
     },
 
     "誰": {
@@ -22790,11 +15505,6 @@ data1 = {
         "meanings": ["Who", "Someone", "Somebody"],
         "readings_on": ["すい"],
         "readings_kun": ["だれ", "たれ", "た"],
-        "wk_level": 43,
-        "wk_meanings": ["Who"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["だれ"],
-        "wk_radicals": ["Say", "Turkey"]
     },
 
     "裂": {
@@ -22806,11 +15516,6 @@ data1 = {
         "meanings": ["Split", "Rend", "Tear"],
         "readings_on": ["れつ"],
         "readings_kun": ["さ.く", "さ.ける", "-ぎ.れ"],
-        "wk_level": 43,
-        "wk_meanings": ["Split", "^Tear"],
-        "wk_readings_on": ["れつ"],
-        "wk_readings_kun": ["!さ"],
-        "wk_radicals": ["Yakuza", "Knife", "Clothes"]
     },
     "襲": {
         "strokes": 22,
@@ -22821,11 +15526,6 @@ data1 = {
         "meanings": ["Attack", "Advance On", "Succeed To", "Pile", "Heap"],
         "readings_on": ["しゅう"],
         "readings_kun": ["おそ.う", "かさ.ね"],
-        "wk_level": 43,
-        "wk_meanings": ["Attack"],
-        "wk_readings_on": ["しゅう"],
-        "wk_readings_kun": ["!おそ"],
-        "wk_radicals": ["Imperial", "Clothes"]
     },
     "貢": {
         "strokes": 10,
@@ -22836,11 +15536,6 @@ data1 = {
         "meanings": ["Tribute", "Support", "Finance"],
         "readings_on": ["こう", "く"],
         "readings_kun": ["みつ.ぐ"],
-        "wk_level": 43,
-        "wk_meanings": ["Tribute"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!みつ"],
-        "wk_radicals": ["Construction", "Shellfish"]
     },
     "趣": {
         "strokes": 15,
@@ -22851,11 +15546,6 @@ data1 = {
         "meanings": ["Purport", "Gist", "Elegance", "Interest", "Proceed To", "Tend", "Become"],
         "readings_on": ["しゅ"],
         "readings_kun": ["おもむき", "おもむ.く"],
-        "wk_level": 43,
-        "wk_meanings": ["Gist"],
-        "wk_readings_on": ["しゅ"],
-        "wk_readings_kun": ["!おもむき"],
-        "wk_radicals": ["Run", "Ear", "Stool"]
     },
     "距": {
         "strokes": 12,
@@ -22866,11 +15556,6 @@ data1 = {
         "meanings": ["Long-distance", "Spur", "Fetlock"],
         "readings_on": ["きょ"],
         "readings_kun": ["へだ.たる", "けづめ"],
-        "wk_level": 43,
-        "wk_meanings": ["Distance"],
-        "wk_readings_on": ["きょ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Foot", "Giant"]
     },
 
     "露": {
@@ -22882,11 +15567,6 @@ data1 = {
         "meanings": ["Dew", "Tears", "Expose", "Russia"],
         "readings_on": ["ろ", "ろう"],
         "readings_kun": ["つゆ"],
-        "wk_level": 43,
-        "wk_meanings": ["Expose", "^Dew"],
-        "wk_readings_on": ["ろ", "ろう"],
-        "wk_readings_kun": ["!つゆ"],
-        "wk_radicals": ["Rain", "Foot", "Kiss"]
     },
     "牧": {
         "strokes": 8,
@@ -22897,11 +15577,6 @@ data1 = {
         "meanings": ["Breed", "Care For", "Shepherd", "Feed", "Pasture"],
         "readings_on": ["ぼく"],
         "readings_kun": ["まき"],
-        "wk_level": 43,
-        "wk_meanings": ["Pasture"],
-        "wk_readings_on": ["ぼく"],
-        "wk_readings_kun": ["!まき"],
-        "wk_radicals": ["Cow", "Winter"]
     },
 
     "朗": {
@@ -22913,11 +15588,6 @@ data1 = {
         "meanings": ["Melodious", "Clear", "Bright", "Serene", "Cheerful"],
         "readings_on": ["ろう"],
         "readings_kun": ["ほが.らか", "あき.らか"],
-        "wk_level": 43,
-        "wk_meanings": ["Bright"],
-        "wk_readings_on": ["ろう"],
-        "wk_readings_kun": ["!ほが"],
-        "wk_radicals": ["Good", "Moon"]
     },
     "潮": {
         "strokes": 15,
@@ -22928,11 +15598,6 @@ data1 = {
         "meanings": ["Tide", "Salt Water", "Opportunity"],
         "readings_on": ["ちょう"],
         "readings_kun": ["しお", "うしお"],
-        "wk_level": 43,
-        "wk_meanings": ["Tide"],
-        "wk_readings_on": ["ちょう"],
-        "wk_readings_kun": ["!しお"],
-        "wk_radicals": ["Tsunami", "Morning", "Moon"]
     },
     "即": {
         "strokes": 7,
@@ -22943,11 +15608,6 @@ data1 = {
         "meanings": ["Instant", "Namely", "As Is", "Conform", "Agree", "Adapt"],
         "readings_on": ["そく"],
         "readings_kun": ["つ.く", "つ.ける", "すなわ.ち"],
-        "wk_level": 43,
-        "wk_meanings": ["Instant"],
-        "wk_readings_on": ["そく"],
-        "wk_readings_kun": ["!すなわ"],
-        "wk_radicals": ["Root", "Stamp"]
     },
     "垣": {
         "strokes": 9,
@@ -22958,11 +15618,6 @@ data1 = {
         "meanings": ["Hedge", "Fence", "Wall"],
         "readings_on": ["えん"],
         "readings_kun": ["かき"],
-        "wk_level": 43,
-        "wk_meanings": ["Hedge", "^Fence"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["かき"],
-        "wk_radicals": ["Dirt", "Ground", "Dawn"]
     },
     "威": {
         "strokes": 9,
@@ -22973,11 +15628,6 @@ data1 = {
         "meanings": ["Intimidate", "Dignity", "Majesty", "Menace", "Threaten"],
         "readings_on": ["い"],
         "readings_kun": ["おど.す", "おど.し", "おど.かす"],
-        "wk_level": 43,
-        "wk_meanings": ["Majesty"],
-        "wk_readings_on": ["い"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Slide", "Drunkard", "Ground", "Woman"]
     },
 
     "岳": {
@@ -22989,11 +15639,6 @@ data1 = {
         "meanings": ["Point", "Peak", "Mountain"],
         "readings_on": ["がく"],
         "readings_kun": ["たけ"],
-        "wk_level": 43,
-        "wk_meanings": ["Peak"],
-        "wk_readings_on": ["がく"],
-        "wk_readings_kun": ["!たけ"],
-        "wk_radicals": ["Axe", "Ground", "Mountain"]
     },
     "慰": {
         "strokes": 15,
@@ -23004,11 +15649,6 @@ data1 = {
         "meanings": ["Consolation", "Amusement", "Seduce", "Cheer", "Make Sport Of", "Comfort", "Console"],
         "readings_on": ["い"],
         "readings_kun": ["なぐさ.める", "なぐさ.む"],
-        "wk_level": 43,
-        "wk_meanings": ["Consolation"],
-        "wk_readings_on": ["い"],
-        "wk_readings_kun": ["!なぐさ"],
-        "wk_radicals": ["Flag", "Jackhammer", "Measurement", "Heart"]
     },
     "懇": {
         "strokes": 17,
@@ -23019,11 +15659,6 @@ data1 = {
         "meanings": ["Sociable", "Kind", "Courteous", "Hospitable", "Cordial"],
         "readings_on": ["こん"],
         "readings_kun": ["ねんご.ろ"],
-        "wk_level": 43,
-        "wk_meanings": ["Courteous"],
-        "wk_readings_on": ["こん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Badger", "Root", "Heart"]
     },
     "懲": {
         "strokes": 18,
@@ -23034,11 +15669,6 @@ data1 = {
         "meanings": ["Penal", "Chastise", "Punish", "Discipline"],
         "readings_on": ["ちょう"],
         "readings_kun": ["こ.りる", "こ.らす", "こ.らしめる"],
-        "wk_level": 43,
-        "wk_meanings": ["Chastise"],
-        "wk_readings_on": ["ちょう"],
-        "wk_readings_kun": ["!こ"],
-        "wk_radicals": ["Loiter", "Mountain", "King", "Winter", "Heart"]
     },
     "摩": {
         "strokes": 15,
@@ -23049,11 +15679,6 @@ data1 = {
         "meanings": ["Chafe", "Rub", "Polish", "Grind", "Scrape"],
         "readings_on": ["ま"],
         "readings_kun": ["ま.する", "さす.る", "す.る"],
-        "wk_level": 43,
-        "wk_meanings": ["Chafe"],
-        "wk_readings_on": ["ま"],
-        "wk_readings_kun": ["!さす"],
-        "wk_radicals": ["Canopy", "Tree", "Hand"]
     },
     "擦": {
         "strokes": 17,
@@ -23064,11 +15689,6 @@ data1 = {
         "meanings": ["Grate", "Rub", "Scratch", "Scrape", "Chafe", "Scour"],
         "readings_on": ["さつ"],
         "readings_kun": ["す.る", "す.れる", "-ず.れ", "こす.る", "こす.れる"],
-        "wk_level": 43,
-        "wk_meanings": ["Grate"],
-        "wk_readings_on": ["さつ"],
-        "wk_readings_kun": ["!こす", "!す"],
-        "wk_radicals": ["Fingers", "Roof", "Festival"]
     },
     "撲": {
         "strokes": 15,
@@ -23079,11 +15699,6 @@ data1 = {
         "meanings": ["Slap", "Strike", "Hit", "Beat", "Tell", "Speak"],
         "readings_on": ["ぼく"],
         "readings_kun": [],
-        "wk_level": 43,
-        "wk_meanings": ["Slap"],
-        "wk_readings_on": ["ぼく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Fingers", "Business"]
     },
     "斉": {
         "strokes": 8,
@@ -23094,11 +15709,6 @@ data1 = {
         "meanings": ["Adjusted", "Alike", "Equal", "Similar Variety Of"],
         "readings_on": ["せい", "さい"],
         "readings_kun": ["そろ.う", "ひと.しい", "ひと.しく", "あたる", "はやい"],
-        "wk_level": 43,
-        "wk_meanings": ["Simultaneous"],
-        "wk_readings_on": ["せい", "さい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Simultaneous"]
     },
     "旨": {
         "strokes": 6,
@@ -23109,11 +15719,6 @@ data1 = {
         "meanings": ["Delicious", "Relish", "Show A Liking For", "Purport", "Will", "Clever", "Expert"],
         "readings_on": ["し"],
         "readings_kun": ["むね", "うま.い"],
-        "wk_level": 43,
-        "wk_meanings": ["Point", "^Delicious"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!うま", "!むね"],
-        "wk_radicals": ["Spoon", "Sun"]
     },
 
     "沼": {
@@ -23125,11 +15730,6 @@ data1 = {
         "meanings": ["Marsh", "Lake", "Bog", "Swamp", "Pond"],
         "readings_on": ["しょう"],
         "readings_kun": ["ぬま"],
-        "wk_level": 43,
-        "wk_meanings": ["Bog"],
-        "wk_readings_on": ["!しょう"],
-        "wk_readings_kun": ["ぬま"],
-        "wk_radicals": ["Tsunami", "Call"]
     },
     "泰": {
         "strokes": 10,
@@ -23140,11 +15740,6 @@ data1 = {
         "meanings": ["Peaceful", "Calm", "Peace", "Easy", "Thailand", "Extreme", "Excessive", "Great"],
         "readings_on": ["たい"],
         "readings_kun": [],
-        "wk_level": 43,
-        "wk_meanings": ["Peace"],
-        "wk_readings_on": ["たい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Spring", "Water"]
     },
     "滅": {
         "strokes": 13,
@@ -23155,11 +15750,6 @@ data1 = {
         "meanings": ["Destroy", "Ruin", "Overthrow", "Perish"],
         "readings_on": ["めつ"],
         "readings_kun": ["ほろ.びる", "ほろ.ぶ", "ほろ.ぼす"],
-        "wk_level": 43,
-        "wk_meanings": ["Destroy"],
-        "wk_readings_on": ["めつ"],
-        "wk_readings_kun": ["!ほろ"],
-        "wk_radicals": ["Tsunami", "Slide", "Drunkard", "Ground", "Fire"]
     },
     "滋": {
         "strokes": 12,
@@ -23170,11 +15760,6 @@ data1 = {
         "meanings": ["Nourishing", "More & More", "Be Luxuriant", "Planting", "Turbidity"],
         "readings_on": ["じ", "し"],
         "readings_kun": [],
-        "wk_level": 43,
-        "wk_meanings": ["Nourishing"],
-        "wk_readings_on": ["じ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tsunami", "Horns", "Ground", "Poop"]
     },
     "炉": {
         "strokes": 8,
@@ -23185,11 +15770,6 @@ data1 = {
         "meanings": ["Hearth", "Furnace", "Kiln", "Reactor"],
         "readings_on": ["ろ"],
         "readings_kun": ["いろり"],
-        "wk_level": 43,
-        "wk_meanings": ["Furnace"],
-        "wk_readings_on": ["ろ"],
-        "wk_readings_kun": ["!いろり"],
-        "wk_radicals": ["Fire", "Door"]
     },
     "琴": {
         "strokes": 12,
@@ -23200,11 +15780,6 @@ data1 = {
         "meanings": ["Harp", "Koto"],
         "readings_on": ["きん", "ごん"],
         "readings_kun": ["こと"],
-        "wk_level": 43,
-        "wk_meanings": ["Harp"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["こと"],
-        "wk_radicals": ["King", "Now"]
     },
     "寸": {
         "strokes": 3,
@@ -23215,11 +15790,6 @@ data1 = {
         "meanings": ["Measurement", "Tenth Of A Shaku", "A Little", "Small"],
         "readings_on": ["すん"],
         "readings_kun": [],
-        "wk_level": 44,
-        "wk_meanings": ["Measurement"],
-        "wk_readings_on": ["すん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Measurement"]
     },
     "竜": {
         "strokes": 10,
@@ -23230,11 +15800,6 @@ data1 = {
         "meanings": ["Dragon", "Imperial"],
         "readings_on": ["りゅう", "りょう", "ろう"],
         "readings_kun": ["たつ", "いせ"],
-        "wk_level": 44,
-        "wk_meanings": ["Dragon"],
-        "wk_readings_on": ["りゅう"],
-        "wk_readings_kun": ["!たつ"],
-        "wk_radicals": ["Dragon"]
     },
     "縁": {
         "strokes": 15,
@@ -23245,11 +15810,6 @@ data1 = {
         "meanings": ["Affinity", "Relation", "Connection", "Edge", "Border", "Verge", "Brink"],
         "readings_on": ["えん", "-ねん"],
         "readings_kun": ["ふち", "ふちど.る", "ゆかり", "よすが", "へり", "えにし"],
-        "wk_level": 44,
-        "wk_meanings": ["Edge"],
-        "wk_readings_on": ["えん", "^ねん"],
-        "wk_readings_kun": ["!ふち"],
-        "wk_radicals": ["Thread", "Wolverine", "Pig"]
     },
     "翼": {
         "strokes": 17,
@@ -23260,11 +15820,6 @@ data1 = {
         "meanings": ["Wing", "Plane", "Flank"],
         "readings_on": ["よく"],
         "readings_kun": ["つばさ"],
-        "wk_level": 44,
-        "wk_meanings": ["Wing"],
-        "wk_readings_on": ["よく"],
-        "wk_readings_kun": ["!つばさ"],
-        "wk_radicals": ["Feathers", "Rice Paddy", "Together"]
     },
     "吉": {
         "strokes": 6,
@@ -23275,11 +15830,6 @@ data1 = {
         "meanings": ["Good Luck", "Joy", "Congratulations"],
         "readings_on": ["きち", "きつ"],
         "readings_kun": ["よし"],
-        "wk_level": 44,
-        "wk_meanings": ["Good Luck"],
-        "wk_readings_on": ["きつ", "きち"],
-        "wk_readings_kun": ["!よし"],
-        "wk_radicals": ["Good Luck"]
     },
     "刃": {
         "strokes": 3,
@@ -23290,11 +15840,6 @@ data1 = {
         "meanings": ["Blade", "Sword", "Edge"],
         "readings_on": ["じん", "にん"],
         "readings_kun": ["は", "やいば", "き.る"],
-        "wk_level": 44,
-        "wk_meanings": ["Blade"],
-        "wk_readings_on": ["!じん", "!にん"],
-        "wk_readings_kun": ["は"],
-        "wk_radicals": ["Blade"]
     },
     "忍": {
         "strokes": 7,
@@ -23305,11 +15850,6 @@ data1 = {
         "meanings": ["Endure", "Bear", "Put Up With", "Conceal", "Secrete", "Spy", "Sneak"],
         "readings_on": ["にん"],
         "readings_kun": ["しの.ぶ", "しの.ばせる"],
-        "wk_level": 44,
-        "wk_meanings": ["Endure"],
-        "wk_readings_on": ["にん"],
-        "wk_readings_kun": ["!しの"],
-        "wk_radicals": ["Blade", "Heart"]
     },
     "桃": {
         "strokes": 10,
@@ -23320,11 +15860,6 @@ data1 = {
         "meanings": ["Peach"],
         "readings_on": ["とう"],
         "readings_kun": ["もも"],
-        "wk_level": 44,
-        "wk_meanings": ["Peach"],
-        "wk_readings_on": ["!とう"],
-        "wk_readings_kun": ["もも"],
-        "wk_radicals": ["Tree", "Omen"]
     },
 
     "謎": {
@@ -23336,11 +15871,6 @@ data1 = {
         "meanings": ["Riddle", "Puzzle", "Enigma", "Hint", "Tip"],
         "readings_on": ["めい", "べい"],
         "readings_kun": ["なぞ"],
-        "wk_level": 44,
-        "wk_meanings": ["Riddle"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["なぞ"],
-        "wk_radicals": ["Say", "Scooter", "Rice"]
     },
     "侍": {
         "strokes": 8,
@@ -23351,11 +15881,6 @@ data1 = {
         "meanings": ["Waiter", "Samurai", "Wait Upon", "Serve"],
         "readings_on": ["じ", "し"],
         "readings_kun": ["さむらい", "はべ.る"],
-        "wk_level": 44,
-        "wk_meanings": ["Samurai"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["さむらい"],
-        "wk_radicals": ["Leader", "Temple"]
     },
     "俺": {
         "strokes": 10,
@@ -23366,11 +15891,6 @@ data1 = {
         "meanings": ["I", "Myself"],
         "readings_on": ["えん"],
         "readings_kun": ["おれ", "われ"],
-        "wk_level": 44,
-        "wk_meanings": ["I", "^Me"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["おれ"],
-        "wk_radicals": ["Leader", "Big", "Rice Paddy", "Umbrella"]
     },
     "叱": {
         "strokes": 5,
@@ -23381,11 +15901,6 @@ data1 = {
         "meanings": ["Scold", "Reprove"],
         "readings_on": ["しつ", "しち"],
         "readings_kun": ["しか.る"],
-        "wk_level": 44,
-        "wk_meanings": ["Scold"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["しか"],
-        "wk_radicals": ["Mouth", "Seven"]
     },
     "娯": {
         "strokes": 10,
@@ -23396,11 +15911,6 @@ data1 = {
         "meanings": ["Recreation", "Pleasure"],
         "readings_on": ["ご"],
         "readings_kun": [],
-        "wk_level": 44,
-        "wk_meanings": ["Recreation"],
-        "wk_readings_on": ["ご"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Woman", "Catapult"]
     },
     "斗": {
         "strokes": 4,
@@ -23411,11 +15921,6 @@ data1 = {
         "meanings": ["Big Dipper", "Ten Sho (vol)", "Sake Dipper", "Dots And Cross Radical (no. 68)"],
         "readings_on": ["と", "とう"],
         "readings_kun": [],
-        "wk_level": 44,
-        "wk_meanings": ["Ladle"],
-        "wk_readings_on": ["と"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Ladle"]
     },
     "朱": {
         "strokes": 6,
@@ -23426,11 +15931,6 @@ data1 = {
         "meanings": ["Vermilion", "Cinnabar", "Scarlet", "Red", "Bloody"],
         "readings_on": ["しゅ"],
         "readings_kun": ["あけ"],
-        "wk_level": 44,
-        "wk_meanings": ["Vermillion"],
-        "wk_readings_on": ["しゅ"],
-        "wk_readings_kun": ["!あけ"],
-        "wk_radicals": ["Slide", "Jet"]
     },
     "丘": {
         "strokes": 5,
@@ -23441,11 +15941,6 @@ data1 = {
         "meanings": ["Hill", "Knoll"],
         "readings_on": ["きゅう"],
         "readings_kun": ["おか"],
-        "wk_level": 44,
-        "wk_meanings": ["Hill"],
-        "wk_readings_on": ["きゅう"],
-        "wk_readings_kun": ["!おか"],
-        "wk_radicals": ["Axe", "Ground"]
     },
     "梨": {
         "strokes": 11,
@@ -23456,11 +15951,6 @@ data1 = {
         "meanings": ["Pear Tree"],
         "readings_on": ["り"],
         "readings_kun": ["なし"],
-        "wk_level": 44,
-        "wk_meanings": ["Pear"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["なし"],
-        "wk_radicals": ["Grain", "Knife", "Tree"]
     },
     "僕": {
         "strokes": 14,
@@ -23471,11 +15961,6 @@ data1 = {
         "meanings": ["Me", "I (male)", "Servant", "Manservant"],
         "readings_on": ["ぼく"],
         "readings_kun": ["しもべ"],
-        "wk_level": 12,
-        "wk_meanings": ["I", "^Me"],
-        "wk_readings_on": ["ぼく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Business"]
     },
 
     "釣": {
@@ -23487,11 +15972,6 @@ data1 = {
         "meanings": ["Angling", "Fish", "Catch", "Allure", "Ensnare"],
         "readings_on": ["ちょう"],
         "readings_kun": ["つ.る", "つ.り", "つ.り-"],
-        "wk_level": 44,
-        "wk_meanings": ["Fishing"],
-        "wk_readings_on": ["!ちょう"],
-        "wk_readings_kun": ["つ"],
-        "wk_radicals": ["Gold", "Pool"]
     },
 
     "嵐": {
@@ -23503,11 +15983,6 @@ data1 = {
         "meanings": ["Storm", "Tempest"],
         "readings_on": ["らん"],
         "readings_kun": ["あらし"],
-        "wk_level": 44,
-        "wk_meanings": ["Storm"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["あらし"],
-        "wk_radicals": ["Mountain", "Wind"]
     },
     "笠": {
         "strokes": 11,
@@ -23518,11 +15993,6 @@ data1 = {
         "meanings": ["Bamboo Hat", "One's Influence"],
         "readings_on": ["りゅう"],
         "readings_kun": ["かさ"],
-        "wk_level": 44,
-        "wk_meanings": ["Conical Hat"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["かさ"],
-        "wk_radicals": ["Bamboo", "Stand"]
     },
 
     "姫": {
@@ -23534,11 +16004,6 @@ data1 = {
         "meanings": ["Princess"],
         "readings_on": ["き"],
         "readings_kun": ["ひめ", "ひめ-"],
-        "wk_level": 44,
-        "wk_meanings": ["Princess"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["ひめ"],
-        "wk_radicals": ["Woman", "Servant"]
     },
     "棚": {
         "strokes": 12,
@@ -23549,11 +16014,6 @@ data1 = {
         "meanings": ["Shelf", "Ledge", "Rack", "Mount", "Mantle", "Trellis"],
         "readings_on": ["ほう"],
         "readings_kun": ["たな", "-だな"],
-        "wk_level": 44,
-        "wk_meanings": ["Shelf"],
-        "wk_readings_on": ["!ほう"],
-        "wk_readings_kun": ["たな"],
-        "wk_radicals": ["Tree", "Moon"]
     },
 
     "砲": {
@@ -23565,11 +16025,6 @@ data1 = {
         "meanings": ["Cannon", "Gun"],
         "readings_on": ["ほう"],
         "readings_kun": [],
-        "wk_level": 44,
-        "wk_meanings": ["Cannon"],
-        "wk_readings_on": ["ほう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Stone", "Wrap"]
     },
     "雷": {
         "strokes": 13,
@@ -23580,11 +16035,6 @@ data1 = {
         "meanings": ["Thunder", "Lightning Bolt"],
         "readings_on": ["らい"],
         "readings_kun": ["かみなり", "いかずち", "いかづち"],
-        "wk_level": 44,
-        "wk_meanings": ["Thunder"],
-        "wk_readings_on": ["らい"],
-        "wk_readings_kun": ["!かみなり"],
-        "wk_radicals": ["Rain", "Rice Paddy"]
     },
     "芽": {
         "strokes": 8,
@@ -23595,11 +16045,6 @@ data1 = {
         "meanings": ["Bud", "Sprout", "Spear", "Germ"],
         "readings_on": ["が"],
         "readings_kun": ["め"],
-        "wk_level": 44,
-        "wk_meanings": ["Sprout"],
-        "wk_readings_on": ["!が"],
-        "wk_readings_kun": ["め"],
-        "wk_radicals": ["Flowers", "Fang"]
     },
 
     "澄": {
@@ -23611,11 +16056,6 @@ data1 = {
         "meanings": ["Lucidity", "Be Clear", "Clear", "Clarify", "Settle", "Strain", "Look Grave"],
         "readings_on": ["ちょう"],
         "readings_kun": ["す.む", "す.ます", "-す.ます"],
-        "wk_level": 45,
-        "wk_meanings": ["Lucidity"],
-        "wk_readings_on": ["ちょう"],
-        "wk_readings_kun": ["!す"],
-        "wk_radicals": ["Tsunami", "Tent", "Beans"]
     },
     "矛": {
         "strokes": 5,
@@ -23626,11 +16066,6 @@ data1 = {
         "meanings": ["Halberd", "Arms", "Festival Float"],
         "readings_on": ["む", "ぼう"],
         "readings_kun": ["ほこ"],
-        "wk_level": 45,
-        "wk_meanings": ["Spear"],
-        "wk_readings_on": ["む"],
-        "wk_readings_kun": ["!ほこ"],
-        "wk_radicals": ["Spear"]
     },
 
     "鐘": {
@@ -23642,11 +16077,6 @@ data1 = {
         "meanings": ["Bell", "Gong", "Chimes"],
         "readings_on": ["しょう"],
         "readings_kun": ["かね"],
-        "wk_level": 45,
-        "wk_meanings": ["Bell"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!かね"],
-        "wk_radicals": ["Gold", "Stand", "Village"]
     },
     "凶": {
         "strokes": 4,
@@ -23657,11 +16087,6 @@ data1 = {
         "meanings": ["Villain", "Evil", "Bad Luck", "Disaster"],
         "readings_on": ["きょう"],
         "readings_kun": [],
-        "wk_level": 45,
-        "wk_meanings": ["Villain"],
-        "wk_readings_on": ["きょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Treasure Chest"]
     },
     "塊": {
         "strokes": 13,
@@ -23672,11 +16097,6 @@ data1 = {
         "meanings": ["Clod", "Lump", "Chunk", "Clot", "Mass"],
         "readings_on": ["かい", "け"],
         "readings_kun": ["かたまり", "つちくれ"],
-        "wk_level": 45,
-        "wk_meanings": ["Lump"],
-        "wk_readings_on": ["!かい"],
-        "wk_readings_kun": ["かたまり"],
-        "wk_radicals": ["Dirt", "Demon"]
     },
     "狩": {
         "strokes": 9,
@@ -23687,11 +16107,6 @@ data1 = {
         "meanings": ["Hunt", "Raid", "Gather"],
         "readings_on": ["しゅ"],
         "readings_kun": ["か.る", "か.り", "-が.り"],
-        "wk_level": 45,
-        "wk_meanings": ["Hunt"],
-        "wk_readings_on": ["!しゅ"],
-        "wk_readings_kun": ["か"],
-        "wk_radicals": ["Animal", "Protect"]
     },
     "頃": {
         "strokes": 11,
@@ -23702,11 +16117,6 @@ data1 = {
         "meanings": ["Time", "About", "Toward"],
         "readings_on": ["けい", "きょう"],
         "readings_kun": ["ころ", "ごろ", "しばら.く"],
-        "wk_level": 45,
-        "wk_meanings": ["Approximate"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["ころ", "ごろ"],
-        "wk_radicals": ["Spoon", "Geoduck"]
     },
     "魂": {
         "strokes": 14,
@@ -23717,11 +16127,6 @@ data1 = {
         "meanings": ["Soul", "Spirit"],
         "readings_on": ["こん"],
         "readings_kun": ["たましい", "たま"],
-        "wk_level": 45,
-        "wk_meanings": ["Soul", "^Spirit"],
-        "wk_readings_on": ["こん"],
-        "wk_readings_kun": ["!たましい"],
-        "wk_radicals": ["Cloud", "Demon"]
     },
     "脚": {
         "strokes": 11,
@@ -23732,11 +16137,6 @@ data1 = {
         "meanings": ["Skids", "Leg", "Undercarriage", "Lower Part", "Base"],
         "readings_on": ["きゃく", "きゃ", "かく"],
         "readings_kun": ["あし"],
-        "wk_level": 45,
-        "wk_meanings": ["Leg"],
-        "wk_readings_on": ["きゃく"],
-        "wk_readings_kun": ["!あし"],
-        "wk_radicals": ["Moon", "Past", "Stamp"]
     },
     "也": {
         "strokes": 3,
@@ -23747,11 +16147,6 @@ data1 = {
         "meanings": ["To Be (classical)"],
         "readings_on": ["や", "え"],
         "readings_kun": ["なり", "か", "また"],
-        "wk_level": 45,
-        "wk_meanings": ["Considerably"],
-        "wk_readings_on": ["!や"],
-        "wk_readings_kun": ["なり"],
-        "wk_radicals": ["Alligator"]
     },
     "井": {
         "strokes": 4,
@@ -23762,11 +16157,6 @@ data1 = {
         "meanings": ["Well", "Well Crib", "Town", "Community"],
         "readings_on": ["せい", "しょう"],
         "readings_kun": ["い"],
-        "wk_level": 45,
-        "wk_meanings": ["Well"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!い"],
-        "wk_radicals": ["Well"]
     },
     "呪": {
         "strokes": 8,
@@ -23777,11 +16167,6 @@ data1 = {
         "meanings": ["Spell", "Curse", "Charm", "Malediction"],
         "readings_on": ["じゅ", "しゅ", "しゅう", "ず"],
         "readings_kun": ["まじな.う", "のろ.い", "まじな.い", "のろ.う"],
-        "wk_level": 45,
-        "wk_meanings": ["Curse"],
-        "wk_readings_on": ["!じゅ"],
-        "wk_readings_kun": ["のろ"],
-        "wk_radicals": ["Mouth", "Older Brother"]
     },
     "嬢": {
         "strokes": 16,
@@ -23792,11 +16177,6 @@ data1 = {
         "meanings": ["Lass", "Girl", "Miss", "Daughter"],
         "readings_on": ["じょう"],
         "readings_kun": ["むすめ"],
-        "wk_level": 45,
-        "wk_meanings": ["Miss"],
-        "wk_readings_on": ["じょう"],
-        "wk_readings_kun": ["!むすめ"],
-        "wk_radicals": ["Woman", "Nurse"]
     },
     "暦": {
         "strokes": 14,
@@ -23807,11 +16187,6 @@ data1 = {
         "meanings": ["Calendar", "Almanac"],
         "readings_on": ["れき", "りゃく"],
         "readings_kun": ["こよみ"],
-        "wk_level": 45,
-        "wk_meanings": ["Calendar"],
-        "wk_readings_on": ["れき"],
-        "wk_readings_kun": ["!こよみ"],
-        "wk_radicals": ["Cliff", "Tree", "Sun"]
     },
 
     "眺": {
@@ -23823,11 +16198,6 @@ data1 = {
         "meanings": ["Stare", "Watch", "Look At", "See", "Scrutinize"],
         "readings_on": ["ちょう"],
         "readings_kun": ["なが.める"],
-        "wk_level": 45,
-        "wk_meanings": ["Stare"],
-        "wk_readings_on": ["ちょう"],
-        "wk_readings_kun": ["!なが"],
-        "wk_radicals": ["Eye", "Omen"]
     },
     "裸": {
         "strokes": 13,
@@ -23838,11 +16208,6 @@ data1 = {
         "meanings": ["Naked", "Nude", "Uncovered", "Partially Clothed"],
         "readings_on": ["ら"],
         "readings_kun": ["はだか"],
-        "wk_level": 45,
-        "wk_meanings": ["Naked", "^Nude"],
-        "wk_readings_on": ["ら"],
-        "wk_readings_kun": ["!はだか"],
-        "wk_radicals": ["Spirit", "Fruit"]
     },
     "賭": {
         "strokes": 15,
@@ -23853,11 +16218,6 @@ data1 = {
         "meanings": ["Gamble", "Wager", "Bet"],
         "readings_on": ["と"],
         "readings_kun": ["か.ける", "かけ"],
-        "wk_level": 45,
-        "wk_meanings": ["Gamble"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["か"],
-        "wk_radicals": ["Shellfish", "Someone"]
     },
     "塾": {
         "strokes": 14,
@@ -23868,11 +16228,6 @@ data1 = {
         "meanings": ["Cram School", "Private School"],
         "readings_on": ["じゅく"],
         "readings_kun": [],
-        "wk_level": 45,
-        "wk_meanings": ["Cram School"],
-        "wk_readings_on": ["じゅく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Sock", "Circle", "Dirt"]
     },
     "卓": {
         "strokes": 8,
@@ -23883,11 +16238,6 @@ data1 = {
         "meanings": ["Eminent", "Table", "Desk", "High"],
         "readings_on": ["たく"],
         "readings_kun": [],
-        "wk_level": 45,
-        "wk_meanings": ["Table"],
-        "wk_readings_on": ["たく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Toe", "Early"]
     },
 
     "菌": {
@@ -23899,11 +16249,6 @@ data1 = {
         "meanings": ["Germ", "Fungus", "Bacteria"],
         "readings_on": ["きん"],
         "readings_kun": [],
-        "wk_level": 45,
-        "wk_meanings": ["Bacteria"],
-        "wk_readings_on": ["きん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Flowers", "Mouth", "Grain"]
     },
     "陰": {
         "strokes": 11,
@@ -23914,11 +16259,6 @@ data1 = {
         "meanings": ["Shade", "Yin", "Negative", "Sex Organs", "Secret", "Shadow"],
         "readings_on": ["いん"],
         "readings_kun": ["かげ", "かげ.る"],
-        "wk_level": 45,
-        "wk_meanings": ["Shade"],
-        "wk_readings_on": ["いん"],
-        "wk_readings_kun": ["!かげ"],
-        "wk_radicals": ["Building", "Now", "Cloud"]
     },
     "霊": {
         "strokes": 15,
@@ -23929,11 +16269,6 @@ data1 = {
         "meanings": ["Spirits", "Soul"],
         "readings_on": ["れい", "りょう"],
         "readings_kun": ["たま"],
-        "wk_level": 45,
-        "wk_meanings": ["Ghost"],
-        "wk_readings_on": ["れい", "りょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Rain", "Two", "Spikes"]
     },
 
     "稼": {
@@ -23945,11 +16280,6 @@ data1 = {
         "meanings": ["Earnings", "Work", "Earn Money"],
         "readings_on": ["か"],
         "readings_kun": ["かせ.ぐ"],
-        "wk_level": 45,
-        "wk_meanings": ["Earnings"],
-        "wk_readings_on": ["か"],
-        "wk_readings_kun": ["!かせ"],
-        "wk_radicals": ["Grain", "House"]
     },
     "嫁": {
         "strokes": 13,
@@ -23960,11 +16290,6 @@ data1 = {
         "meanings": ["Marry Into", "Bride"],
         "readings_on": ["か"],
         "readings_kun": ["よめ", "とつ.ぐ", "い.く", "ゆ.く"],
-        "wk_level": 45,
-        "wk_meanings": ["Bride"],
-        "wk_readings_on": ["!か"],
-        "wk_readings_kun": ["よめ", "とつ"],
-        "wk_radicals": ["Woman", "House"]
     },
     "溝": {
         "strokes": 13,
@@ -23975,11 +16300,6 @@ data1 = {
         "meanings": ["Gutter", "Ditch", "Sewer", "Drain", "10**32"],
         "readings_on": ["こう"],
         "readings_kun": ["みぞ"],
-        "wk_level": 45,
-        "wk_meanings": ["Gutter"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!みぞ"],
-        "wk_radicals": ["Tsunami", "Lifeguard"]
     },
     "滝": {
         "strokes": 13,
@@ -23990,11 +16310,6 @@ data1 = {
         "meanings": ["Waterfall", "Rapids", "Cascade"],
         "readings_on": ["ろう", "そう"],
         "readings_kun": ["たき"],
-        "wk_level": 45,
-        "wk_meanings": ["Waterfall"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["たき"],
-        "wk_radicals": ["Tsunami", "Dragon"]
     },
     "狂": {
         "strokes": 7,
@@ -24005,11 +16320,6 @@ data1 = {
         "meanings": ["Lunatic", "Insane", "Crazy", "Confuse"],
         "readings_on": ["きょう"],
         "readings_kun": ["くる.う", "くる.おしい", "くるお.しい"],
-        "wk_level": 45,
-        "wk_meanings": ["Lunatic", "^Crazy"],
-        "wk_readings_on": ["きょう"],
-        "wk_readings_kun": ["!くる"],
-        "wk_radicals": ["Animal", "King"]
     },
     "翔": {
         "strokes": 12,
@@ -24020,11 +16330,6 @@ data1 = {
         "meanings": ["Soar", "Fly"],
         "readings_on": ["しょう"],
         "readings_kun": ["かけ.る", "と.ぶ"],
-        "wk_level": 45,
-        "wk_meanings": ["Fly"],
-        "wk_readings_on": ["!しょう"],
-        "wk_readings_kun": ["かけ", "と"],
-        "wk_radicals": ["Sheep", "Feathers"]
     },
     "墨": {
         "strokes": 14,
@@ -24035,11 +16340,6 @@ data1 = {
         "meanings": ["Black Ink", "India Ink", "Ink Stick", "Mexico"],
         "readings_on": ["ぼく"],
         "readings_kun": ["すみ"],
-        "wk_level": 46,
-        "wk_meanings": ["Black Ink", "^Ink"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["すみ"],
-        "wk_radicals": ["Black", "Dirt"]
     },
     "鳩": {
         "strokes": 13,
@@ -24050,11 +16350,6 @@ data1 = {
         "meanings": ["Pigeon", "Dove"],
         "readings_on": ["きゅう", "く"],
         "readings_kun": ["はと", "あつ.める"],
-        "wk_level": 46,
-        "wk_meanings": ["Dove", "^Pigeon"],
-        "wk_readings_on": ["!く"],
-        "wk_readings_kun": ["はと"],
-        "wk_radicals": ["Nine", "Bird"]
     },
     "穏": {
         "strokes": 16,
@@ -24065,11 +16360,6 @@ data1 = {
         "meanings": ["Calm", "Quiet", "Moderation"],
         "readings_on": ["おん"],
         "readings_kun": ["おだ.やか"],
-        "wk_level": 46,
-        "wk_meanings": ["Calm"],
-        "wk_readings_on": ["おん"],
-        "wk_readings_kun": ["!おだ"],
-        "wk_radicals": ["Grain", "Cleat", "Wolverine", "Heart"]
     },
 
     "魔": {
@@ -24081,11 +16371,6 @@ data1 = {
         "meanings": ["Witch", "Demon", "Evil Spirit"],
         "readings_on": ["ま"],
         "readings_kun": [],
-        "wk_level": 46,
-        "wk_meanings": ["Devil"],
-        "wk_readings_on": ["ま"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Canopy", "Tree", "Demon"]
     },
     "寮": {
         "strokes": 15,
@@ -24096,11 +16381,6 @@ data1 = {
         "meanings": ["Dormitory", "Hostel", "Villa", "Tea Pavillion"],
         "readings_on": ["りょう"],
         "readings_kun": [],
-        "wk_level": 46,
-        "wk_meanings": ["Dormitory"],
-        "wk_readings_on": ["りょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Roof", "Charcoal"]
     },
     "盆": {
         "strokes": 9,
@@ -24111,11 +16391,6 @@ data1 = {
         "meanings": ["Basin", "Lantern Festival", "Tray"],
         "readings_on": ["ぼん"],
         "readings_kun": [],
-        "wk_level": 46,
-        "wk_meanings": ["Lantern Festival"],
-        "wk_readings_on": ["ぼん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Part", "Plate"]
     },
     "棟": {
         "strokes": 12,
@@ -24126,11 +16401,6 @@ data1 = {
         "meanings": ["Ridgepole", "Ridge"],
         "readings_on": ["とう"],
         "readings_kun": ["むね", "むな-"],
-        "wk_level": 46,
-        "wk_meanings": ["Pillar"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tree", "East"]
     },
     "吾": {
         "strokes": 7,
@@ -24141,11 +16411,6 @@ data1 = {
         "meanings": ["I", "My", "Our", "One's Own"],
         "readings_on": ["ご"],
         "readings_kun": ["われ", "わが-", "あ-"],
-        "wk_level": 46,
-        "wk_meanings": ["I", "^Me"],
-        "wk_readings_on": ["!ご"],
-        "wk_readings_kun": ["わが"],
-        "wk_radicals": ["Five", "Mouth"]
     },
     "斬": {
         "strokes": 11,
@@ -24156,11 +16421,6 @@ data1 = {
         "meanings": ["Beheading", "Kill", "Murder"],
         "readings_on": ["ざん", "さん", "せん", "ぜん"],
         "readings_kun": ["き.る"],
-        "wk_level": 46,
-        "wk_meanings": ["Slice"],
-        "wk_readings_on": ["ざん"],
-        "wk_readings_kun": ["!き"],
-        "wk_radicals": ["Car", "Axe"]
     },
     "寧": {
         "strokes": 14,
@@ -24171,11 +16431,6 @@ data1 = {
         "meanings": ["Rather", "Preferably", "Peaceful", "Quiet", "Tranquility"],
         "readings_on": ["ねい"],
         "readings_kun": ["むし.ろ"],
-        "wk_level": 46,
-        "wk_meanings": ["Rather"],
-        "wk_readings_on": ["ねい"],
-        "wk_readings_kun": ["!むし"],
-        "wk_radicals": ["Roof", "Heart", "Net", "Street"]
     },
     "椅": {
         "strokes": 12,
@@ -24186,11 +16441,6 @@ data1 = {
         "meanings": ["Chair"],
         "readings_on": ["い"],
         "readings_kun": [],
-        "wk_level": 46,
-        "wk_meanings": ["Chair"],
-        "wk_readings_on": ["い"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tree", "Odd"]
     },
 
     "猿": {
@@ -24202,11 +16452,6 @@ data1 = {
         "meanings": ["Monkey"],
         "readings_on": ["えん"],
         "readings_kun": ["さる"],
-        "wk_level": 46,
-        "wk_meanings": ["Monkey"],
-        "wk_readings_on": ["!えん"],
-        "wk_readings_kun": ["さる"],
-        "wk_radicals": ["Animal", "Dirt", "Mouth", "Kick"]
     },
     "瞳": {
         "strokes": 17,
@@ -24217,11 +16462,6 @@ data1 = {
         "meanings": ["Pupil (of Eye)"],
         "readings_on": ["どう", "とう"],
         "readings_kun": ["ひとみ"],
-        "wk_level": 46,
-        "wk_meanings": ["Pupil"],
-        "wk_readings_on": ["^とう", "どう"],
-        "wk_readings_kun": ["!ひとみ"],
-        "wk_radicals": ["Eye", "Stand", "Village"]
     },
     "鍵": {
         "strokes": 17,
@@ -24232,11 +16472,6 @@ data1 = {
         "meanings": ["Key"],
         "readings_on": ["けん"],
         "readings_kun": ["かぎ"],
-        "wk_level": 46,
-        "wk_meanings": ["Key"],
-        "wk_readings_on": ["!けん"],
-        "wk_readings_kun": ["かぎ"],
-        "wk_radicals": ["Gold", "Yoga", "Brush"]
     },
 
     "碁": {
@@ -24248,11 +16483,6 @@ data1 = {
         "meanings": ["Go"],
         "readings_on": ["ご"],
         "readings_kun": [],
-        "wk_level": 46,
-        "wk_meanings": ["Go"],
-        "wk_readings_on": ["ご"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Crab", "Stone"]
     },
     "租": {
         "strokes": 10,
@@ -24263,11 +16493,6 @@ data1 = {
         "meanings": ["Tariff", "Crop Tax", "Borrowing"],
         "readings_on": ["そ"],
         "readings_kun": [],
-        "wk_level": 46,
-        "wk_meanings": ["Tariff"],
-        "wk_readings_on": ["そ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Grain", "Top Hat"]
     },
     "幽": {
         "strokes": 9,
@@ -24278,11 +16503,6 @@ data1 = {
         "meanings": ["Seclude", "Confine To A Room", "Deep", "Profound", "Secluded", "Faint", "Dark", "Tranquil", "Calm"],
         "readings_on": ["ゆう"],
         "readings_kun": ["ふか.い", "かす.か", "くら.い", "しろ.い"],
-        "wk_level": 46,
-        "wk_meanings": ["Secluded"],
-        "wk_readings_on": ["ゆう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Poop", "Mountain"]
     },
     "泡": {
         "strokes": 8,
@@ -24293,11 +16513,6 @@ data1 = {
         "meanings": ["Bubbles", "Foam", "Suds", "Froth"],
         "readings_on": ["ほう"],
         "readings_kun": ["あわ"],
-        "wk_level": 46,
-        "wk_meanings": ["Bubbles"],
-        "wk_readings_on": ["ほう"],
-        "wk_readings_kun": ["!あわ"],
-        "wk_radicals": ["Tsunami", "Wrap"]
     },
     "癖": {
         "strokes": 18,
@@ -24308,11 +16523,6 @@ data1 = {
         "meanings": ["Mannerism", "Habit", "Vice", "Trait", "Fault", "Kink"],
         "readings_on": ["へき"],
         "readings_kun": ["くせ", "くせ.に"],
-        "wk_level": 46,
-        "wk_meanings": ["Habit"],
-        "wk_readings_on": ["!へき"],
-        "wk_readings_kun": ["くせ"],
-        "wk_radicals": ["Sick", "Hot Pepper"]
     },
     "鍛": {
         "strokes": 17,
@@ -24323,11 +16533,6 @@ data1 = {
         "meanings": ["Forge", "Discipline", "Train"],
         "readings_on": ["たん"],
         "readings_kun": ["きた.える"],
-        "wk_level": 46,
-        "wk_meanings": ["Forge"],
-        "wk_readings_on": ["たん"],
-        "wk_readings_kun": ["!きた"],
-        "wk_radicals": ["Gold", "Comb", "Weapon"]
     },
     "錬": {
         "strokes": 16,
@@ -24338,11 +16543,6 @@ data1 = {
         "meanings": ["Tempering", "Refine", "Drill", "Train", "Polish"],
         "readings_on": ["れん"],
         "readings_kun": ["ね.る"],
-        "wk_level": 46,
-        "wk_meanings": ["Tempering"],
-        "wk_readings_on": ["れん"],
-        "wk_readings_kun": ["!ね"],
-        "wk_radicals": ["Gold", "East"]
     },
     "穂": {
         "strokes": 15,
@@ -24353,11 +16553,6 @@ data1 = {
         "meanings": ["Ear", "Ear (grain)", "Head", "Crest (wave)"],
         "readings_on": ["すい"],
         "readings_kun": ["ほ"],
-        "wk_level": 46,
-        "wk_meanings": ["Head of Plant", "^Ear Of Plant"],
-        "wk_readings_on": ["!すい"],
-        "wk_readings_kun": ["ほ"],
-        "wk_radicals": ["Grain", "Favor"]
     },
     "帝": {
         "strokes": 9,
@@ -24368,11 +16563,6 @@ data1 = {
         "meanings": ["Sovereign", "The Emperor", "God", "Creator"],
         "readings_on": ["てい"],
         "readings_kun": ["みかど"],
-        "wk_level": 46,
-        "wk_meanings": ["Sovereign"],
-        "wk_readings_on": ["てい"],
-        "wk_readings_kun": ["!みかど"],
-        "wk_radicals": ["Stand", "Towel"]
     },
     "瞬": {
         "strokes": 18,
@@ -24383,11 +16573,6 @@ data1 = {
         "meanings": ["Wink", "Blink", "Twinkle"],
         "readings_on": ["しゅん"],
         "readings_kun": ["またた.く", "まじろ.ぐ"],
-        "wk_level": 46,
-        "wk_meanings": ["Blink"],
-        "wk_readings_on": ["しゅん"],
-        "wk_readings_kun": ["!またた"],
-        "wk_radicals": ["Eye", "Cleat", "Forehead", "Dance"]
     },
     "菊": {
         "strokes": 11,
@@ -24398,11 +16583,6 @@ data1 = {
         "meanings": ["Chrysanthemum"],
         "readings_on": ["きく"],
         "readings_kun": [],
-        "wk_level": 46,
-        "wk_meanings": ["Chrysanthemum"],
-        "wk_readings_on": ["きく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Flowers", "Prison", "Rice"]
     },
     "誇": {
         "strokes": 13,
@@ -24413,11 +16593,6 @@ data1 = {
         "meanings": ["Boast", "Be Proud", "Pride", "Triumphantly"],
         "readings_on": ["こ"],
         "readings_kun": ["ほこ.る"],
-        "wk_level": 46,
-        "wk_meanings": ["Pride"],
-        "wk_readings_on": ["こ"],
-        "wk_readings_kun": ["!ほこ"],
-        "wk_radicals": ["Say", "Big", "Ground", "Beggar"]
     },
     "庄": {
         "strokes": 6,
@@ -24428,11 +16603,6 @@ data1 = {
         "meanings": ["Level", "In The Country", "Manor", "Village", "Hamlet"],
         "readings_on": ["しょう", "そ", "そう", "ほう"],
         "readings_kun": [],
-        "wk_level": 46,
-        "wk_meanings": ["Manor"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Canopy", "Dirt"]
     },
     "阻": {
         "strokes": 8,
@@ -24443,11 +16613,6 @@ data1 = {
         "meanings": ["Thwart", "Separate From", "Prevent", "Obstruct", "Deter", "Impede"],
         "readings_on": ["そ"],
         "readings_kun": ["はば.む"],
-        "wk_level": 46,
-        "wk_meanings": ["Thwart"],
-        "wk_readings_on": ["そ"],
-        "wk_readings_kun": ["!はば"],
-        "wk_radicals": ["Building", "Top Hat"]
     },
     "黙": {
         "strokes": 15,
@@ -24458,11 +16623,6 @@ data1 = {
         "meanings": ["Silence", "Become Silent", "Stop Speaking", "Leave As Is"],
         "readings_on": ["もく", "ぼく"],
         "readings_kun": ["だま.る", "もだ.す"],
-        "wk_level": 46,
-        "wk_meanings": ["Shut Up"],
-        "wk_readings_on": ["もく"],
-        "wk_readings_kun": ["!だま"],
-        "wk_radicals": ["Village", "Dog", "Boil"]
     },
     "俵": {
         "strokes": 10,
@@ -24473,11 +16633,6 @@ data1 = {
         "meanings": ["Bag", "Bale", "Sack", "Counter For Bags"],
         "readings_on": ["ひょう"],
         "readings_kun": ["たわら"],
-        "wk_level": 46,
-        "wk_meanings": ["Sack"],
-        "wk_readings_on": ["ひょう"],
-        "wk_readings_kun": ["!たわら"],
-        "wk_radicals": ["Leader", "Life", "Kick"]
     },
     "架": {
         "strokes": 9,
@@ -24488,11 +16643,6 @@ data1 = {
         "meanings": ["Erect", "Frame", "Mount", "Support", "Shelf", "Construct"],
         "readings_on": ["か"],
         "readings_kun": ["か.ける", "か.かる"],
-        "wk_level": 46,
-        "wk_meanings": ["Shelf"],
-        "wk_readings_on": ["か"],
-        "wk_readings_kun": ["!か"],
-        "wk_radicals": ["Power", "Mouth", "Tree"]
     },
     "砕": {
         "strokes": 9,
@@ -24503,11 +16653,6 @@ data1 = {
         "meanings": ["Smash", "Break", "Crush", "Familiar", "Popular"],
         "readings_on": ["さい"],
         "readings_kun": ["くだ.く", "くだ.ける"],
-        "wk_level": 47,
-        "wk_meanings": ["Smash"],
-        "wk_readings_on": ["さい"],
-        "wk_readings_kun": ["!くだ"],
-        "wk_radicals": ["Stone", "Nine", "Cross"]
     },
     "粘": {
         "strokes": 11,
@@ -24518,11 +16663,6 @@ data1 = {
         "meanings": ["Sticky", "Glutinous", "Greasy", "Persevere"],
         "readings_on": ["ねん"],
         "readings_kun": ["ねば.る"],
-        "wk_level": 47,
-        "wk_meanings": ["Sticky"],
-        "wk_readings_on": ["ねん"],
-        "wk_readings_kun": ["!ねば"],
-        "wk_radicals": ["Rice", "Fortune"]
     },
     "粧": {
         "strokes": 12,
@@ -24533,11 +16673,6 @@ data1 = {
         "meanings": ["Cosmetics", "Adorn (one's Person)"],
         "readings_on": ["しょう"],
         "readings_kun": [],
-        "wk_level": 47,
-        "wk_meanings": ["Cosmetics"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Rice", "Canopy", "Dirt"]
     },
     "欺": {
         "strokes": 12,
@@ -24548,11 +16683,6 @@ data1 = {
         "meanings": ["Deceit", "Cheat", "Delude"],
         "readings_on": ["ぎ"],
         "readings_kun": ["あざむ.く"],
-        "wk_level": 47,
-        "wk_meanings": ["Deceit"],
-        "wk_readings_on": ["ぎ"],
-        "wk_readings_kun": ["!あざむ"],
-        "wk_radicals": ["Crab", "Lack"]
     },
     "詐": {
         "strokes": 12,
@@ -24563,11 +16693,6 @@ data1 = {
         "meanings": ["Lie", "Falsehood", "Deceive", "Pretend"],
         "readings_on": ["さ"],
         "readings_kun": ["いつわ.る"],
-        "wk_level": 47,
-        "wk_meanings": ["Lie"],
-        "wk_readings_on": ["さ"],
-        "wk_readings_kun": ["!いつわ"],
-        "wk_radicals": ["Say", "Key"]
     },
     "霧": {
         "strokes": 19,
@@ -24578,11 +16703,6 @@ data1 = {
         "meanings": ["Fog", "Mist"],
         "readings_on": ["む", "ぼう", "ぶ"],
         "readings_kun": ["きり"],
-        "wk_level": 47,
-        "wk_meanings": ["Fog"],
-        "wk_readings_on": ["!む"],
-        "wk_readings_kun": ["きり"],
-        "wk_radicals": ["Rain", "Spear", "Winter", "Power"]
     },
     "柳": {
         "strokes": 9,
@@ -24593,11 +16713,6 @@ data1 = {
         "meanings": ["Willow"],
         "readings_on": ["りゅう"],
         "readings_kun": ["やなぎ"],
-        "wk_level": 47,
-        "wk_meanings": ["Willow"],
-        "wk_readings_on": ["りゅう"],
-        "wk_readings_kun": ["!やなぎ"],
-        "wk_radicals": ["Tree", "Stamp"]
     },
     "伊": {
         "strokes": 6,
@@ -24608,11 +16723,6 @@ data1 = {
         "meanings": ["Italy", "That One"],
         "readings_on": ["い"],
         "readings_kun": ["かれ"],
-        "wk_level": 47,
-        "wk_meanings": ["Italy"],
-        "wk_readings_on": ["い"],
-        "wk_readings_kun": ["!だ"],
-        "wk_radicals": ["Leader", "Wolverine", "Slide"]
     },
     "佐": {
         "strokes": 7,
@@ -24623,11 +16733,6 @@ data1 = {
         "meanings": ["Assistant", "Help"],
         "readings_on": ["さ"],
         "readings_kun": [],
-        "wk_level": 47,
-        "wk_meanings": ["Help"],
-        "wk_readings_on": ["さ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Narwhal", "Construction"]
     },
     "尺": {
         "strokes": 4,
@@ -24638,11 +16743,6 @@ data1 = {
         "meanings": ["Shaku", "Japanese Foot", "Measure", "Scale", "Rule"],
         "readings_on": ["しゃく"],
         "readings_kun": [],
-        "wk_level": 47,
-        "wk_meanings": ["Shaku", "^Japanese Foot"],
-        "wk_readings_on": ["しゃく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Shrimp"]
     },
     "哀": {
         "strokes": 9,
@@ -24653,11 +16753,6 @@ data1 = {
         "meanings": ["Pathetic", "Grief", "Sorrow", "Pathos", "Pity", "Sympathize"],
         "readings_on": ["あい"],
         "readings_kun": ["あわ.れ", "あわ.れむ", "かな.しい"],
-        "wk_level": 47,
-        "wk_meanings": ["Pathetic"],
-        "wk_readings_on": ["あい"],
-        "wk_readings_kun": ["!あわ"],
-        "wk_radicals": ["Lid", "Mouth", "Kick"]
     },
     "唇": {
         "strokes": 10,
@@ -24668,11 +16763,6 @@ data1 = {
         "meanings": ["Lips"],
         "readings_on": ["しん"],
         "readings_kun": ["くちびる"],
-        "wk_level": 47,
-        "wk_meanings": ["Lips"],
-        "wk_readings_on": ["!しん"],
-        "wk_readings_kun": ["くちびる"],
-        "wk_radicals": ["Landslide", "Mouth"]
     },
     "塀": {
         "strokes": 12,
@@ -24683,11 +16773,6 @@ data1 = {
         "meanings": ["Fence", "Wall", "(kokuji)"],
         "readings_on": ["へい", "べい"],
         "readings_kun": [],
-        "wk_level": 47,
-        "wk_meanings": ["Fence"],
-        "wk_readings_on": ["へい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Dirt", "Flag", "Horns", "Lantern"]
     },
     "墜": {
         "strokes": 15,
@@ -24698,11 +16783,6 @@ data1 = {
         "meanings": ["Crash", "Fall (down)"],
         "readings_on": ["つい"],
         "readings_kun": ["お.ちる", "お.つ"],
-        "wk_level": 47,
-        "wk_meanings": ["Crash"],
-        "wk_readings_on": ["つい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Building", "Horns", "Pig", "Dirt"]
     },
     "如": {
         "strokes": 6,
@@ -24713,11 +16793,6 @@ data1 = {
         "meanings": ["Likeness", "Like", "Such As", "As If", "Better", "Best", "Equal"],
         "readings_on": ["じょ", "にょ"],
         "readings_kun": ["ごと.し"],
-        "wk_level": 47,
-        "wk_meanings": ["Likeness"],
-        "wk_readings_on": ["じょ"],
-        "wk_readings_kun": ["!ごと"],
-        "wk_radicals": ["Woman", "Mouth"]
     },
     "婆": {
         "strokes": 11,
@@ -24728,11 +16803,6 @@ data1 = {
         "meanings": ["Old Woman", "Grandma", "Wet Nurse"],
         "readings_on": ["ば"],
         "readings_kun": ["ばば", "ばあ"],
-        "wk_level": 47,
-        "wk_meanings": ["Old Woman"],
-        "wk_readings_on": ["ば"],
-        "wk_readings_kun": ["!ばあ"],
-        "wk_radicals": ["Wave", "Woman"]
     },
     "崖": {
         "strokes": 11,
@@ -24743,11 +16813,6 @@ data1 = {
         "meanings": ["Cliff", "Bluff", "Precipice"],
         "readings_on": ["がい", "げ", "ぎ"],
         "readings_kun": ["がけ", "きし", "はて"],
-        "wk_level": 47,
-        "wk_meanings": ["Cliff"],
-        "wk_readings_on": ["がい"],
-        "wk_readings_kun": ["!がけ"],
-        "wk_radicals": ["Mountain", "Cliff", "Dirt"]
     },
 
     "幣": {
@@ -24759,11 +16824,6 @@ data1 = {
         "meanings": ["Cash", "Bad Habit", "Humble Prefix", "Gift", "Shinto Offerings Of Cloth", "Rope", "Cut Paper"],
         "readings_on": ["へい"],
         "readings_kun": ["ぬさ"],
-        "wk_level": 47,
-        "wk_meanings": ["Cash"],
-        "wk_readings_on": ["へい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Penguin", "Towel"]
     },
     "恨": {
         "strokes": 9,
@@ -24774,11 +16834,6 @@ data1 = {
         "meanings": ["Regret", "Bear A Grudge", "Resentment", "Malice", "Hatred"],
         "readings_on": ["こん"],
         "readings_kun": ["うら.む", "うら.めしい"],
-        "wk_level": 47,
-        "wk_meanings": ["Grudge"],
-        "wk_readings_on": ["こん"],
-        "wk_readings_kun": ["!うら"],
-        "wk_radicals": ["Soul", "Root"]
     },
 
     "憩": {
@@ -24790,11 +16845,6 @@ data1 = {
         "meanings": ["Recess", "Rest", "Relax", "Repose"],
         "readings_on": ["けい"],
         "readings_kun": ["いこ.い", "いこ.う"],
-        "wk_level": 47,
-        "wk_meanings": ["Rest"],
-        "wk_readings_on": ["けい"],
-        "wk_readings_kun": ["!いこ"],
-        "wk_radicals": ["Tongue", "Self", "Heart"]
     },
     "扇": {
         "strokes": 10,
@@ -24805,11 +16855,6 @@ data1 = {
         "meanings": ["Fan", "Folding Fan"],
         "readings_on": ["せん"],
         "readings_kun": ["おうぎ"],
-        "wk_level": 47,
-        "wk_meanings": ["Folding Fan"],
-        "wk_readings_on": ["せん"],
-        "wk_readings_kun": ["!おうぎ", "!あお"],
-        "wk_radicals": ["Door", "Feathers"]
     },
     "扉": {
         "strokes": 12,
@@ -24820,11 +16865,6 @@ data1 = {
         "meanings": ["Front Door", "Title Page", "Front Page"],
         "readings_on": ["ひ"],
         "readings_kun": ["とびら"],
-        "wk_level": 47,
-        "wk_meanings": ["Front Door"],
-        "wk_readings_on": ["ひ"],
-        "wk_readings_kun": ["!とびら"],
-        "wk_radicals": ["Door", "Criminal"]
     },
     "挿": {
         "strokes": 10,
@@ -24835,11 +16875,6 @@ data1 = {
         "meanings": ["Insert", "Put In", "Graft", "Wear (sword)"],
         "readings_on": ["そう"],
         "readings_kun": ["さ.す", "はさ.む"],
-        "wk_level": 47,
-        "wk_meanings": ["Insert"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": ["!さ"],
-        "wk_radicals": ["Fingers", "Thousand", "Sun"]
     },
     "掌": {
         "strokes": 12,
@@ -24850,11 +16885,6 @@ data1 = {
         "meanings": ["Manipulate", "Rule", "Administer", "Conduct", "Palm Of Hand"],
         "readings_on": ["しょう"],
         "readings_kun": ["てのひら", "たなごころ"],
-        "wk_level": 47,
-        "wk_meanings": ["Manipulate"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!てのひら"],
-        "wk_radicals": ["Viking", "Mouth", "Hand"]
     },
 
     "炊": {
@@ -24866,11 +16896,6 @@ data1 = {
         "meanings": ["Cook", "Boil"],
         "readings_on": ["すい"],
         "readings_kun": ["た.く", "-だ.き"],
-        "wk_level": 47,
-        "wk_meanings": ["Cook"],
-        "wk_readings_on": ["すい"],
-        "wk_readings_kun": ["!た"],
-        "wk_radicals": ["Fire", "Lack"]
     },
     "爽": {
         "strokes": 11,
@@ -24881,11 +16906,6 @@ data1 = {
         "meanings": ["Refreshing", "Bracing", "Resonant", "Sweet", "Clear"],
         "readings_on": ["そう"],
         "readings_kun": ["あき.らか", "さわ.やか", "たがう"],
-        "wk_level": 47,
-        "wk_meanings": ["Refreshing"],
-        "wk_readings_on": ["!そう"],
-        "wk_readings_kun": ["さわ"],
-        "wk_radicals": ["Big", "Treasure"]
     },
 
     "瞭": {
@@ -24897,11 +16917,6 @@ data1 = {
         "meanings": ["Clear"],
         "readings_on": ["りょう"],
         "readings_kun": ["あきらか"],
-        "wk_level": 47,
-        "wk_meanings": ["Clear"],
-        "wk_readings_on": ["りょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Eye", "Charcoal"]
     },
     "箸": {
         "strokes": 15,
@@ -24912,11 +16927,6 @@ data1 = {
         "meanings": ["Chopsticks"],
         "readings_on": ["ちょ", "ちゃく"],
         "readings_kun": ["はし"],
-        "wk_level": 47,
-        "wk_meanings": ["Chopsticks"],
-        "wk_readings_on": ["!ちゃく"],
-        "wk_readings_kun": ["はし"],
-        "wk_radicals": ["Bamboo", "Someone"]
     },
     "胴": {
         "strokes": 10,
@@ -24927,11 +16937,6 @@ data1 = {
         "meanings": ["Trunk", "Torso", "Hull (ship)", "Hub Of Wheel"],
         "readings_on": ["どう"],
         "readings_kun": [],
-        "wk_level": 47,
-        "wk_meanings": ["Torso"],
-        "wk_readings_on": ["どう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Moon", "Same"]
     },
     "芯": {
         "strokes": 7,
@@ -24942,11 +16947,6 @@ data1 = {
         "meanings": ["Wick"],
         "readings_on": ["しん"],
         "readings_kun": [],
-        "wk_level": 47,
-        "wk_meanings": ["Wick"],
-        "wk_readings_on": ["しん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Flowers", "Heart"]
     },
     "虹": {
         "strokes": 9,
@@ -24957,11 +16957,6 @@ data1 = {
         "meanings": ["Rainbow"],
         "readings_on": ["こう"],
         "readings_kun": ["にじ"],
-        "wk_level": 47,
-        "wk_meanings": ["Rainbow"],
-        "wk_readings_on": ["!こう"],
-        "wk_readings_kun": ["にじ"],
-        "wk_radicals": ["Insect", "Construction"]
     },
     "帳": {
         "strokes": 11,
@@ -24972,11 +16967,6 @@ data1 = {
         "meanings": ["Notebook", "Account Book", "Album", "Curtain", "Veil", "Net", "Tent"],
         "readings_on": ["ちょう"],
         "readings_kun": ["とばり"],
-        "wk_level": 48,
-        "wk_meanings": ["Notebook"],
-        "wk_readings_on": ["ちょう"],
-        "wk_readings_kun": ["!とばり"],
-        "wk_radicals": ["Towel", "Long"]
     },
     "蚊": {
         "strokes": 10,
@@ -24987,11 +16977,6 @@ data1 = {
         "meanings": ["Mosquito"],
         "readings_on": ["ぶん"],
         "readings_kun": ["か"],
-        "wk_level": 48,
-        "wk_meanings": ["Mosquito"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["か"],
-        "wk_radicals": ["Insect", "Writing"]
     },
     "蛇": {
         "strokes": 11,
@@ -25002,11 +16987,6 @@ data1 = {
         "meanings": ["Snake", "Serpent", "Hard Drinker"],
         "readings_on": ["じゃ", "だ", "い", "や"],
         "readings_kun": ["へび"],
-        "wk_level": 48,
-        "wk_meanings": ["Snake"],
-        "wk_readings_on": ["!じゃ"],
-        "wk_readings_kun": ["へび"],
-        "wk_radicals": ["Insect", "Roof", "Spoon"]
     },
     "貼": {
         "strokes": 12,
@@ -25017,11 +16997,6 @@ data1 = {
         "meanings": ["Stick", "Paste", "Apply"],
         "readings_on": ["てん", "ちょう"],
         "readings_kun": ["は.る", "つ.く"],
-        "wk_level": 48,
-        "wk_meanings": ["Paste"],
-        "wk_readings_on": ["!ちょう"],
-        "wk_readings_kun": ["は"],
-        "wk_radicals": ["Shellfish", "Fortune"]
     },
     "辱": {
         "strokes": 10,
@@ -25032,11 +17007,6 @@ data1 = {
         "meanings": ["Embarrass", "Humiliate", "Shame"],
         "readings_on": ["じょく"],
         "readings_kun": ["はずかし.める"],
-        "wk_level": 48,
-        "wk_meanings": ["Humiliate"],
-        "wk_readings_on": ["じょく"],
-        "wk_readings_kun": ["!はずかし"],
-        "wk_radicals": ["Landslide", "Measurement"]
     },
     "鉢": {
         "strokes": 13,
@@ -25047,11 +17017,6 @@ data1 = {
         "meanings": ["Bowl", "Rice Tub", "Pot", "Crown"],
         "readings_on": ["はち", "はつ"],
         "readings_kun": [],
-        "wk_level": 48,
-        "wk_meanings": ["Bowl"],
-        "wk_readings_on": ["はち"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Gold", "Book"]
     },
     "闇": {
         "strokes": 17,
@@ -25062,11 +17027,6 @@ data1 = {
         "meanings": ["Get Dark", "Gloom", "Disorder"],
         "readings_on": ["あん", "おん"],
         "readings_kun": ["やみ", "くら.い"],
-        "wk_level": 48,
-        "wk_meanings": ["Darkness"],
-        "wk_readings_on": ["!あん", "!おん"],
-        "wk_readings_kun": ["やみ"],
-        "wk_radicals": ["Gate", "Sound"]
     },
     "隙": {
         "strokes": 13,
@@ -25077,11 +17037,6 @@ data1 = {
         "meanings": ["Crevice", "Fissure", "Discord", "Opportunity", "Leisure"],
         "readings_on": ["げき", "きゃく", "けき"],
         "readings_kun": ["すき", "す.く", "す.かす", "ひま"],
-        "wk_level": 48,
-        "wk_meanings": ["Crevice"],
-        "wk_readings_on": ["!げき"],
-        "wk_readings_kun": ["すき"],
-        "wk_radicals": ["Building", "Small", "Sun"]
     },
     "霜": {
         "strokes": 17,
@@ -25092,11 +17047,6 @@ data1 = {
         "meanings": ["Frost"],
         "readings_on": ["そう"],
         "readings_kun": ["しも"],
-        "wk_level": 48,
-        "wk_meanings": ["Frost"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["しも"],
-        "wk_radicals": ["Rain", "Tree", "Eye"]
     },
     "飢": {
         "strokes": 10,
@@ -25107,11 +17057,6 @@ data1 = {
         "meanings": ["Hungry", "Starve"],
         "readings_on": ["き"],
         "readings_kun": ["う.える"],
-        "wk_level": 48,
-        "wk_meanings": ["Starve"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": ["!う"],
-        "wk_radicals": ["Eat", "Table"]
     },
     "餓": {
         "strokes": 15,
@@ -25122,11 +17067,6 @@ data1 = {
         "meanings": ["Starve", "Hungry", "Thirst"],
         "readings_on": ["が"],
         "readings_kun": ["う.える"],
-        "wk_level": 48,
-        "wk_meanings": ["Starve"],
-        "wk_readings_on": ["が"],
-        "wk_readings_kun": ["!う"],
-        "wk_radicals": ["Eat", "Ego"]
     },
 
     "迅": {
@@ -25138,11 +17078,6 @@ data1 = {
         "meanings": ["Swift", "Fast"],
         "readings_on": ["じん"],
         "readings_kun": [],
-        "wk_level": 48,
-        "wk_meanings": ["Swift"],
-        "wk_readings_on": ["じん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Scooter", "Cliff", "Cross"]
     },
     "騎": {
         "strokes": 18,
@@ -25153,11 +17088,6 @@ data1 = {
         "meanings": ["Equestrian", "Riding On Horses", "Counter For Equestrians"],
         "readings_on": ["き"],
         "readings_kun": [],
-        "wk_level": 48,
-        "wk_meanings": ["Horse"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Horse", "Odd"]
     },
     "蓄": {
         "strokes": 13,
@@ -25168,11 +17098,6 @@ data1 = {
         "meanings": ["Amass", "Raise", "Hoard", "Store"],
         "readings_on": ["ちく"],
         "readings_kun": ["たくわ.える"],
-        "wk_level": 48,
-        "wk_meanings": ["Amass"],
-        "wk_readings_on": ["ちく"],
-        "wk_readings_kun": ["!たくわ"],
-        "wk_radicals": ["Flowers", "Mysterious", "Rice Paddy"]
     },
     "尽": {
         "strokes": 6,
@@ -25183,11 +17108,6 @@ data1 = {
         "meanings": ["Exhaust", "Use Up", "Run Out Of", "Deplete", "Befriend", "Serve"],
         "readings_on": ["じん", "さん"],
         "readings_kun": ["つ.くす", "-つ.くす", "-づ.くし", "-つ.く", "-づ.く", "-ず.く", "つ.きる", "つ.かす", "さかづき", "ことごと.く", "つか", "つき"],
-        "wk_level": 48,
-        "wk_meanings": ["Exhaust"],
-        "wk_readings_on": ["じん"],
-        "wk_readings_kun": ["!つ"],
-        "wk_radicals": ["Shrimp", "Ice"]
     },
     "彩": {
         "strokes": 11,
@@ -25198,11 +17118,6 @@ data1 = {
         "meanings": ["Coloring", "Paint", "Makeup"],
         "readings_on": ["さい"],
         "readings_kun": ["いろど.る"],
-        "wk_level": 48,
-        "wk_meanings": ["Coloring", "^Colouring"],
-        "wk_readings_on": ["さい"],
-        "wk_readings_kun": ["!いろど"],
-        "wk_radicals": ["Cleat", "Tree", "Hair"]
     },
     "憶": {
         "strokes": 16,
@@ -25213,11 +17128,6 @@ data1 = {
         "meanings": ["Recollection", "Think", "Remember"],
         "readings_on": ["おく"],
         "readings_kun": [],
-        "wk_level": 48,
-        "wk_meanings": ["Recollection"],
-        "wk_readings_on": ["おく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Soul", "Idea"]
     },
 
     "耐": {
@@ -25229,11 +17139,6 @@ data1 = {
         "meanings": ["-proof", "Enduring"],
         "readings_on": ["たい"],
         "readings_kun": ["た.える"],
-        "wk_level": 48,
-        "wk_meanings": ["Resistant"],
-        "wk_readings_on": ["たい"],
-        "wk_readings_kun": ["!た"],
-        "wk_radicals": ["Rake", "Measurement"]
     },
 
     "輝": {
@@ -25245,11 +17150,6 @@ data1 = {
         "meanings": ["Radiance", "Shine", "Sparkle", "Gleam", "Twinkle"],
         "readings_on": ["き"],
         "readings_kun": ["かがや.く"],
-        "wk_level": 48,
-        "wk_meanings": ["Radiance"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": ["!かがや"],
-        "wk_radicals": ["Sunlight", "Forehead", "Car"]
     },
     "脅": {
         "strokes": 10,
@@ -25260,11 +17160,6 @@ data1 = {
         "meanings": ["Threaten", "Coerce"],
         "readings_on": ["きょう"],
         "readings_kun": ["おびや.かす", "おど.す", "おど.かす"],
-        "wk_level": 48,
-        "wk_meanings": ["Threaten"],
-        "wk_readings_on": ["きょう"],
-        "wk_readings_kun": ["!おど", "!おびや"],
-        "wk_radicals": ["Power", "Moon"]
     },
     "麻": {
         "strokes": 11,
@@ -25275,11 +17170,6 @@ data1 = {
         "meanings": ["Hemp", "Flax", "Numb"],
         "readings_on": ["ま", "まあ"],
         "readings_kun": ["あさ"],
-        "wk_level": 48,
-        "wk_meanings": ["Hemp"],
-        "wk_readings_on": ["ま"],
-        "wk_readings_kun": ["!あさ"],
-        "wk_radicals": ["Canopy", "Tree"]
     },
 
     "培": {
@@ -25291,11 +17181,6 @@ data1 = {
         "meanings": ["Cultivate", "Foster"],
         "readings_on": ["ばい"],
         "readings_kun": ["つちか.う"],
-        "wk_level": 48,
-        "wk_meanings": ["Cultivate"],
-        "wk_readings_on": ["ばい"],
-        "wk_readings_kun": ["!つちか"],
-        "wk_radicals": ["Dirt", "Clown"]
     },
     "悔": {
         "strokes": 9,
@@ -25306,11 +17191,6 @@ data1 = {
         "meanings": ["Repent", "Regret"],
         "readings_on": ["かい"],
         "readings_kun": ["く.いる", "く.やむ", "くや.しい"],
-        "wk_level": 48,
-        "wk_meanings": ["Regret"],
-        "wk_readings_on": ["かい"],
-        "wk_readings_kun": ["!くや", "!く"],
-        "wk_radicals": ["Soul", "Every"]
     },
     "脇": {
         "strokes": 10,
@@ -25321,11 +17201,6 @@ data1 = {
         "meanings": ["Armpit", "The Other Way", "Another Place", "Flank", "Supporting Role"],
         "readings_on": ["きょう"],
         "readings_kun": ["わき", "わけ"],
-        "wk_level": 48,
-        "wk_meanings": ["Armpit"],
-        "wk_readings_on": ["!きょう"],
-        "wk_readings_kun": ["わき"],
-        "wk_radicals": ["Moon", "Power"]
     },
     "遂": {
         "strokes": 12,
@@ -25336,11 +17211,6 @@ data1 = {
         "meanings": ["Consummate", "Accomplish", "Attain", "Commit (suicide)"],
         "readings_on": ["すい"],
         "readings_kun": ["と.げる", "つい.に"],
-        "wk_level": 48,
-        "wk_meanings": ["Accomplish"],
-        "wk_readings_on": ["すい"],
-        "wk_readings_kun": ["!と", "!つい"],
-        "wk_radicals": ["Scooter", "Horns", "Pig"]
     },
     "班": {
         "strokes": 10,
@@ -25351,11 +17221,6 @@ data1 = {
         "meanings": ["Squad", "Corps", "Unit", "Group"],
         "readings_on": ["はん"],
         "readings_kun": [],
-        "wk_level": 48,
-        "wk_meanings": ["Squad"],
-        "wk_readings_on": ["はん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["King", "Knife"]
     },
 
     "斜": {
@@ -25367,11 +17232,6 @@ data1 = {
         "meanings": ["Diagonal", "Slanting", "Oblique"],
         "readings_on": ["しゃ"],
         "readings_kun": ["なな.め", "はす"],
-        "wk_level": 48,
-        "wk_meanings": ["Diagonal"],
-        "wk_readings_on": ["しゃ"],
-        "wk_readings_kun": ["!なな"],
-        "wk_radicals": ["Surplus", "Ladle"]
     },
     "殴": {
         "strokes": 8,
@@ -25382,11 +17242,6 @@ data1 = {
         "meanings": ["Assault", "Hit", "Beat", "Thrash"],
         "readings_on": ["おう"],
         "readings_kun": ["なぐ.る"],
-        "wk_level": 48,
-        "wk_meanings": ["Assault"],
-        "wk_readings_on": ["おう"],
-        "wk_readings_kun": ["!なぐ"],
-        "wk_radicals": ["District", "Weapon"]
     },
     "盾": {
         "strokes": 9,
@@ -25397,11 +17252,6 @@ data1 = {
         "meanings": ["Shield", "Escutcheon", "Pretext"],
         "readings_on": ["じゅん"],
         "readings_kun": ["たて"],
-        "wk_level": 48,
-        "wk_meanings": ["Shield"],
-        "wk_readings_on": ["じゅん"],
-        "wk_readings_kun": ["!たて"],
-        "wk_radicals": ["Cliff", "Pope"]
     },
     "穫": {
         "strokes": 18,
@@ -25412,11 +17262,6 @@ data1 = {
         "meanings": ["Harvest", "Reap"],
         "readings_on": ["かく"],
         "readings_kun": [],
-        "wk_level": 48,
-        "wk_meanings": ["Harvest"],
-        "wk_readings_on": ["かく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Grain", "Flowers", "Turkey", "Stool"]
     },
     "巾": {
         "strokes": 3,
@@ -25427,11 +17272,6 @@ data1 = {
         "meanings": ["Towel", "Hanging Scroll", "Width", "Cloth Radical (no. 50)"],
         "readings_on": ["きん", "ふく"],
         "readings_kun": ["おお.い", "ちきり", "きれ"],
-        "wk_level": 47,
-        "wk_meanings": ["Towel"],
-        "wk_readings_on": ["きん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Towel"]
     },
     "駒": {
         "strokes": 15,
@@ -25442,11 +17282,6 @@ data1 = {
         "meanings": ["Pony", "Horse", "Colt"],
         "readings_on": ["く"],
         "readings_kun": ["こま"],
-        "wk_level": 49,
-        "wk_meanings": ["Chess Piece"],
-        "wk_readings_on": ["!く"],
-        "wk_readings_kun": ["こま"],
-        "wk_radicals": ["Horse", "Paragraph"]
     },
     "紫": {
         "strokes": 12,
@@ -25457,11 +17292,6 @@ data1 = {
         "meanings": ["Purple", "Violet"],
         "readings_on": ["し"],
         "readings_kun": ["むらさき"],
-        "wk_level": 49,
-        "wk_meanings": ["Purple"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!むらさき"],
-        "wk_radicals": ["Stop", "Spoon", "Thread"]
     },
     "抽": {
         "strokes": 8,
@@ -25472,11 +17302,6 @@ data1 = {
         "meanings": ["Pluck", "Pull", "Extract", "Excel"],
         "readings_on": ["ちゅう"],
         "readings_kun": ["ひき-"],
-        "wk_level": 49,
-        "wk_meanings": ["Pluck"],
-        "wk_readings_on": ["ちゅう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Fingers", "Reason"]
     },
     "誓": {
         "strokes": 14,
@@ -25487,11 +17312,6 @@ data1 = {
         "meanings": ["Vow", "Swear", "Pledge"],
         "readings_on": ["せい"],
         "readings_kun": ["ちか.う"],
-        "wk_level": 49,
-        "wk_meanings": ["Vow"],
-        "wk_readings_on": ["せい"],
-        "wk_readings_kun": ["!ちか"],
-        "wk_radicals": ["Fingers", "Axe", "Say"]
     },
     "悟": {
         "strokes": 10,
@@ -25502,11 +17322,6 @@ data1 = {
         "meanings": ["Enlightenment", "Perceive", "Discern", "Realize", "Understand"],
         "readings_on": ["ご"],
         "readings_kun": ["さと.る"],
-        "wk_level": 49,
-        "wk_meanings": ["Comprehension"],
-        "wk_readings_on": ["ご"],
-        "wk_readings_kun": ["!さと"],
-        "wk_radicals": ["Soul", "Five", "Mouth"]
     },
     "拓": {
         "strokes": 8,
@@ -25517,11 +17332,6 @@ data1 = {
         "meanings": ["Clear (the Land)", "Open", "Break Up (land)"],
         "readings_on": ["たく"],
         "readings_kun": ["ひら.く"],
-        "wk_level": 49,
-        "wk_meanings": ["Cultivation"],
-        "wk_readings_on": ["たく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Fingers", "Stone"]
     },
     "拘": {
         "strokes": 8,
@@ -25532,11 +17342,6 @@ data1 = {
         "meanings": ["Arrest", "Seize", "Concerned", "Adhere To", "Despite"],
         "readings_on": ["こう"],
         "readings_kun": ["かか.わる"],
-        "wk_level": 49,
-        "wk_meanings": ["Arrest"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!かか"],
-        "wk_radicals": ["Fingers", "Paragraph"]
     },
     "礎": {
         "strokes": 18,
@@ -25547,11 +17352,6 @@ data1 = {
         "meanings": ["Cornerstone", "Foundation Stone"],
         "readings_on": ["そ"],
         "readings_kun": ["いしずえ"],
-        "wk_level": 49,
-        "wk_meanings": ["Foundation"],
-        "wk_readings_on": ["そ"],
-        "wk_readings_kun": ["!いしずえ"],
-        "wk_radicals": ["Stone", "Tree", "Coat Rack"]
     },
     "鶴": {
         "strokes": 21,
@@ -25562,11 +17362,6 @@ data1 = {
         "meanings": ["Crane", "Stork"],
         "readings_on": ["かく"],
         "readings_kun": ["つる"],
-        "wk_level": 49,
-        "wk_meanings": ["Crane"],
-        "wk_readings_on": ["!かく"],
-        "wk_readings_kun": ["つる"],
-        "wk_radicals": ["Roof", "Turkey", "Bird"]
     },
     "刈": {
         "strokes": 4,
@@ -25577,11 +17372,6 @@ data1 = {
         "meanings": ["Reap", "Cut", "Clip", "Trim", "Prune"],
         "readings_on": ["がい", "かい"],
         "readings_kun": ["か.る"],
-        "wk_level": 49,
-        "wk_meanings": ["Prune"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["か"],
-        "wk_radicals": ["Treasure", "Knife"]
     },
     "剛": {
         "strokes": 10,
@@ -25592,11 +17382,6 @@ data1 = {
         "meanings": ["Sturdy", "Strength"],
         "readings_on": ["ごう"],
         "readings_kun": [],
-        "wk_level": 49,
-        "wk_meanings": ["Sturdy"],
-        "wk_readings_on": ["ごう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Hill", "Knife"]
     },
     "唯": {
         "strokes": 11,
@@ -25607,11 +17392,6 @@ data1 = {
         "meanings": ["Solely", "Only", "Merely", "Simply"],
         "readings_on": ["ゆい", "い"],
         "readings_kun": ["ただ"],
-        "wk_level": 49,
-        "wk_meanings": ["Solely"],
-        "wk_readings_on": ["ゆい"],
-        "wk_readings_kun": ["!ただ"],
-        "wk_radicals": ["Mouth", "Turkey"]
     },
     "壇": {
         "strokes": 16,
@@ -25622,11 +17402,6 @@ data1 = {
         "meanings": ["Podium", "Stage", "Rostrum", "Terrace"],
         "readings_on": ["だん", "たん"],
         "readings_kun": [],
-        "wk_level": 49,
-        "wk_meanings": ["Podium"],
-        "wk_readings_on": ["だん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Dirt", "Lid", "Times", "Dawn"]
     },
     "尼": {
         "strokes": 5,
@@ -25637,11 +17412,6 @@ data1 = {
         "meanings": ["Nun"],
         "readings_on": ["に"],
         "readings_kun": ["あま"],
-        "wk_level": 49,
-        "wk_meanings": ["Nun"],
-        "wk_readings_on": ["に"],
-        "wk_readings_kun": ["!あま"],
-        "wk_radicals": ["Flag", "Spoon"]
     },
     "概": {
         "strokes": 14,
@@ -25652,11 +17422,6 @@ data1 = {
         "meanings": ["Outline", "Condition", "Approximation", "Generally"],
         "readings_on": ["がい"],
         "readings_kun": ["おおむ.ね"],
-        "wk_level": 49,
-        "wk_meanings": ["Approximation"],
-        "wk_readings_on": ["がい"],
-        "wk_readings_kun": ["!おおむ"],
-        "wk_radicals": ["Tree", "Root", "Fang"]
     },
     "浸": {
         "strokes": 10,
@@ -25667,11 +17432,6 @@ data1 = {
         "meanings": ["Immersed", "Soak", "Dip", "Steep", "Moisten", "Wet", "Dunk"],
         "readings_on": ["しん"],
         "readings_kun": ["ひた.す", "ひた.る", "つ.かる"],
-        "wk_level": 49,
-        "wk_meanings": ["Immersed"],
-        "wk_readings_on": ["しん"],
-        "wk_readings_kun": ["!ひた"],
-        "wk_radicals": ["Tsunami", "Wolverine", "Forehead", "Stool"]
     },
     "淡": {
         "strokes": 11,
@@ -25682,11 +17442,6 @@ data1 = {
         "meanings": ["Thin", "Faint", "Pale", "Fleeting"],
         "readings_on": ["たん"],
         "readings_kun": ["あわ.い"],
-        "wk_level": 49,
-        "wk_meanings": ["Faint"],
-        "wk_readings_on": ["たん"],
-        "wk_readings_kun": ["!あわ"],
-        "wk_radicals": ["Tsunami", "Fire"]
     },
     "煮": {
         "strokes": 12,
@@ -25697,11 +17452,6 @@ data1 = {
         "meanings": ["Boil", "Cook"],
         "readings_on": ["しゃ"],
         "readings_kun": ["に.る", "-に", "に.える", "に.やす"],
-        "wk_level": 49,
-        "wk_meanings": ["Boil"],
-        "wk_readings_on": ["!しゃ"],
-        "wk_readings_kun": ["に"],
-        "wk_radicals": ["Someone", "Boil"]
     },
     "覆": {
         "strokes": 18,
@@ -25712,11 +17462,6 @@ data1 = {
         "meanings": ["Capsize", "Cover", "Shade", "Mantle", "Be Ruined"],
         "readings_on": ["ふく"],
         "readings_kun": ["おお.う", "くつがえ.す", "くつがえ.る"],
-        "wk_level": 49,
-        "wk_meanings": ["Capsize", "^Cover"],
-        "wk_readings_on": ["ふく"],
-        "wk_readings_kun": ["!おお", "!くつがえ"],
-        "wk_radicals": ["Helicopter", "Loiter", "Black Hole"]
     },
     "謀": {
         "strokes": 16,
@@ -25727,11 +17472,6 @@ data1 = {
         "meanings": ["Conspire", "Cheat", "Impose On", "Plan", "Devise", "Scheme", "Have In Mind", "Deceive"],
         "readings_on": ["ぼう", "む"],
         "readings_kun": ["はか.る", "たばか.る", "はかりごと"],
-        "wk_level": 49,
-        "wk_meanings": ["Conspire"],
-        "wk_readings_on": ["ぼう"],
-        "wk_readings_kun": ["!はか"],
-        "wk_radicals": ["Say", "Sweet", "Tree"]
     },
     "陶": {
         "strokes": 11,
@@ -25742,11 +17482,6 @@ data1 = {
         "meanings": ["Pottery", "Porcelain"],
         "readings_on": ["とう"],
         "readings_kun": ["すえ"],
-        "wk_level": 49,
-        "wk_meanings": ["Pottery"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Building", "Prison", "Can"]
     },
     "隔": {
         "strokes": 13,
@@ -25757,11 +17492,6 @@ data1 = {
         "meanings": ["Isolate", "Alternate", "Distance", "Separate", "Gulf"],
         "readings_on": ["かく"],
         "readings_kun": ["へだ.てる", "へだ.たる"],
-        "wk_level": 49,
-        "wk_meanings": ["Isolate"],
-        "wk_readings_on": ["かく"],
-        "wk_readings_kun": ["!へだ"],
-        "wk_radicals": ["Building", "Bully"]
     },
     "征": {
         "strokes": 8,
@@ -25772,11 +17502,6 @@ data1 = {
         "meanings": ["Subjugate", "Attack The Rebellious", "Collect Taxes"],
         "readings_on": ["せい"],
         "readings_kun": [],
-        "wk_level": 49,
-        "wk_meanings": ["Subjugate"],
-        "wk_readings_on": ["せい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Loiter", "Correct"]
     },
     "陛": {
         "strokes": 10,
@@ -25787,11 +17512,6 @@ data1 = {
         "meanings": ["Highness", "Steps (of Throne)"],
         "readings_on": ["へい"],
         "readings_kun": [],
-        "wk_level": 49,
-        "wk_meanings": ["Highness"],
-        "wk_readings_on": ["へい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Building", "Compare", "Dirt"]
     },
     "俗": {
         "strokes": 9,
@@ -25802,11 +17522,6 @@ data1 = {
         "meanings": ["Vulgar", "Customs", "Manners", "Worldliness", "Mundane Things"],
         "readings_on": ["ぞく"],
         "readings_kun": [],
-        "wk_level": 49,
-        "wk_meanings": ["Vulgar"],
-        "wk_readings_on": ["ぞく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Valley"]
     },
     "桑": {
         "strokes": 10,
@@ -25817,11 +17532,6 @@ data1 = {
         "meanings": ["Mulberry"],
         "readings_on": ["そう"],
         "readings_kun": ["くわ"],
-        "wk_level": 49,
-        "wk_meanings": ["Mulberry"],
-        "wk_readings_on": ["!そう"],
-        "wk_readings_kun": ["くわ"],
-        "wk_radicals": ["Stool", "Tree"]
     },
     "潤": {
         "strokes": 15,
@@ -25832,11 +17542,6 @@ data1 = {
         "meanings": ["Wet", "Be Watered", "Profit By", "Receive Benefits", "Favor", "Charm", "Steep"],
         "readings_on": ["じゅん"],
         "readings_kun": ["うるお.う", "うるお.す", "うる.む"],
-        "wk_level": 49,
-        "wk_meanings": ["Watered"],
-        "wk_readings_on": ["じゅん"],
-        "wk_readings_kun": ["!うるお", "!うる"],
-        "wk_radicals": ["Tsunami", "Gate", "King"]
     },
     "珠": {
         "strokes": 10,
@@ -25847,11 +17552,6 @@ data1 = {
         "meanings": ["Pearl", "Gem", "Jewel"],
         "readings_on": ["しゅ"],
         "readings_kun": ["たま"],
-        "wk_level": 49,
-        "wk_meanings": ["Pearl"],
-        "wk_readings_on": ["しゅ"],
-        "wk_readings_kun": ["!たま"],
-        "wk_radicals": ["King", "Slide", "Jet"]
     },
     "衰": {
         "strokes": 10,
@@ -25862,11 +17562,6 @@ data1 = {
         "meanings": ["Decline", "Wane", "Weaken"],
         "readings_on": ["すい"],
         "readings_kun": ["おとろ.える"],
-        "wk_level": 49,
-        "wk_meanings": ["Decline"],
-        "wk_readings_on": ["すい"],
-        "wk_readings_kun": ["!おとろ"],
-        "wk_radicals": ["Lid", "Sun", "Kick"]
     },
     "奨": {
         "strokes": 13,
@@ -25877,11 +17572,6 @@ data1 = {
         "meanings": ["Exhort", "Urge", "Encourage"],
         "readings_on": ["しょう", "そう"],
         "readings_kun": ["すす.める"],
-        "wk_level": 49,
-        "wk_meanings": ["Encourage"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Commander", "Big"]
     },
     "劣": {
         "strokes": 6,
@@ -25892,11 +17582,6 @@ data1 = {
         "meanings": ["Inferiority", "Be Inferior To", "Be Worse"],
         "readings_on": ["れつ"],
         "readings_kun": ["おと.る"],
-        "wk_level": 49,
-        "wk_meanings": ["Inferiority"],
-        "wk_readings_on": ["れつ"],
-        "wk_readings_kun": ["!おと"],
-        "wk_radicals": ["Few", "Power"]
     },
     "勘": {
         "strokes": 11,
@@ -25907,11 +17592,6 @@ data1 = {
         "meanings": ["Intuition", "Perception", "Check", "Compare", "Sixth Sense"],
         "readings_on": ["かん"],
         "readings_kun": [],
-        "wk_level": 49,
-        "wk_meanings": ["Intuition"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Crab Trap", "Power"]
     },
     "妃": {
         "strokes": 6,
@@ -25922,11 +17602,6 @@ data1 = {
         "meanings": ["Queen", "Princess"],
         "readings_on": ["ひ"],
         "readings_kun": ["きさき"],
-        "wk_level": 49,
-        "wk_meanings": ["Princess", "^Queen"],
-        "wk_readings_on": ["ひ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Woman", "Oneself"]
     },
     "丈": {
         "strokes": 3,
@@ -25937,11 +17612,6 @@ data1 = {
         "meanings": ["Length", "Ten Shaku", "Measure", "Mr.", "Ms.", "Height", "Stature", "All (one Has)", "Only", "That's All", "Merely"],
         "readings_on": ["じょう"],
         "readings_kun": ["たけ", "だけ"],
-        "wk_level": 15,
-        "wk_meanings": ["Height", "^Ten Feet"],
-        "wk_readings_on": ["じょう"],
-        "wk_readings_kun": ["!たけ"],
-        "wk_radicals": ["Height"]
     },
     "峰": {
         "strokes": 10,
@@ -25952,11 +17622,6 @@ data1 = {
         "meanings": ["Summit", "Peak"],
         "readings_on": ["ほう"],
         "readings_kun": ["みね", "ね"],
-        "wk_level": 50,
-        "wk_meanings": ["Summit"],
-        "wk_readings_on": ["ほう"],
-        "wk_readings_kun": ["!みね"],
-        "wk_radicals": ["Mountain", "Signpost"]
     },
     "巧": {
         "strokes": 5,
@@ -25967,11 +17632,6 @@ data1 = {
         "meanings": ["Adroit", "Skilled", "Ingenuity"],
         "readings_on": ["こう"],
         "readings_kun": ["たく.み", "たく.む", "うま.い"],
-        "wk_level": 50,
-        "wk_meanings": ["Adept"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!うま", "!たく"],
-        "wk_radicals": ["Construction", "Beggar"]
     },
     "邪": {
         "strokes": 8,
@@ -25982,11 +17642,6 @@ data1 = {
         "meanings": ["Wicked", "Injustice", "Wrong"],
         "readings_on": ["じゃ"],
         "readings_kun": ["よこし.ま"],
-        "wk_level": 50,
-        "wk_meanings": ["Wicked"],
-        "wk_readings_on": ["じゃ"],
-        "wk_readings_kun": ["!よこし"],
-        "wk_radicals": ["Fang", "Building"]
     },
     "駄": {
         "strokes": 14,
@@ -25997,11 +17652,6 @@ data1 = {
         "meanings": ["Burdensome", "Pack Horse", "Horse Load", "Send By Horse", "Trivial", "Worthless"],
         "readings_on": ["だ", "た"],
         "readings_kun": [],
-        "wk_level": 50,
-        "wk_meanings": ["Burdensome"],
-        "wk_readings_on": ["だ", "た"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Horse", "Fat"]
     },
     "唐": {
         "strokes": 10,
@@ -26012,11 +17662,6 @@ data1 = {
         "meanings": ["T'ang", "China", "Foreign"],
         "readings_on": ["とう"],
         "readings_kun": ["から"],
-        "wk_level": 50,
-        "wk_meanings": ["China", "^Sudden"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Canopy", "Brush", "Mouth"]
     },
     "廷": {
         "strokes": 7,
@@ -26027,11 +17672,6 @@ data1 = {
         "meanings": ["Courts", "Imperial Court", "Government Office"],
         "readings_on": ["てい"],
         "readings_kun": [],
-        "wk_level": 50,
-        "wk_meanings": ["Courts"],
-        "wk_readings_on": ["てい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Yoga", "King"]
     },
     "鬱": {
         "strokes": 29,
@@ -26042,11 +17682,6 @@ data1 = {
         "meanings": ["Gloom", "Depression", "Melancholy", "Luxuriant"],
         "readings_on": ["うつ"],
         "readings_kun": ["うっ.する", "ふさ.ぐ", "しげ.る"],
-        "wk_level": 50,
-        "wk_meanings": ["Gloom"],
-        "wk_readings_on": ["うつ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tree", "Can", "Psychopath"]
     },
     "鰐": {
         "strokes": 20,
@@ -26057,11 +17692,6 @@ data1 = {
         "meanings": ["Alligator", "Crocodile"],
         "readings_on": ["がく"],
         "readings_kun": ["わに"],
-        "wk_level": 50,
-        "wk_meanings": ["Alligator"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["わに"],
-        "wk_radicals": ["Fish", "Mouth", "Ground", "Beggar"]
     },
     "蟹": {
         "strokes": 19,
@@ -26072,11 +17702,6 @@ data1 = {
         "meanings": ["Crab"],
         "readings_on": ["かい"],
         "readings_kun": ["かに"],
-        "wk_level": 50,
-        "wk_meanings": ["Crab"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["かに"],
-        "wk_radicals": ["Angle", "Sword", "Cow", "Insect"]
     },
     "簿": {
         "strokes": 19,
@@ -26087,11 +17712,6 @@ data1 = {
         "meanings": ["Register", "Record Book"],
         "readings_on": ["ぼ"],
         "readings_kun": [],
-        "wk_level": 50,
-        "wk_meanings": ["Record Book"],
-        "wk_readings_on": ["ぼ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Bamboo", "Tsunami", "Specialty"]
     },
     "彰": {
         "strokes": 14,
@@ -26102,11 +17722,6 @@ data1 = {
         "meanings": ["Patent", "Clear"],
         "readings_on": ["しょう"],
         "readings_kun": [],
-        "wk_level": 50,
-        "wk_meanings": ["Clear", "^Patent"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Chapter", "Hair"]
     },
     "漫": {
         "strokes": 14,
@@ -26117,11 +17732,6 @@ data1 = {
         "meanings": ["Cartoon", "Involuntarily", "Unrestrained", "In Spite Of Oneself", "Corrupt"],
         "readings_on": ["まん"],
         "readings_kun": ["みだり.に", "そぞ.ろ"],
-        "wk_level": 50,
-        "wk_meanings": ["Manga"],
-        "wk_readings_on": ["まん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tsunami", "Sun", "Net", "Stool"]
     },
     "訂": {
         "strokes": 9,
@@ -26132,11 +17742,6 @@ data1 = {
         "meanings": ["Revise", "Correct", "Decide"],
         "readings_on": ["てい"],
         "readings_kun": ["ただ.す"],
-        "wk_level": 50,
-        "wk_meanings": ["Revise"],
-        "wk_readings_on": ["てい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Say", "Street"]
     },
     "諮": {
         "strokes": 16,
@@ -26147,11 +17752,6 @@ data1 = {
         "meanings": ["Consult With"],
         "readings_on": ["し"],
         "readings_kun": ["はか.る"],
-        "wk_level": 50,
-        "wk_meanings": ["Consult"],
-        "wk_readings_on": ["し"],
-        "wk_readings_kun": ["!はか"],
-        "wk_radicals": ["Say", "Next", "Mouth"]
     },
     "銘": {
         "strokes": 14,
@@ -26162,11 +17762,6 @@ data1 = {
         "meanings": ["Inscription", "Signature (of Artisan)"],
         "readings_on": ["めい"],
         "readings_kun": [],
-        "wk_level": 50,
-        "wk_meanings": ["Inscription"],
-        "wk_readings_on": ["めい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Gold", "Name"]
     },
     "堰": {
         "strokes": 12,
@@ -26177,11 +17772,6 @@ data1 = {
         "meanings": ["Dam", "Prevent", "Stop Up"],
         "readings_on": ["えん"],
         "readings_kun": ["せき", "せ.く"],
-        "wk_level": 50,
-        "wk_meanings": ["Dam"],
-        "wk_readings_on": ["!えん"],
-        "wk_readings_kun": ["せき"],
-        "wk_radicals": ["Dirt", "Cage", "Sun", "Woman"]
     },
     "堤": {
         "strokes": 12,
@@ -26192,11 +17782,6 @@ data1 = {
         "meanings": ["Dike", "Bank", "Embankment"],
         "readings_on": ["てい"],
         "readings_kun": ["つつみ"],
-        "wk_level": 50,
-        "wk_meanings": ["Embankment"],
-        "wk_readings_on": ["てい"],
-        "wk_readings_kun": ["!つつみ"],
-        "wk_radicals": ["Dirt", "Sun", "Correct"]
     },
     "漂": {
         "strokes": 14,
@@ -26207,11 +17792,6 @@ data1 = {
         "meanings": ["Drift", "Float (on Liquid)"],
         "readings_on": ["ひょう"],
         "readings_kun": ["ただよ.う"],
-        "wk_level": 50,
-        "wk_meanings": ["Drift"],
-        "wk_readings_on": ["ひょう"],
-        "wk_readings_kun": ["!ただよ"],
-        "wk_radicals": ["Tsunami", "Helicopter", "Jackhammer"]
     },
     "翻": {
         "strokes": 18,
@@ -26222,11 +17802,6 @@ data1 = {
         "meanings": ["Flip", "Turn Over", "Wave", "Flutter", "Change (mind)"],
         "readings_on": ["ほん", "はん"],
         "readings_kun": ["ひるがえ.る", "ひるがえ.す"],
-        "wk_level": 50,
-        "wk_meanings": ["Flip"],
-        "wk_readings_on": ["ほん"],
-        "wk_readings_kun": ["!ひるがえ"],
-        "wk_radicals": ["Number", "Feathers"]
     },
     "軌": {
         "strokes": 9,
@@ -26237,11 +17812,6 @@ data1 = {
         "meanings": ["Rut", "Wheel", "Track", "Model", "Way Of Doing"],
         "readings_on": ["き"],
         "readings_kun": [],
-        "wk_level": 50,
-        "wk_meanings": ["Rut"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Car", "Nine"]
     },
     "后": {
         "strokes": 6,
@@ -26252,11 +17822,6 @@ data1 = {
         "meanings": ["Empress", "Queen", "After", "Behind", "Back", "Later"],
         "readings_on": ["こう", "ご"],
         "readings_kun": ["きさき"],
-        "wk_level": 50,
-        "wk_meanings": ["Empress"],
-        "wk_readings_on": ["こう", "^ご"],
-        "wk_readings_kun": ["!きさき"],
-        "wk_radicals": ["Cliff", "Ground", "Mouth"]
     },
     "奮": {
         "strokes": 16,
@@ -26267,11 +17832,6 @@ data1 = {
         "meanings": ["Stirred Up", "Be Invigorated", "Flourish"],
         "readings_on": ["ふん"],
         "readings_kun": ["ふる.う"],
-        "wk_level": 50,
-        "wk_meanings": ["Stirred Up"],
-        "wk_readings_on": ["ふん"],
-        "wk_readings_kun": ["!ふる"],
-        "wk_radicals": ["Big", "Turkey", "Rice Paddy"]
     },
     "亭": {
         "strokes": 9,
@@ -26282,11 +17842,6 @@ data1 = {
         "meanings": ["Pavilion", "Restaurant", "Mansion", "Arbor", "Cottage", "Vaudeville", "Music Hall", "Stage Name"],
         "readings_on": ["てい", "ちん"],
         "readings_kun": [],
-        "wk_level": 50,
-        "wk_meanings": ["Restaurant"],
-        "wk_readings_on": ["てい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Restaurant"]
     },
     "仰": {
         "strokes": 6,
@@ -26297,11 +17852,6 @@ data1 = {
         "meanings": ["Face-up", "Look Up", "Depend", "Seek", "Respect", "Rever", "Drink", "Take"],
         "readings_on": ["ぎょう", "こう"],
         "readings_kun": ["あお.ぐ", "おお.せ", "お.っしゃる", "おっしゃ.る"],
-        "wk_level": 50,
-        "wk_meanings": ["Look Up To"],
-        "wk_readings_on": ["ぎょう", "こう"],
-        "wk_readings_kun": ["!あお"],
-        "wk_radicals": ["Leader", "Cat Pirate"]
     },
     "伯": {
         "strokes": 7,
@@ -26312,11 +17862,6 @@ data1 = {
         "meanings": ["Chief", "Count", "Earl", "Uncle", "Brazil"],
         "readings_on": ["はく"],
         "readings_kun": [],
-        "wk_level": 50,
-        "wk_meanings": ["Chief"],
-        "wk_readings_on": ["はく", "お"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "White"]
     },
 
     "淀": {
@@ -26328,11 +17873,6 @@ data1 = {
         "meanings": ["Pool", "Eddy"],
         "readings_on": ["てん", "でん"],
         "readings_kun": ["よど.む"],
-        "wk_level": 50,
-        "wk_meanings": ["Eddy"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["よど"],
-        "wk_radicals": ["Tsunami", "Roof", "Correct"]
     },
     "墳": {
         "strokes": 15,
@@ -26343,11 +17883,6 @@ data1 = {
         "meanings": ["Tomb", "Mound"],
         "readings_on": ["ふん"],
         "readings_kun": [],
-        "wk_level": 50,
-        "wk_meanings": ["Tomb"],
-        "wk_readings_on": ["ふん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Dirt", "Cross", "Flowers", "Shellfish"]
     },
     "壮": {
         "strokes": 6,
@@ -26358,11 +17893,6 @@ data1 = {
         "meanings": ["Robust", "Manhood", "Prosperity"],
         "readings_on": ["そう"],
         "readings_kun": ["さかん"],
-        "wk_level": 50,
-        "wk_meanings": ["Robust"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Icicle", "Samurai"]
     },
     "把": {
         "strokes": 7,
@@ -26373,11 +17903,6 @@ data1 = {
         "meanings": ["Grasp", "Faggot", "Bunch", "Counter For Bundles"],
         "readings_on": ["は", "わ"],
         "readings_kun": [],
-        "wk_level": 50,
-        "wk_meanings": ["Bundle", "^Grasp"],
-        "wk_readings_on": ["わ", "は"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Fingers", "Bed"]
     },
     "搬": {
         "strokes": 13,
@@ -26388,11 +17913,6 @@ data1 = {
         "meanings": ["Conveyor", "Carry", "Transport"],
         "readings_on": ["はん"],
         "readings_kun": [],
-        "wk_level": 50,
-        "wk_meanings": ["Transport"],
-        "wk_readings_on": ["はん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Fingers", "Boat", "Weapon"]
     },
     "晶": {
         "strokes": 12,
@@ -26403,11 +17923,6 @@ data1 = {
         "meanings": ["Sparkle", "Clear", "Crystal"],
         "readings_on": ["しょう"],
         "readings_kun": [],
-        "wk_level": 50,
-        "wk_meanings": ["Crystal"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Sun"]
     },
     "洞": {
         "strokes": 9,
@@ -26418,11 +17933,6 @@ data1 = {
         "meanings": ["Den", "Cave", "Excavation"],
         "readings_on": ["どう"],
         "readings_kun": ["ほら"],
-        "wk_level": 50,
-        "wk_meanings": ["Cave"],
-        "wk_readings_on": ["どう"],
-        "wk_readings_kun": ["!ほら"],
-        "wk_radicals": ["Tsunami", "Same"]
     },
     "涯": {
         "strokes": 11,
@@ -26433,11 +17943,6 @@ data1 = {
         "meanings": ["Horizon", "Shore", "Limit", "Bound"],
         "readings_on": ["がい"],
         "readings_kun": ["はて"],
-        "wk_level": 50,
-        "wk_meanings": ["Horizon"],
-        "wk_readings_on": ["がい"],
-        "wk_readings_kun": ["!はて"],
-        "wk_radicals": ["Tsunami", "Cliff", "Dirt"]
     },
     "疫": {
         "strokes": 9,
@@ -26448,11 +17953,6 @@ data1 = {
         "meanings": ["Epidemic"],
         "readings_on": ["えき", "やく"],
         "readings_kun": [],
-        "wk_level": 50,
-        "wk_meanings": ["Epidemic"],
-        "wk_readings_on": ["えき"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Sick", "Weapon"]
     },
     "孔": {
         "strokes": 4,
@@ -26463,11 +17963,6 @@ data1 = {
         "meanings": ["Cavity", "Hole", "Slit", "Very", "Great", "Exceedingly"],
         "readings_on": ["こう", "く"],
         "readings_kun": ["あな"],
-        "wk_level": 46,
-        "wk_meanings": ["Cavity", "^Hole"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!あな"],
-        "wk_radicals": ["Child", "Umbrella"]
     },
 
 
@@ -26480,11 +17975,6 @@ data1 = {
         "meanings": ["Residence", "Mansion"],
         "readings_on": ["てい"],
         "readings_kun": ["やしき"],
-        "wk_level": 51,
-        "wk_meanings": ["Residence"],
-        "wk_readings_on": ["てい"],
-        "wk_readings_kun": ["!やしき"],
-        "wk_radicals": ["Clan", "Ground", "Building"]
     },
     "郡": {
         "strokes": 10,
@@ -26495,11 +17985,6 @@ data1 = {
         "meanings": ["County", "District"],
         "readings_on": ["ぐん"],
         "readings_kun": ["こおり"],
-        "wk_level": 51,
-        "wk_meanings": ["County", "^District"],
-        "wk_readings_on": ["ぐん"],
-        "wk_readings_kun": ["!こおり"],
-        "wk_radicals": ["Buddy", "Building"]
     },
     "釈": {
         "strokes": 11,
@@ -26510,11 +17995,6 @@ data1 = {
         "meanings": ["Explanation"],
         "readings_on": ["しゃく", "せき"],
         "readings_kun": ["とく", "す.てる", "ゆる.す"],
-        "wk_level": 51,
-        "wk_meanings": ["Explanation"],
-        "wk_readings_on": ["しゃく", "せき"],
-        "wk_readings_kun": ["!す", "!とく", "!ゆる"],
-        "wk_radicals": ["Sickle", "Shrimp"]
     },
     "肪": {
         "strokes": 8,
@@ -26525,11 +18005,6 @@ data1 = {
         "meanings": ["Obese", "Fat"],
         "readings_on": ["ぼう"],
         "readings_kun": [],
-        "wk_level": 51,
-        "wk_meanings": ["Obese", "^Fat"],
-        "wk_readings_on": ["ぼう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Moon", "Direction"]
     },
     "喚": {
         "strokes": 12,
@@ -26540,11 +18015,6 @@ data1 = {
         "meanings": ["Yell", "Cry", "Call", "Scream", "Summon"],
         "readings_on": ["かん"],
         "readings_kun": ["わめ.く"],
-        "wk_level": 51,
-        "wk_meanings": ["Scream", "^Yell"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": ["!わめ"],
-        "wk_radicals": ["Mouth", "Prison", "Legs", "Big"]
     },
     "媛": {
         "strokes": 12,
@@ -26555,11 +18025,6 @@ data1 = {
         "meanings": ["Beautiful Woman", "Princess"],
         "readings_on": ["えん"],
         "readings_kun": ["ひめ"],
-        "wk_level": 51,
-        "wk_meanings": ["Princess", "^Beautiful Woman"],
-        "wk_readings_on": ["!えん"],
-        "wk_readings_kun": ["ひめ"],
-        "wk_radicals": ["Woman", "Football"]
     },
     "貞": {
         "strokes": 9,
@@ -26570,11 +18035,6 @@ data1 = {
         "meanings": ["Upright", "Chastity", "Constancy", "Righteousness"],
         "readings_on": ["てい"],
         "readings_kun": ["さだ"],
-        "wk_level": 51,
-        "wk_meanings": ["Chastity"],
-        "wk_readings_on": ["てい"],
-        "wk_readings_kun": ["!さだ"],
-        "wk_radicals": ["Toe", "Shellfish"]
     },
     "玄": {
         "strokes": 5,
@@ -26585,11 +18045,6 @@ data1 = {
         "meanings": ["Mysterious", "Occultness", "Black", "Deep", "Profound"],
         "readings_on": ["げん"],
         "readings_kun": ["くろ", "くろ.い"],
-        "wk_level": 51,
-        "wk_meanings": ["Mysterious"],
-        "wk_readings_on": ["げん"],
-        "wk_readings_kun": ["!くろ"],
-        "wk_radicals": ["Mysterious"]
     },
     "苗": {
         "strokes": 8,
@@ -26600,11 +18055,6 @@ data1 = {
         "meanings": ["Seedling", "Sapling", "Shoot"],
         "readings_on": ["びょう", "みょう"],
         "readings_kun": ["なえ", "なわ-"],
-        "wk_level": 51,
-        "wk_meanings": ["Seedling", "^Sapling"],
-        "wk_readings_on": ["みょう", "びょう"],
-        "wk_readings_kun": ["!なえ", "!なわ"],
-        "wk_radicals": ["Flowers", "Rice Paddy"]
     },
     "渦": {
         "strokes": 12,
@@ -26615,11 +18065,6 @@ data1 = {
         "meanings": ["Whirlpool", "Eddy", "Vortex"],
         "readings_on": ["か"],
         "readings_kun": ["うず"],
-        "wk_level": 51,
-        "wk_meanings": ["Whirlpool"],
-        "wk_readings_on": ["か"],
-        "wk_readings_kun": ["!うず"],
-        "wk_radicals": ["Tsunami", "Mustache"]
     },
     "慈": {
         "strokes": 13,
@@ -26630,11 +18075,6 @@ data1 = {
         "meanings": ["Mercy"],
         "readings_on": ["じ"],
         "readings_kun": ["いつく.しむ"],
-        "wk_level": 51,
-        "wk_meanings": ["Mercy"],
-        "wk_readings_on": ["じ"],
-        "wk_readings_kun": ["!いつく"],
-        "wk_radicals": ["Horns", "Ground", "Poop", "Heart"]
     },
     "襟": {
         "strokes": 18,
@@ -26645,11 +18085,6 @@ data1 = {
         "meanings": ["Collar", "Neck", "Lapel", "One's Inner Feelings"],
         "readings_on": ["きん"],
         "readings_kun": ["えり"],
-        "wk_level": 51,
-        "wk_meanings": ["Collar"],
-        "wk_readings_on": ["!きん"],
-        "wk_readings_kun": ["えり"],
-        "wk_radicals": ["Spirit", "Tree", "Jackhammer"]
     },
     "蓮": {
         "strokes": 13,
@@ -26660,11 +18095,6 @@ data1 = {
         "meanings": ["Lotus"],
         "readings_on": ["れん"],
         "readings_kun": ["はす", "はちす"],
-        "wk_level": 51,
-        "wk_meanings": ["Lotus"],
-        "wk_readings_on": ["れん"],
-        "wk_readings_kun": ["!はす", "!はちす"],
-        "wk_radicals": ["Flowers", "Car", "Scooter"]
     },
     "亮": {
         "strokes": 9,
@@ -26675,11 +18105,6 @@ data1 = {
         "meanings": ["Clear", "Help"],
         "readings_on": ["りょう"],
         "readings_kun": ["あきらか"],
-        "wk_level": 51,
-        "wk_meanings": ["Clear"],
-        "wk_readings_on": ["りょう"],
-        "wk_readings_kun": ["!あきらか"],
-        "wk_radicals": ["Lid", "Mouth", "Forehead", "Legs"]
     },
     "聡": {
         "strokes": 14,
@@ -26690,11 +18115,6 @@ data1 = {
         "meanings": ["Wise", "Fast Learner"],
         "readings_on": ["そう"],
         "readings_kun": ["さと.い", "みみざと.い"],
-        "wk_level": 51,
-        "wk_meanings": ["Wise"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": ["!さと", "!みみざと"],
-        "wk_radicals": ["Ear", "Public", "Heart"]
     },
     "浦": {
         "strokes": 10,
@@ -26705,11 +18125,6 @@ data1 = {
         "meanings": ["Bay", "Creek", "Inlet", "Gulf", "Beach", "Seacoast"],
         "readings_on": ["ほ"],
         "readings_kun": ["うら"],
-        "wk_level": 51,
-        "wk_meanings": ["Bay"],
-        "wk_readings_on": ["!ほ"],
-        "wk_readings_kun": ["うら"],
-        "wk_radicals": ["Tsunami", "Wedding"]
     },
     "塚": {
         "strokes": 12,
@@ -26720,11 +18135,6 @@ data1 = {
         "meanings": ["Hillock", "Mound"],
         "readings_on": ["ちょう"],
         "readings_kun": ["つか", "-づか"],
-        "wk_level": 51,
-        "wk_meanings": ["Mound"],
-        "wk_readings_on": ["!ちょう"],
-        "wk_readings_kun": ["つか"],
-        "wk_radicals": ["Dirt", "Forehead", "Pig"]
     },
     "陥": {
         "strokes": 10,
@@ -26735,11 +18145,6 @@ data1 = {
         "meanings": ["Collapse", "Fall Into", "Cave In", "Fall (castle)", "Slide Into"],
         "readings_on": ["かん"],
         "readings_kun": ["おちい.る", "おとしい.れる"],
-        "wk_level": 52,
-        "wk_meanings": ["Cave In"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": ["!おちい", "!おとしい"],
-        "wk_radicals": ["Building", "Prison", "Former"]
     },
     "貫": {
         "strokes": 11,
@@ -26750,11 +18155,6 @@ data1 = {
         "meanings": ["Pierce", "8 1/3lbs", "Penetrate", "Brace"],
         "readings_on": ["かん"],
         "readings_kun": ["つらぬ.く", "ぬ.く", "ぬき"],
-        "wk_level": 52,
-        "wk_meanings": ["Pierce", "^Sushi Counter"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": ["!つらぬ", "!ぬき", "!ぬ"],
-        "wk_radicals": ["Window", "Shellfish"]
     },
     "覇": {
         "strokes": 19,
@@ -26765,11 +18165,6 @@ data1 = {
         "meanings": ["Hegemony", "Supremacy", "Leadership", "Champion"],
         "readings_on": ["は", "はく"],
         "readings_kun": ["はたがしら"],
-        "wk_level": 52,
-        "wk_meanings": ["Leadership"],
-        "wk_readings_on": ["は", "はく"],
-        "wk_readings_kun": ["!はたがしら"],
-        "wk_radicals": ["Helicopter", "Leather", "Moon"]
     },
     "呂": {
         "strokes": 7,
@@ -26780,11 +18175,6 @@ data1 = {
         "meanings": ["Spine", "Backbone"],
         "readings_on": ["ろ", "りょ"],
         "readings_kun": ["せぼね"],
-        "wk_level": 52,
-        "wk_meanings": ["Bath"],
-        "wk_readings_on": ["ろ", "りょ"],
-        "wk_readings_kun": ["!せぼね"],
-        "wk_radicals": ["Bathtub"]
     },
     "茨": {
         "strokes": 9,
@@ -26795,11 +18185,6 @@ data1 = {
         "meanings": ["Briar", "Thorn"],
         "readings_on": ["し", "じ"],
         "readings_kun": ["いばら", "かや", "くさぶき"],
-        "wk_level": 52,
-        "wk_meanings": ["Briar", "^Thorn"],
-        "wk_readings_on": ["!し", "!じ"],
-        "wk_readings_kun": ["いばら"],
-        "wk_radicals": ["Flowers", "Next"]
     },
     "擁": {
         "strokes": 16,
@@ -26810,11 +18195,6 @@ data1 = {
         "meanings": ["Hug", "Embrace", "Possess", "Protect", "Lead"],
         "readings_on": ["よう"],
         "readings_kun": [],
-        "wk_level": 52,
-        "wk_meanings": ["Embrace"],
-        "wk_readings_on": ["よう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Fingers", "Lid", "Poop", "Turkey"]
     },
     "孤": {
         "strokes": 9,
@@ -26825,11 +18205,6 @@ data1 = {
         "meanings": ["Orphan", "Alone"],
         "readings_on": ["こ"],
         "readings_kun": [],
-        "wk_level": 52,
-        "wk_meanings": ["Orphan", "^Alone"],
-        "wk_readings_on": ["こ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Melon", "Child"]
     },
     "賠": {
         "strokes": 15,
@@ -26840,11 +18215,6 @@ data1 = {
         "meanings": ["Compensation", "Indemnify"],
         "readings_on": ["ばい"],
         "readings_kun": [],
-        "wk_level": 52,
-        "wk_meanings": ["Compensation", "^Compensate"],
-        "wk_readings_on": ["ばい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Shellfish", "Clown"]
     },
     "鎖": {
         "strokes": 18,
@@ -26855,11 +18225,6 @@ data1 = {
         "meanings": ["Chain", "Irons", "Connection"],
         "readings_on": ["さ"],
         "readings_kun": ["くさり", "とざ.す"],
-        "wk_level": 52,
-        "wk_meanings": ["Chain"],
-        "wk_readings_on": ["さ"],
-        "wk_readings_kun": ["!くさり", "!とざ"],
-        "wk_radicals": ["Gold", "Triceratops", "Shellfish"]
     },
     "噴": {
         "strokes": 15,
@@ -26870,11 +18235,6 @@ data1 = {
         "meanings": ["Erupt", "Spout", "Emit", "Flush Out"],
         "readings_on": ["ふん"],
         "readings_kun": ["ふ.く"],
-        "wk_level": 52,
-        "wk_meanings": ["Erupt"],
-        "wk_readings_on": ["ふん"],
-        "wk_readings_kun": ["!ふ"],
-        "wk_radicals": ["Mouth", "Cross", "Flowers", "Shellfish"]
     },
     "祥": {
         "strokes": 10,
@@ -26885,11 +18245,6 @@ data1 = {
         "meanings": ["Auspicious", "Happiness", "Blessedness", "Good Omen", "Good Fortune"],
         "readings_on": ["しょう"],
         "readings_kun": ["さいわ.い", "きざ.し", "よ.い", "つまび.らか"],
-        "wk_level": 52,
-        "wk_meanings": ["Auspicious"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!きざ", "!さいわ", "!つまび", "!よ"],
-        "wk_radicals": ["Spirit", "Sheep"]
     },
     "牲": {
         "strokes": 9,
@@ -26900,11 +18255,6 @@ data1 = {
         "meanings": ["Animal Sacrifice", "Offering"],
         "readings_on": ["せい"],
         "readings_kun": [],
-        "wk_level": 52,
-        "wk_meanings": ["Offering"],
-        "wk_readings_on": ["せい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Cow", "Life"]
     },
     "秩": {
         "strokes": 10,
@@ -26915,11 +18265,6 @@ data1 = {
         "meanings": ["Regularity", "Salary", "Order"],
         "readings_on": ["ちつ"],
         "readings_kun": [],
-        "wk_level": 52,
-        "wk_meanings": ["Order", "^Regularity"],
-        "wk_readings_on": ["ちつ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Grain", "Fault"]
     },
     "唆": {
         "strokes": 10,
@@ -26930,11 +18275,6 @@ data1 = {
         "meanings": ["Tempt", "Seduce", "Instigate", "Promote"],
         "readings_on": ["さ"],
         "readings_kun": ["そそ.る", "そそのか.す"],
-        "wk_level": 52,
-        "wk_meanings": ["Instigate"],
-        "wk_readings_on": ["さ"],
-        "wk_readings_kun": ["!そそのか", "!そそ"],
-        "wk_radicals": ["Mouth", "Spider"]
     },
     "膨": {
         "strokes": 16,
@@ -26945,11 +18285,6 @@ data1 = {
         "meanings": ["Swell", "Get Fat", "Thick"],
         "readings_on": ["ぼう"],
         "readings_kun": ["ふく.らむ", "ふく.れる"],
-        "wk_level": 52,
-        "wk_meanings": ["Swell"],
-        "wk_readings_on": ["ぼう"],
-        "wk_readings_kun": ["!ふく"],
-        "wk_radicals": ["Moon", "Drum", "Hair"]
     },
     "芳": {
         "strokes": 7,
@@ -26960,11 +18295,6 @@ data1 = {
         "meanings": ["Perfume", "Balmy", "Favorable", "Fragrant"],
         "readings_on": ["ほう"],
         "readings_kun": ["かんば.しい"],
-        "wk_level": 52,
-        "wk_meanings": ["Perfume"],
-        "wk_readings_on": ["ほう"],
-        "wk_readings_kun": ["!かんば"],
-        "wk_radicals": ["Flowers", "Direction"]
     },
     "恒": {
         "strokes": 9,
@@ -26975,11 +18305,6 @@ data1 = {
         "meanings": ["Constancy", "Always"],
         "readings_on": ["こう"],
         "readings_kun": ["つね", "つねに"],
-        "wk_level": 52,
-        "wk_meanings": ["Constant", "^Always"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!つね", "!つねに"],
-        "wk_radicals": ["Soul", "Ground", "Dawn"]
     },
     "倫": {
         "strokes": 10,
@@ -26990,11 +18315,6 @@ data1 = {
         "meanings": ["Ethics", "Companion"],
         "readings_on": ["りん"],
         "readings_kun": [],
-        "wk_level": 52,
-        "wk_meanings": ["Ethics"],
-        "wk_readings_on": ["りん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Hat", "Ground", "Bookshelf"]
     },
     "陳": {
         "strokes": 11,
@@ -27005,11 +18325,6 @@ data1 = {
         "meanings": ["Exhibit", "State", "Relate", "Explain"],
         "readings_on": ["ちん"],
         "readings_kun": ["ひ.ねる"],
-        "wk_level": 52,
-        "wk_meanings": ["Exhibit"],
-        "wk_readings_on": ["ちん"],
-        "wk_readings_kun": ["!ひ"],
-        "wk_radicals": ["Building", "East"]
     },
     "須": {
         "strokes": 12,
@@ -27020,11 +18335,6 @@ data1 = {
         "meanings": ["Ought", "By All Means", "Necessarily"],
         "readings_on": ["す", "しゅ"],
         "readings_kun": ["すべから.く", "すべし", "ひげ", "まつ", "もち.いる", "もと.める"],
-        "wk_level": 52,
-        "wk_meanings": ["Necessary"],
-        "wk_readings_on": ["す", "しゅ"],
-        "wk_readings_kun": ["!すべから", "!すべし", "!ひげ", "!まつ", "!もち", "!もと"],
-        "wk_radicals": ["Hair", "Geoduck"]
     },
     "偏": {
         "strokes": 11,
@@ -27035,11 +18345,6 @@ data1 = {
         "meanings": ["Partial", "Side", "Left-side Radical", "Inclining", "Biased"],
         "readings_on": ["へん"],
         "readings_kun": ["かたよ.る"],
-        "wk_level": 52,
-        "wk_meanings": ["Biased"],
-        "wk_readings_on": ["へん"],
-        "wk_readings_kun": ["!かたよ"],
-        "wk_radicals": ["Leader", "Library"]
     },
     "遇": {
         "strokes": 12,
@@ -27050,11 +18355,6 @@ data1 = {
         "meanings": ["Meet", "Encounter", "Interview", "Treat", "Entertain", "Receive", "Deal With"],
         "readings_on": ["ぐう"],
         "readings_kun": ["あ.う"],
-        "wk_level": 52,
-        "wk_meanings": ["Treatment"],
-        "wk_readings_on": ["ぐう"],
-        "wk_readings_kun": ["!あ"],
-        "wk_radicals": ["Scooter", "Splinter"]
     },
     "糧": {
         "strokes": 18,
@@ -27065,11 +18365,6 @@ data1 = {
         "meanings": ["Provisions", "Food", "Bread"],
         "readings_on": ["りょう", "ろう"],
         "readings_kun": ["かて"],
-        "wk_level": 52,
-        "wk_meanings": ["Provisions"],
-        "wk_readings_on": ["りょう", "ろう"],
-        "wk_readings_kun": ["!かて"],
-        "wk_radicals": ["Rice", "Dawn", "Village"]
     },
     "殊": {
         "strokes": 10,
@@ -27080,11 +18375,6 @@ data1 = {
         "meanings": ["Particularly", "Especially", "Exceptionally"],
         "readings_on": ["しゅ"],
         "readings_kun": ["こと"],
-        "wk_level": 52,
-        "wk_meanings": ["Especially"],
-        "wk_readings_on": ["しゅ"],
-        "wk_readings_kun": ["!こと"],
-        "wk_radicals": ["Yakuza", "Slide", "Jet"]
     },
     "慢": {
         "strokes": 14,
@@ -27095,11 +18385,6 @@ data1 = {
         "meanings": ["Ridicule", "Laziness"],
         "readings_on": ["まん"],
         "readings_kun": [],
-        "wk_level": 52,
-        "wk_meanings": ["Ridicule", "^Laziness"],
-        "wk_readings_on": ["まん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Soul", "Sun", "Net", "Stool"]
     },
     "没": {
         "strokes": 7,
@@ -27110,11 +18395,6 @@ data1 = {
         "meanings": ["Drown", "Sink", "Hide", "Fall Into", "Disappear", "Die"],
         "readings_on": ["ぼつ", "もつ"],
         "readings_kun": ["おぼ.れる", "しず.む", "ない"],
-        "wk_level": 52,
-        "wk_meanings": ["Die"],
-        "wk_readings_on": ["ぼつ", "^もつ"],
-        "wk_readings_kun": ["!おぼ", "!しず", "!ない"],
-        "wk_radicals": ["Tsunami", "Weapon"]
     },
     "怠": {
         "strokes": 9,
@@ -27125,11 +18405,6 @@ data1 = {
         "meanings": ["Neglect", "Laziness"],
         "readings_on": ["たい"],
         "readings_kun": ["おこた.る", "なま.ける"],
-        "wk_level": 52,
-        "wk_meanings": ["Lazy", "^Neglect"],
-        "wk_readings_on": ["たい"],
-        "wk_readings_kun": ["!おこた", "!なま"],
-        "wk_radicals": ["Machine", "Heart"]
     },
     "遭": {
         "strokes": 14,
@@ -27140,11 +18415,6 @@ data1 = {
         "meanings": ["Encounter", "Meet", "Party", "Association", "Interview", "Join"],
         "readings_on": ["そう"],
         "readings_kun": ["あ.う", "あ.わせる"],
-        "wk_level": 52,
-        "wk_meanings": ["Encounter", "^Meet"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": ["!あ"],
-        "wk_radicals": ["Scooter", "Ground", "Music", "Sun"]
     },
     "惰": {
         "strokes": 12,
@@ -27155,11 +18425,6 @@ data1 = {
         "meanings": ["Lazy", "Laziness"],
         "readings_on": ["だ"],
         "readings_kun": [],
-        "wk_level": 52,
-        "wk_meanings": ["Lazy"],
-        "wk_readings_on": ["だ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Soul", "Narwhal", "Construction", "Moon"]
     },
     "猟": {
         "strokes": 11,
@@ -27170,11 +18435,6 @@ data1 = {
         "meanings": ["Game-hunting", "Shooting", "Game", "Bag"],
         "readings_on": ["りょう"],
         "readings_kun": ["かり", "か.る"],
-        "wk_level": 52,
-        "wk_meanings": ["Hunting"],
-        "wk_readings_on": ["りょう", "^れふ"],
-        "wk_readings_kun": ["!かり", "!か"],
-        "wk_radicals": ["Animal", "Grass", "Task"]
     },
     "乃": {
         "strokes": 2,
@@ -27185,11 +18445,6 @@ data1 = {
         "meanings": ["From", "Possessive Particle", "Whereupon", "Accordingly"],
         "readings_on": ["ない", "だい", "の", "あい"],
         "readings_kun": ["の", "すなわ.ち", "なんじ"],
-        "wk_level": 52,
-        "wk_meanings": ["From"],
-        "wk_readings_on": ["ない"],
-        "wk_readings_kun": ["!すなわ", "!なんじ", "!の"],
-        "wk_radicals": ["Stairs"]
     },
     "綾": {
         "strokes": 14,
@@ -27200,11 +18455,6 @@ data1 = {
         "meanings": ["Design", "Figured Cloth", "Twill"],
         "readings_on": ["りん"],
         "readings_kun": ["あや"],
-        "wk_level": 52,
-        "wk_meanings": ["Design"],
-        "wk_readings_on": ["りん"],
-        "wk_readings_kun": ["!あや"],
-        "wk_radicals": ["Thread", "Frostbite"]
     },
     "颯": {
         "strokes": 14,
@@ -27215,11 +18465,6 @@ data1 = {
         "meanings": ["Sudden", "Quick", "Sound Of The Wind"],
         "readings_on": ["さつ", "そう"],
         "readings_kun": ["さっ.と"],
-        "wk_level": 52,
-        "wk_meanings": ["Quick", "^Sudden"],
-        "wk_readings_on": ["さつ", "そう"],
-        "wk_readings_kun": ["!さっ"],
-        "wk_radicals": ["Stand", "Wind"]
     },
     "隼": {
         "strokes": 10,
@@ -27230,11 +18475,6 @@ data1 = {
         "meanings": ["Falcon"],
         "readings_on": ["しゅん", "じゅん"],
         "readings_kun": ["はやぶさ"],
-        "wk_level": 52,
-        "wk_meanings": ["Falcon"],
-        "wk_readings_on": ["!しゅん", "!じゅん"],
-        "wk_readings_kun": ["はやぶさ"],
-        "wk_radicals": ["Turkey", "Cross"]
     },
     "輔": {
         "strokes": 14,
@@ -27245,11 +18485,6 @@ data1 = {
         "meanings": ["Help"],
         "readings_on": ["ほ", "ふ"],
         "readings_kun": ["たす.ける"],
-        "wk_level": 52,
-        "wk_meanings": ["Help"],
-        "wk_readings_on": ["!ふ", "!ほ"],
-        "wk_readings_kun": ["!たす"],
-        "wk_radicals": ["Car", "Wedding"]
     },
     "寛": {
         "strokes": 13,
@@ -27260,11 +18495,6 @@ data1 = {
         "meanings": ["Tolerant", "Leniency", "Generosity", "Relax", "Feel At Home", "Be At Ease", "Broadminded"],
         "readings_on": ["かん"],
         "readings_kun": ["くつろ.ぐ", "ひろ.い", "ゆる.やか"],
-        "wk_level": 53,
-        "wk_meanings": ["Tolerance"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": ["!くつろ"],
-        "wk_radicals": ["Roof", "Flowers", "See"]
     },
     "胞": {
         "strokes": 9,
@@ -27275,11 +18505,6 @@ data1 = {
         "meanings": ["Placenta", "Sac", "Sheath"],
         "readings_on": ["ほう"],
         "readings_kun": [],
-        "wk_level": 53,
-        "wk_meanings": ["Cell", "^Placenta"],
-        "wk_readings_on": ["ほう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Moon", "Wrap"]
     },
     "浄": {
         "strokes": 9,
@@ -27290,11 +18515,6 @@ data1 = {
         "meanings": ["Clean", "Purify", "Cleanse", "Exorcise", "Manchu Dynasty"],
         "readings_on": ["じょう", "せい"],
         "readings_kun": ["きよ.める", "きよ.い"],
-        "wk_level": 53,
-        "wk_meanings": ["Cleanse", "^Purify"],
-        "wk_readings_on": ["じょう", "せい"],
-        "wk_readings_kun": ["!きよ"],
-        "wk_radicals": ["Tsunami", "Conflict"]
     },
     "随": {
         "strokes": 12,
@@ -27305,11 +18525,6 @@ data1 = {
         "meanings": ["Follow", "Though", "Notwithstanding", "While", "During", "Both", "All", "Obey", "Submit To", "Comply", "At The Mercy Of (the Waves)"],
         "readings_on": ["ずい"],
         "readings_kun": ["まにま.に", "したが.う"],
-        "wk_level": 53,
-        "wk_meanings": ["All"],
-        "wk_readings_on": ["ずい"],
-        "wk_readings_kun": ["!したが", "!まにま"],
-        "wk_radicals": ["Building", "Have", "Scooter"]
     },
     "稿": {
         "strokes": 15,
@@ -27320,11 +18535,6 @@ data1 = {
         "meanings": ["Draft", "Copy", "Manuscript", "Straw"],
         "readings_on": ["こう"],
         "readings_kun": ["わら", "したがき"],
-        "wk_level": 53,
-        "wk_meanings": ["Draft"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": ["!したがき", "!わら"],
-        "wk_radicals": ["Grain", "Tall"]
     },
     "丹": {
         "strokes": 4,
@@ -27335,11 +18545,6 @@ data1 = {
         "meanings": ["Rust-colored", "Red", "Red Lead", "Pills", "Sincerity"],
         "readings_on": ["たん"],
         "readings_kun": ["に"],
-        "wk_level": 53,
-        "wk_meanings": ["Rust Colored", "^Red"],
-        "wk_readings_on": ["たん"],
-        "wk_readings_kun": ["!に"],
-        "wk_radicals": ["Boat"]
     },
     "壌": {
         "strokes": 16,
@@ -27350,11 +18555,6 @@ data1 = {
         "meanings": ["Lot", "Earth", "Soil"],
         "readings_on": ["じょう"],
         "readings_kun": ["つち"],
-        "wk_level": 53,
-        "wk_meanings": ["Soil", "^Earth"],
-        "wk_readings_on": ["じょう"],
-        "wk_readings_kun": ["!つち"],
-        "wk_radicals": ["Dirt", "Nurse"]
     },
     "舗": {
         "strokes": 15,
@@ -27365,11 +18565,6 @@ data1 = {
         "meanings": ["Shop", "Store", "Pave"],
         "readings_on": ["ほ"],
         "readings_kun": [],
-        "wk_level": 53,
-        "wk_meanings": ["Shop", "^Store"],
-        "wk_readings_on": ["ほ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Cottage", "Wedding"]
     },
     "騰": {
         "strokes": 20,
@@ -27380,11 +18575,6 @@ data1 = {
         "meanings": ["Leaping Up", "Jumping Up", "Rising", "Advancing", "Going"],
         "readings_on": ["とう"],
         "readings_kun": ["あが.る", "のぼ.る"],
-        "wk_level": 53,
-        "wk_meanings": ["Inflation"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": ["!あが", "!のぼ"],
-        "wk_radicals": ["Moon", "Gladiator", "Horse"]
     },
     "緯": {
         "strokes": 16,
@@ -27395,11 +18585,6 @@ data1 = {
         "meanings": ["Horizontal", "Woof", "Left & Right", "(parallels Of) Latitude", "Prediction"],
         "readings_on": ["い"],
         "readings_kun": ["よこいと", "ぬき"],
-        "wk_level": 53,
-        "wk_meanings": ["Latitude"],
-        "wk_readings_on": ["い"],
-        "wk_readings_kun": ["!ぬき", "!よこいと"],
-        "wk_radicals": ["Thread", "Korea"]
     },
     "艇": {
         "strokes": 13,
@@ -27410,11 +18595,6 @@ data1 = {
         "meanings": ["Rowboat", "Small Boat"],
         "readings_on": ["てい"],
         "readings_kun": [],
-        "wk_level": 53,
-        "wk_meanings": ["Rowboat"],
-        "wk_readings_on": ["てい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Boat", "Yoga", "King"]
     },
     "披": {
         "strokes": 8,
@@ -27425,11 +18605,6 @@ data1 = {
         "meanings": ["Expose", "Open"],
         "readings_on": ["ひ"],
         "readings_kun": [],
-        "wk_level": 53,
-        "wk_meanings": ["Expose"],
-        "wk_readings_on": ["ひ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Fingers", "Skin"]
     },
     "錦": {
         "strokes": 16,
@@ -27440,11 +18615,6 @@ data1 = {
         "meanings": ["Brocade", "Fine Dress", "Honors"],
         "readings_on": ["きん"],
         "readings_kun": ["にしき"],
-        "wk_level": 53,
-        "wk_meanings": ["Brocade"],
-        "wk_readings_on": ["!きん"],
-        "wk_readings_kun": ["にしき"],
-        "wk_radicals": ["Gold", "White", "Towel"]
     },
     "准": {
         "strokes": 10,
@@ -27455,11 +18625,6 @@ data1 = {
         "meanings": ["Quasi-", "Semi-", "Associate"],
         "readings_on": ["じゅん"],
         "readings_kun": [],
-        "wk_level": 53,
-        "wk_meanings": ["Semi"],
-        "wk_readings_on": ["じゅん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Ice", "Turkey"]
     },
     "剰": {
         "strokes": 11,
@@ -27470,11 +18635,6 @@ data1 = {
         "meanings": ["Surplus", "Besides"],
         "readings_on": ["じょう"],
         "readings_kun": ["あまつさえ", "あま.り", "あま.る"],
-        "wk_level": 53,
-        "wk_meanings": ["Surplus"],
-        "wk_readings_on": ["じょう"],
-        "wk_readings_kun": ["!あまつさえ", "!あま"],
-        "wk_radicals": ["Grain", "Mouth", "Knife"]
     },
     "繊": {
         "strokes": 17,
@@ -27485,11 +18645,6 @@ data1 = {
         "meanings": ["Slender", "Fine", "Thin Kimono"],
         "readings_on": ["せん"],
         "readings_kun": [],
-        "wk_level": 53,
-        "wk_meanings": ["Fiber", "^Slender"],
-        "wk_readings_on": ["せん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Thread", "Cross", "Spikes", "Drunkard"]
     },
     "諭": {
         "strokes": 16,
@@ -27500,11 +18655,6 @@ data1 = {
         "meanings": ["Rebuke", "Admonish", "Charge", "Warn", "Persuade"],
         "readings_on": ["ゆ"],
         "readings_kun": ["さと.す"],
-        "wk_level": 53,
-        "wk_meanings": ["Admonish"],
-        "wk_readings_on": ["ゆ"],
-        "wk_readings_kun": ["!さと"],
-        "wk_radicals": ["Say", "Death Star"]
     },
     "惨": {
         "strokes": 11,
@@ -27515,11 +18665,6 @@ data1 = {
         "meanings": ["Wretched", "Disaster", "Cruelty", "Harsh"],
         "readings_on": ["さん", "ざん"],
         "readings_kun": ["みじ.め", "いた.む", "むご.い"],
-        "wk_level": 53,
-        "wk_meanings": ["Disaster"],
-        "wk_readings_on": ["さん", "ざん"],
-        "wk_readings_kun": ["!みじ", "!いた", "!むご"],
-        "wk_radicals": ["Soul", "Private", "Big", "Hair"]
     },
     "虐": {
         "strokes": 9,
@@ -27530,11 +18675,6 @@ data1 = {
         "meanings": ["Tyrannize", "Oppress"],
         "readings_on": ["ぎゃく"],
         "readings_kun": ["しいた.げる"],
-        "wk_level": 53,
-        "wk_meanings": ["Oppress"],
-        "wk_readings_on": ["ぎゃく"],
-        "wk_readings_kun": ["!しいた"],
-        "wk_radicals": ["Tiger", "Wolverine"]
     },
     "据": {
         "strokes": 11,
@@ -27545,11 +18685,6 @@ data1 = {
         "meanings": ["Set", "Lay A Foundation", "Install", "Equip", "Squat Down", "Sit Down"],
         "readings_on": ["きょ"],
         "readings_kun": ["す.える", "す.わる"],
-        "wk_level": 53,
-        "wk_meanings": ["Install"],
-        "wk_readings_on": ["!きょ"],
-        "wk_readings_kun": ["す"],
-        "wk_radicals": ["Fingers", "Flag", "Old"]
     },
     "徐": {
         "strokes": 10,
@@ -27560,11 +18695,6 @@ data1 = {
         "meanings": ["Gradually", "Slowly", "Deliberately", "Gently"],
         "readings_on": ["じょ"],
         "readings_kun": ["おもむ.ろに"],
-        "wk_level": 53,
-        "wk_meanings": ["Gently", "^Gentle"],
-        "wk_readings_on": ["じょ"],
-        "wk_readings_kun": ["!おもむ"],
-        "wk_radicals": ["Loiter", "Surplus"]
     },
     "搭": {
         "strokes": 12,
@@ -27575,11 +18705,6 @@ data1 = {
         "meanings": ["Board", "Load (a Vehicle)", "Ride"],
         "readings_on": ["とう"],
         "readings_kun": [],
-        "wk_level": 53,
-        "wk_meanings": ["Board", "^Embark"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Fingers", "Flowers", "Suit"]
     },
     "蒙": {
         "strokes": 13,
@@ -27590,11 +18715,6 @@ data1 = {
         "meanings": ["Ignorance", "Darkness", "Get", "Receive", "Be Subjected To", "Sustain", "Mongolia"],
         "readings_on": ["もう", "ぼう"],
         "readings_kun": ["こうむ.る", "おお.う", "くら.い"],
-        "wk_level": 53,
-        "wk_meanings": ["Darkness"],
-        "wk_readings_on": ["もう", "^ぼう"],
-        "wk_readings_kun": ["!おお", "!くら", "!こうむ"],
-        "wk_radicals": ["Flowers", "Forehead", "Ground", "Pig"]
     },
     "鯉": {
         "strokes": 18,
@@ -27605,11 +18725,6 @@ data1 = {
         "meanings": ["Carp"],
         "readings_on": ["り"],
         "readings_kun": ["こい"],
-        "wk_level": 53,
-        "wk_meanings": ["Carp", "^Koi"],
-        "wk_readings_on": ["!り"],
-        "wk_readings_kun": ["こい"],
-        "wk_radicals": ["Fish", "Village"]
     },
     "戴": {
         "strokes": 17,
@@ -27620,11 +18735,6 @@ data1 = {
         "meanings": ["Be Crowned With", "Live Under (a Ruler)", "Receive"],
         "readings_on": ["たい"],
         "readings_kun": ["いただ.く"],
-        "wk_level": 53,
-        "wk_meanings": ["Receive"],
-        "wk_readings_on": ["たい"],
-        "wk_readings_kun": ["!いただ"],
-        "wk_radicals": ["Cross", "Drunkard", "Rice Paddy", "Together"]
     },
     "緋": {
         "strokes": 14,
@@ -27635,11 +18745,6 @@ data1 = {
         "meanings": ["Scarlet", "Cardinal"],
         "readings_on": ["ひ"],
         "readings_kun": ["あけ", "あか"],
-        "wk_level": 53,
-        "wk_meanings": ["Scarlet"],
-        "wk_readings_on": ["ひ"],
-        "wk_readings_kun": ["!あか", "!あけ"],
-        "wk_radicals": ["Thread", "Criminal"]
     },
     "曙": {
         "strokes": 17,
@@ -27650,11 +18755,6 @@ data1 = {
         "meanings": ["Dawn", "Daybreak"],
         "readings_on": ["しょ"],
         "readings_kun": ["あけぼの"],
-        "wk_level": 53,
-        "wk_meanings": ["Dawn"],
-        "wk_readings_on": ["!しょ"],
-        "wk_readings_kun": ["あけぼの"],
-        "wk_radicals": ["Sun", "Net", "Someone"]
     },
     "胡": {
         "strokes": 9,
@@ -27665,11 +18765,6 @@ data1 = {
         "meanings": ["Barbarian", "Foreign"],
         "readings_on": ["う", "こ", "ご"],
         "readings_kun": ["なんぞ"],
-        "wk_level": 53,
-        "wk_meanings": ["Barbarian"],
-        "wk_readings_on": ["こ", "^う", "^ご"],
-        "wk_readings_kun": ["!なんぞ"],
-        "wk_radicals": ["Old", "Moon"]
     },
     "瓜": {
         "strokes": 6,
@@ -27680,11 +18775,6 @@ data1 = {
         "meanings": ["Melon"],
         "readings_on": ["か", "け"],
         "readings_kun": ["うり"],
-        "wk_level": 53,
-        "wk_meanings": ["Melon"],
-        "wk_readings_on": ["か", "け"],
-        "wk_readings_kun": ["!うり"],
-        "wk_radicals": ["Melon"]
     },
     "帥": {
         "strokes": 9,
@@ -27695,11 +18785,6 @@ data1 = {
         "meanings": ["Commander", "Leading Troops", "Governor"],
         "readings_on": ["すい"],
         "readings_kun": [],
-        "wk_level": 53,
-        "wk_meanings": ["Commander"],
-        "wk_readings_on": ["すい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Drop", "Bear", "Towel"]
     },
     "啓": {
         "strokes": 11,
@@ -27710,11 +18795,6 @@ data1 = {
         "meanings": ["Disclose", "Open", "Say"],
         "readings_on": ["けい"],
         "readings_kun": ["ひら.く", "さと.す"],
-        "wk_level": 53,
-        "wk_meanings": ["Enlighten"],
-        "wk_readings_on": ["けい"],
-        "wk_readings_kun": ["!さと", "!ひら"],
-        "wk_radicals": ["Door", "Winter", "Mouth"]
     },
     "葵": {
         "strokes": 12,
@@ -27725,11 +18805,6 @@ data1 = {
         "meanings": ["Hollyhock"],
         "readings_on": ["き"],
         "readings_kun": ["あおい"],
-        "wk_level": 53,
-        "wk_meanings": ["Hollyhock"],
-        "wk_readings_on": ["!き"],
-        "wk_readings_kun": ["あおい"],
-        "wk_radicals": ["Flowers", "Tent", "Heaven"]
     },
     "駿": {
         "strokes": 17,
@@ -27740,11 +18815,6 @@ data1 = {
         "meanings": ["A Good Horse", "Speed", "A Fast Person"],
         "readings_on": ["しゅん", "すん"],
         "readings_kun": ["すぐ.れる"],
-        "wk_level": 53,
-        "wk_meanings": ["Speed"],
-        "wk_readings_on": ["しゅん", "すん"],
-        "wk_readings_kun": ["!すぐ"],
-        "wk_radicals": ["Horse", "Spider"]
     },
     "諒": {
         "strokes": 15,
@@ -27755,11 +18825,6 @@ data1 = {
         "meanings": ["Fact", "Reality", "Understand", "Appreciate"],
         "readings_on": ["りょう"],
         "readings_kun": ["あきら.か", "まことに"],
-        "wk_level": 53,
-        "wk_meanings": ["Comprehend", "^Reality"],
-        "wk_readings_on": ["りょう"],
-        "wk_readings_kun": ["!あきら", "!まことに"],
-        "wk_radicals": ["Say", "Capital"]
     },
     "莉": {
         "strokes": 10,
@@ -27770,11 +18835,6 @@ data1 = {
         "meanings": ["Jasmine"],
         "readings_on": ["り", "らい", "れい"],
         "readings_kun": [],
-        "wk_level": 53,
-        "wk_meanings": ["Jasmine"],
-        "wk_readings_on": ["り", "^れい", "^らい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Flowers", "Grain", "Knife"]
     },
     "鯨": {
         "strokes": 19,
@@ -27785,11 +18845,6 @@ data1 = {
         "meanings": ["Whale"],
         "readings_on": ["げい"],
         "readings_kun": ["くじら"],
-        "wk_level": 54,
-        "wk_meanings": ["Whale"],
-        "wk_readings_on": ["げい"],
-        "wk_readings_kun": ["!くじら"],
-        "wk_radicals": ["Fish", "Capital"]
     },
     "荘": {
         "strokes": 9,
@@ -27800,11 +18855,6 @@ data1 = {
         "meanings": ["Villa", "Inn", "Cottage", "Feudal Manor", "Solemn", "Dignified"],
         "readings_on": ["そう", "しょう", "ちゃん"],
         "readings_kun": ["ほうき", "おごそ.か"],
-        "wk_level": 54,
-        "wk_meanings": ["Villa"],
-        "wk_readings_on": ["そう", "^しょう", "^ちゃん"],
-        "wk_readings_kun": ["!あごそ", "!ほうき"],
-        "wk_radicals": ["Flowers", "Icicle", "Samurai"]
     },
     "栽": {
         "strokes": 10,
@@ -27815,11 +18865,6 @@ data1 = {
         "meanings": ["Plantation", "Planting"],
         "readings_on": ["さい"],
         "readings_kun": [],
-        "wk_level": 54,
-        "wk_meanings": ["Planting"],
-        "wk_readings_on": ["さい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Plow", "Drunkard"]
     },
     "拐": {
         "strokes": 8,
@@ -27830,11 +18875,6 @@ data1 = {
         "meanings": ["Kidnap", "Falsify"],
         "readings_on": ["かい"],
         "readings_kun": [],
-        "wk_level": 54,
-        "wk_meanings": ["Kidnap"],
-        "wk_readings_on": ["かい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Fingers", "Mouth", "Sword"]
     },
     "冠": {
         "strokes": 9,
@@ -27845,11 +18885,6 @@ data1 = {
         "meanings": ["Crown", "Best", "Peerless"],
         "readings_on": ["かん"],
         "readings_kun": ["かんむり"],
-        "wk_level": 54,
-        "wk_meanings": ["Crown", "^Cap"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": ["!かんむり"],
-        "wk_radicals": ["Forehead", "Origin", "Measurement"]
     },
     "勲": {
         "strokes": 15,
@@ -27860,11 +18895,6 @@ data1 = {
         "meanings": ["Meritorious Deed", "Merit"],
         "readings_on": ["くん"],
         "readings_kun": ["いさお"],
-        "wk_level": 54,
-        "wk_meanings": ["Merit"],
-        "wk_readings_on": ["くん"],
-        "wk_readings_kun": ["!いさお"],
-        "wk_radicals": ["Heavy", "Power", "Boil"]
     },
     "酬": {
         "strokes": 13,
@@ -27875,11 +18905,6 @@ data1 = {
         "meanings": ["Repay", "Reward", "Retribution"],
         "readings_on": ["しゅう", "しゅ", "とう"],
         "readings_kun": ["むく.いる"],
-        "wk_level": 54,
-        "wk_meanings": ["Repay"],
-        "wk_readings_on": ["しゅう", "^しゅ", "^とう"],
-        "wk_readings_kun": ["!むく"],
-        "wk_radicals": ["Alcohol", "Drop", "River"]
     },
     "紋": {
         "strokes": 10,
@@ -27890,11 +18915,6 @@ data1 = {
         "meanings": ["Family Crest", "Figures"],
         "readings_on": ["もん"],
         "readings_kun": [],
-        "wk_level": 54,
-        "wk_meanings": ["Family Crest"],
-        "wk_readings_on": ["もん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Thread", "Writing"]
     },
     "卸": {
         "strokes": 9,
@@ -27905,11 +18925,6 @@ data1 = {
         "meanings": ["Wholesale"],
         "readings_on": ["しゃ"],
         "readings_kun": ["おろ.す", "おろし", "おろ.し"],
-        "wk_level": 54,
-        "wk_meanings": ["Wholesale"],
-        "wk_readings_on": ["!しゃ"],
-        "wk_readings_kun": ["おろし", "おろ"],
-        "wk_radicals": ["Noon", "Stop", "Stamp"]
     },
     "欄": {
         "strokes": 20,
@@ -27920,11 +18935,6 @@ data1 = {
         "meanings": ["Column", "Handrail", "Blank", "Space"],
         "readings_on": ["らん"],
         "readings_kun": ["てすり"],
-        "wk_level": 54,
-        "wk_meanings": ["Column", "^Space"],
-        "wk_readings_on": ["らん"],
-        "wk_readings_kun": ["!てすり"],
-        "wk_radicals": ["Tree", "Gate", "East"]
     },
     "逸": {
         "strokes": 11,
@@ -27935,11 +18945,6 @@ data1 = {
         "meanings": ["Deviate", "Idleness", "Leisure", "Miss The Mark", "Evade", "Elude", "Parry", "Diverge"],
         "readings_on": ["いつ"],
         "readings_kun": ["そ.れる", "そ.らす", "はぐ.れる"],
-        "wk_level": 54,
-        "wk_meanings": ["Deviate", "^Elude"],
-        "wk_readings_on": ["いつ"],
-        "wk_readings_kun": ["!そ", "!はぐ"],
-        "wk_radicals": ["Scooter", "Excuse"]
     },
     "尚": {
         "strokes": 8,
@@ -27950,11 +18955,6 @@ data1 = {
         "meanings": ["Esteem", "Furthermore", "Still", "Yet"],
         "readings_on": ["しょう"],
         "readings_kun": ["なお"],
-        "wk_level": 54,
-        "wk_meanings": ["Furthermore", "^Esteem"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!なお"],
-        "wk_radicals": ["Triceratops", "Mustache"]
     },
     "顕": {
         "strokes": 18,
@@ -27965,11 +18965,6 @@ data1 = {
         "meanings": ["Appear", "Existing"],
         "readings_on": ["けん"],
         "readings_kun": ["あきらか", "あらわ.れる"],
-        "wk_level": 54,
-        "wk_meanings": ["Appear", "^Exist"],
-        "wk_readings_on": ["けん"],
-        "wk_readings_kun": ["!あきらか", "!あらわ"],
-        "wk_radicals": ["Sun", "Spikes", "Geoduck"]
     },
     "粛": {
         "strokes": 11,
@@ -27980,11 +18975,6 @@ data1 = {
         "meanings": ["Solemn", "Quietly", "Softly"],
         "readings_on": ["しゅく", "すく"],
         "readings_kun": ["つつし.む"],
-        "wk_level": 54,
-        "wk_meanings": ["Solemn"],
-        "wk_readings_on": ["しゅく", "すく"],
-        "wk_readings_kun": ["!つつし"],
-        "wk_radicals": ["Wolverine", "Stick", "Legs", "Rice"]
     },
     "愚": {
         "strokes": 13,
@@ -27995,11 +18985,6 @@ data1 = {
         "meanings": ["Foolish", "Folly", "Absurdity", "Stupid"],
         "readings_on": ["ぐ"],
         "readings_kun": ["おろ.か"],
-        "wk_level": 54,
-        "wk_meanings": ["Foolish"],
-        "wk_readings_on": ["ぐ"],
-        "wk_readings_kun": ["!おろ"],
-        "wk_radicals": ["Splinter", "Heart"]
     },
     "庶": {
         "strokes": 11,
@@ -28010,11 +18995,6 @@ data1 = {
         "meanings": ["Commoner", "All", "Bastard"],
         "readings_on": ["しょ"],
         "readings_kun": [],
-        "wk_level": 54,
-        "wk_meanings": ["All", "^Bastard"],
-        "wk_readings_on": ["しょ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Yurt", "Boil"]
     },
     "践": {
         "strokes": 13,
@@ -28025,11 +19005,6 @@ data1 = {
         "meanings": ["Tread", "Step On", "Trample", "Practice", "Carry Through"],
         "readings_on": ["せん"],
         "readings_kun": ["ふ.む"],
-        "wk_level": 54,
-        "wk_meanings": ["Practice", "^Trample"],
-        "wk_readings_on": ["せん"],
-        "wk_readings_kun": ["!ふ"],
-        "wk_radicals": ["Foot", "Bar"]
     },
     "呈": {
         "strokes": 7,
@@ -28040,11 +19015,6 @@ data1 = {
         "meanings": ["Display", "Offer", "Present", "Send", "Exhibit"],
         "readings_on": ["てい"],
         "readings_kun": [],
-        "wk_level": 54,
-        "wk_meanings": ["Present", "^Display"],
-        "wk_readings_on": ["てい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Mouth", "King"]
     },
     "疎": {
         "strokes": 12,
@@ -28055,11 +19025,6 @@ data1 = {
         "meanings": ["Alienate", "Rough", "Neglect", "Shun", "Sparse", "Penetrate"],
         "readings_on": ["そ", "しょ"],
         "readings_kun": ["うと.い", "うと.む", "まば.ら"],
-        "wk_level": 54,
-        "wk_meanings": ["Neglect", "^Sparse"],
-        "wk_readings_on": ["そ", "^しょ"],
-        "wk_readings_kun": ["!うと", "!まば"],
-        "wk_radicals": ["Coat Rack", "Bundle"]
     },
     "疾": {
         "strokes": 10,
@@ -28070,11 +19035,6 @@ data1 = {
         "meanings": ["Rapidly"],
         "readings_on": ["しつ"],
         "readings_kun": ["はや.い"],
-        "wk_level": 54,
-        "wk_meanings": ["Rapidly", "^Rapid"],
-        "wk_readings_on": ["しつ"],
-        "wk_readings_kun": ["!はや"],
-        "wk_radicals": ["Sick", "Arrow"]
     },
     "謡": {
         "strokes": 16,
@@ -28085,11 +19045,6 @@ data1 = {
         "meanings": ["Song", "Sing", "Ballad", "Noh Chanting"],
         "readings_on": ["よう"],
         "readings_kun": ["うた.い", "うた.う"],
-        "wk_level": 54,
-        "wk_meanings": ["Noh Chanting", "^Noh Chant"],
-        "wk_readings_on": ["よう"],
-        "wk_readings_kun": ["!うた"],
-        "wk_radicals": ["Say", "Satellite"]
     },
     "鎌": {
         "strokes": 18,
@@ -28100,11 +19055,6 @@ data1 = {
         "meanings": ["Sickle", "Scythe", "Trick"],
         "readings_on": ["れん", "けん"],
         "readings_kun": ["かま"],
-        "wk_level": 54,
-        "wk_meanings": ["Sickle", "^Scythe"],
-        "wk_readings_on": ["!けん", "!れん"],
-        "wk_readings_kun": ["かま"],
-        "wk_radicals": ["Gold", "Mona Lisa"]
     },
     "酷": {
         "strokes": 14,
@@ -28115,11 +19065,6 @@ data1 = {
         "meanings": ["Cruel", "Severe", "Atrocious", "Unjust"],
         "readings_on": ["こく"],
         "readings_kun": ["ひど.い"],
-        "wk_level": 54,
-        "wk_meanings": ["Cruel", "^Unjust"],
-        "wk_readings_on": ["こく"],
-        "wk_readings_kun": ["!ひど"],
-        "wk_radicals": ["Alcohol", "Announce"]
     },
     "叙": {
         "strokes": 9,
@@ -28130,11 +19075,6 @@ data1 = {
         "meanings": ["Confer", "Relate", "Narrate", "Describe"],
         "readings_on": ["じょ"],
         "readings_kun": ["つい.ず", "ついで"],
-        "wk_level": 54,
-        "wk_meanings": ["Describe"],
-        "wk_readings_on": ["じょ"],
-        "wk_readings_kun": ["!つい", "!ついで"],
-        "wk_radicals": ["Surplus", "Stool"]
     },
     "且": {
         "strokes": 5,
@@ -28145,11 +19085,6 @@ data1 = {
         "meanings": ["Moreover", "Also", "Furthermore"],
         "readings_on": ["しょ", "そ", "しょう"],
         "readings_kun": ["か.つ"],
-        "wk_level": 54,
-        "wk_meanings": ["Also"],
-        "wk_readings_on": ["!しょ", "!しょう", "!そ"],
-        "wk_readings_kun": ["か"],
-        "wk_radicals": ["Top Hat"]
     },
     "痴": {
         "strokes": 13,
@@ -28160,11 +19095,6 @@ data1 = {
         "meanings": ["Stupid", "Foolish"],
         "readings_on": ["ち"],
         "readings_kun": ["し.れる", "おろか"],
-        "wk_level": 54,
-        "wk_meanings": ["Stupid"],
-        "wk_readings_on": ["ち"],
-        "wk_readings_kun": ["!おろか", "!し"],
-        "wk_radicals": ["Sick", "Arrow", "Mouth"]
     },
     "呆": {
         "strokes": 7,
@@ -28175,11 +19105,6 @@ data1 = {
         "meanings": ["Be Amazed", "Disgusted", "Shocked"],
         "readings_on": ["ほう"],
         "readings_kun": ["ほけ.る", "ぼ.ける", "あき.れる", "おろか"],
-        "wk_level": 54,
-        "wk_meanings": ["Shock"],
-        "wk_readings_on": ["ほう"],
-        "wk_readings_kun": ["!あき", "!おろか", "!ほけ", "!ぼ"],
-        "wk_radicals": ["Mouth", "Tree"]
     },
     "哺": {
         "strokes": 10,
@@ -28190,11 +19115,6 @@ data1 = {
         "meanings": ["Nurse", "Suckle"],
         "readings_on": ["ほ"],
         "readings_kun": ["はぐく.む", "ふく.む"],
-        "wk_level": 54,
-        "wk_meanings": ["Nurse", "^Suckle"],
-        "wk_readings_on": ["ほ"],
-        "wk_readings_kun": ["!ほぐく", "!ふく"],
-        "wk_radicals": ["Mouth", "Wedding"]
     },
     "傲": {
         "strokes": 13,
@@ -28205,11 +19125,6 @@ data1 = {
         "meanings": ["Be Proud"],
         "readings_on": ["ごう"],
         "readings_kun": ["おご.る", "あなど.る"],
-        "wk_level": 54,
-        "wk_meanings": ["Proud"],
-        "wk_readings_on": ["ごう"],
-        "wk_readings_kun": ["!あなど", "!おご"],
-        "wk_radicals": ["Leader", "Dirt", "Direction", "Winter"]
     },
     "茎": {
         "strokes": 8,
@@ -28220,11 +19135,6 @@ data1 = {
         "meanings": ["Stalk", "Stem"],
         "readings_on": ["けい", "きょう"],
         "readings_kun": ["くき"],
-        "wk_level": 54,
-        "wk_meanings": ["Stem"],
-        "wk_readings_on": ["!きょう", "!けい"],
-        "wk_readings_kun": ["くき"],
-        "wk_radicals": ["Flowers", "Tombstone"]
     },
     "阿": {
         "strokes": 8,
@@ -28235,11 +19145,6 @@ data1 = {
         "meanings": ["Africa", "Flatter", "Fawn Upon", "Corner", "Nook", "Recess"],
         "readings_on": ["あ", "お"],
         "readings_kun": ["おもね.る", "くま"],
-        "wk_level": 54,
-        "wk_meanings": ["Flatter"],
-        "wk_readings_on": ["あ", "^お"],
-        "wk_readings_kun": ["!おもね", "!くま"],
-        "wk_radicals": ["Building", "Lip Ring"]
     },
     "悠": {
         "strokes": 11,
@@ -28250,11 +19155,6 @@ data1 = {
         "meanings": ["Permanence", "Distant", "Long Time", "Leisure"],
         "readings_on": ["ゆう"],
         "readings_kun": [],
-        "wk_level": 54,
-        "wk_meanings": ["Leisure"],
-        "wk_readings_on": ["ゆう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Stick", "Winter", "Heart"]
     },
     "杏": {
         "strokes": 7,
@@ -28265,11 +19165,6 @@ data1 = {
         "meanings": ["Apricot"],
         "readings_on": ["きょう", "あん", "こう"],
         "readings_kun": ["あんず"],
-        "wk_level": 54,
-        "wk_meanings": ["Apricot"],
-        "wk_readings_on": ["!あん", "!きょう", "!こう"],
-        "wk_readings_kun": ["あんず"],
-        "wk_radicals": ["Tree", "Mouth"]
     },
     "茜": {
         "strokes": 9,
@@ -28280,11 +19175,6 @@ data1 = {
         "meanings": ["Madder", "Red Dye", "Turkey Red"],
         "readings_on": ["せん"],
         "readings_kun": ["あかね"],
-        "wk_level": 54,
-        "wk_meanings": ["Red Dye"],
-        "wk_readings_on": ["!せん"],
-        "wk_readings_kun": ["あかね"],
-        "wk_radicals": ["Flowers", "West"]
     },
     "栞": {
         "strokes": 10,
@@ -28295,11 +19185,6 @@ data1 = {
         "meanings": ["Bookmark", "Guidebook"],
         "readings_on": ["かん"],
         "readings_kun": ["しおり"],
-        "wk_level": 54,
-        "wk_meanings": ["Bookmark"],
-        "wk_readings_on": ["!かん"],
-        "wk_readings_kun": ["しおり"],
-        "wk_radicals": ["Dry", "Tree"]
     },
     "伏": {
         "strokes": 6,
@@ -28310,11 +19195,6 @@ data1 = {
         "meanings": ["Prostrated", "Bend Down", "Bow", "Cover", "Lay (pipes)"],
         "readings_on": ["ふく"],
         "readings_kun": ["ふ.せる", "ふ.す"],
-        "wk_level": 55,
-        "wk_meanings": ["Bow", "^Lay"],
-        "wk_readings_on": ["ふく"],
-        "wk_readings_kun": ["!ふ"],
-        "wk_radicals": ["Leader", "Dog"]
     },
     "鎮": {
         "strokes": 18,
@@ -28325,11 +19205,6 @@ data1 = {
         "meanings": ["Tranquilize", "Ancient Peace-preservation Centers"],
         "readings_on": ["ちん"],
         "readings_kun": ["しず.める", "しず.まる", "おさえ"],
-        "wk_level": 55,
-        "wk_meanings": ["Tranquilize"],
-        "wk_readings_on": ["ちん"],
-        "wk_readings_kun": ["!おさえ", "!しず"],
-        "wk_radicals": ["Gold", "Reality"]
     },
     "奉": {
         "strokes": 8,
@@ -28340,11 +19215,6 @@ data1 = {
         "meanings": ["Observance", "Offer", "Present", "Dedicate"],
         "readings_on": ["ほう", "ぶ"],
         "readings_kun": ["たてまつ.る", "まつ.る", "ほう.ずる"],
-        "wk_level": 55,
-        "wk_meanings": ["Dedicate"],
-        "wk_readings_on": ["ほう", "^ぶ"],
-        "wk_readings_kun": ["!たてまつ", "!まつ", "!ほう"],
-        "wk_radicals": ["Spring", "Dry"]
     },
     "憂": {
         "strokes": 15,
@@ -28355,11 +19225,6 @@ data1 = {
         "meanings": ["Melancholy", "Grieve", "Lament", "Be Anxious", "Sad", "Unhappy"],
         "readings_on": ["ゆう"],
         "readings_kun": ["うれ.える", "うれ.い", "う.い", "う.き"],
-        "wk_level": 55,
-        "wk_meanings": ["Grief"],
-        "wk_readings_on": ["ゆう"],
-        "wk_readings_kun": ["!う", "!うれ"],
-        "wk_radicals": ["Hundred", "Forehead", "Heart", "Winter"]
     },
     "朴": {
         "strokes": 6,
@@ -28370,11 +19235,6 @@ data1 = {
         "meanings": ["Crude", "Simple", "Plain", "Docile"],
         "readings_on": ["ぼく"],
         "readings_kun": ["ほう", "ほお", "えのき"],
-        "wk_level": 55,
-        "wk_meanings": ["Simple", "^Crude"],
-        "wk_readings_on": ["ぼく"],
-        "wk_readings_kun": ["!えのき", "!ほう", "!ほお"],
-        "wk_radicals": ["Tree", "Toe"]
     },
     "栃": {
         "strokes": 9,
@@ -28385,11 +19245,6 @@ data1 = {
         "meanings": ["Horse Chestnut", "(kokuji)"],
         "readings_on": [],
         "readings_kun": ["とち"],
-        "wk_level": 55,
-        "wk_meanings": ["Horse Chestnut"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["とち"],
-        "wk_radicals": ["Tree", "Cliff", "Ten Thousand"]
     },
     "惜": {
         "strokes": 11,
@@ -28400,11 +19255,6 @@ data1 = {
         "meanings": ["Pity", "Be Sparing Of", "Frugal", "Stingy", "Regret"],
         "readings_on": ["せき"],
         "readings_kun": ["お.しい", "お.しむ"],
-        "wk_level": 55,
-        "wk_meanings": ["Frugal"],
-        "wk_readings_on": ["せき"],
-        "wk_readings_kun": ["!お"],
-        "wk_radicals": ["Soul", "Long Ago"]
     },
     "佳": {
         "strokes": 8,
@@ -28415,11 +19265,6 @@ data1 = {
         "meanings": ["Excellent", "Beautiful", "Good", "Pleasing", "Skilled"],
         "readings_on": ["か"],
         "readings_kun": [],
-        "wk_level": 55,
-        "wk_meanings": ["Excellent", "^Skilled"],
-        "wk_readings_on": ["か"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Dirt"]
     },
     "悼": {
         "strokes": 11,
@@ -28430,11 +19275,6 @@ data1 = {
         "meanings": ["Lament", "Grieve Over"],
         "readings_on": ["とう"],
         "readings_kun": ["いた.む"],
-        "wk_level": 55,
-        "wk_meanings": ["Grieve", "^Mourn"],
-        "wk_readings_on": ["とう"],
-        "wk_readings_kun": ["!いた"],
-        "wk_radicals": ["Soul", "Toe", "Early"]
     },
     "該": {
         "strokes": 13,
@@ -28445,11 +19285,6 @@ data1 = {
         "meanings": ["Above-stated", "The Said", "That Specific"],
         "readings_on": ["がい"],
         "readings_kun": [],
-        "wk_level": 55,
-        "wk_meanings": ["The Above", "^That Specifically"],
-        "wk_readings_on": ["がい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Say", "Slice"]
     },
     "赴": {
         "strokes": 9,
@@ -28460,11 +19295,6 @@ data1 = {
         "meanings": ["Proceed", "Get", "Become", "Tend"],
         "readings_on": ["ふ"],
         "readings_kun": ["おもむ.く"],
-        "wk_level": 55,
-        "wk_meanings": ["Proceed", "^Move On"],
-        "wk_readings_on": ["ふ"],
-        "wk_readings_kun": ["!おもむ"],
-        "wk_radicals": ["Run", "Toe"]
     },
     "髄": {
         "strokes": 19,
@@ -28475,11 +19305,6 @@ data1 = {
         "meanings": ["Marrow", "Pith", "Essence"],
         "readings_on": ["ずい"],
         "readings_kun": [],
-        "wk_level": 55,
-        "wk_meanings": ["Marrow", "^Bone Marrow"],
-        "wk_readings_on": ["ずい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Bone", "Have", "Scooter"]
     },
     "傍": {
         "strokes": 12,
@@ -28490,11 +19315,6 @@ data1 = {
         "meanings": ["Bystander", "Side", "Besides", "While", "Nearby", "Third Person"],
         "readings_on": ["ぼう"],
         "readings_kun": ["かたわ.ら", "わき", "おか-", "はた", "そば"],
-        "wk_level": 55,
-        "wk_meanings": ["Nearby", "^Side"],
-        "wk_readings_on": ["ぼう"],
-        "wk_readings_kun": ["!かたわ", "!わき", "!おか", "!はた", "!そば"],
-        "wk_radicals": ["Leader", "Stand", "Direction"]
     },
     "累": {
         "strokes": 11,
@@ -28505,11 +19325,6 @@ data1 = {
         "meanings": ["Accumulate", "Involvement", "Trouble", "Tie Up", "Continually"],
         "readings_on": ["るい"],
         "readings_kun": [],
-        "wk_level": 55,
-        "wk_meanings": ["Accumulate"],
-        "wk_readings_on": ["るい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Rice Paddy", "Thread"]
     },
     "癒": {
         "strokes": 18,
@@ -28520,11 +19335,6 @@ data1 = {
         "meanings": ["Healing", "Cure", "Quench (thirst)", "Wreak"],
         "readings_on": ["ゆ"],
         "readings_kun": ["い.える", "いや.す", "い.やす"],
-        "wk_level": 55,
-        "wk_meanings": ["Healing", "^Cure"],
-        "wk_readings_on": ["ゆ"],
-        "wk_readings_kun": ["!い", "!いや"],
-        "wk_radicals": ["Sick", "Death Star", "Heart"]
     },
     "郭": {
         "strokes": 11,
@@ -28535,11 +19345,6 @@ data1 = {
         "meanings": ["Enclosure", "Quarters", "Fortification", "Red-light District"],
         "readings_on": ["かく"],
         "readings_kun": ["くるわ"],
-        "wk_level": 55,
-        "wk_meanings": ["Enclosure"],
-        "wk_readings_on": ["かく"],
-        "wk_readings_kun": ["!くるわ"],
-        "wk_radicals": ["Sock", "Building"]
     },
     "尿": {
         "strokes": 7,
@@ -28550,11 +19355,6 @@ data1 = {
         "meanings": ["Urine"],
         "readings_on": ["にょう"],
         "readings_kun": ["ゆばり", "いばり", "しと"],
-        "wk_level": 55,
-        "wk_meanings": ["Urine", "^Pee"],
-        "wk_readings_on": ["にょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Flag", "Water"]
     },
     "賓": {
         "strokes": 15,
@@ -28565,11 +19365,6 @@ data1 = {
         "meanings": ["V.i.p.", "Guest"],
         "readings_on": ["ひん"],
         "readings_kun": [],
-        "wk_level": 55,
-        "wk_meanings": ["VIP", "^Guest"],
-        "wk_readings_on": ["ひん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Roof", "Ground", "Few", "Shellfish"]
     },
     "虜": {
         "strokes": 13,
@@ -28580,11 +19375,6 @@ data1 = {
         "meanings": ["Captive", "Barbarian", "Low Epithet For The Enemy"],
         "readings_on": ["りょ", "ろ"],
         "readings_kun": ["とりこ", "とりく"],
-        "wk_level": 55,
-        "wk_meanings": ["Captive"],
-        "wk_readings_on": ["りょ", "ろ"],
-        "wk_readings_kun": ["!とりく", "!とりこ"],
-        "wk_radicals": ["Tiger", "Man"]
     },
     "憾": {
         "strokes": 16,
@@ -28595,11 +19385,6 @@ data1 = {
         "meanings": ["Remorse", "Regret", "Be Sorry"],
         "readings_on": ["かん"],
         "readings_kun": ["うら.む"],
-        "wk_level": 55,
-        "wk_meanings": ["Remorse", "^Regret"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": ["!うら"],
-        "wk_radicals": ["Soul", "Feeling"]
     },
     "弥": {
         "strokes": 8,
@@ -28610,11 +19395,6 @@ data1 = {
         "meanings": ["All The More", "Increasingly"],
         "readings_on": ["み", "び"],
         "readings_kun": ["や", "いや", "いよ.いよ", "わた.る"],
-        "wk_level": 55,
-        "wk_meanings": ["Increasing"],
-        "wk_readings_on": ["!び", "!み"],
-        "wk_readings_kun": ["や"],
-        "wk_radicals": ["Bow", "Gun", "Small"]
     },
     "粗": {
         "strokes": 11,
@@ -28625,11 +19405,6 @@ data1 = {
         "meanings": ["Coarse", "Rough", "Rugged"],
         "readings_on": ["そ"],
         "readings_kun": ["あら.い", "あら-"],
-        "wk_level": 55,
-        "wk_meanings": ["Coarse", "^Rough"],
-        "wk_readings_on": ["そ"],
-        "wk_readings_kun": ["!あら"],
-        "wk_radicals": ["Rice", "Top Hat"]
     },
     "循": {
         "strokes": 12,
@@ -28640,11 +19415,6 @@ data1 = {
         "meanings": ["Sequential", "Follow"],
         "readings_on": ["じゅん"],
         "readings_kun": [],
-        "wk_level": 55,
-        "wk_meanings": ["Circulation", "^Sequential"],
-        "wk_readings_on": ["じゅん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Loiter", "Cliff", "Pope"]
     },
     "凝": {
         "strokes": 16,
@@ -28655,11 +19425,6 @@ data1 = {
         "meanings": ["Congeal", "Freeze", "Stiff", "Be Absorbed In"],
         "readings_on": ["ぎょう"],
         "readings_kun": ["こ.る", "こ.らす", "こご.らす", "こご.らせる", "こご.る"],
-        "wk_level": 55,
-        "wk_meanings": ["Congeal", "^Freeze", "^Absorbed In"],
-        "wk_readings_on": ["ぎょう"],
-        "wk_readings_kun": ["!こ", "!こご"],
-        "wk_radicals": ["Ice", "Doubt"]
     },
     "脊": {
         "strokes": 10,
@@ -28670,11 +19435,6 @@ data1 = {
         "meanings": ["Stature", "Height"],
         "readings_on": ["せき"],
         "readings_kun": ["せ", "せい"],
-        "wk_level": 55,
-        "wk_meanings": ["Stature", "^Height"],
-        "wk_readings_on": ["せき"],
-        "wk_readings_kun": ["!せ", "!せい"],
-        "wk_radicals": ["Two", "Person", "Moon"]
     },
     "昌": {
         "strokes": 8,
@@ -28685,11 +19445,6 @@ data1 = {
         "meanings": ["Prosperous", "Bright", "Clear"],
         "readings_on": ["しょう"],
         "readings_kun": ["さかん"],
-        "wk_level": 55,
-        "wk_meanings": ["Prosperous", "^Prosperity"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!さかん"],
-        "wk_radicals": ["Sun"]
     },
     "旦": {
         "strokes": 5,
@@ -28700,11 +19455,6 @@ data1 = {
         "meanings": ["Daybreak", "Dawn", "Morning"],
         "readings_on": ["たん", "だん"],
         "readings_kun": ["あき.らか", "あきら", "ただし", "あさ", "あした"],
-        "wk_level": 55,
-        "wk_meanings": ["Dawn"],
-        "wk_readings_on": ["たん", "だん"],
-        "wk_readings_kun": ["!あきら", "!あき", "!あさ", "!あした", "!ただし"],
-        "wk_radicals": ["Dawn"]
     },
     "愉": {
         "strokes": 12,
@@ -28715,11 +19465,6 @@ data1 = {
         "meanings": ["Pleasure", "Happy", "Rejoice"],
         "readings_on": ["ゆ"],
         "readings_kun": ["たの.しい", "たの.しむ"],
-        "wk_level": 55,
-        "wk_meanings": ["Pleasant"],
-        "wk_readings_on": ["ゆ"],
-        "wk_readings_kun": ["!たの"],
-        "wk_radicals": ["Soul", "Death Star"]
     },
     "抹": {
         "strokes": 8,
@@ -28730,11 +19475,6 @@ data1 = {
         "meanings": ["Rub", "Paint", "Erase"],
         "readings_on": ["まつ"],
         "readings_kun": [],
-        "wk_level": 55,
-        "wk_meanings": ["Erase"],
-        "wk_readings_on": ["まつ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Fingers", "Jet"]
     },
     "栓": {
         "strokes": 10,
@@ -28745,11 +19485,6 @@ data1 = {
         "meanings": ["Plug", "Bolt", "Cork", "Bung", "Stopper"],
         "readings_on": ["せん"],
         "readings_kun": [],
-        "wk_level": 55,
-        "wk_meanings": ["Cork", "^Plug"],
-        "wk_readings_on": ["せん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tree", "Hat", "King"]
     },
     "之": {
         "strokes": 3,
@@ -28760,11 +19495,6 @@ data1 = {
         "meanings": ["Of", "This"],
         "readings_on": ["し"],
         "readings_kun": ["の", "これ", "ゆく", "この"],
-        "wk_level": 55,
-        "wk_meanings": ["This"],
-        "wk_readings_on": ["!し"],
-        "wk_readings_kun": ["これ", "の"],
-        "wk_radicals": ["Drop", "Hills"]
     },
     "龍": {
         "strokes": 16,
@@ -28775,11 +19505,6 @@ data1 = {
         "meanings": ["Dragon", "Imperial"],
         "readings_on": ["りゅう", "りょう", "ろう"],
         "readings_kun": ["たつ"],
-        "wk_level": 55,
-        "wk_meanings": ["Imperial", "^Dragon"],
-        "wk_readings_on": ["りゅう", "りょう", "ろう"],
-        "wk_readings_kun": ["!たつ"],
-        "wk_radicals": ["Imperial"]
     },
     "遼": {
         "strokes": 15,
@@ -28790,11 +19515,6 @@ data1 = {
         "meanings": ["Distant"],
         "readings_on": ["りょう"],
         "readings_kun": [],
-        "wk_level": 55,
-        "wk_meanings": ["Distant"],
-        "wk_readings_on": ["りょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Scooter", "Charcoal"]
     },
     "瑛": {
         "strokes": 12,
@@ -28805,11 +19525,6 @@ data1 = {
         "meanings": ["Sparkle Of Jewelry", "Crystal"],
         "readings_on": ["えい"],
         "readings_kun": [],
-        "wk_level": 55,
-        "wk_meanings": ["Crystal"],
-        "wk_readings_on": ["えい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["King", "Flowers", "Center"]
     },
     "那": {
         "strokes": 7,
@@ -28820,11 +19535,6 @@ data1 = {
         "meanings": ["What?"],
         "readings_on": ["な", "だ"],
         "readings_kun": ["なに", "なんぞ", "いかん"],
-        "wk_level": 55,
-        "wk_meanings": ["What"],
-        "wk_readings_on": ["な", "^だ"],
-        "wk_readings_kun": ["!いかん", "!なに", "!なんぞ"],
-        "wk_radicals": ["Sword", "Two", "Building"]
     },
     "拍": {
         "strokes": 8,
@@ -28835,11 +19545,6 @@ data1 = {
         "meanings": ["Clap", "Beat (music)"],
         "readings_on": ["はく", "ひょう"],
         "readings_kun": [],
-        "wk_level": 56,
-        "wk_meanings": ["Beat"],
-        "wk_readings_on": ["はく", "^ひょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Fingers", "White"]
     },
     "猶": {
         "strokes": 12,
@@ -28850,11 +19555,6 @@ data1 = {
         "meanings": ["Furthermore", "Still", "Yet"],
         "readings_on": ["ゆう", "ゆ"],
         "readings_kun": ["なお"],
-        "wk_level": 56,
-        "wk_meanings": ["Still", "^Yet"],
-        "wk_readings_on": ["ゆう", "ゆ"],
-        "wk_readings_kun": ["!なお"],
-        "wk_radicals": ["Animal", "Horns", "Alcohol"]
     },
     "宰": {
         "strokes": 10,
@@ -28865,11 +19565,6 @@ data1 = {
         "meanings": ["Superintend", "Manager", "Rule"],
         "readings_on": ["さい"],
         "readings_kun": [],
-        "wk_level": 56,
-        "wk_meanings": ["Manager"],
-        "wk_readings_on": ["さい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Roof", "Spicy"]
     },
     "寂": {
         "strokes": 11,
@@ -28880,11 +19575,6 @@ data1 = {
         "meanings": ["Loneliness", "Quietly", "Mellow", "Mature", "Death Of A Priest"],
         "readings_on": ["じゃく", "せき"],
         "readings_kun": ["さび", "さび.しい", "さび.れる", "さみ.しい"],
-        "wk_level": 56,
-        "wk_meanings": ["Lonely"],
-        "wk_readings_on": ["じゃく", "^せき"],
-        "wk_readings_kun": ["!さび", "!さみ"],
-        "wk_radicals": ["Roof", "Above", "Small", "Stool"]
     },
     "縫": {
         "strokes": 16,
@@ -28895,11 +19585,6 @@ data1 = {
         "meanings": ["Sew", "Stitch", "Embroider"],
         "readings_on": ["ほう"],
         "readings_kun": ["ぬ.う"],
-        "wk_level": 56,
-        "wk_meanings": ["Sew"],
-        "wk_readings_on": ["ほう"],
-        "wk_readings_kun": ["!ぬ"],
-        "wk_radicals": ["Thread", "Scooter", "Signpost"]
     },
     "呉": {
         "strokes": 7,
@@ -28910,11 +19595,6 @@ data1 = {
         "meanings": ["Give", "Do Something For", "Kingdom Of Wu"],
         "readings_on": ["ご"],
         "readings_kun": ["く.れる", "くれ"],
-        "wk_level": 56,
-        "wk_meanings": ["Give"],
-        "wk_readings_on": ["ご"],
-        "wk_readings_kun": ["!くれ", "!く"],
-        "wk_radicals": ["Catapult"]
     },
     "凡": {
         "strokes": 3,
@@ -28925,11 +19605,6 @@ data1 = {
         "meanings": ["Commonplace", "Ordinary", "Mediocre"],
         "readings_on": ["ぼん", "はん"],
         "readings_kun": ["およ.そ", "おうよ.そ", "すべ.て"],
-        "wk_level": 56,
-        "wk_meanings": ["Mediocre"],
-        "wk_readings_on": ["ぼん", "はん"],
-        "wk_readings_kun": ["!おうよ", "!およ", "!すべ"],
-        "wk_radicals": ["Table", "Drop"]
     },
     "恭": {
         "strokes": 10,
@@ -28940,11 +19615,6 @@ data1 = {
         "meanings": ["Respect", "Reverent"],
         "readings_on": ["きょう"],
         "readings_kun": ["うやうや.しい"],
-        "wk_level": 56,
-        "wk_meanings": ["Respect"],
-        "wk_readings_on": ["!きょう"],
-        "wk_readings_kun": ["うやうや"],
-        "wk_radicals": ["Together", "Small", "Drop"]
     },
     "錯": {
         "strokes": 16,
@@ -28955,11 +19625,6 @@ data1 = {
         "meanings": ["Confused", "Mix", "Be In Disorder"],
         "readings_on": ["さく", "しゃく"],
         "readings_kun": [],
-        "wk_level": 56,
-        "wk_meanings": ["Confused", "^Mixed"],
-        "wk_readings_on": ["さく", "^しゃく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Gold", "Long Ago"]
     },
     "穀": {
         "strokes": 14,
@@ -28970,11 +19635,6 @@ data1 = {
         "meanings": ["Cereals", "Grain"],
         "readings_on": ["こく"],
         "readings_kun": [],
-        "wk_level": 56,
-        "wk_meanings": ["Grain"],
-        "wk_readings_on": ["こく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Samurai", "Forehead", "Grain", "Weapon"]
     },
     "陵": {
         "strokes": 11,
@@ -28985,11 +19645,6 @@ data1 = {
         "meanings": ["Mausoleum", "Imperial Tomb", "Mound", "Hill"],
         "readings_on": ["りょう"],
         "readings_kun": ["みささぎ"],
-        "wk_level": 56,
-        "wk_meanings": ["Mausoleum", "^Tomb"],
-        "wk_readings_on": ["りょう"],
-        "wk_readings_kun": ["!みささぎ"],
-        "wk_radicals": ["Building", "Frostbite"]
     },
     "弊": {
         "strokes": 15,
@@ -29000,11 +19655,6 @@ data1 = {
         "meanings": ["Abuse", "Evil", "Vice", "Breakage"],
         "readings_on": ["へい"],
         "readings_kun": [],
-        "wk_level": 56,
-        "wk_meanings": ["Evil"],
-        "wk_readings_on": ["へい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Penguin", "Twenty"]
     },
     "舶": {
         "strokes": 11,
@@ -29015,11 +19665,6 @@ data1 = {
         "meanings": ["Liner", "Ship"],
         "readings_on": ["はく"],
         "readings_kun": [],
-        "wk_level": 56,
-        "wk_meanings": ["Ship"],
-        "wk_readings_on": ["はく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Boat", "White"]
     },
     "窮": {
         "strokes": 15,
@@ -29030,11 +19675,6 @@ data1 = {
         "meanings": ["Hard Up", "Destitute", "Suffer", "Perplexed", "Cornered"],
         "readings_on": ["きゅう", "きょう"],
         "readings_kun": ["きわ.める", "きわ.まる", "きわ.まり", "きわ.み"],
-        "wk_level": 56,
-        "wk_meanings": ["Destitute"],
-        "wk_readings_on": ["きゅう", "^きょう"],
-        "wk_readings_kun": ["!きわ"],
-        "wk_radicals": ["Hole", "Body", "Bow"]
     },
     "悦": {
         "strokes": 10,
@@ -29045,11 +19685,6 @@ data1 = {
         "meanings": ["Ecstasy", "Joy", "Rapture"],
         "readings_on": ["えつ"],
         "readings_kun": ["よろこ.ぶ", "よろこ.ばす"],
-        "wk_level": 56,
-        "wk_meanings": ["Delight", "^Joy"],
-        "wk_readings_on": ["えつ"],
-        "wk_readings_kun": ["!よろこ"],
-        "wk_radicals": ["Soul", "Guard"]
     },
     "縛": {
         "strokes": 16,
@@ -29060,11 +19695,6 @@ data1 = {
         "meanings": ["Truss", "Arrest", "Bind", "Tie", "Restrain"],
         "readings_on": ["ばく"],
         "readings_kun": ["しば.る"],
-        "wk_level": 56,
-        "wk_meanings": ["Bind", "^Restrain"],
-        "wk_readings_on": ["ばく"],
-        "wk_readings_kun": ["!しば"],
-        "wk_radicals": ["Thread", "Specialty", "Drop"]
     },
     "轄": {
         "strokes": 17,
@@ -29075,11 +19705,6 @@ data1 = {
         "meanings": ["Control", "Wedge"],
         "readings_on": ["かつ"],
         "readings_kun": ["くさび"],
-        "wk_level": 56,
-        "wk_meanings": ["Control"],
-        "wk_readings_on": ["かつ"],
-        "wk_readings_kun": ["!くさび"],
-        "wk_radicals": ["Car", "Roof", "Life", "Mouth"]
     },
     "弦": {
         "strokes": 8,
@@ -29090,11 +19715,6 @@ data1 = {
         "meanings": ["Bowstring", "Chord", "Hypotenuse"],
         "readings_on": ["げん"],
         "readings_kun": ["つる"],
-        "wk_level": 56,
-        "wk_meanings": ["Chord", "^Bowstring"],
-        "wk_readings_on": ["げん"],
-        "wk_readings_kun": ["!つる"],
-        "wk_radicals": ["Bow", "Mysterious"]
     },
     "窒": {
         "strokes": 11,
@@ -29105,11 +19725,6 @@ data1 = {
         "meanings": ["Plug Up", "Obstruct"],
         "readings_on": ["ちつ"],
         "readings_kun": [],
-        "wk_level": 56,
-        "wk_meanings": ["Suffocate"],
-        "wk_readings_on": ["ちつ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Hole", "Mole"]
     },
     "洪": {
         "strokes": 9,
@@ -29120,11 +19735,6 @@ data1 = {
         "meanings": ["Deluge", "Flood", "Vast"],
         "readings_on": ["こう"],
         "readings_kun": [],
-        "wk_level": 56,
-        "wk_meanings": ["Flood"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tsunami", "Together"]
     },
     "摂": {
         "strokes": 13,
@@ -29135,11 +19745,6 @@ data1 = {
         "meanings": ["Vicarious", "Surrogate", "Act In Addition To", "Take In", "Absorb"],
         "readings_on": ["せつ", "しょう"],
         "readings_kun": ["おさ.める", "かね.る", "と.る"],
-        "wk_level": 56,
-        "wk_meanings": ["In Addition"],
-        "wk_readings_on": ["せつ", "^しょう"],
-        "wk_readings_kun": ["!おさ", "!かね", "!と"],
-        "wk_radicals": ["Fingers", "Ear", "Explosion"]
     },
     "飽": {
         "strokes": 13,
@@ -29150,11 +19755,6 @@ data1 = {
         "meanings": ["Sated", "Tired Of", "Bored", "Satiate"],
         "readings_on": ["ほう"],
         "readings_kun": ["あ.きる", "あ.かす", "あ.く"],
-        "wk_level": 56,
-        "wk_meanings": ["Bored", "^Sated"],
-        "wk_readings_on": ["ほう"],
-        "wk_readings_kun": ["!あ"],
-        "wk_radicals": ["Eat", "Wrap"]
     },
     "紳": {
         "strokes": 11,
@@ -29165,11 +19765,6 @@ data1 = {
         "meanings": ["Sire", "Good Belt", "Gentleman"],
         "readings_on": ["しん"],
         "readings_kun": [],
-        "wk_level": 56,
-        "wk_meanings": ["Gentleman"],
-        "wk_readings_on": ["しん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Thread", "Humble"]
     },
     "庸": {
         "strokes": 11,
@@ -29180,11 +19775,6 @@ data1 = {
         "meanings": ["Commonplace", "Ordinary", "Employment"],
         "readings_on": ["よう"],
         "readings_kun": [],
-        "wk_level": 56,
-        "wk_meanings": ["Common"],
-        "wk_readings_on": ["よう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Canopy", "Brush", "Task"]
     },
     "靖": {
         "strokes": 13,
@@ -29195,11 +19785,6 @@ data1 = {
         "meanings": ["Peaceful"],
         "readings_on": ["せい", "じょう"],
         "readings_kun": ["やす.んじる"],
-        "wk_level": 56,
-        "wk_meanings": ["Peaceful"],
-        "wk_readings_on": ["!じょう", "!せい"],
-        "wk_readings_kun": ["やす"],
-        "wk_radicals": ["Stand", "Blue"]
     },
     "嘉": {
         "strokes": 14,
@@ -29210,11 +19795,6 @@ data1 = {
         "meanings": ["Applaud", "Praise", "Esteem", "Happy", "Auspicious"],
         "readings_on": ["か"],
         "readings_kun": ["よみ.する", "よい"],
-        "wk_level": 56,
-        "wk_meanings": ["Esteem", "^Praise"],
-        "wk_readings_on": ["か"],
-        "wk_readings_kun": ["!よい", "!よみ"],
-        "wk_radicals": ["Drum", "Power", "Mouth"]
     },
     "搾": {
         "strokes": 13,
@@ -29225,11 +19805,6 @@ data1 = {
         "meanings": ["Squeeze"],
         "readings_on": ["さく"],
         "readings_kun": ["しぼ.る"],
-        "wk_level": 56,
-        "wk_meanings": ["Squeeze"],
-        "wk_readings_on": ["さく"],
-        "wk_readings_kun": ["!しぼ"],
-        "wk_radicals": ["Fingers", "Hole", "Key"]
     },
     "蝶": {
         "strokes": 15,
@@ -29240,11 +19815,6 @@ data1 = {
         "meanings": ["Butterfly"],
         "readings_on": ["ちょう"],
         "readings_kun": [],
-        "wk_level": 56,
-        "wk_meanings": ["Butterfly"],
-        "wk_readings_on": ["ちょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Insect", "World", "Tree"]
     },
     "碑": {
         "strokes": 14,
@@ -29255,11 +19825,6 @@ data1 = {
         "meanings": ["Tombstone", "Monument"],
         "readings_on": ["ひ"],
         "readings_kun": ["いしぶみ"],
-        "wk_level": 56,
-        "wk_meanings": ["Tombstone"],
-        "wk_readings_on": ["ひ"],
-        "wk_readings_kun": ["!いしぶみ"],
-        "wk_radicals": ["Stone", "Drop", "Rice Paddy", "Cross"]
     },
     "尉": {
         "strokes": 11,
@@ -29270,11 +19835,6 @@ data1 = {
         "meanings": ["Military Officer", "Jailer", "Old Man", "Rank"],
         "readings_on": ["い", "じょう"],
         "readings_kun": [],
-        "wk_level": 56,
-        "wk_meanings": ["Military Officer", "^Military Rank"],
-        "wk_readings_on": ["い", "じょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Flag", "Jackhammer", "Measurement"]
     },
     "凛": {
         "strokes": 15,
@@ -29285,11 +19845,6 @@ data1 = {
         "meanings": ["Cold"],
         "readings_on": ["りん"],
         "readings_kun": ["きびし.い"],
-        "wk_level": 56,
-        "wk_meanings": ["Cold"],
-        "wk_readings_on": ["りん"],
-        "wk_readings_kun": ["!きびし"],
-        "wk_radicals": ["Ice", "Lid", "Times", "Jackhammer"]
     },
     "匠": {
         "strokes": 6,
@@ -29300,11 +19855,6 @@ data1 = {
         "meanings": ["Artisan", "Workman", "Carpenter"],
         "readings_on": ["しょう"],
         "readings_kun": ["たくみ"],
-        "wk_level": 56,
-        "wk_meanings": ["Artisan"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!たくみ"],
-        "wk_radicals": ["Cage", "Axe"]
     },
     "遥": {
         "strokes": 12,
@@ -29315,11 +19865,6 @@ data1 = {
         "meanings": ["Far Off", "Distant", "Long Ago"],
         "readings_on": ["よう"],
         "readings_kun": ["はる.か"],
-        "wk_level": 56,
-        "wk_meanings": ["Far Off", "^Far Away"],
-        "wk_readings_on": ["!よう"],
-        "wk_readings_kun": ["はる"],
-        "wk_radicals": ["Scooter", "Satellite"]
     },
     "智": {
         "strokes": 12,
@@ -29330,11 +19875,6 @@ data1 = {
         "meanings": ["Wisdom", "Intellect", "Reason"],
         "readings_on": ["ち"],
         "readings_kun": [],
-        "wk_level": 56,
-        "wk_meanings": ["Wisdom"],
-        "wk_readings_on": ["ち"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Arrow", "Mouth", "Sun"]
     },
     "柴": {
         "strokes": 10,
@@ -29345,11 +19885,6 @@ data1 = {
         "meanings": ["Brush", "Firewood"],
         "readings_on": ["さい", "し"],
         "readings_kun": ["しば"],
-        "wk_level": 56,
-        "wk_meanings": ["Brushwood", "^Firewood"],
-        "wk_readings_on": ["!さい", "!し"],
-        "wk_readings_kun": ["しば"],
-        "wk_radicals": ["Stop", "Spoon", "Tree"]
     },
     "賊": {
         "strokes": 13,
@@ -29360,11 +19895,6 @@ data1 = {
         "meanings": ["Burglar", "Rebel", "Traitor", "Robber"],
         "readings_on": ["ぞく"],
         "readings_kun": [],
-        "wk_level": 57,
-        "wk_meanings": ["Robber"],
-        "wk_readings_on": ["ぞく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Shellfish", "Drunkard", "Cross"]
     },
     "鼓": {
         "strokes": 13,
@@ -29375,11 +19905,6 @@ data1 = {
         "meanings": ["Drum", "Beat", "Rouse", "Muster"],
         "readings_on": ["こ"],
         "readings_kun": ["つづみ"],
-        "wk_level": 57,
-        "wk_meanings": ["Drum", "^Beat"],
-        "wk_readings_on": ["こ"],
-        "wk_readings_kun": ["!つづみ"],
-        "wk_radicals": ["Drum", "Branch"]
     },
     "旋": {
         "strokes": 11,
@@ -29390,11 +19915,6 @@ data1 = {
         "meanings": ["Rotation", "Go Around"],
         "readings_on": ["せん"],
         "readings_kun": ["め.ぐる", "いばり"],
-        "wk_level": 57,
-        "wk_meanings": ["Rotation", "^Revolution"],
-        "wk_readings_on": ["せん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Direction", "Gun", "Coat Rack"]
     },
     "腸": {
         "strokes": 13,
@@ -29405,11 +19925,6 @@ data1 = {
         "meanings": ["Intestines", "Guts", "Bowels", "Viscera"],
         "readings_on": ["ちょう"],
         "readings_kun": ["はらわた", "わた"],
-        "wk_level": 57,
-        "wk_meanings": ["Intestines"],
-        "wk_readings_on": ["ちょう"],
-        "wk_readings_kun": ["!はらわた"],
-        "wk_radicals": ["Moon", "Easy"]
     },
     "槽": {
         "strokes": 15,
@@ -29420,11 +19935,6 @@ data1 = {
         "meanings": ["Vat", "Tub", "Tank"],
         "readings_on": ["そう"],
         "readings_kun": ["ふね"],
-        "wk_level": 57,
-        "wk_meanings": ["Tank", "^Vat"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": ["!ふね"],
-        "wk_radicals": ["Tree", "Ground", "Music", "Sun"]
     },
     "伐": {
         "strokes": 6,
@@ -29435,11 +19945,6 @@ data1 = {
         "meanings": ["Fell", "Strike", "Attack", "Punish"],
         "readings_on": ["ばつ", "はつ", "か", "ぼち"],
         "readings_kun": ["き.る", "そむ.く", "う.つ"],
-        "wk_level": 57,
-        "wk_meanings": ["Fell", "^Attack"],
-        "wk_readings_on": ["ばつ"],
-        "wk_readings_kun": ["!う", "!き", "!そむ"],
-        "wk_radicals": ["Leader", "Drunkard"]
     },
     "漬": {
         "strokes": 14,
@@ -29450,11 +19955,6 @@ data1 = {
         "meanings": ["Pickling", "Soak", "Moisten", "Steep"],
         "readings_on": ["し"],
         "readings_kun": ["つ.ける", "つ.かる", "-づ.け", "-づけ"],
-        "wk_level": 57,
-        "wk_meanings": ["Pickle"],
-        "wk_readings_on": ["!し"],
-        "wk_readings_kun": ["つ"],
-        "wk_radicals": ["Tsunami", "Life", "Shellfish"]
     },
     "坪": {
         "strokes": 8,
@@ -29465,11 +19965,6 @@ data1 = {
         "meanings": ["Two-mat Area", "Approx. Thirty-six Sq Ft"],
         "readings_on": ["へい"],
         "readings_kun": ["つぼ"],
-        "wk_level": 57,
-        "wk_meanings": ["Two Mat Area"],
-        "wk_readings_on": ["!へい"],
-        "wk_readings_kun": ["つぼ"],
-        "wk_radicals": ["Dirt", "Peace"]
     },
     "紺": {
         "strokes": 11,
@@ -29480,11 +19975,6 @@ data1 = {
         "meanings": ["Dark Blue", "Navy"],
         "readings_on": ["こん"],
         "readings_kun": [],
-        "wk_level": 57,
-        "wk_meanings": ["Navy", "^Dark Blue"],
-        "wk_readings_on": ["こん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Thread", "Sweet"]
     },
     "羅": {
         "strokes": 19,
@@ -29495,11 +19985,6 @@ data1 = {
         "meanings": ["Gauze", "Thin Silk", "Rome", "Arrange", "Spread Out"],
         "readings_on": ["ら"],
         "readings_kun": ["うすもの"],
-        "wk_level": 57,
-        "wk_meanings": ["Spread Out", "^Arrange"],
-        "wk_readings_on": ["ら"],
-        "wk_readings_kun": ["!うすもの"],
-        "wk_radicals": ["Net", "Thread", "Turkey"]
     },
     "峡": {
         "strokes": 9,
@@ -29510,11 +19995,6 @@ data1 = {
         "meanings": ["Gorge", "Ravine"],
         "readings_on": ["きょう", "こう"],
         "readings_kun": ["はざま"],
-        "wk_level": 57,
-        "wk_meanings": ["Ravine"],
-        "wk_readings_on": ["きょう", "^こう"],
-        "wk_readings_kun": ["!はざま"],
-        "wk_radicals": ["Mountain", "Horns", "Husband"]
     },
     "俸": {
         "strokes": 10,
@@ -29525,11 +20005,6 @@ data1 = {
         "meanings": ["Stipend", "Salary"],
         "readings_on": ["ほう"],
         "readings_kun": [],
-        "wk_level": 57,
-        "wk_meanings": ["Salary"],
-        "wk_readings_on": ["ほう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Leader", "Spring", "Dry"]
     },
     "醸": {
         "strokes": 20,
@@ -29540,11 +20015,6 @@ data1 = {
         "meanings": ["Brew", "Cause"],
         "readings_on": ["じょう"],
         "readings_kun": ["かも.す"],
-        "wk_level": 57,
-        "wk_meanings": ["Brew"],
-        "wk_readings_on": ["じょう"],
-        "wk_readings_kun": ["!かも"],
-        "wk_radicals": ["Alcohol", "Nurse"]
     },
     "弔": {
         "strokes": 4,
@@ -29555,11 +20025,6 @@ data1 = {
         "meanings": ["Condolences", "Mourning", "Funeral"],
         "readings_on": ["ちょう"],
         "readings_kun": ["とむら.う", "とぶら.う"],
-        "wk_level": 57,
-        "wk_meanings": ["Condolence"],
-        "wk_readings_on": ["ちょう"],
-        "wk_readings_kun": ["!とぶら", "!とむら"],
-        "wk_radicals": ["Bow", "Stick"]
     },
     "乙": {
         "strokes": 1,
@@ -29570,11 +20035,6 @@ data1 = {
         "meanings": ["The Latter", "Duplicate", "Strange", "Witty", "Fishhook Radical (no. 5)"],
         "readings_on": ["おつ", "いつ"],
         "readings_kun": ["おと-", "きのと"],
-        "wk_level": 57,
-        "wk_meanings": ["Latter", "^B"],
-        "wk_readings_on": ["おつ", "いつ"],
-        "wk_readings_kun": ["!おと", "!きのと"],
-        "wk_radicals": ["Nose"]
     },
     "遍": {
         "strokes": 12,
@@ -29585,11 +20045,6 @@ data1 = {
         "meanings": ["Everywhere", "Times", "Widely", "Generally"],
         "readings_on": ["へん"],
         "readings_kun": ["あまね.く"],
-        "wk_level": 57,
-        "wk_meanings": ["Universal"],
-        "wk_readings_on": ["へん"],
-        "wk_readings_kun": ["!あまね"],
-        "wk_radicals": ["Scooter", "Library"]
     },
     "衡": {
         "strokes": 16,
@@ -29600,11 +20055,6 @@ data1 = {
         "meanings": ["Equilibrium", "Measuring Rod", "Scale"],
         "readings_on": ["こう"],
         "readings_kun": [],
-        "wk_level": 57,
-        "wk_meanings": ["Equilibrium"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Go", "Prison", "Rice Paddy", "Big"]
     },
     "款": {
         "strokes": 12,
@@ -29615,11 +20065,6 @@ data1 = {
         "meanings": ["Goodwill", "Article", "Section", "Friendship", "Collusion"],
         "readings_on": ["かん"],
         "readings_kun": [],
-        "wk_level": 57,
-        "wk_meanings": ["Article", "^Sincerity"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Samurai", "Jackhammer", "Lack"]
     },
     "閲": {
         "strokes": 15,
@@ -29630,11 +20075,6 @@ data1 = {
         "meanings": ["Review", "Inspection", "Revision"],
         "readings_on": ["えつ"],
         "readings_kun": ["けみ.する"],
-        "wk_level": 57,
-        "wk_meanings": ["Inspection"],
-        "wk_readings_on": ["えつ"],
-        "wk_readings_kun": ["!けみ"],
-        "wk_radicals": ["Gate", "Guard"]
     },
     "喝": {
         "strokes": 11,
@@ -29645,11 +20085,6 @@ data1 = {
         "meanings": ["Hoarse", "Scold"],
         "readings_on": ["かつ"],
         "readings_kun": [],
-        "wk_level": 57,
-        "wk_meanings": ["Scold"],
-        "wk_readings_on": ["かつ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Mouth", "Sun", "Prison", "Spoon"]
     },
     "敢": {
         "strokes": 12,
@@ -29660,11 +20095,6 @@ data1 = {
         "meanings": ["Daring", "Brave", "Bold", "Sad", "Tragic", "Pitiful"],
         "readings_on": ["かん"],
         "readings_kun": ["あ.えて", "あ.えない", "あ.えず"],
-        "wk_level": 57,
-        "wk_meanings": ["Daring"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": ["!あ"],
-        "wk_radicals": ["Elf", "Winter"]
     },
     "膜": {
         "strokes": 14,
@@ -29675,11 +20105,6 @@ data1 = {
         "meanings": ["Membrane"],
         "readings_on": ["まく"],
         "readings_kun": [],
-        "wk_level": 57,
-        "wk_meanings": ["Membrane"],
-        "wk_readings_on": ["まく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Moon", "Greenhouse"]
     },
     "盲": {
         "strokes": 8,
@@ -29690,11 +20115,6 @@ data1 = {
         "meanings": ["Blind", "Blind Man", "Ignoramus"],
         "readings_on": ["もう"],
         "readings_kun": ["めくら"],
-        "wk_level": 57,
-        "wk_meanings": ["Blind"],
-        "wk_readings_on": ["もう"],
-        "wk_readings_kun": ["!めくら"],
-        "wk_radicals": ["Death", "Eye"]
     },
     "胎": {
         "strokes": 9,
@@ -29705,11 +20125,6 @@ data1 = {
         "meanings": ["Womb", "Uterus"],
         "readings_on": ["たい"],
         "readings_kun": [],
-        "wk_level": 57,
-        "wk_meanings": ["Womb", "^Uterus"],
-        "wk_readings_on": ["たい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Moon", "Machine"]
     },
     "酵": {
         "strokes": 14,
@@ -29720,11 +20135,6 @@ data1 = {
         "meanings": ["Fermentation"],
         "readings_on": ["こう"],
         "readings_kun": [],
-        "wk_level": 57,
-        "wk_meanings": ["Fermentation", "^Ferment"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Alcohol", "Teacher"]
     },
     "堕": {
         "strokes": 12,
@@ -29735,11 +20145,6 @@ data1 = {
         "meanings": ["Degenerate", "Descend To", "Lapse Into"],
         "readings_on": ["だ"],
         "readings_kun": ["お.ちる", "くず.す", "くず.れる"],
-        "wk_level": 57,
-        "wk_meanings": ["Degenerate"],
-        "wk_readings_on": ["だ"],
-        "wk_readings_kun": ["!お", "!くず"],
-        "wk_radicals": ["Building", "Have", "Dirt"]
     },
     "遮": {
         "strokes": 14,
@@ -29750,11 +20155,6 @@ data1 = {
         "meanings": ["Intercept", "Interrupt", "Obstruct"],
         "readings_on": ["しゃ"],
         "readings_kun": ["さえぎ.る"],
-        "wk_level": 57,
-        "wk_meanings": ["Intercept"],
-        "wk_readings_on": ["しゃ"],
-        "wk_readings_kun": ["!さえぎ"],
-        "wk_radicals": ["Scooter", "Yurt", "Boil"]
     },
     "烏": {
         "strokes": 10,
@@ -29765,11 +20165,6 @@ data1 = {
         "meanings": ["Crow", "Raven"],
         "readings_on": ["う", "お"],
         "readings_kun": ["からす", "いずくんぞ", "なんぞ"],
-        "wk_level": 57,
-        "wk_meanings": ["Crow"],
-        "wk_readings_on": ["!うお"],
-        "wk_readings_kun": ["からす"],
-        "wk_radicals": ["Bird"]
     },
     "凸": {
         "strokes": 5,
@@ -29780,11 +20175,6 @@ data1 = {
         "meanings": ["Convex", "Beetle Brow", "Uneven"],
         "readings_on": ["とつ"],
         "readings_kun": ["でこ"],
-        "wk_level": 57,
-        "wk_meanings": ["Convex", "^Uneven"],
-        "wk_readings_on": ["とつ"],
-        "wk_readings_kun": ["!でこ"],
-        "wk_radicals": ["Convex"]
     },
     "凹": {
         "strokes": 5,
@@ -29795,11 +20185,6 @@ data1 = {
         "meanings": ["Concave", "Hollow", "Sunken"],
         "readings_on": ["おう"],
         "readings_kun": ["くぼ.む", "へこ.む", "ぼこ"],
-        "wk_level": 57,
-        "wk_meanings": ["Concave", "^Hollow"],
-        "wk_readings_on": ["おう"],
-        "wk_readings_kun": ["!くぼ", "!へこ", "!ぼこ"],
-        "wk_radicals": ["Concave"]
     },
     "楓": {
         "strokes": 13,
@@ -29810,11 +20195,6 @@ data1 = {
         "meanings": ["Maple"],
         "readings_on": ["ふう"],
         "readings_kun": ["かえで"],
-        "wk_level": 57,
-        "wk_meanings": ["Maple"],
-        "wk_readings_on": ["ふう"],
-        "wk_readings_kun": ["!かえで"],
-        "wk_radicals": ["Tree", "Wind"]
     },
     "哉": {
         "strokes": 9,
@@ -29825,11 +20205,6 @@ data1 = {
         "meanings": ["How", "What", "Alas", "Question Mark", "Exclamation Mark"],
         "readings_on": ["さい"],
         "readings_kun": ["かな", "や"],
-        "wk_level": 57,
-        "wk_meanings": ["Question Mark", "^?"],
-        "wk_readings_on": ["!さい"],
-        "wk_readings_kun": ["や", "^かな"],
-        "wk_radicals": ["Dirt", "Mouth", "Drunkard"]
     },
     "蒼": {
         "strokes": 13,
@@ -29840,11 +20215,6 @@ data1 = {
         "meanings": ["Blue", "Pale"],
         "readings_on": ["そう"],
         "readings_kun": ["あお.い"],
-        "wk_level": 57,
-        "wk_meanings": ["Pale", "^Blue"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": ["!あお"],
-        "wk_radicals": ["Flowers", "Warehouse"]
     },
     "瑠": {
         "strokes": 14,
@@ -29855,11 +20225,6 @@ data1 = {
         "meanings": ["Lapis Lazuli"],
         "readings_on": ["る", "りゅう"],
         "readings_kun": [],
-        "wk_level": 57,
-        "wk_meanings": ["Lapis Lazuli"],
-        "wk_readings_on": ["る", "^りゅう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["King", "Private", "Sword", "Rice Paddy"]
     },
     "萌": {
         "strokes": 11,
@@ -29870,11 +20235,6 @@ data1 = {
         "meanings": ["Show Symptoms Of", "Sprout", "Bud", "Malt"],
         "readings_on": ["ほう"],
         "readings_kun": ["も.える", "きざ.す", "めばえ", "きざ.し"],
-        "wk_level": 57,
-        "wk_meanings": ["Sprout"],
-        "wk_readings_on": ["ほう"],
-        "wk_readings_kun": ["!きざ", "!めばえ", "!も"],
-        "wk_radicals": ["Flowers", "Bright"]
     },
     "硫": {
         "strokes": 12,
@@ -29885,11 +20245,6 @@ data1 = {
         "meanings": ["Sulphur"],
         "readings_on": ["りゅう"],
         "readings_kun": [],
-        "wk_level": 58,
-        "wk_meanings": ["Sulfur", "^Sulphur"],
-        "wk_readings_on": ["りゅう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Stone", "Trash", "River"]
     },
     "赦": {
         "strokes": 11,
@@ -29900,11 +20255,6 @@ data1 = {
         "meanings": ["Pardon", "Forgiveness"],
         "readings_on": ["しゃ"],
         "readings_kun": [],
-        "wk_level": 58,
-        "wk_meanings": ["Pardon"],
-        "wk_readings_on": ["しゃ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Red", "Winter"]
     },
     "窃": {
         "strokes": 9,
@@ -29915,11 +20265,6 @@ data1 = {
         "meanings": ["Stealth", "Steal", "Secret", "Private", "Hushed"],
         "readings_on": ["せつ"],
         "readings_kun": ["ぬす.む", "ひそ.か"],
-        "wk_level": 58,
-        "wk_meanings": ["Steal"],
-        "wk_readings_on": ["せつ"],
-        "wk_readings_kun": ["!ぬす", "!ひそ"],
-        "wk_radicals": ["Hole", "Seven", "Sword"]
     },
     "慨": {
         "strokes": 13,
@@ -29930,11 +20275,6 @@ data1 = {
         "meanings": ["Rue", "Be Sad", "Sigh", "Lament"],
         "readings_on": ["がい"],
         "readings_kun": [],
-        "wk_level": 58,
-        "wk_meanings": ["Sigh"],
-        "wk_readings_on": ["がい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Soul", "Root", "Fang"]
     },
     "扶": {
         "strokes": 7,
@@ -29945,11 +20285,6 @@ data1 = {
         "meanings": ["Aid", "Help", "Assist"],
         "readings_on": ["ふ"],
         "readings_kun": ["たす.ける"],
-        "wk_level": 58,
-        "wk_meanings": ["Aid"],
-        "wk_readings_on": ["ふ"],
-        "wk_readings_kun": ["!たす"],
-        "wk_radicals": ["Fingers", "Husband"]
     },
     "戯": {
         "strokes": 15,
@@ -29960,11 +20295,6 @@ data1 = {
         "meanings": ["Frolic", "Play", "Sport"],
         "readings_on": ["ぎ", "げ"],
         "readings_kun": ["たわむ.れる", "ざ.れる", "じゃ.れる"],
-        "wk_level": 58,
-        "wk_meanings": ["Play"],
-        "wk_readings_on": ["ぎ", "げ"],
-        "wk_readings_kun": ["!ざ", "!じゃ", "!たわむ"],
-        "wk_radicals": ["Tiger", "Spikes", "Drunkard"]
     },
     "忌": {
         "strokes": 7,
@@ -29975,11 +20305,6 @@ data1 = {
         "meanings": ["Mourning", "Abhor", "Detestable", "Death Anniversary"],
         "readings_on": ["き"],
         "readings_kun": ["い.む", "い.み", "い.まわしい"],
-        "wk_level": 59,
-        "wk_meanings": ["Mourning"],
-        "wk_readings_on": ["き"],
-        "wk_readings_kun": ["!い"],
-        "wk_radicals": ["Oneself", "Heart"]
     },
     "濁": {
         "strokes": 16,
@@ -29990,11 +20315,6 @@ data1 = {
         "meanings": ["Voiced", "Uncleanness", "Wrong", "Nigori", "Impurity"],
         "readings_on": ["だく", "じょく"],
         "readings_kun": ["にご.る", "にご.す"],
-        "wk_level": 58,
-        "wk_meanings": ["Muddy", "^Impure"],
-        "wk_readings_on": ["だく", "^じょく"],
-        "wk_readings_kun": ["!にご"],
-        "wk_radicals": ["Tsunami", "Net", "Prison", "Insect"]
     },
     "奔": {
         "strokes": 8,
@@ -30005,11 +20325,6 @@ data1 = {
         "meanings": ["Run", "Bustle"],
         "readings_on": ["ほん"],
         "readings_kun": ["はし.る"],
-        "wk_level": 58,
-        "wk_meanings": ["Run", "^Bustle"],
-        "wk_readings_on": ["ほん"],
-        "wk_readings_kun": ["!はし"],
-        "wk_radicals": ["Big", "Cross", "Twenty"]
     },
     "肖": {
         "strokes": 7,
@@ -30020,11 +20335,6 @@ data1 = {
         "meanings": ["Resemblance"],
         "readings_on": ["しょう"],
         "readings_kun": ["あやか.る"],
-        "wk_level": 58,
-        "wk_meanings": ["Resemblance"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": ["!あやか"],
-        "wk_radicals": ["Triceratops", "Moon"]
     },
     "朽": {
         "strokes": 6,
@@ -30035,11 +20345,6 @@ data1 = {
         "meanings": ["Decay", "Rot", "Remain In Seclusion"],
         "readings_on": ["きゅう"],
         "readings_kun": ["く.ちる"],
-        "wk_level": 58,
-        "wk_meanings": ["Rot", "^Decay"],
-        "wk_readings_on": ["きゅう"],
-        "wk_readings_kun": ["!く"],
-        "wk_radicals": ["Tree", "Ground", "Prison"]
     },
     "殻": {
         "strokes": 11,
@@ -30050,11 +20355,6 @@ data1 = {
         "meanings": ["Husk", "Nut Shell"],
         "readings_on": ["かく", "こく", "ばい"],
         "readings_kun": ["から", "がら"],
-        "wk_level": 58,
-        "wk_meanings": ["Husk", "^Shell"],
-        "wk_readings_on": ["かく", "^こく", "^ばい"],
-        "wk_readings_kun": ["!から", "!がら"],
-        "wk_radicals": ["Samurai", "Forehead", "Table", "Weapon"]
     },
     "享": {
         "strokes": 8,
@@ -30065,11 +20365,6 @@ data1 = {
         "meanings": ["Enjoy", "Receive", "Undergo", "Answer (phone)", "Take", "Get", "Catch"],
         "readings_on": ["きょう", "こう"],
         "readings_kun": ["う.ける"],
-        "wk_level": 58,
-        "wk_meanings": ["Receive"],
-        "wk_readings_on": ["きょう", "^こう"],
-        "wk_readings_kun": ["!う"],
-        "wk_radicals": ["Sock"]
     },
     "藩": {
         "strokes": 18,
@@ -30080,11 +20375,6 @@ data1 = {
         "meanings": ["Clan", "Enclosure"],
         "readings_on": ["はん"],
         "readings_kun": [],
-        "wk_level": 58,
-        "wk_meanings": ["Fiefdom"],
-        "wk_readings_on": ["はん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Flowers", "Tsunami", "Number"]
     },
     "媒": {
         "strokes": 12,
@@ -30095,11 +20385,6 @@ data1 = {
         "meanings": ["Mediator", "Go-between"],
         "readings_on": ["ばい"],
         "readings_kun": ["なこうど"],
-        "wk_level": 58,
-        "wk_meanings": ["Mediator"],
-        "wk_readings_on": ["ばい"],
-        "wk_readings_kun": ["!なこうど"],
-        "wk_radicals": ["Woman", "Sweet", "Tree"]
     },
     "鶏": {
         "strokes": 19,
@@ -30110,11 +20395,6 @@ data1 = {
         "meanings": ["Chicken"],
         "readings_on": ["けい"],
         "readings_kun": ["にわとり", "とり"],
-        "wk_level": 58,
-        "wk_meanings": ["Chicken"],
-        "wk_readings_on": ["けい"],
-        "wk_readings_kun": ["!とり", "!にわとり"],
-        "wk_radicals": ["Cleat", "Husband", "Bird"]
     },
     "嘱": {
         "strokes": 15,
@@ -30125,11 +20405,6 @@ data1 = {
         "meanings": ["Entrust", "Request", "Send A Message"],
         "readings_on": ["しょく"],
         "readings_kun": ["しょく.する", "たの.む"],
-        "wk_level": 58,
-        "wk_meanings": ["Request", "^Entrust"],
-        "wk_readings_on": ["しょく"],
-        "wk_readings_kun": ["!しょく", "!たの"],
-        "wk_radicals": ["Mouth", "Flag", "Mantis"]
     },
     "迭": {
         "strokes": 8,
@@ -30140,11 +20415,6 @@ data1 = {
         "meanings": ["Transfer", "Alternation"],
         "readings_on": ["てつ"],
         "readings_kun": [],
-        "wk_level": 58,
-        "wk_meanings": ["Alternate"],
-        "wk_readings_on": ["てつ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Scooter", "Fault"]
     },
     "椎": {
         "strokes": 12,
@@ -30155,11 +20425,6 @@ data1 = {
         "meanings": ["Chinquapin", "Mallet", "Spine"],
         "readings_on": ["つい", "すい"],
         "readings_kun": ["つち", "う.つ"],
-        "wk_level": 58,
-        "wk_meanings": ["Oak", "^Oak Tree"],
-        "wk_readings_on": ["つい", "すい"],
-        "wk_readings_kun": ["!う", "!つち"],
-        "wk_radicals": ["Tree", "Turkey"]
     },
     "絹": {
         "strokes": 13,
@@ -30170,11 +20435,6 @@ data1 = {
         "meanings": ["Silk"],
         "readings_on": ["けん"],
         "readings_kun": ["きぬ"],
-        "wk_level": 58,
-        "wk_meanings": ["Silk"],
-        "wk_readings_on": ["けん"],
-        "wk_readings_kun": ["!きぬ"],
-        "wk_radicals": ["Thread", "Mouth", "Moon"]
     },
     "陪": {
         "strokes": 11,
@@ -30185,11 +20445,6 @@ data1 = {
         "meanings": ["Obeisance", "Follow", "Accompany", "Attend On"],
         "readings_on": ["ばい"],
         "readings_kun": [],
-        "wk_level": 58,
-        "wk_meanings": ["Accompany"],
-        "wk_readings_on": ["ばい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Building", "Clown"]
     },
     "剖": {
         "strokes": 10,
@@ -30200,11 +20455,6 @@ data1 = {
         "meanings": ["Divide"],
         "readings_on": ["ぼう"],
         "readings_kun": [],
-        "wk_level": 58,
-        "wk_meanings": ["Divide"],
-        "wk_readings_on": ["ぼう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Clown", "Knife"]
     },
     "譜": {
         "strokes": 19,
@@ -30215,11 +20465,6 @@ data1 = {
         "meanings": ["Musical Score", "Music", "Note", "Staff", "Table", "Genealogy"],
         "readings_on": ["ふ"],
         "readings_kun": [],
-        "wk_level": 58,
-        "wk_meanings": ["Genealogy", "^Score"],
-        "wk_readings_on": ["ふ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Say", "Line Up", "Sun"]
     },
     "淑": {
         "strokes": 11,
@@ -30230,11 +20475,6 @@ data1 = {
         "meanings": ["Graceful", "Gentle", "Pure"],
         "readings_on": ["しゅく"],
         "readings_kun": ["しと.やか"],
-        "wk_level": 58,
-        "wk_meanings": ["Graceful"],
-        "wk_readings_on": ["しゅく"],
-        "wk_readings_kun": ["!しと"],
-        "wk_radicals": ["Tsunami", "Above", "Small", "Stool"]
     },
     "帆": {
         "strokes": 6,
@@ -30245,11 +20485,6 @@ data1 = {
         "meanings": ["Sail"],
         "readings_on": ["はん"],
         "readings_kun": ["ほ"],
-        "wk_level": 58,
-        "wk_meanings": ["Sail"],
-        "wk_readings_on": ["はん"],
-        "wk_readings_kun": ["!ほ"],
-        "wk_radicals": ["Towel", "Table", "Drop"]
     },
     "憤": {
         "strokes": 15,
@@ -30260,11 +20495,6 @@ data1 = {
         "meanings": ["Aroused", "Resent", "Be Indignant", "Anger"],
         "readings_on": ["ふん"],
         "readings_kun": ["いきどお.る"],
-        "wk_level": 58,
-        "wk_meanings": ["Resent"],
-        "wk_readings_on": ["ふん"],
-        "wk_readings_kun": ["!いきどお"],
-        "wk_radicals": ["Soul", "Cross", "Flowers", "Shellfish"]
     },
     "酌": {
         "strokes": 10,
@@ -30275,11 +20505,6 @@ data1 = {
         "meanings": ["Bar-tending", "Serving Sake", "The Host", "Draw (water)", "Ladle", "Scoop", "Pump"],
         "readings_on": ["しゃく"],
         "readings_kun": ["く.む"],
-        "wk_level": 58,
-        "wk_meanings": ["Serve"],
-        "wk_readings_on": ["しゃく"],
-        "wk_readings_kun": ["!く"],
-        "wk_radicals": ["Alcohol", "Pool"]
     },
     "暁": {
         "strokes": 12,
@@ -30290,11 +20515,6 @@ data1 = {
         "meanings": ["Daybreak", "Dawn", "In The Event"],
         "readings_on": ["ぎょう", "きょう"],
         "readings_kun": ["あかつき", "さと.る"],
-        "wk_level": 58,
-        "wk_meanings": ["Dawn"],
-        "wk_readings_on": ["!きょう", "!ぎょう"],
-        "wk_readings_kun": ["あかつき", "さと"],
-        "wk_radicals": ["Sun", "Gambler"]
     },
     "傑": {
         "strokes": 13,
@@ -30305,11 +20525,6 @@ data1 = {
         "meanings": ["Greatness", "Excellence"],
         "readings_on": ["けつ"],
         "readings_kun": ["すぐ.れる"],
-        "wk_level": 58,
-        "wk_meanings": ["Greatness", "^Excellence"],
-        "wk_readings_on": ["けつ"],
-        "wk_readings_kun": ["!すぐ"],
-        "wk_radicals": ["Leader", "Dance", "Tree"]
     },
     "錠": {
         "strokes": 16,
@@ -30320,11 +20535,6 @@ data1 = {
         "meanings": ["Lock", "Fetters", "Shackles"],
         "readings_on": ["じょう"],
         "readings_kun": [],
-        "wk_level": 58,
-        "wk_meanings": ["Lock"],
-        "wk_readings_on": ["じょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Gold", "Roof", "Correct"]
     },
     "凌": {
         "strokes": 10,
@@ -30335,11 +20545,6 @@ data1 = {
         "meanings": ["Endure", "Keep (rain)out", "Stave Off", "Tide Over", "Defy", "Slight", "Surpass"],
         "readings_on": ["りょう"],
         "readings_kun": ["しの.ぐ"],
-        "wk_level": 58,
-        "wk_meanings": ["Endure"],
-        "wk_readings_on": ["!りょう"],
-        "wk_readings_kun": ["しの"],
-        "wk_radicals": ["Ice", "Frostbite"]
     },
     "瑞": {
         "strokes": 13,
@@ -30350,11 +20555,6 @@ data1 = {
         "meanings": ["Congratulations"],
         "readings_on": ["ずい", "すい"],
         "readings_kun": ["みず-", "しるし"],
-        "wk_level": 58,
-        "wk_meanings": ["Congratulations"],
-        "wk_readings_on": ["!すい", "!ずい"],
-        "wk_readings_kun": ["みず", "しるし"],
-        "wk_radicals": ["King", "Mountain", "Rake"]
     },
     "菅": {
         "strokes": 11,
@@ -30365,11 +20565,6 @@ data1 = {
         "meanings": ["Sedge"],
         "readings_on": ["かん", "けん"],
         "readings_kun": ["すげ"],
-        "wk_level": 58,
-        "wk_meanings": ["Sedge"],
-        "wk_readings_on": ["!かん", "!けん"],
-        "wk_readings_kun": ["!すげ"],
-        "wk_radicals": ["Flowers", "Roof", "Bear"]
     },
     "漣": {
         "strokes": 13,
@@ -30380,11 +20575,6 @@ data1 = {
         "meanings": ["Ripples"],
         "readings_on": ["れん", "らん"],
         "readings_kun": ["さざなみ"],
-        "wk_level": 58,
-        "wk_meanings": ["Ripples"],
-        "wk_readings_on": ["れん", "^らん"],
-        "wk_readings_kun": ["!さざなみ"],
-        "wk_radicals": ["Tsunami", "Scooter", "Car"]
     },
     "璃": {
         "strokes": 15,
@@ -30395,11 +20585,6 @@ data1 = {
         "meanings": ["Glassy", "Lapis Lazuli"],
         "readings_on": ["り"],
         "readings_kun": [],
-        "wk_level": 58,
-        "wk_meanings": ["Glassy"],
-        "wk_readings_on": ["り"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["King", "Rocket"]
     },
     "遷": {
         "strokes": 15,
@@ -30410,11 +20595,6 @@ data1 = {
         "meanings": ["Transition", "Move", "Change"],
         "readings_on": ["せん"],
         "readings_kun": ["うつ.る", "うつ.す", "みやこがえ"],
-        "wk_level": 59,
-        "wk_meanings": ["Transition"],
-        "wk_readings_on": ["せん"],
-        "wk_readings_kun": ["!うつ", "!みやこがえ"],
-        "wk_radicals": ["Scooter", "Helicopter", "Big", "Oneself"]
     },
     "拙": {
         "strokes": 8,
@@ -30425,11 +20605,6 @@ data1 = {
         "meanings": ["Bungling", "Clumsy", "Unskillful"],
         "readings_on": ["せつ"],
         "readings_kun": ["つたな.い"],
-        "wk_level": 59,
-        "wk_meanings": ["Clumsy", "^Unskillful"],
-        "wk_readings_on": ["せつ"],
-        "wk_readings_kun": ["!つたな"],
-        "wk_radicals": ["Fingers", "Exit"]
     },
     "峠": {
         "strokes": 9,
@@ -30440,11 +20615,6 @@ data1 = {
         "meanings": ["Mountain Peak", "Mountain Pass", "Climax", "Crest", "(kokuji)"],
         "readings_on": [],
         "readings_kun": ["とうげ"],
-        "wk_level": 59,
-        "wk_meanings": ["Ridge"],
-        "wk_readings_on": [],
-        "wk_readings_kun": ["とうげ"],
-        "wk_radicals": ["Mountain", "Above", "Below"]
     },
     "篤": {
         "strokes": 16,
@@ -30455,11 +20625,6 @@ data1 = {
         "meanings": ["Fervent", "Kind", "Cordial", "Serious", "Deliberate"],
         "readings_on": ["とく"],
         "readings_kun": ["あつ.い"],
-        "wk_level": 59,
-        "wk_meanings": ["Deliberate"],
-        "wk_readings_on": ["とく"],
-        "wk_readings_kun": ["!あつ"],
-        "wk_radicals": ["Bamboo", "Horse"]
     },
     "叔": {
         "strokes": 8,
@@ -30470,11 +20635,6 @@ data1 = {
         "meanings": ["Uncle", "Youth"],
         "readings_on": ["しゅく"],
         "readings_kun": [],
-        "wk_level": 59,
-        "wk_meanings": ["Uncle", "^Aunt"],
-        "wk_readings_on": ["!しゅく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Above", "Small", "Stool"]
     },
     "雌": {
         "strokes": 14,
@@ -30485,11 +20645,6 @@ data1 = {
         "meanings": ["Feminine", "Female"],
         "readings_on": ["し"],
         "readings_kun": ["め-", "めす", "めん"],
-        "wk_level": 59,
-        "wk_meanings": ["Female"],
-        "wk_readings_on": ["!し"],
-        "wk_readings_kun": ["めす", "め", "めん"],
-        "wk_radicals": ["Stop", "Spoon", "Turkey"]
     },
     "堪": {
         "strokes": 12,
@@ -30500,11 +20655,6 @@ data1 = {
         "meanings": ["Withstand", "Endure", "Support", "Resist"],
         "readings_on": ["かん", "たん"],
         "readings_kun": ["た.える", "たま.る", "こら.える", "こた.える"],
-        "wk_level": 59,
-        "wk_meanings": ["Endure"],
-        "wk_readings_on": ["!かん", "!たん"],
-        "wk_readings_kun": ["た", "^こた", "^こ"],
-        "wk_radicals": ["Dirt", "Crab Trap"]
     },
     "吟": {
         "strokes": 7,
@@ -30515,11 +20665,6 @@ data1 = {
         "meanings": ["Versify", "Singing", "Recital"],
         "readings_on": ["ぎん"],
         "readings_kun": [],
-        "wk_level": 59,
-        "wk_meanings": ["Recital"],
-        "wk_readings_on": ["ぎん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Mouth", "Now"]
     },
     "甚": {
         "strokes": 9,
@@ -30530,11 +20675,6 @@ data1 = {
         "meanings": ["Tremendously", "Very", "Great", "Exceedingly"],
         "readings_on": ["じん"],
         "readings_kun": ["はなは.だ", "はなは.だしい"],
-        "wk_level": 59,
-        "wk_meanings": ["Very", "^Great"],
-        "wk_readings_on": ["じん"],
-        "wk_readings_kun": ["!はなは"],
-        "wk_radicals": ["Crab Trap"]
     },
     "崇": {
         "strokes": 11,
@@ -30545,11 +20685,6 @@ data1 = {
         "meanings": ["Adore", "Respect", "Revere", "Worship"],
         "readings_on": ["すう"],
         "readings_kun": ["あが.める"],
-        "wk_level": 59,
-        "wk_meanings": ["Worship", "^Revere"],
-        "wk_readings_on": ["すう"],
-        "wk_readings_kun": ["!あが"],
-        "wk_radicals": ["Mountain", "Roof", "Jackhammer"]
     },
     "漆": {
         "strokes": 14,
@@ -30560,11 +20695,6 @@ data1 = {
         "meanings": ["Lacquer", "Varnish", "Seven"],
         "readings_on": ["しつ"],
         "readings_kun": ["うるし"],
-        "wk_level": 59,
-        "wk_meanings": ["Lacquer", "^Varnish"],
-        "wk_readings_on": ["しつ"],
-        "wk_readings_kun": ["!うるし"],
-        "wk_radicals": ["Tsunami", "Tree", "Hat", "Water"]
     },
     "岬": {
         "strokes": 8,
@@ -30575,11 +20705,6 @@ data1 = {
         "meanings": ["Headland", "Cape", "Spit", "Promontory"],
         "readings_on": ["こう"],
         "readings_kun": ["みさき"],
-        "wk_level": 59,
-        "wk_meanings": ["Cape"],
-        "wk_readings_on": ["!こう"],
-        "wk_readings_kun": ["みさき"],
-        "wk_radicals": ["Mountain", "Turtle Shell"]
     },
     "紡": {
         "strokes": 10,
@@ -30590,11 +20715,6 @@ data1 = {
         "meanings": ["Spinning"],
         "readings_on": ["ぼう"],
         "readings_kun": ["つむ.ぐ"],
-        "wk_level": 59,
-        "wk_meanings": ["Spinning", "^Spin"],
-        "wk_readings_on": ["ぼう"],
-        "wk_readings_kun": ["!つむ"],
-        "wk_radicals": ["Thread", "Direction"]
     },
     "礁": {
         "strokes": 17,
@@ -30605,11 +20725,6 @@ data1 = {
         "meanings": ["Reef", "Sunken Rock"],
         "readings_on": ["しょう"],
         "readings_kun": [],
-        "wk_level": 59,
-        "wk_meanings": ["Reef"],
-        "wk_readings_on": ["しょう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Stone", "Turkey", "Boil"]
     },
     "屯": {
         "strokes": 4,
@@ -30620,11 +20735,6 @@ data1 = {
         "meanings": ["Barracks", "Police Station", "Camp", "Ton"],
         "readings_on": ["とん"],
         "readings_kun": ["たむろ"],
-        "wk_level": 59,
-        "wk_meanings": ["Barracks"],
-        "wk_readings_on": ["とん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Barracks"]
     },
     "姻": {
         "strokes": 9,
@@ -30635,11 +20745,6 @@ data1 = {
         "meanings": ["Matrimony", "Marry"],
         "readings_on": ["いん"],
         "readings_kun": [],
-        "wk_level": 59,
-        "wk_meanings": ["Marry"],
-        "wk_readings_on": ["いん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Woman", "Mouth", "Big"]
     },
     "擬": {
         "strokes": 17,
@@ -30650,11 +20755,6 @@ data1 = {
         "meanings": ["Mimic", "Aim (a Gun) At", "Nominate", "Imitate"],
         "readings_on": ["ぎ"],
         "readings_kun": ["まが.い", "もど.き"],
-        "wk_level": 59,
-        "wk_meanings": ["Imitate"],
-        "wk_readings_on": ["ぎ"],
-        "wk_readings_kun": ["!まが", "!もど"],
-        "wk_radicals": ["Fingers", "Doubt"]
     },
     "睦": {
         "strokes": 13,
@@ -30665,11 +20765,6 @@ data1 = {
         "meanings": ["Intimate", "Friendly", "Harmonious"],
         "readings_on": ["ぼく", "もく"],
         "readings_kun": ["むつ.まじい", "むつ.む", "むつ.ぶ"],
-        "wk_level": 59,
-        "wk_meanings": ["Friendly"],
-        "wk_readings_on": ["ぼく", "もく"],
-        "wk_readings_kun": ["!むつ"],
-        "wk_radicals": ["Eye", "Womb"]
     },
     "閑": {
         "strokes": 12,
@@ -30680,11 +20775,6 @@ data1 = {
         "meanings": ["Leisure"],
         "readings_on": ["かん"],
         "readings_kun": [],
-        "wk_level": 59,
-        "wk_meanings": ["Leisure"],
-        "wk_readings_on": ["かん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Gate", "Tree"]
     },
     "曹": {
         "strokes": 11,
@@ -30695,11 +20785,6 @@ data1 = {
         "meanings": ["Office", "Official", "Comrade", "Fellow"],
         "readings_on": ["そう", "ぞう"],
         "readings_kun": [],
-        "wk_level": 59,
-        "wk_meanings": ["Official"],
-        "wk_readings_on": ["そう", "^ぞう"],
-        "wk_readings_kun": ["!つかさ", "!ともがら", "!へや"],
-        "wk_radicals": ["Ground", "Music", "Sun"]
     },
     "詠": {
         "strokes": 12,
@@ -30710,11 +20795,6 @@ data1 = {
         "meanings": ["Recitation", "Poem", "Song", "Composing"],
         "readings_on": ["えい"],
         "readings_kun": ["よ.む", "うた.う"],
-        "wk_level": 59,
-        "wk_meanings": ["Compose", "^Recite"],
-        "wk_readings_on": ["えい"],
-        "wk_readings_kun": ["!よ", "!うた"],
-        "wk_radicals": ["Say", "Eternity"]
     },
     "卑": {
         "strokes": 9,
@@ -30725,11 +20805,6 @@ data1 = {
         "meanings": ["Lowly", "Base", "Vile", "Vulgar"],
         "readings_on": ["ひ"],
         "readings_kun": ["いや.しい", "いや.しむ", "いや.しめる"],
-        "wk_level": 59,
-        "wk_meanings": ["Lowly", "^Base"],
-        "wk_readings_on": ["ひ"],
-        "wk_readings_kun": ["!いや"],
-        "wk_radicals": ["Drop", "Rice Paddy", "Cross"]
     },
     "侮": {
         "strokes": 8,
@@ -30740,11 +20815,6 @@ data1 = {
         "meanings": ["Scorn", "Despise", "Make Light Of", "Contempt"],
         "readings_on": ["ぶ"],
         "readings_kun": ["あなど.る", "あなず.る"],
-        "wk_level": 59,
-        "wk_meanings": ["Despise"],
-        "wk_readings_on": ["ぶ"],
-        "wk_readings_kun": ["!あなず", "!あなど"],
-        "wk_radicals": ["Leader", "Every"]
     },
     "鋳": {
         "strokes": 15,
@@ -30755,11 +20825,6 @@ data1 = {
         "meanings": ["Casting", "Mint"],
         "readings_on": ["ちゅう", "い", "しゅ", "しゅう"],
         "readings_kun": ["い.る"],
-        "wk_level": 59,
-        "wk_meanings": ["Cast", "^Casting"],
-        "wk_readings_on": ["ちゅう"],
-        "wk_readings_kun": ["!い"],
-        "wk_radicals": ["Gold", "Three", "Slide", "Measurement"]
     },
     "蔑": {
         "strokes": 14,
@@ -30770,11 +20835,6 @@ data1 = {
         "meanings": ["Ignore", "Despise", "Neglect", "Ridicule"],
         "readings_on": ["べつ"],
         "readings_kun": ["ないがしろ", "なみ.する", "くらい", "さげす.む"],
-        "wk_level": 59,
-        "wk_meanings": ["Scorn", "^Neglect"],
-        "wk_readings_on": ["べつ"],
-        "wk_readings_kun": ["!さげす"],
-        "wk_radicals": ["Flowers", "Net", "Drunkard", "Slide", "Drop"]
     },
     "胆": {
         "strokes": 9,
@@ -30785,11 +20845,6 @@ data1 = {
         "meanings": ["Gall Bladder", "Courage", "Pluck", "Nerve"],
         "readings_on": ["たん"],
         "readings_kun": ["きも"],
-        "wk_level": 59,
-        "wk_meanings": ["Guts"],
-        "wk_readings_on": ["たん"],
-        "wk_readings_kun": ["!きも"],
-        "wk_radicals": ["Moon", "Dawn"]
     },
     "浪": {
         "strokes": 10,
@@ -30800,11 +20855,6 @@ data1 = {
         "meanings": ["Wandering", "Waves", "Billows", "Reckless", "Unrestrained"],
         "readings_on": ["ろう"],
         "readings_kun": [],
-        "wk_level": 59,
-        "wk_meanings": ["Wander"],
-        "wk_readings_on": ["ろう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tsunami", "Good"]
     },
     "禍": {
         "strokes": 13,
@@ -30815,11 +20865,6 @@ data1 = {
         "meanings": ["Calamity", "Misfortune", "Evil", "Curse"],
         "readings_on": ["か"],
         "readings_kun": ["わざわい"],
-        "wk_level": 59,
-        "wk_meanings": ["Evil", "^Misfortune"],
-        "wk_readings_on": ["か"],
-        "wk_readings_kun": ["!わざわい"],
-        "wk_radicals": ["Spirit", "Mustache"]
     },
     "酪": {
         "strokes": 13,
@@ -30830,11 +20875,6 @@ data1 = {
         "meanings": ["Dairy Products", "Whey", "Broth", "Fruit Juice"],
         "readings_on": ["らく"],
         "readings_kun": [],
-        "wk_level": 59,
-        "wk_meanings": ["Dairy"],
-        "wk_readings_on": ["らく"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Alcohol", "Kiss"]
     },
     "憧": {
         "strokes": 15,
@@ -30845,11 +20885,6 @@ data1 = {
         "meanings": ["Yearn After", "Long For", "Aspire To", "Admire", "Adore"],
         "readings_on": ["しょう", "とう", "どう"],
         "readings_kun": ["あこが.れる"],
-        "wk_level": 59,
-        "wk_meanings": ["Long For", "^Yearn"],
-        "wk_readings_on": ["!しょう", "!とう", "!どう"],
-        "wk_readings_kun": ["あこが"],
-        "wk_radicals": ["Soul", "Stand", "Village"]
     },
     "慶": {
         "strokes": 15,
@@ -30860,11 +20895,6 @@ data1 = {
         "meanings": ["Jubilation", "Congratulate", "Rejoice", "Be Happy"],
         "readings_on": ["けい"],
         "readings_kun": ["よろこ.び"],
-        "wk_level": 59,
-        "wk_meanings": ["Congratulate"],
-        "wk_readings_on": ["けい"],
-        "wk_readings_kun": ["!よろこ"],
-        "wk_radicals": ["Canopy", "Helicopter", "Barb", "Heart", "Winter"]
     },
     "亜": {
         "strokes": 7,
@@ -30875,11 +20905,6 @@ data1 = {
         "meanings": ["Asia", "Rank Next", "Come After", "-ous"],
         "readings_on": ["あ"],
         "readings_kun": ["つ.ぐ"],
-        "wk_level": 59,
-        "wk_meanings": ["Asia"],
-        "wk_readings_on": ["あ"],
-        "wk_readings_kun": ["!つ"],
-        "wk_radicals": ["Asia"]
     },
     "汰": {
         "strokes": 7,
@@ -30890,11 +20915,6 @@ data1 = {
         "meanings": ["Washing", "Sieving", "Filtering", "Weeding Out", "Luxury"],
         "readings_on": ["た", "たい"],
         "readings_kun": ["おご.る", "にご.る", "よな.げる"],
-        "wk_level": 59,
-        "wk_meanings": ["Select"],
-        "wk_readings_on": ["た", "たい"],
-        "wk_readings_kun": ["!おご", "!にご", "!よな"],
-        "wk_radicals": ["Tsunami", "Fat"]
     },
     "梓": {
         "strokes": 11,
@@ -30905,11 +20925,6 @@ data1 = {
         "meanings": ["Catalpa Tree", "Woodblock Printing"],
         "readings_on": ["し"],
         "readings_kun": ["あずさ"],
-        "wk_level": 59,
-        "wk_meanings": ["Wood Block"],
-        "wk_readings_on": ["!し"],
-        "wk_readings_kun": ["あずさ"],
-        "wk_radicals": ["Tree", "Spicy"]
     },
     "沙": {
         "strokes": 7,
@@ -30920,11 +20935,6 @@ data1 = {
         "meanings": ["Sand"],
         "readings_on": ["さ", "しゃ"],
         "readings_kun": ["すな", "よなげる"],
-        "wk_level": 59,
-        "wk_meanings": ["Sand"],
-        "wk_readings_on": ["さ", "しゃ"],
-        "wk_readings_kun": ["!すな", "!よなげる"],
-        "wk_radicals": ["Tsunami", "Few"]
     },
     "逝": {
         "strokes": 10,
@@ -30935,11 +20945,6 @@ data1 = {
         "meanings": ["Departed", "Die"],
         "readings_on": ["せい"],
         "readings_kun": ["ゆ.く", "い.く"],
-        "wk_level": 60,
-        "wk_meanings": ["Die"],
-        "wk_readings_on": ["せい"],
-        "wk_readings_kun": ["!い", "!ゆ"],
-        "wk_radicals": ["Scooter", "Fingers", "Axe"]
     },
     "匿": {
         "strokes": 10,
@@ -30950,11 +20955,6 @@ data1 = {
         "meanings": ["Hide", "Shelter", "Shield"],
         "readings_on": ["とく"],
         "readings_kun": ["かくま.う"],
-        "wk_level": 60,
-        "wk_meanings": ["Hide"],
-        "wk_readings_on": ["とく"],
-        "wk_readings_kun": ["!かくま"],
-        "wk_radicals": ["Cage", "Flowers", "Right"]
     },
     "寡": {
         "strokes": 14,
@@ -30965,11 +20965,6 @@ data1 = {
         "meanings": ["Widow", "Minority", "Few"],
         "readings_on": ["か"],
         "readings_kun": [],
-        "wk_level": 60,
-        "wk_meanings": ["Widow"],
-        "wk_readings_on": ["か"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Roof", "Geoduck", "Ground", "Sword"]
     },
     "痢": {
         "strokes": 12,
@@ -30980,11 +20975,6 @@ data1 = {
         "meanings": ["Diarrhea"],
         "readings_on": ["り"],
         "readings_kun": [],
-        "wk_level": 60,
-        "wk_meanings": ["Diarrhea", "^Diarrhoea"],
-        "wk_readings_on": ["り"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Sick", "Grain", "Knife"]
     },
     "坑": {
         "strokes": 7,
@@ -30995,11 +20985,6 @@ data1 = {
         "meanings": ["Pit", "Hole"],
         "readings_on": ["こう"],
         "readings_kun": [],
-        "wk_level": 60,
-        "wk_meanings": ["Pit", "^Hole"],
-        "wk_readings_on": ["こう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Dirt", "Lid", "Table"]
     },
     "藍": {
         "strokes": 18,
@@ -31010,11 +20995,6 @@ data1 = {
         "meanings": ["Indigo"],
         "readings_on": ["らん"],
         "readings_kun": ["あい"],
-        "wk_level": 60,
-        "wk_meanings": ["Indigo"],
-        "wk_readings_on": ["!らん"],
-        "wk_readings_kun": ["あい"],
-        "wk_radicals": ["Flowers", "Oversee"]
     },
     "畔": {
         "strokes": 10,
@@ -31025,11 +21005,6 @@ data1 = {
         "meanings": ["Paddy Ridge", "Levee"],
         "readings_on": ["はん"],
         "readings_kun": ["あぜ", "くろ", "ほとり"],
-        "wk_level": 60,
-        "wk_meanings": ["Shore"],
-        "wk_readings_on": ["はん"],
-        "wk_readings_kun": ["!あぜ", "!くろ", "!ほとり"],
-        "wk_radicals": ["Rice Paddy", "Half"]
     },
     "唄": {
         "strokes": 10,
@@ -31040,11 +21015,6 @@ data1 = {
         "meanings": ["Song", "Ballad"],
         "readings_on": ["ばい"],
         "readings_kun": ["うた", "うた.う"],
-        "wk_level": 60,
-        "wk_meanings": ["Shamisen Song"],
-        "wk_readings_on": ["!ばい"],
-        "wk_readings_kun": ["うた"],
-        "wk_radicals": ["Mouth", "Shellfish"]
     },
     "拷": {
         "strokes": 9,
@@ -31055,11 +21025,6 @@ data1 = {
         "meanings": ["Torture", "Beat"],
         "readings_on": ["ごう"],
         "readings_kun": [],
-        "wk_level": 60,
-        "wk_meanings": ["Torture"],
-        "wk_readings_on": ["ごう"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Fingers", "Coffin", "Beggar"]
     },
     "渓": {
         "strokes": 11,
@@ -31070,11 +21035,6 @@ data1 = {
         "meanings": ["Mountain Stream", "Valley"],
         "readings_on": ["けい"],
         "readings_kun": ["たに", "たにがわ"],
-        "wk_level": 60,
-        "wk_meanings": ["Valley"],
-        "wk_readings_on": ["けい"],
-        "wk_readings_kun": ["!たに", "!たにがわ"],
-        "wk_radicals": ["Tsunami", "Cleat", "Husband"]
     },
     "廉": {
         "strokes": 13,
@@ -31085,11 +21045,6 @@ data1 = {
         "meanings": ["Bargain", "Reason", "Charge", "Suspicion", "Point", "Account", "Purity", "Honest", "Low Price", "Cheap", "Rested", "Contented", "Peaceful"],
         "readings_on": ["れん"],
         "readings_kun": [],
-        "wk_level": 60,
-        "wk_meanings": ["Bargain"],
-        "wk_readings_on": ["れん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Canopy", "Mona Lisa"]
     },
     "謹": {
         "strokes": 17,
@@ -31100,11 +21055,6 @@ data1 = {
         "meanings": ["Discreet", "Reverently", "Humbly"],
         "readings_on": ["きん"],
         "readings_kun": ["つつし.む"],
-        "wk_level": 60,
-        "wk_meanings": ["Humble", "^Discreet"],
-        "wk_readings_on": ["きん"],
-        "wk_readings_kun": ["!つつし"],
-        "wk_radicals": ["Say", "Boot"]
     },
     "湧": {
         "strokes": 12,
@@ -31115,11 +21065,6 @@ data1 = {
         "meanings": ["Boil", "Ferment", "Seethe", "Uproar", "Breed"],
         "readings_on": ["ゆう", "よう", "ゆ"],
         "readings_kun": ["わ.く"],
-        "wk_level": 60,
-        "wk_meanings": ["Well", "^Boil"],
-        "wk_readings_on": ["ゆう", "ゆ", "よう"],
-        "wk_readings_kun": ["!わ"],
-        "wk_radicals": ["Tsunami", "Courage"]
     },
     "醜": {
         "strokes": 17,
@@ -31130,11 +21075,6 @@ data1 = {
         "meanings": ["Ugly", "Unclean", "Shame", "Bad Looking"],
         "readings_on": ["しゅう"],
         "readings_kun": ["みにく.い", "しこ"],
-        "wk_level": 60,
-        "wk_meanings": ["Ugly"],
-        "wk_readings_on": ["しゅう"],
-        "wk_readings_kun": ["!しこ", "!みにく"],
-        "wk_radicals": ["Alcohol", "Demon"]
     },
     "升": {
         "strokes": 4,
@@ -31145,11 +21085,6 @@ data1 = {
         "meanings": ["Measuring Box", "1.8 Liter"],
         "readings_on": ["しょう"],
         "readings_kun": ["ます"],
-        "wk_level": 60,
-        "wk_meanings": ["Grid", "^Measure"],
-        "wk_readings_on": ["!しょう"],
-        "wk_readings_kun": ["ます"],
-        "wk_radicals": ["Slide", "Twenty"]
     },
     "殉": {
         "strokes": 10,
@@ -31160,11 +21095,6 @@ data1 = {
         "meanings": ["Martyrdom", "Follow By Resigning"],
         "readings_on": ["じゅん"],
         "readings_kun": [],
-        "wk_level": 60,
-        "wk_meanings": ["Martyr"],
-        "wk_readings_on": ["じゅん"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Yakuza", "Prison", "Sun"]
     },
     "煩": {
         "strokes": 13,
@@ -31175,11 +21105,6 @@ data1 = {
         "meanings": ["Anxiety", "Trouble", "Worry", "Pain", "Ill", "Annoy", "Nuisance", "Irksome"],
         "readings_on": ["はん", "ぼん"],
         "readings_kun": ["わずら.う", "わずら.わす", "うるさ.がる", "うるさ.い"],
-        "wk_level": 60,
-        "wk_meanings": ["Annoy", "^Annoying"],
-        "wk_readings_on": ["はん", "ぼん"],
-        "wk_readings_kun": ["!うるさ", "!わずら"],
-        "wk_radicals": ["Fire", "Geoduck"]
     },
     "劾": {
         "strokes": 8,
@@ -31190,11 +21115,6 @@ data1 = {
         "meanings": ["Censure", "Criminal Investigation"],
         "readings_on": ["がい"],
         "readings_kun": [],
-        "wk_level": 60,
-        "wk_meanings": ["Censure"],
-        "wk_readings_on": ["がい"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Slice", "Power"]
     },
     "桟": {
         "strokes": 10,
@@ -31205,11 +21125,6 @@ data1 = {
         "meanings": ["Scaffold", "Cleat", "Frame", "Jetty", "Bolt (door)"],
         "readings_on": ["さん", "せん"],
         "readings_kun": ["かけはし"],
-        "wk_level": 60,
-        "wk_meanings": ["Jetty", "^Pier"],
-        "wk_readings_on": ["さん", "せん"],
-        "wk_readings_kun": ["!かけはし"],
-        "wk_radicals": ["Tree", "Bar"]
     },
     "婿": {
         "strokes": 12,
@@ -31220,11 +21135,6 @@ data1 = {
         "meanings": ["Bridegroom", "Son-in-law"],
         "readings_on": ["せい"],
         "readings_kun": ["むこ"],
-        "wk_level": 60,
-        "wk_meanings": ["Groom"],
-        "wk_readings_on": ["!せい"],
-        "wk_readings_kun": ["むこ"],
-        "wk_radicals": ["Woman", "Coat Rack", "Moon"]
     },
     "慕": {
         "strokes": 14,
@@ -31235,11 +21145,6 @@ data1 = {
         "meanings": ["Pining", "Yearn For", "Love Dearly", "Adore"],
         "readings_on": ["ぼ"],
         "readings_kun": ["した.う"],
-        "wk_level": 60,
-        "wk_meanings": ["Yearn For", "^Adore"],
-        "wk_readings_on": ["ぼ"],
-        "wk_readings_kun": ["!した"],
-        "wk_radicals": ["Greenhouse", "Small", "Drop"]
     },
     "罷": {
         "strokes": 15,
@@ -31250,11 +21155,6 @@ data1 = {
         "meanings": ["Quit", "Stop", "Leave", "Withdraw", "Go"],
         "readings_on": ["ひ"],
         "readings_kun": ["まか.り-", "や.める"],
-        "wk_level": 60,
-        "wk_meanings": ["Quit", "^Leave"],
-        "wk_readings_on": ["ひ"],
-        "wk_readings_kun": ["!や"],
-        "wk_radicals": ["Net", "Ability"]
     },
     "矯": {
         "strokes": 17,
@@ -31265,11 +21165,6 @@ data1 = {
         "meanings": ["Rectify", "Straighten", "Correct", "Reform", "Cure", "Control", "Pretend", "Falsify"],
         "readings_on": ["きょう"],
         "readings_kun": ["た.める"],
-        "wk_level": 60,
-        "wk_meanings": ["Correct", "^Straighten"],
-        "wk_readings_on": ["きょう"],
-        "wk_readings_kun": ["!た"],
-        "wk_radicals": ["Arrow", "Heaven", "Mouth", "Mustache"]
     },
     "某": {
         "strokes": 9,
@@ -31280,11 +21175,6 @@ data1 = {
         "meanings": ["So-and-so", "One", "A Certain", "That Person"],
         "readings_on": ["ぼう"],
         "readings_kun": ["それがし", "なにがし"],
-        "wk_level": 60,
-        "wk_meanings": ["Certain", "^One", "^That Person"],
-        "wk_readings_on": ["ぼう"],
-        "wk_readings_kun": ["!それがし", "!なにがし"],
-        "wk_radicals": ["Sweet", "Tree"]
     },
     "囚": {
         "strokes": 5,
@@ -31295,11 +21185,6 @@ data1 = {
         "meanings": ["Captured", "Criminal", "Arrest", "Catch"],
         "readings_on": ["しゅう"],
         "readings_kun": ["とら.われる"],
-        "wk_level": 60,
-        "wk_meanings": ["Criminal"],
-        "wk_readings_on": ["しゅう"],
-        "wk_readings_kun": ["!とら"],
-        "wk_radicals": ["Mouth", "Person"]
     },
     "泌": {
         "strokes": 8,
@@ -31310,11 +21195,6 @@ data1 = {
         "meanings": ["Ooze", "Flow", "Soak In", "Penetrate", "Secrete"],
         "readings_on": ["ひつ", "ひ"],
         "readings_kun": [],
-        "wk_level": 60,
-        "wk_meanings": ["Secrete"],
-        "wk_readings_on": ["ひ", "ひつ"],
-        "wk_readings_kun": [],
-        "wk_radicals": ["Tsunami", "Certain"]
     },
     "漸": {
         "strokes": 14,
@@ -31325,11 +21205,6 @@ data1 = {
         "meanings": ["Steadily", "Gradually Advancing", "Finally", "Barely"],
         "readings_on": ["ぜん"],
         "readings_kun": ["ようや.く", "やや", "ようよ.う", "すす.む"],
-        "wk_level": 60,
-        "wk_meanings": ["Gradually", "^Steadily"],
-        "wk_readings_on": ["!ぜん"],
-        "wk_readings_kun": ["ようや", "やや"],
-        "wk_radicals": ["Tsunami", "Car", "Axe"]
     },
     "藻": {
         "strokes": 19,
@@ -31340,11 +21215,6 @@ data1 = {
         "meanings": ["Seaweed", "Duckweed"],
         "readings_on": ["そう"],
         "readings_kun": ["も"],
-        "wk_level": 60,
-        "wk_meanings": ["Seaweed"],
-        "wk_readings_on": ["そう"],
-        "wk_readings_kun": ["!も"],
-        "wk_radicals": ["Flowers", "Tsunami", "Syrup"]
     },
     "妄": {
         "strokes": 6,
@@ -31355,11 +21225,6 @@ data1 = {
         "meanings": ["Delusion", "Unnecessarily", "Without Authority", "Reckless"],
         "readings_on": ["もう", "ぼう"],
         "readings_kun": ["みだ.りに"],
-        "wk_level": 60,
-        "wk_meanings": ["Reckless"],
-        "wk_readings_on": ["もう", "ぼう"],
-        "wk_readings_kun": ["!みだ"],
-        "wk_radicals": ["Death", "Woman"]
     },
     "蛮": {
         "strokes": 12,
@@ -31370,11 +21235,6 @@ data1 = {
         "meanings": ["Barbarian"],
         "readings_on": ["ばん"],
         "readings_kun": ["えびす"],
-        "wk_level": 60,
-        "wk_meanings": ["Barbarian"],
-        "wk_readings_on": ["ばん"],
-        "wk_readings_kun": ["!えびす"],
-        "wk_radicals": ["Red", "Insect"]
     },
     "倹": {
         "strokes": 10,
@@ -31385,11 +21245,6 @@ data1 = {
         "meanings": ["Frugal", "Economy", "Thrifty"],
         "readings_on": ["けん"],
         "readings_kun": ["つま.しい", "つづまやか"],
-        "wk_level": 60,
-        "wk_meanings": ["Thrifty", "^Frugal"],
-        "wk_readings_on": ["けん"],
-        "wk_readings_kun": ["!つづまやか", "!つま"],
-        "wk_radicals": ["Leader", "Squid"]
     },
     "捗": {
         "strokes": 10,
@@ -31400,11 +21255,6 @@ data1 = {
         "meanings": ["Make Progress"],
         "readings_on": ["ちょく", "ほ"],
         "readings_kun": ["はかど.る"],
-        "wk_level": null,
-        "wk_meanings": null,
-        "wk_readings_on": null,
-        "wk_readings_kun": null,
-        "wk_radicals": null
     },
     "朕": {
         "strokes": 10,
@@ -31415,10 +21265,5 @@ data1 = {
         "meanings": ["Majestic Plural", "Imperial We"],
         "readings_on": ["ちん"],
         "readings_kun": [],
-        "wk_level": null,
-        "wk_meanings": null,
-        "wk_readings_on": null,
-        "wk_readings_kun": null,
-        "wk_radicals": null
     }
 };
