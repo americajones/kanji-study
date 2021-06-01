@@ -10,7 +10,9 @@ h1{
     text-align: center;
     padding: 10px;
 }
-
+.quizPage {
+    margin-top: 1em;
+}
 /* Dropdown Button */
 .drop-butt {
     background-color: #000000;
@@ -22,9 +24,7 @@ h1{
     margin-left: 1em;
     margin-right: 1em;
 }
-.quizPage {
-    margin-top: 1em;
-}
+
 .drop-butt:hover, .drop-butt:focus {
     background-color: #640f0f;
 }
@@ -53,6 +53,7 @@ h1{
     background-color: rgb(0, 0, 0);
     color: white;
 }
+
 .show {display:block;}
 .hidden {display:none;}
 .list-box{
@@ -155,6 +156,10 @@ overflow: hidden;
 }
 #flashCards {
     margin-top: 1em;
+}
+.flashButt {
+    position: absolute;
+    margin: auto;
 }
 @media only screen and (min-width: 700px) {
     .answers{
