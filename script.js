@@ -10,11 +10,267 @@ const fillbox4 = document.querySelector('#onKanBox');
 const fillbox5 = document.querySelector('#kanKunBox');
 const fillbox6 = document.querySelector('#kunKanBox');
 const flashButt = document.querySelector('.flashButt');
+const kanaBox = document.querySelector('#kanaBox');
+const mainSelectBox = document.querySelector('#studyQuizSelectBox');
 let kanjiArray = [];
 let onArray = [];
 let kunArray = [];
 let meaningsArray = [];
 let number;
+function populateMainPageWithKana() {
+    mainSelectBox.classList.add('hidden');
+    const newDiv = document.createElement('div');
+    const newDiv2 = document.createElement('div');
+    const newDiv3 = document.createElement('div');
+    const newDiv4 = document.createElement('div');
+    const newButt = document.createElement('button');
+    const newButt2 = document.createElement('button');
+    const newButt3 = document.createElement('button');
+    const newButt4 = document.createElement('button');
+    newButt.classList.add('drop-butt');
+    newButt2.classList.add('drop-butt');
+    newButt3.classList.add('drop-butt');
+    newButt4.classList.add('drop-butt');
+    newDiv.classList.add('list-box');
+    newDiv2.classList.add('list-box');
+    newDiv3.classList.add('list-box');
+    newDiv4.classList.add('list-box');
+    newDiv.textContent = "Hiragana ⟶ Katakana";
+    newDiv2.textContent = "Katakana ⟶ Hiragana";
+    newDiv3.textContent = "Katakana ⟶ English";
+    newDiv4.textContent = "Hiragana ⟶ English";
+    newButt.textContent = "start studying";
+    newButt2.textContent = "start studying";
+    newButt3.textContent = "start studying";
+    newButt4.textContent = "start studying";
+    newDiv.append(newButt);
+    newDiv2.append(newButt2);
+    newDiv3.append(newButt3);
+    newDiv4.append(newButt4);
+    newButt.addEventListener('click', loadHiraKataQuiz);
+    newButt2.addEventListener('click', loadKataHiraQuiz);
+    newButt3.addEventListener('click', loadKatakanaQuiz);
+    newButt4.addEventListener('click', loadHiraganaQuiz);
+    kanaBox.append(newDiv4);
+    kanaBox.append(newDiv3);
+    kanaBox.append(newDiv);
+    kanaBox.append(newDiv2);
+    flashButt.classList.remove('hidden');
+    flashButt.addEventListener('click', flashToggle);
+}
+function loadHiraKataQuiz() {
+    //clear literally everything that could possibly be
+    removeAllChildNodes(kanaBox);
+    removeAllChildNodes(answersDiv);
+    konoKanji = "";
+    trueAnswer = "";
+    messageBox.textContent = '';
+    kunDiv.textContent = '';
+    onDiv.textContent = '';
+    testBox.style.backgroundColor = 'rgb(78, 78, 78)';
+    randoNumber = Math.floor(Math.random() * kanjiArray.length);
+    konoKanji = kanjiArray[randoNumber];
+    mainKanji.textContent = konoKanji;
+    trueAnswer = kunArray[randoNumber];
+    mainBox.style.display = "none";
+    testBox.classList.remove('hidden');
+    skipButt.removeEventListener('click', loadKeywordQuiz1);
+    skipButt.removeEventListener('click', loadKeywordQuiz2);
+    skipButt.removeEventListener('click', loadOnQuiz3);
+    skipButt.removeEventListener('click', loadOnQuiz4);
+    skipButt.removeEventListener('click', loadKunQuiz5);
+    skipButt.removeEventListener('click', loadKunQuiz6);
+    //fix the skip button and load fake answers
+    skipButt.addEventListener('click', loadHiraKataQuiz);
+    let answersArray = [];
+    answersArray.push(trueAnswer);
+    for (let i = 0; i < 8; i++) {
+        let nuRandoNum = Math.floor(Math.random() * kanjiArray.length);
+        randoAnswer = kunArray[nuRandoNum];
+        answersArray.push(randoAnswer);
+    }
+    shuffleArray(answersArray);
+    answersArray.forEach(answer => {
+        // console.log("YO");
+        let newDiv = document.createElement('div');
+        newDiv.textContent = answer;
+        newDiv.addEventListener('click', handleKanaClickStudy)
+        newDiv.classList.add('answer');
+        answersDiv.append(newDiv);
+    })
+};
+function loadKataHiraQuiz() {
+    //clear literally everything that could possibly be
+    removeAllChildNodes(kanaBox);
+    removeAllChildNodes(answersDiv);
+    konoKanji = "";
+    trueAnswer = "";
+    messageBox.textContent = '';
+    kunDiv.textContent = '';
+    onDiv.textContent = '';
+    testBox.style.backgroundColor = 'rgb(78, 78, 78)';
+    randoNumber = Math.floor(Math.random() * kanjiArray.length);
+    konoKanji = kunArray[randoNumber];
+    mainKanji.textContent = konoKanji;
+    trueAnswer = kanjiArray[randoNumber];
+    mainBox.style.display = "none";
+    testBox.classList.remove('hidden');
+    skipButt.removeEventListener('click', loadKeywordQuiz1);
+    skipButt.removeEventListener('click', loadKeywordQuiz2);
+    skipButt.removeEventListener('click', loadOnQuiz3);
+    skipButt.removeEventListener('click', loadOnQuiz4);
+    skipButt.removeEventListener('click', loadKunQuiz5);
+    skipButt.removeEventListener('click', loadKunQuiz6);
+    //fix the skip button and load fake answers
+    skipButt.addEventListener('click', loadKataHiraQuiz);
+    let answersArray = [];
+    answersArray.push(trueAnswer);
+    for (let i = 0; i < 8; i++) {
+        let nuRandoNum = Math.floor(Math.random() * kanjiArray.length);
+        randoAnswer = kanjiArray[nuRandoNum];
+        answersArray.push(randoAnswer);
+    }
+    shuffleArray(answersArray);
+    answersArray.forEach(answer => {
+        // console.log("YO");
+        let newDiv = document.createElement('div');
+        newDiv.textContent = answer;
+        newDiv.addEventListener('click', handleKanaClickStudy2)
+        newDiv.classList.add('answer');
+        answersDiv.append(newDiv);
+    })
+};
+function loadKatakanaQuiz() {
+    //clear literally everything that could possibly be
+    removeAllChildNodes(kanaBox);
+    removeAllChildNodes(answersDiv);
+    konoKanji = "";
+    trueAnswer = "";
+    messageBox.textContent = '';
+    kunDiv.textContent = '';
+    onDiv.textContent = '';
+    testBox.style.backgroundColor = 'rgb(78, 78, 78)';
+    randoNumber = Math.floor(Math.random() * kanjiArray.length);
+    konoKanji = kunArray[randoNumber];
+    mainKanji.textContent = konoKanji;
+    trueAnswer = meaningsArray[randoNumber];
+    mainBox.style.display = "none";
+    testBox.classList.remove('hidden');
+    skipButt.removeEventListener('click', loadKeywordQuiz1);
+    skipButt.removeEventListener('click', loadKeywordQuiz2);
+    skipButt.removeEventListener('click', loadOnQuiz3);
+    skipButt.removeEventListener('click', loadOnQuiz4);
+    skipButt.removeEventListener('click', loadKunQuiz5);
+    skipButt.removeEventListener('click', loadKunQuiz6);
+    //fix the skip button and load fake answers
+    skipButt.addEventListener('click', loadKataHiraQuiz);
+    let answersArray = [];
+    answersArray.push(trueAnswer);
+    for (let i = 0; i < 8; i++) {
+        let nuRandoNum = Math.floor(Math.random() * kanjiArray.length);
+        randoAnswer = meaningsArray[nuRandoNum];
+        answersArray.push(randoAnswer);
+    }
+    shuffleArray(answersArray);
+    answersArray.forEach(answer => {
+        // console.log("YO");
+        let newDiv = document.createElement('div');
+        newDiv.textContent = answer;
+        newDiv.addEventListener('click', handleKanaClickStudy3)
+        newDiv.classList.add('answer');
+        answersDiv.append(newDiv);
+    })
+};
+function loadHiraganaQuiz() {
+    //clear literally everything that could possibly be
+    removeAllChildNodes(kanaBox);
+    removeAllChildNodes(answersDiv);
+    konoKanji = "";
+    trueAnswer = "";
+    messageBox.textContent = '';
+    kunDiv.textContent = '';
+    onDiv.textContent = '';
+    testBox.style.backgroundColor = 'rgb(78, 78, 78)';
+    randoNumber = Math.floor(Math.random() * kanjiArray.length);
+    konoKanji = kanjiArray[randoNumber];
+    mainKanji.textContent = konoKanji;
+    trueAnswer = meaningsArray[randoNumber];
+    mainBox.style.display = "none";
+    testBox.classList.remove('hidden');
+    skipButt.removeEventListener('click', loadKeywordQuiz1);
+    skipButt.removeEventListener('click', loadKeywordQuiz2);
+    skipButt.removeEventListener('click', loadOnQuiz3);
+    skipButt.removeEventListener('click', loadOnQuiz4);
+    skipButt.removeEventListener('click', loadKunQuiz5);
+    skipButt.removeEventListener('click', loadKunQuiz6);
+    //fix the skip button and load fake answers
+    skipButt.addEventListener('click', loadKataHiraQuiz);
+    let answersArray = [];
+    answersArray.push(trueAnswer);
+    for (let i = 0; i < 8; i++) {
+        let nuRandoNum = Math.floor(Math.random() * kanjiArray.length);
+        randoAnswer = meaningsArray[nuRandoNum];
+        answersArray.push(randoAnswer);
+    }
+    shuffleArray(answersArray);
+    answersArray.forEach(answer => {
+        // console.log("YO");
+        let newDiv = document.createElement('div');
+        newDiv.textContent = answer;
+        newDiv.addEventListener('click', handleKanaClickStudy3)
+        newDiv.classList.add('answer');
+        answersDiv.append(newDiv);
+    })
+};
+
+function handleKanaClickStudy4() {
+    selectedAnswer = this.textContent;
+    if (selectedAnswer === trueAnswer) {
+        console.log('FUCK YES');
+        messageBox.textContent = '. * nice! * .'
+        setTimeout(() => {
+            loadHiraganaQuiz();
+        }, 500);
+    } else {
+        messageBox.textContent = 'try again.'
+    }
+}
+function handleKanaClickStudy3() {
+    selectedAnswer = this.textContent;
+    if (selectedAnswer === trueAnswer) {
+        console.log('FUCK YES');
+        messageBox.textContent = '. * nice! * .'
+        setTimeout(() => {
+            loadKatakanaQuiz();
+        }, 500);
+    } else {
+        messageBox.textContent = 'try again.'
+    }
+}
+function handleKanaClickStudy2() {
+    selectedAnswer = this.textContent;
+    if (selectedAnswer === trueAnswer) {
+        console.log('FUCK YES');
+        messageBox.textContent = '. * nice! * .'
+        setTimeout(() => {
+            loadKataHiraQuiz();
+        }, 500);
+    } else {
+        messageBox.textContent = 'try again.'
+    }
+}
+function handleKanaClickStudy() {
+    selectedAnswer = this.textContent;
+    if (selectedAnswer === trueAnswer) {
+        console.log('FUCK YES');
+        messageBox.textContent = '. * nice! * .'
+        setTimeout(() => {
+            loadHiraKataQuiz();
+        }, 500);
+    } else {
+        messageBox.textContent = 'try again.'
+    }
+}
 function populateMainPage() {
     removeAllChildNodes(fillbox1);
     removeAllChildNodes(fillbox2);
@@ -98,7 +354,7 @@ function makeList() {
         let mainKanji = kanji;
         let translation = meaningsArray[index];
         let ons = onArray[index];
-        let kuns = kunArray[index];
+        let katakana = kunArray[index];
         let kanjiBox = document.createElement('div');
         let wordBox = document.createElement('div');
         let onBox = document.createElement('div');
@@ -110,19 +366,65 @@ function makeList() {
         infoBox.classList.add('infoBox');
         wordBox.append(translation);
         onBox.append(ons.replace(/,(?=[^\s])/g, ", "));
-        kunBox.append(kuns.replace(/,(?=[^\s])/g, ", "));
+        kunBox.append(katakana);
         infoBox.append(wordBox, onBox, kunBox);
         kanjiBox.append(kanjiBoxTit);
         kanjiBox.append(infoBox);
         cardsBox.append(kanjiBox);
     });
 };
+function makeKanaList() {
+    kanjiArray.forEach((kanji, index) => {
+        // console.log("INDEX= ", index);
+        // console.log("KANJI= ", kanji);
+        let mainKanji = kanji;
+        let translation = meaningsArray[index];
+        let kuns = kunArray[index];
+        let kanjiBox = document.createElement('div');
+        let wordBox = document.createElement('div');
+        let infoBox = document.createElement('div');
+        let kanjiBoxTit = document.createElement('h1');
+        let kanjiBoxTit2 = document.createElement('h1');
+        kanjiBoxTit.textContent = mainKanji;
+        kanjiBoxTit2.textContent = kuns;
+        kanjiBox.classList.add('kanjiBox');
+        infoBox.classList.add('infoBox');
+        wordBox.append(translation);
+        infoBox.append(wordBox);
+        kanjiBox.append(kanjiBoxTit, kanjiBoxTit2);
+        kanjiBox.append(infoBox);
+        cardsBox.append(kanjiBox);
+    })
+};
+function getKana() {
+    kanjiArray = [];
+    onArray = [];
+    kunArray = [];
+    meaningsArray = [];
+    removeAllChildNodes(cardsBox);
+    removeAllChildNodes(kanaBox);
+    title.textContent = "";
+    title.textContent = "Hiragana/Katakana Study";
+    for (const [key, value] of Object.entries(dataKana)) {
+        //hiragana
+        kanjiArray.push(key);
+        //english
+        meaningsArray.push(value.english);
+        //katakana
+        kunArray.push(value.katakana);
+    };
+    console.log("OHNO", kunArray);
+    populateMainPageWithKana();
+    makeKanaList();
+}
 function getN5() {
     kanjiArray = [];
     onArray = [];
     kunArray = [];
     meaningsArray = [];
     removeAllChildNodes(cardsBox);
+    removeAllChildNodes(kanaBox);
+    mainSelectBox.classList.remove('hidden');
     title.textContent = "";
     title.textContent = "N5 Kanji Study";
     for (const [key, value] of Object.entries(data5)) {
@@ -146,6 +448,8 @@ function getN4() {
     kunArray = [];
     meaningsArray = [];
     removeAllChildNodes(cardsBox);
+    removeAllChildNodes(kanaBox);
+    mainSelectBox.classList.remove('hidden');
     title.textContent = "";
     title.textContent = "N4 Kanji Study";
     for (const [key, value] of Object.entries(data4)) {
@@ -166,6 +470,8 @@ function getN3() {
     kunArray = [];
     meaningsArray = [];
     removeAllChildNodes(cardsBox);
+    removeAllChildNodes(kanaBox);
+    mainSelectBox.classList.remove('hidden');
     title.textContent = "";
     title.textContent = "N3 Kanji Study";
     for (const [key, value] of Object.entries(data3)) {
@@ -186,6 +492,8 @@ function getN2() {
     kunArray = [];
     meaningsArray = [];
     removeAllChildNodes(cardsBox);
+    removeAllChildNodes(kanaBox);
+    mainSelectBox.classList.remove('hidden');
     title.textContent = "";
     title.textContent = "N2 Kanji Study";
     for (const [key, value] of Object.entries(data2)) {
@@ -206,6 +514,8 @@ function getN1() {
     kunArray = [];
     meaningsArray = [];
     removeAllChildNodes(cardsBox);
+    removeAllChildNodes(kanaBox);
+    mainSelectBox.classList.remove('hidden');
     title.textContent = "";
     title.textContent = "N1 Kanji Study";
     for (const [key, value] of Object.entries(data1)) {
@@ -598,6 +908,309 @@ window.onclick = function (event) {
         }
     }
 };
+dataKana = {
+    "あ": {
+        "katakana": "ア",
+        "english": "a"
+    },
+    "い": {
+        "katakana": "イ",
+        "english": "i"
+    },
+    "う": {
+        "katakana": "ウ",
+        "english": "u"
+    },
+    "え": {
+        "katakana": "エ",
+        "english": "e"
+    },
+    "お": {
+        "katakana": "オ",
+        "english": "o"
+    },
+    "か": {
+        "katakana": "カ",
+        "english": "ka"
+    },
+    "き": {
+        "katakana": "キ",
+        "english": "ki"
+    },
+    "く": {
+        "katakana": "ク",
+        "english": "ku"
+    },
+    "け": {
+        "katakana": "ケ",
+        "english": "ke"
+    },
+    "こ": {
+        "katakana": "コ",
+        "english": "ko"
+    },
+    "さ": {
+        "katakana": "サ",
+        "english": "sa"
+    },
+    "し": {
+        "katakana": "シ",
+        "english": "shi"
+    },
+    "す": {
+        "katakana": "ス",
+        "english": "su"
+    },
+    "せ": {
+        "katakana": "セ",
+        "english": "se"
+    },
+    "そ": {
+        "katakana": "ソ",
+        "english": "so"
+    },
+    "た": {
+        "katakana": "タ",
+        "english": "ta"
+    },
+    "ち": {
+        "katakana": "チ",
+        "english": "chi"
+    },
+    "つ": {
+        "katakana": "ツ",
+        "english": "tsu"
+    },
+    "て": {
+        "katakana": "テ",
+        "english": "te"
+    },
+    "と": {
+        "katakana": "ト",
+        "english": "to"
+    },
+    "な": {
+        "katakana": "ナ",
+        "english": "na"
+    },
+    "に": {
+        "katakana": "ニ",
+        "english": "ni"
+    },
+    "ぬ": {
+        "katakana": "ヌ",
+        "english": "nu"
+    },
+    "ね": {
+        "katakana": "ネ",
+        "english": "ne"
+    },
+    "の": {
+        "katakana": "ノ",
+        "english": "no"
+    },
+    "は": {
+        "katakana": "ハ",
+        "english": "ha"
+    },
+    "ひ": {
+        "katakana": "ヒ",
+        "english": "hi"
+    },
+    "ふ": {
+        "katakana": "フ",
+        "english": "fu"
+    },
+    "へ": {
+        "katakana": "ヘ",
+        "english": "he"
+    },
+    "ほ": {
+        "katakana": "ホ",
+        "english": "ho"
+    },
+    "ま": {
+        "katakana": "マ",
+        "english": "ma"
+    },
+    "み": {
+        "katakana": "ミ",
+        "english": "mi"
+    },
+    "む": {
+        "katakana": "ム",
+        "english": "mu"
+    },
+    "め": {
+        "katakana": "メ",
+        "english": "me"
+    },
+    "も": {
+        "katakana": "モ",
+        "english": "mo"
+    },
+    "や": {
+        "katakana": "ヤ",
+        "english": "ya"
+    },
+    "ゆ": {
+        "katakana": "ユ",
+        "english": "yu"
+    },
+    "よ": {
+        "katakana": "ヨ",
+        "english": "yo"
+    },
+    "ら": {
+        "katakana": "ラ",
+        "english": "ra"
+    },
+    "り": {
+        "katakana": "リ",
+        "english": "ri"
+    },
+    "る": {
+        "katakana": "ル",
+        "english": "ru"
+    },
+    "れ": {
+        "katakana": "レ",
+        "english": "re"
+    },
+    "ろ": {
+        "katakana": "ロ",
+        "english": "ro"
+    },
+    "わ": {
+        "katakana": "ワ",
+        "english": "wa"
+    },
+    "を": {
+        "katakana": "ヲ",
+        "english": "wo"
+    },
+    "ん": {
+        "katakana": "ン",
+        "english": "n"
+    },
+    "が": {
+        "katakana": "ガ",
+        "english": "ga"
+    },
+    "ぎ": {
+        "katakana": "ギ",
+        "english": "gi"
+    },
+    "ぐ": {
+        "katakana": "グ",
+        "english": "gu"
+    },
+    "げ": {
+        "katakana": "ゲ",
+        "english": "ge"
+    },
+    "ご": {
+        "katakana": "ゴ",
+        "english": "go"
+    },
+    "ざ": {
+        "katakana": "ザ ",
+        "english": "za"
+    },
+    "じ": {
+        "katakana": "ジ",
+        "english": "zji"
+    },
+    "ず": {
+        "katakana": "ズ",
+        "english": "zu"
+    },
+    "ぜ": {
+        "katakana": "ゼ",
+        "english": "ze"
+    },
+    "ぞ": {
+        "katakana": "ゾ",
+        "english": "zo"
+    },
+    "だ": {
+        "katakana": "ダ",
+        "english": "da"
+    },
+    "ぢ": {
+        "katakana": "ヂ",
+        "english": "dji"
+    },
+    "づ": {
+        "katakana": "ヅ",
+        "english": "du"
+    },
+    "で": {
+        "katakana": "デ",
+        "english": "de"
+    },
+    "ど": {
+        "katakana": "ド",
+        "english": "do"
+    },
+    "ば": {
+        "katakana": "バ",
+        "english": "ba"
+    },
+    "び": {
+        "katakana": "ビ",
+        "english": "bi"
+    },
+    "ぶ": {
+        "katakana": "ブ",
+        "english": "bu"
+    },
+    "べ": {
+        "katakana": "ベ",
+        "english": "be"
+    },
+    "ぼ": {
+        "katakana": "ボ",
+        "english": "bo"
+    },
+    "ぱ": {
+        "katakana": "パ",
+        "english": "pa"
+    },
+    "ぴ": {
+        "katakana": "ピ",
+        "english": "pi"
+    },
+    "ぷ": {
+        "katakana": "プ",
+        "english": "pu"
+    },
+    "ぺ": {
+        "katakana": "ペ",
+        "english": "pe"
+    },
+    "ぽ": {
+        "katakana": "ポ",
+        "english": "po"
+    },
+    "じょ": {
+        "katakana": "ジョ",
+        "english": "jo"
+    },
+    "じゅ": {
+        "katakana": "ジュ",
+        "english": "ju"
+    },
+    "じゃ": {
+        "katakana": "ジャ",
+        "english": "ja"
+    },
+    "しょ": {
+        "katakana": "ショ",
+        "english": "sho"
+    }
+
+}
 data5 = {
     "一": {
         "strokes": 1,
