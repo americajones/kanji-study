@@ -10,6 +10,10 @@ h1{
     text-align: center;
     padding: 10px;
 }
+h2{
+    text-align: center;
+    padding: 5px;
+}
 .quizPage {
     margin-top: 1em;
 }

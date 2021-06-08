@@ -74,6 +74,8 @@ function loadHiraKataQuiz() {
     trueAnswer = kunArray[randoNumber];
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
+    backButt.addEventListener('click', changeKanaDisplay);
+    backButt.removeEventListener('click', changeDisplay);
     skipButt.removeEventListener('click', loadKeywordQuiz1);
     skipButt.removeEventListener('click', loadKeywordQuiz2);
     skipButt.removeEventListener('click', loadOnQuiz3);
@@ -115,6 +117,8 @@ function loadKataHiraQuiz() {
     trueAnswer = kanjiArray[randoNumber];
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
+    backButt.addEventListener('click', changeKanaDisplay);
+    backButt.removeEventListener('click', changeDisplay);
     skipButt.removeEventListener('click', loadKeywordQuiz1);
     skipButt.removeEventListener('click', loadKeywordQuiz2);
     skipButt.removeEventListener('click', loadOnQuiz3);
@@ -156,6 +160,8 @@ function loadKatakanaQuiz() {
     trueAnswer = meaningsArray[randoNumber];
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
+    backButt.addEventListener('click', changeKanaDisplay);
+    backButt.removeEventListener('click', changeDisplay);
     skipButt.removeEventListener('click', loadKeywordQuiz1);
     skipButt.removeEventListener('click', loadKeywordQuiz2);
     skipButt.removeEventListener('click', loadOnQuiz3);
@@ -197,6 +203,8 @@ function loadHiraganaQuiz() {
     trueAnswer = meaningsArray[randoNumber];
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
+    backButt.addEventListener('click', changeKanaDisplay);
+    backButt.removeEventListener('click', changeDisplay);
     skipButt.removeEventListener('click', loadKeywordQuiz1);
     skipButt.removeEventListener('click', loadKeywordQuiz2);
     skipButt.removeEventListener('click', loadOnQuiz3);
@@ -384,7 +392,7 @@ function makeKanaList() {
         let wordBox = document.createElement('div');
         let infoBox = document.createElement('div');
         let kanjiBoxTit = document.createElement('h1');
-        let kanjiBoxTit2 = document.createElement('h1');
+        let kanjiBoxTit2 = document.createElement('h2');
         kanjiBoxTit.textContent = mainKanji;
         kanjiBoxTit2.textContent = kuns;
         kanjiBox.classList.add('kanjiBox');
@@ -539,6 +547,7 @@ const onDiv = document.querySelector('.on');
 const kanjiDisplay = document.querySelector('#kanji-display');
 const messageBox = document.querySelector('#float-message');
 const skipButt = document.querySelector('.skip');
+const backButt = document.querySelector('.back');
 let konoKanji
 let trueAnswer
 let selectedAnswer
@@ -562,6 +571,8 @@ function loadKeywordQuiz1() {
     trueAnswer = meaningsArray[randoNumber];
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
+    backButt.removeEventListener('click', changeKanaDisplay);
+    backButt.addEventListener('click', changeDisplay);
     skipButt.removeEventListener('click', loadKeywordQuiz2);
     skipButt.removeEventListener('click', loadOnQuiz3);
     skipButt.removeEventListener('click', loadOnQuiz4);
@@ -615,6 +626,8 @@ function loadKeywordQuiz2() {
     trueAnswer = kanjiArray[randoNumber];
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
+    backButt.removeEventListener('click', changeKanaDisplay);
+    backButt.addEventListener('click', changeDisplay);
     skipButt.removeEventListener('click', loadKeywordQuiz1);
     skipButt.removeEventListener('click', loadOnQuiz3);
     skipButt.removeEventListener('click', loadOnQuiz4);
@@ -668,6 +681,8 @@ function loadOnQuiz3() {
     trueAnswer = onArray[randoNumber].replace(/,(?=[^\s])/g, ", ");
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
+    backButt.removeEventListener('click', changeKanaDisplay);
+    backButt.addEventListener('click', changeDisplay);
     skipButt.removeEventListener('click', loadKeywordQuiz1);
     skipButt.removeEventListener('click', loadKeywordQuiz2);
     skipButt.removeEventListener('click', loadOnQuiz4);
@@ -721,6 +736,8 @@ function loadOnQuiz4() {
     trueAnswer = kanjiArray[randoNumber];
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
+    backButt.removeEventListener('click', changeKanaDisplay);
+    backButt.addEventListener('click', changeDisplay);
     skipButt.removeEventListener('click', loadKeywordQuiz1);
     skipButt.removeEventListener('click', loadKeywordQuiz2);
     skipButt.removeEventListener('click', loadOnQuiz3);
@@ -774,6 +791,8 @@ function loadKunQuiz5() {
     trueAnswer = kunArray[randoNumber].replace(/,(?=[^\s])/g, ", ");
     // console.log('RIGHT ANSWER IS: ', trueAnswer);
     mainBox.style.display = "none";
+    backButt.removeEventListener('click', changeKanaDisplay);
+    backButt.addEventListener('click', changeDisplay);
     testBox.classList.remove('hidden');
     skipButt.removeEventListener('click', loadKeywordQuiz1);
     skipButt.removeEventListener('click', loadKeywordQuiz2);
@@ -836,6 +855,8 @@ function loadKunQuiz6() {
     trueAnswer = kanjiArray[randoNumber];
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
+    backButt.removeEventListener('click', changeKanaDisplay);
+    backButt.addEventListener('click', changeDisplay);
     skipButt.removeEventListener('click', loadKeywordQuiz1);
     skipButt.removeEventListener('click', loadKeywordQuiz2);
     skipButt.removeEventListener('click', loadOnQuiz3);
@@ -881,6 +902,11 @@ function shuffleArray(array) {
     }
 };
 
+function changeKanaDisplay() {
+    testBox.classList.add('hidden');
+    mainBox.style.display = "block";
+    populateMainPageWithKana();
+};
 function changeDisplay() {
     mainBox.style.display = "block";
     testBox.classList.add('hidden');
