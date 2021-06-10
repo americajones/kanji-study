@@ -67,7 +67,7 @@ function loadHiraKataQuiz() {
     messageBox.textContent = '';
     kunDiv.textContent = '';
     onDiv.textContent = '';
-    testBox.style.backgroundColor = 'rgb(78, 78, 78)';
+    testBox.style.backgroundColor = '#283f53';
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = kanjiArray[randoNumber];
     mainKanji.textContent = konoKanji;
@@ -562,7 +562,7 @@ function loadKeywordQuiz1() {
     messageBox.textContent = '';
     kunDiv.textContent = '';
     onDiv.textContent = '';
-    testBox.style.backgroundColor = 'rgb(78, 78, 78)';
+    testBox.style.backgroundColor = '#283f53';
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = kanjiArray[randoNumber];
     mainKanji.textContent = konoKanji;
@@ -617,7 +617,7 @@ function loadKeywordQuiz2() {
     messageBox.textContent = '';
     kunDiv.textContent = '';
     onDiv.textContent = '';
-    testBox.style.backgroundColor = 'rgb(78, 78, 78)';
+    testBox.style.backgroundColor = '#283f53';
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = meaningsArray[randoNumber];
     mainKanji.textContent = konoKanji;
@@ -672,7 +672,7 @@ function loadOnQuiz3() {
     messageBox.textContent = '';
     kunDiv.textContent = '';
     onDiv.textContent = '';
-    testBox.style.backgroundColor = 'rgb(78, 78, 78)';
+    testBox.style.backgroundColor = '#283f53';
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = kanjiArray[randoNumber];
     mainKanji.textContent = konoKanji;
@@ -727,7 +727,7 @@ function loadOnQuiz4() {
     messageBox.textContent = '';
     kunDiv.textContent = '';
     onDiv.textContent = '';
-    testBox.style.backgroundColor = 'rgb(78, 78, 78)';
+    testBox.style.backgroundColor = '#283f53';
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = onArray[randoNumber].replace(/,(?=[^\s])/g, ", ");
     mainKanji.textContent = konoKanji;
@@ -782,7 +782,7 @@ function loadKunQuiz5() {
     messageBox.textContent = '';
     kunDiv.textContent = '';
     onDiv.textContent = '';
-    testBox.style.backgroundColor = 'rgb(78, 78, 78)';
+    testBox.style.backgroundColor = '#283f53';
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = kanjiArray[randoNumber];
     mainKanji.textContent = konoKanji;
@@ -846,7 +846,7 @@ function loadKunQuiz6() {
     messageBox.textContent = '';
     kunDiv.textContent = '';
     onDiv.textContent = '';
-    testBox.style.backgroundColor = 'rgb(78, 78, 78)';
+    testBox.style.backgroundColor = '#283f53';
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = kunArray[randoNumber].replace(/,(?=[^\s])/g, ", ");
     mainKanji.textContent = konoKanji;
