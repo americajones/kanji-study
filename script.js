@@ -110,7 +110,7 @@ function loadKataHiraQuiz() {
     messageBox.textContent = '';
     kunDiv.textContent = '';
     onDiv.textContent = '';
-    testBox.style.backgroundColor = 'rgb(78, 78, 78)';
+    testBox.style.backgroundColor = '#283f53';
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = kunArray[randoNumber];
     mainKanji.textContent = konoKanji;
@@ -153,7 +153,7 @@ function loadKatakanaQuiz() {
     messageBox.textContent = '';
     kunDiv.textContent = '';
     onDiv.textContent = '';
-    testBox.style.backgroundColor = 'rgb(78, 78, 78)';
+    testBox.style.backgroundColor = '#283f53';
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = kunArray[randoNumber];
     mainKanji.textContent = konoKanji;
@@ -196,7 +196,7 @@ function loadHiraganaQuiz() {
     messageBox.textContent = '';
     kunDiv.textContent = '';
     onDiv.textContent = '';
-    testBox.style.backgroundColor = 'rgb(78, 78, 78)';
+    testBox.style.backgroundColor = '#283f53';
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = kanjiArray[randoNumber];
     mainKanji.textContent = konoKanji;
