@@ -1023,7 +1023,7 @@ data5 = {
         "jlpt_new": 5,
         "meanings": ["Exam", "School", "Printing", "Proof", "Correction"],
         "readings_on": ["コウ", "キョウ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "時": {
         "strokes": 10,
@@ -1073,7 +1073,7 @@ data5 = {
         "jlpt_new": 5,
         "meanings": ["Electricity"],
         "readings_on": ["デン"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "聞": {
         "strokes": 14,
@@ -1469,7 +1469,7 @@ data4 = {
         "jlpt_new": 4,
         "meanings": ["Negative", "Non-", "Bad", "Ugly", "Clumsy"],
         "readings_on": ["フ", "ブ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "仕": {
         "strokes": 5,
@@ -1670,7 +1670,7 @@ data4 = {
         "jlpt_new": 4,
         "meanings": ["Ground", "Earth"],
         "readings_on": ["チ", "ジ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "安": {
         "strokes": 6,
@@ -1833,7 +1833,7 @@ data4 = {
         "jlpt_new": 4,
         "meanings": ["Tea"],
         "readings_on": ["チャ", "サ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "以": {
         "strokes": 5,
@@ -1924,7 +1924,7 @@ data4 = {
         "jlpt_new": 4,
         "meanings": ["Week"],
         "readings_on": ["シュウ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "魚": {
         "strokes": 11,
@@ -2104,7 +2104,7 @@ data4 = {
         "jlpt_new": 4,
         "meanings": ["Clothing", "Admit", "Obey", "Discharge"],
         "readings_on": ["フク"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "物": {
         "strokes": 8,
@@ -2164,7 +2164,7 @@ data4 = {
         "jlpt_new": 4,
         "meanings": ["World", "Boundary"],
         "readings_on": ["カイ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "発": {
         "strokes": 9,
@@ -2214,7 +2214,7 @@ data4 = {
         "jlpt_new": 4,
         "meanings": ["Inst.", "Institution", "Temple", "Mansion", "School"],
         "readings_on": ["イン"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "終": {
         "strokes": 11,
@@ -2304,7 +2304,7 @@ data4 = {
         "jlpt_new": 4,
         "meanings": ["Sino-", "China"],
         "readings_on": ["カン"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "歌": {
         "strokes": 14,
@@ -2364,7 +2364,7 @@ data4 = {
         "jlpt_new": 4,
         "meanings": ["Ocean", "Sea", "Foreign", "Western Style"],
         "readings_on": ["ヨウ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "特": {
         "strokes": 10,
@@ -2374,7 +2374,7 @@ data4 = {
         "jlpt_new": 4,
         "meanings": ["Special"],
         "readings_on": ["トク"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "意": {
         "strokes": 13,
@@ -2384,7 +2384,7 @@ data4 = {
         "jlpt_new": 4,
         "meanings": ["Idea", "Mind", "Heart", "Taste", "Thought", "Desire", "Care", "Liking"],
         "readings_on": ["イ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "味": {
         "strokes": 8,
@@ -2424,7 +2424,7 @@ data4 = {
         "jlpt_new": 4,
         "meanings": ["Employee", "Member", "Number", "The One In Charge"],
         "readings_on": ["イン"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "動": {
         "strokes": 11,
@@ -2454,7 +2454,7 @@ data4 = {
         "jlpt_new": 4,
         "meanings": ["Tribe", "Family"],
         "readings_on": ["ゾク"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "着": {
         "strokes": 12,
@@ -2524,7 +2524,7 @@ data4 = {
         "jlpt_new": 4,
         "meanings": ["Topic", "Subject"],
         "readings_on": ["ダイ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "館": {
         "strokes": 16,
@@ -2544,7 +2544,7 @@ data4 = {
         "jlpt_new": 4,
         "meanings": ["Station"],
         "readings_on": ["エキ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "料": {
         "strokes": 10,
@@ -2554,7 +2554,7 @@ data4 = {
         "jlpt_new": 4,
         "meanings": ["Fee", "Materials"],
         "readings_on": ["リョウ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "映": {
         "strokes": 9,
@@ -2664,7 +2664,7 @@ data4 = {
         "jlpt_new": 4,
         "meanings": ["Weekday"],
         "readings_on": ["ヨウ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "品": {
         "strokes": 9,
@@ -2704,7 +2704,7 @@ data4 = {
         "jlpt_new": 4,
         "meanings": ["Public Chamber", "Hall"],
         "readings_on": ["ドウ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "試": {
         "strokes": 13,
@@ -2774,7 +2774,7 @@ data4 = {
         "jlpt_new": 4,
         "meanings": ["Craft", "Construction", "Katakana E Radical (no. 48)"],
         "readings_on": ["コウ", "ク", "グ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "夕": {
         "strokes": 3,
@@ -2797,7 +2797,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Genius", "Years Old", "Cubic Shaku"],
         "readings_on": ["サイ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "王": {
         "strokes": 4,
@@ -2807,7 +2807,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["King", "Rule", "Magnate"],
         "readings_on": ["オウ", "-ノウ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "石": {
         "strokes": 5,
@@ -2918,7 +2918,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Salute", "Bow", "Ceremony", "Thanks", "Remuneration"],
         "readings_on": ["レイ", "ライ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "耳": {
         "strokes": 6,
@@ -2930,7 +2930,6 @@ data3 = {
         "readings_on": ["ジ"],
         "readings_kun": ["みみ"],
     },
-    //needs katakana
     "交": {
         "strokes": 6,
         "grade": 2,
@@ -2938,10 +2937,9 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Mingle", "Mixing", "Association", "Coming & Going"],
-        "readings_on": ["こう"],
+        "readings_on": ["コウ"],
         "readings_kun": ["まじ.わる", "まじ.える", "ま.じる", "まじ.る", "ま.ざる", "ま.ぜる", "-か.う", "か.わす", "かわ.す", "こもごも"],
     },
-
     "光": {
         "strokes": 6,
         "grade": 2,
@@ -2949,10 +2947,9 @@ data3 = {
         "jlpt_old": 3,
         "jlpt_new": 3,
         "meanings": ["Ray", "Light"],
-        "readings_on": ["こう"],
+        "readings_on": ["コウ"],
         "readings_kun": ["ひか.る", "ひかり"],
     },
-
     "回": {
         "strokes": 6,
         "grade": 2,
@@ -2960,10 +2957,9 @@ data3 = {
         "jlpt_old": 3,
         "jlpt_new": 3,
         "meanings": ["-times", "Round", "Game", "Revolve", "Counter For Occurrences"],
-        "readings_on": ["かい", "え"],
+        "readings_on": ["カイ", "エ"],
         "readings_kun": ["まわ.る", "-まわ.る", "-まわ.り", "まわ.す", "-まわ.す", "まわ.し-", "-まわ.し", "もとお.る", "か.える"],
     },
-
     "当": {
         "strokes": 6,
         "grade": 2,
@@ -2971,7 +2967,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Hit", "Right", "Appropriate", "Himself"],
-        "readings_on": ["とう"],
+        "readings_on": ["トウ"],
         "readings_kun": ["あ.たる", "あ.たり", "あ.てる", "あ.て", "まさ.に", "まさ.にべし"],
     },
     "米": {
@@ -2981,7 +2977,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Rice", "Usa", "Metre"],
-        "readings_on": ["べい", "まい", "めえとる"],
+        "readings_on": ["ベイ", "マイ", "メエトル"],
         "readings_kun": ["こめ", "よね"],
     },
     "声": {
@@ -2991,7 +2987,7 @@ data3 = {
         "jlpt_old": 3,
         "jlpt_new": 3,
         "meanings": ["Voice"],
-        "readings_on": ["せい", "しょう"],
+        "readings_on": ["セイ", "ショウ"],
         "readings_kun": ["こえ", "こわ-"],
     },
 
@@ -3002,7 +2998,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Shape", "Form", "Style"],
-        "readings_on": ["けい", "ぎょう"],
+        "readings_on": ["ケイ", "ギョウ"],
         "readings_kun": ["かた", "-がた", "かたち", "なり"],
     },
     "草": {
@@ -3012,7 +3008,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Grass", "Weeds", "Herbs", "Pasture", "Write", "Draft"],
-        "readings_on": ["そう"],
+        "readings_on": ["ソウ"],
         "readings_kun": ["くさ", "くさ-", "-ぐさ"],
     },
 
@@ -3023,7 +3019,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Change", "Take The Form Of", "Influence", "Enchant", "Delude", "-ization"],
-        "readings_on": ["か", "け"],
+        "readings_on": ["カ", "ケ"],
         "readings_kun": ["ば.ける", "ば.かす", "ふ.ける", "け.する"],
     },
 
@@ -3034,7 +3030,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Both", "Old Japanese Coin", "Counter For Carriages (e.g., In A Train)", "Two"],
-        "readings_on": ["りょう"],
+        "readings_on": ["リョウ"],
         "readings_kun": ["てる", "ふたつ"],
     },
     "全": {
@@ -3044,7 +3040,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Whole", "Entire", "All", "Complete", "Fulfill"],
-        "readings_on": ["ぜん"],
+        "readings_on": ["ゼン"],
         "readings_kun": ["まった.く", "すべ.て"],
     },
     "向": {
@@ -3054,7 +3050,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Yonder", "Facing", "Beyond", "Confront", "Defy", "Tend Toward", "Approach"],
-        "readings_on": ["こう"],
+        "readings_on": ["コウ"],
         "readings_kun": ["む.く", "む.い", "-む.き", "む.ける", "-む.け", "む.かう", "む.かい", "む.こう", "む.こう-", "むこ", "むか.い"],
     },
     "曲": {
@@ -3064,7 +3060,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Bend", "Music", "Melody", "Composition", "Pleasure", "Injustice", "Fault", "Curve", "Crooked", "Perverse", "Lean"],
-        "readings_on": ["きょく"],
+        "readings_on": ["キョク"],
         "readings_kun": ["ま.がる", "ま.げる", "くま"],
     },
 
@@ -3075,7 +3071,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Next", "Order", "Sequence"],
-        "readings_on": ["じ", "し"],
+        "readings_on": ["ジ", "シ"],
         "readings_kun": ["つ.ぐ", "つぎ"],
     },
     "直": {
@@ -3085,7 +3081,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Straightaway", "Honesty", "Frankness", "Fix", "Repair"],
-        "readings_on": ["ちょく", "じき", "じか"],
+        "readings_on": ["チョク", "ジキ", "ジカ"],
         "readings_kun": ["ただ.ちに", "なお.す", "-なお.す", "なお.る", "なお.き", "す.ぐ"],
     },
     "活": {
@@ -3095,7 +3091,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Lively", "Resuscitation", "Being Helped", "Living"],
-        "readings_on": ["かつ"],
+        "readings_on": ["カツ"],
         "readings_kun": ["い.きる", "い.かす", "い.ける"],
     },
 
@@ -3106,7 +3102,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Spot", "Point", "Mark", "Speck", "Decimal Point"],
-        "readings_on": ["てん"],
+        "readings_on": ["テン"],
         "readings_kun": ["つ.ける", "つ.く", "た.てる", "さ.す", "とぼ.す", "とも.す", "ぼち"],
     },
     "科": {
@@ -3116,8 +3112,8 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Department", "Course", "Section"],
-        "readings_on": ["か"],
-        "readings_kun": [],
+        "readings_on": ["カ"],
+        "readings_kun": ["n/a"],
     },
 
 
@@ -3128,7 +3124,7 @@ data3 = {
         "jlpt_old": 3,
         "jlpt_new": 3,
         "meanings": ["Neck", "Counter For Songs And Poems"],
-        "readings_on": ["しゅ"],
+        "readings_on": ["シュ"],
         "readings_kun": ["くび"],
     },
     "欠": {
@@ -3138,7 +3134,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Lack", "Gap", "Fail", "Yawning Radical (no. 76)"],
-        "readings_on": ["けつ", "けん"],
+        "readings_on": ["ケツ", "ケン"],
         "readings_kun": ["か.ける", "か.く"],
     },
     "由": {
@@ -3148,7 +3144,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Wherefore", "A Reason"],
-        "readings_on": ["ゆ", "ゆう", "ゆい"],
+        "readings_on": ["ユ", "ユウ", "ユイ"],
         "readings_kun": ["よし", "よ.る"],
     },
     "民": {
@@ -3158,7 +3154,7 @@ data3 = {
         "jlpt_old": 3,
         "jlpt_new": 3,
         "meanings": ["People", "Nation", "Subjects"],
-        "readings_on": ["みん"],
+        "readings_on": ["ミン"],
         "readings_kun": ["たみ"],
     },
     "付": {
@@ -3168,7 +3164,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Adhere", "Attach", "Refer To", "Append"],
-        "readings_on": ["ふ"],
+        "readings_on": ["フ"],
         "readings_kun": ["つ.ける", "-つ.ける", "-づ.ける", "つ.け", "つ.け-", "-つ.け", "-づ.け", "-づけ", "つ.く", "-づ.く", "つ.き", "-つ.き", "-つき", "-づ.き", "-づき"],
     },
 
@@ -3179,7 +3175,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Lose", "Error", "Fault", "Disadvantage", "Loss"],
-        "readings_on": ["しつ"],
+        "readings_on": ["シツ"],
         "readings_kun": ["うしな.う", "う.せる"],
     },
     "必": {
@@ -3189,7 +3185,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Invariably", "Certain", "Inevitable"],
-        "readings_on": ["ひつ"],
+        "readings_on": ["ヒツ"],
         "readings_kun": ["かなら.ず"],
     },
     "未": {
@@ -3199,7 +3195,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Un-", "Not Yet", "Hitherto", "Still", "Even Now", "Sign Of The Ram", "1-3pm", "Eighth Sign Of Chinese Zodiac"],
-        "readings_on": ["み", "び"],
+        "readings_on": ["ミ", "ビ"],
         "readings_kun": ["いま.だ", "ま.だ", "ひつじ"],
     },
     "末": {
@@ -3209,7 +3205,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["End", "Close", "Tip", "Powder", "Posterity"],
-        "readings_on": ["まつ", "ばつ"],
+        "readings_on": ["マツ", "バツ"],
         "readings_kun": ["すえ"],
     },
     "記": {
@@ -3219,7 +3215,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Scribe", "Account", "Narrative"],
-        "readings_on": ["き"],
+        "readings_on": ["キ"],
         "readings_kun": ["しる.す"],
     },
 
@@ -3230,7 +3226,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Association", "Braid", "Plait", "Construct", "Assemble", "Unite", "Cooperate", "Grapple"],
-        "readings_on": ["そ"],
+        "readings_on": ["ソ"],
         "readings_kun": ["く.む", "くみ", "-ぐみ"],
     },
     "船": {
@@ -3240,7 +3236,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Ship", "Boat"],
-        "readings_on": ["せん"],
+        "readings_on": ["セン"],
         "readings_kun": ["ふね", "ふな-"],
     },
     "雪": {
@@ -3250,7 +3246,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Snow"],
-        "readings_on": ["せつ"],
+        "readings_on": ["セツ"],
         "readings_kun": ["ゆき"],
     },
     "支": {
@@ -3260,7 +3256,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Branch", "Support", "Sustain", "Branch Radical (no. 65)"],
-        "readings_on": ["し"],
+        "readings_on": ["シ"],
         "readings_kun": ["ささ.える", "つか.える", "か.う"],
     },
     "助": {
@@ -3270,7 +3266,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Help", "Rescue", "Assist"],
-        "readings_on": ["じょ"],
+        "readings_on": ["ジョ"],
         "readings_kun": ["たす.ける", "たす.かる", "す.ける", "すけ"],
     },
     "君": {
@@ -3280,7 +3276,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Mister", "You", "Ruler", "Male Name Suffix"],
-        "readings_on": ["くん"],
+        "readings_on": ["クン"],
         "readings_kun": ["きみ", "-ぎみ"],
     },
     "対": {
@@ -3290,7 +3286,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Vis-a-vis", "Opposite", "Even", "Equal", "Versus", "Anti-", "Compare"],
-        "readings_on": ["たい", "つい"],
+        "readings_on": ["タイ", "ツイ"],
         "readings_kun": ["あいて", "こた.える", "そろ.い", "つれあ.い", "なら.ぶ", "むか.う"],
     },
     "局": {
@@ -3300,7 +3296,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Bureau", "Board", "Office", "Affair", "Conclusion", "Court Lady", "Lady-in-waiting", "Her Apartment"],
-        "readings_on": ["きょく"],
+        "readings_on": ["キョク"],
         "readings_kun": ["つぼね"],
     },
     "役": {
@@ -3310,8 +3306,8 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Duty", "War", "Campaign", "Drafted Labor", "Office", "Service", "Role"],
-        "readings_on": ["やく", "えき"],
-        "readings_kun": [],
+        "readings_on": ["ヤク", "エキ"],
+        "readings_kun": ["n/a"],
     },
     "投": {
         "strokes": 7,
@@ -3320,7 +3316,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Throw", "Discard", "Abandon", "Launch Into", "Join", "Invest In", "Hurl", "Give Up", "Sell At A Loss"],
-        "readings_on": ["とう"],
+        "readings_on": ["トウ"],
         "readings_kun": ["な.げる", "-な.げ"],
     },
     "決": {
@@ -3330,7 +3326,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Decide", "Fix", "Agree Upon", "Appoint"],
-        "readings_on": ["けつ"],
+        "readings_on": ["ケツ"],
         "readings_kun": ["き.める", "-ぎ.め", "き.まる", "さ.く"],
     },
     "馬": {
@@ -3340,7 +3336,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Horse"],
-        "readings_on": ["ば"],
+        "readings_on": ["バ"],
         "readings_kun": ["うま", "うま-", "ま"],
     },
     "番": {
@@ -3350,7 +3346,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Turn", "Number In A Series"],
-        "readings_on": ["ばん"],
+        "readings_on": ["バン"],
         "readings_kun": ["つが.い"],
     },
     "絵": {
@@ -3360,8 +3356,8 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Picture", "Drawing", "Painting", "Sketch"],
-        "readings_on": ["かい", "え"],
-        "readings_kun": [],
+        "readings_on": ["カイ", "エ"],
+        "readings_kun": ["n/a"],
     },
     "数": {
         "strokes": 13,
@@ -3370,7 +3366,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Number", "Strength", "Fate", "Law", "Figures"],
-        "readings_on": ["すう", "す", "さく", "そく", "しゅ"],
+        "readings_on": ["スウ", "ス", "サク", "ソク", "シュ"],
         "readings_kun": ["かず", "かぞ.える", "しばしば", "せ.める", "わずらわ.しい"],
     },
     "所": {
@@ -3380,7 +3376,7 @@ data3 = {
         "jlpt_old": 3,
         "jlpt_new": 3,
         "meanings": ["Place", "Extent"],
-        "readings_on": ["しょ"],
+        "readings_on": ["ショ"],
         "readings_kun": ["ところ", "-ところ", "どころ", "とこ"],
     },
 
@@ -3391,7 +3387,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Tool", "Utensil", "Means", "Possess", "Ingredients", "Counter For Armor, Suits, Sets Of Furniture"],
-        "readings_on": ["ぐ"],
+        "readings_on": ["グ"],
         "readings_kun": ["そな.える", "つぶさ.に"],
     },
     "受": {
@@ -3401,7 +3397,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Accept", "Undergo", "Answer (phone)", "Take", "Get", "Catch", "Receive"],
-        "readings_on": ["じゅ"],
+        "readings_on": ["ジュ"],
         "readings_kun": ["う.ける", "-う.け", "う.かる"],
     },
     "和": {
@@ -3411,7 +3407,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Harmony", "Japanese Style", "Peace", "Soften", "Japan"],
-        "readings_on": ["わ", "お", "か"],
+        "readings_on": ["ワ", "オ", "カ"],
         "readings_kun": ["やわ.らぐ", "やわ.らげる", "なご.む", "なご.やか", "あ.える"],
     },
 
@@ -3422,7 +3418,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Determine", "Fix", "Establish", "Decide"],
-        "readings_on": ["てい", "じょう"],
+        "readings_on": ["テイ", "ジョウ"],
         "readings_kun": ["さだ.める", "さだ.まる", "さだ.か"],
     },
     "実": {
@@ -3432,7 +3428,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Reality", "Truth"],
-        "readings_on": ["じつ", "しつ"],
+        "readings_on": ["ジツ", "シツ"],
         "readings_kun": ["み", "みの.る", "まこと", "みの", "みち.る"],
     },
 
@@ -3443,7 +3439,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Swim"],
-        "readings_on": ["えい"],
+        "readings_on": ["エイ"],
         "readings_kun": ["およ.ぐ"],
     },
 
@@ -3454,7 +3450,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Suffering", "Trial", "Worry", "Hardship", "Feel Bitter", "Scowl"],
-        "readings_on": ["く"],
+        "readings_on": ["ク"],
         "readings_kun": ["くる.しい", "-ぐる.しい", "くる.しむ", "くる.しめる", "にが.い", "にが.る"],
     },
     "表": {
@@ -3464,7 +3460,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Surface", "Table", "Chart", "Diagram"],
-        "readings_on": ["ひょう"],
+        "readings_on": ["ヒョウ"],
         "readings_kun": ["おもて", "-おもて", "あらわ.す", "あらわ.れる", "あら.わす"],
     },
     "部": {
@@ -3474,7 +3470,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Section", "Bureau", "Dept", "Class", "Copy", "Part", "Portion", "Counter For Copies Of A Newspaper Or Magazine"],
-        "readings_on": ["ぶ"],
+        "readings_on": ["ブ"],
         "readings_kun": ["-べ"],
     },
     "乗": {
@@ -3484,7 +3480,7 @@ data3 = {
         "jlpt_old": 3,
         "jlpt_new": 3,
         "meanings": ["Ride", "Power", "Multiplication", "Record", "Counter For Vehicles", "Board", "Mount", "Join"],
-        "readings_on": ["じょう", "しょう"],
+        "readings_on": ["ジョウ", "ショウ"],
         "readings_kun": ["の.る", "-の.り", "の.せる"],
     },
     "客": {
@@ -3494,8 +3490,8 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Guest", "Visitor", "Customer", "Client"],
-        "readings_on": ["きゃく", "かく"],
-        "readings_kun": [],
+        "readings_on": ["キャク", "カク"],
+        "readings_kun": ["n/a"],
     },
     "相": {
         "strokes": 9,
@@ -3504,7 +3500,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Inter-", "Mutual", "Together", "Each Other", "Minister Of State", "Councillor", "Aspect", "Phase", "Physiognomy"],
-        "readings_on": ["そう", "しょう"],
+        "readings_on": ["ソウ", "ショウ"],
         "readings_kun": ["あい-"],
     },
     "美": {
@@ -3514,7 +3510,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Beauty", "Beautiful"],
-        "readings_on": ["び", "み"],
+        "readings_on": ["ビ", "ミ"],
         "readings_kun": ["うつく.しい"],
     },
     "負": {
@@ -3524,7 +3520,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Defeat", "Negative", "-", "Minus", "Bear", "Owe", "Assume A Responsibility"],
-        "readings_on": ["ふ"],
+        "readings_on": ["フ"],
         "readings_kun": ["ま.ける", "ま.かす", "お.う"],
     },
 
@@ -3535,8 +3531,8 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Discuss", "Talk"],
-        "readings_on": ["だん"],
-        "readings_kun": [],
+        "readings_on": ["ダン"],
+        "readings_kun": ["n/a"],
     },
     "要": {
         "strokes": 9,
@@ -3545,7 +3541,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Need", "Main Point", "Essence", "Pivot", "Key To"],
-        "readings_on": ["よう"],
+        "readings_on": ["ヨウ"],
         "readings_kun": ["い.る", "かなめ"],
     },
     "勝": {
@@ -3555,7 +3551,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Victory", "Win", "Prevail", "Excel"],
-        "readings_on": ["しょう"],
+        "readings_on": ["ショウ"],
         "readings_kun": ["か.つ", "-が.ち", "まさ.る", "すぐ.れる", "かつ"],
     },
     "速": {
@@ -3565,7 +3561,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Quick", "Fast"],
-        "readings_on": ["そく"],
+        "readings_on": ["ソク"],
         "readings_kun": ["はや.い", "はや-", "はや.める", "すみ.やか"],
     },
     "配": {
@@ -3575,7 +3571,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Distribute", "Spouse", "Exile", "Rationing"],
-        "readings_on": ["はい"],
+        "readings_on": ["ハイ"],
         "readings_kun": ["くば.る"],
     },
     "酒": {
@@ -3585,7 +3581,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Sake", "Alcohol"],
-        "readings_on": ["しゅ"],
+        "readings_on": ["シュ"],
         "readings_kun": ["さけ", "さか-"],
     },
 
@@ -3596,7 +3592,7 @@ data3 = {
         "jlpt_old": 3,
         "jlpt_new": 3,
         "meanings": ["Advance", "Proceed", "Progress", "Promote"],
-        "readings_on": ["しん"],
+        "readings_on": ["シン"],
         "readings_kun": ["すす.む", "すす.める"],
     },
     "落": {
@@ -3606,7 +3602,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Fall", "Drop", "Come Down", "Village", "Hamlet"],
-        "readings_on": ["らく"],
+        "readings_on": ["ラク"],
         "readings_kun": ["お.ちる", "お.ち", "お.とす"],
     },
     "葉": {
@@ -3616,7 +3612,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Leaf", "Plane", "Lobe", "Needle", "Blade", "Spear", "Counter For Flat Things", "Fragment", "Piece"],
-        "readings_on": ["よう"],
+        "readings_on": ["ヨウ"],
         "readings_kun": ["は"],
     },
     "路": {
@@ -3626,7 +3622,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Path", "Route", "Road", "Distance"],
-        "readings_on": ["ろ", "る"],
+        "readings_on": ["ロ", "ル"],
         "readings_kun": ["-じ", "みち"],
     },
     "鳴": {
@@ -3636,7 +3632,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Chirp", "Cry", "Bark", "Sound", "Ring", "Echo", "Honk"],
-        "readings_on": ["めい"],
+        "readings_on": ["メイ"],
         "readings_kun": ["な.く", "な.る", "な.らす"],
     },
     "横": {
@@ -3646,7 +3642,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Sideways", "Side", "Horizontal", "Width", "Woof", "Unreasonable", "Perverse"],
-        "readings_on": ["おう"],
+        "readings_on": ["オウ"],
         "readings_kun": ["よこ"],
     },
     "調": {
@@ -3656,7 +3652,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Tune", "Tone", "Meter", "Key (music)", "Writing Style", "Prepare", "Exorcise", "Investigate", "Harmonize", "Mediate"],
-        "readings_on": ["ちょう"],
+        "readings_on": ["チョウ"],
         "readings_kun": ["しら.べる", "しら.べ", "ととの.う", "ととの.える"],
     },
 
@@ -3667,7 +3663,7 @@ data3 = {
         "jlpt_old": 3,
         "jlpt_new": 3,
         "meanings": ["Head", "Counter For Large Animals"],
-        "readings_on": ["とう", "ず", "と"],
+        "readings_on": ["トウ", "ズ", "ト"],
         "readings_kun": ["あたま", "かしら", "-がしら", "かぶり"],
     },
     "顔": {
@@ -3677,7 +3673,7 @@ data3 = {
         "jlpt_old": 3,
         "jlpt_new": 3,
         "meanings": ["Face", "Expression"],
-        "readings_on": ["がん"],
+        "readings_on": ["ガン"],
         "readings_kun": ["かお"],
     },
 
@@ -3688,7 +3684,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Utmost", "Most", "Extreme"],
-        "readings_on": ["さい", "しゅ"],
+        "readings_on": ["サイ", "シュ"],
         "readings_kun": ["もっと.も", "つま"],
     },
     "争": {
@@ -3698,7 +3694,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Contend", "Dispute", "Argue"],
-        "readings_on": ["そう"],
+        "readings_on": ["ソウ"],
         "readings_kun": ["あらそ.う", "いか.でか"],
     },
     "伝": {
@@ -3708,7 +3704,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Transmit", "Go Along", "Walk Along", "Follow", "Report", "Communicate", "Legend", "Tradition"],
-        "readings_on": ["でん", "てん"],
+        "readings_on": ["デン", "テン"],
         "readings_kun": ["つた.わる", "つた.える", "つた.う", "つだ.う", "-づた.い", "つて"],
     },
     "共": {
@@ -3718,7 +3714,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Together", "Both", "Neither", "All", "And", "Alike", "With"],
-        "readings_on": ["きょう"],
+        "readings_on": ["キョウ"],
         "readings_kun": ["とも", "とも.に", "-ども"],
     },
     "好": {
@@ -3728,7 +3724,7 @@ data3 = {
         "jlpt_old": 3,
         "jlpt_new": 3,
         "meanings": ["Fond", "Pleasing", "Like Something"],
-        "readings_on": ["こう"],
+        "readings_on": ["コウ"],
         "readings_kun": ["この.む", "す.く", "よ.い", "い.い"],
     },
     "成": {
@@ -3738,9 +3734,10 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Turn Into", "Become", "Get", "Grow", "Elapse", "Reach"],
-        "readings_on": ["せい", "じょう"],
+        "readings_on": ["セイ", "ジョウ"],
         "readings_kun": ["な.る", "な.す", "-な.す"],
     },
+    //needs katakana
     "老": {
         "strokes": 6,
         "grade": 4,
@@ -4034,7 +4031,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Period", "Time", "Date", "Term"],
         "readings_on": ["き", "ご"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "歯": {
         "strokes": 12,
@@ -4147,7 +4144,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Emotion", "Feeling", "Sensation"],
         "readings_on": ["かん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "暗": {
         "strokes": 13,
@@ -4177,7 +4174,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Blessing", "Fortune", "Luck", "Wealth"],
         "readings_on": ["ふく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "殺": {
         "strokes": 10,
@@ -4287,7 +4284,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Perfect", "Completion", "End"],
         "readings_on": ["かん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "念": {
         "strokes": 8,
@@ -4297,7 +4294,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Wish", "Sense", "Idea", "Thought", "Feeling", "Desire", "Attention"],
         "readings_on": ["ねん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "折": {
         "strokes": 7,
@@ -4377,7 +4374,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Status", "Rank", "Capacity", "Character", "Case (law, Grammar)"],
         "readings_on": ["かく", "こう", "きゃく", "ごう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "能": {
         "strokes": 10,
@@ -4418,7 +4415,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["File", "Row", "Rank", "Tier", "Column"],
         "readings_on": ["れつ", "れ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "式": {
         "strokes": 6,
@@ -4428,7 +4425,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Style", "Ceremony", "Rite", "Function", "Method", "System", "Form", "Expression"],
         "readings_on": ["しき"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "信": {
         "strokes": 9,
@@ -4438,7 +4435,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Faith", "Truth", "Fidelity", "Trust"],
         "readings_on": ["しん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "単": {
         "strokes": 9,
@@ -4479,7 +4476,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Yesterday", "Previous"],
         "readings_on": ["さく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "法": {
         "strokes": 8,
@@ -4499,7 +4496,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Nightfall", "Night"],
         "readings_on": ["ばん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "猫": {
         "strokes": 11,
@@ -4802,7 +4799,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Bureaucrat", "The Government", "Organ"],
         "readings_on": ["かん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "察": {
         "strokes": 14,
@@ -4812,7 +4809,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Guess", "Presume", "Surmise", "Judge", "Understand"],
         "readings_on": ["さつ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "愛": {
         "strokes": 13,
@@ -5155,7 +5152,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Harm", "Injury"],
         "readings_on": ["がい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "余": {
         "strokes": 7,
@@ -5245,7 +5242,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Deliberation", "Consultation", "Debate", "Consideration"],
         "readings_on": ["ぎ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "犯": {
         "strokes": 5,
@@ -5275,7 +5272,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Argument", "Discourse"],
         "readings_on": ["ろん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "経": {
         "strokes": 11,
@@ -5315,7 +5312,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["System", "Law", "Rule"],
         "readings_on": ["せい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "務": {
         "strokes": 11,
@@ -5335,7 +5332,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Assets", "Resources", "Capital", "Funds", "Data", "Be Conducive To", "Contribute To"],
         "readings_on": ["し"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "権": {
         "strokes": 15,
@@ -5515,7 +5512,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Status Quo", "Conditions", "Circumstances", "Form", "Appearance"],
         "readings_on": ["じょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "収": {
         "strokes": 4,
@@ -5535,7 +5532,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Post", "Employment", "Work"],
         "readings_on": ["しょく", "そく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "規": {
         "strokes": 11,
@@ -5545,7 +5542,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Standard", "Measure"],
         "readings_on": ["き"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "割": {
         "strokes": 12,
@@ -5565,7 +5562,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Performance", "Act", "Play", "Render", "Stage"],
         "readings_on": ["えん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "師": {
         "strokes": 10,
@@ -5605,7 +5602,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Home", "House", "Residence", "Our House", "My Husband"],
         "readings_on": ["たく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "現": {
         "strokes": 11,
@@ -5695,7 +5692,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Scenery", "View"],
         "readings_on": ["けい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "抜": {
         "strokes": 7,
@@ -5805,7 +5802,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Grade", "Steps", "Stairs"],
         "readings_on": ["だん", "たん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "腹": {
         "strokes": 13,
@@ -6035,7 +6032,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Marriage"],
         "readings_on": ["こん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "遊": {
         "strokes": 12,
@@ -6205,7 +6202,7 @@ data3 = {
         "jlpt_new": 3,
         "meanings": ["Ancestor", "Pioneer", "Founder"],
         "readings_on": ["そ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "雑": {
         "strokes": 14,
@@ -6234,7 +6231,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Crowded", "Mixture", "In Bulk", "Included", "(kokuji)"],
-        "readings_on": [],
+        "readings_on": ["n/a"],
         "readings_kun": ["-こ.む", "こ.む", "こ.み", "-こ.み", "こ.める"],
     },
     "欲": {
@@ -6561,7 +6558,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Complete", "Finish"],
         "readings_on": ["りょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "丸": {
         "strokes": 3,
@@ -6621,7 +6618,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Center", "Middle"],
         "readings_on": ["おう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "氷": {
         "strokes": 5,
@@ -6874,7 +6871,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Agriculture", "Farmers"],
         "readings_on": ["のう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "鉄": {
         "strokes": 13,
@@ -6965,7 +6962,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Second (1/60 Minute)"],
         "readings_on": ["びょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "競": {
         "strokes": 20,
@@ -6985,7 +6982,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Orders", "Ancient Laws", "Command", "Decree"],
         "readings_on": ["れい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "根": {
         "strokes": 10,
@@ -7005,7 +7002,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Double", "Twice", "Times", "Fold"],
         "readings_on": ["ばい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "島": {
         "strokes": 10,
@@ -7035,7 +7032,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Badge", "Chapter", "Composition", "Poem", "Design"],
         "readings_on": ["しょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "童": {
         "strokes": 12,
@@ -7146,7 +7143,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Hundred Million", "10**8"],
         "readings_on": ["おく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "課": {
         "strokes": 15,
@@ -7156,7 +7153,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Chapter", "Lesson", "Section", "Department", "Division", "Counter For Chapters (of A Book)"],
         "readings_on": ["か"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "賞": {
         "strokes": 15,
@@ -7186,7 +7183,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Statue", "Picture", "Image", "Figure", "Portrait"],
         "readings_on": ["ぞう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "卒": {
         "strokes": 8,
@@ -7206,7 +7203,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Co-", "Cooperation"],
         "readings_on": ["きょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "周": {
@@ -7247,7 +7244,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Seasons"],
         "readings_on": ["き"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "希": {
         "strokes": 7,
@@ -7267,7 +7264,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Lumber", "Log", "Timber", "Wood", "Materials", "Ingredients", "Talent"],
         "readings_on": ["ざい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "芸": {
         "strokes": 7,
@@ -7327,7 +7324,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Ward", "District"],
         "readings_on": ["く", "おう", "こう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "坂": {
         "strokes": 7,
@@ -7357,7 +7354,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Poison", "Virus", "Venom", "Germ", "Harm", "Injury", "Spite"],
         "readings_on": ["どく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "浅": {
         "strokes": 9,
@@ -7430,7 +7427,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Borough", "Urban Prefecture", "Govt Office", "Representative Body", "Storehouse"],
         "readings_on": ["ふ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "浴": {
@@ -7535,7 +7532,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Signature", "Govt Office", "Police Station"],
         "readings_on": ["しょ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "恋": {
         "strokes": 10,
@@ -7606,7 +7603,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Sheet Of...", "Counter For Flat Thin Objects Or Sheets"],
         "readings_on": ["まい", "ばい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "禁": {
         "strokes": 13,
@@ -7616,7 +7613,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Prohibition", "Ban", "Forbid"],
         "readings_on": ["きん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "喫": {
         "strokes": 12,
@@ -7646,7 +7643,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Obey", "Order", "Turn", "Right", "Docility", "Occasion"],
         "readings_on": ["じゅん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "布": {
         "strokes": 5,
@@ -7676,7 +7673,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Curriculum", "Continuation", "Passage Of Time"],
         "readings_on": ["れき", "れっき"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "冊": {
         "strokes": 5,
@@ -7696,7 +7693,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Eaves", "Roof", "House", "Heaven"],
         "readings_on": ["う"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "団": {
         "strokes": 6,
@@ -7806,7 +7803,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Individual", "Counter For Articles"],
         "readings_on": ["こ", "か"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "圧": {
         "strokes": 5,
@@ -7846,7 +7843,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["History", "Chronicle"],
         "readings_on": ["し"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "委": {
         "strokes": 8,
@@ -7866,7 +7863,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Investigate"],
         "readings_on": ["さ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "総": {
         "strokes": 14,
@@ -7906,7 +7903,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Tax", "Duty"],
         "readings_on": ["ぜい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "各": {
         "strokes": 6,
@@ -7956,7 +7953,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Vice-", "Assistant", "Aide", "Duplicate", "Copy"],
         "readings_on": ["ふく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "域": {
         "strokes": 11,
@@ -7966,7 +7963,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Range", "Region", "Limits", "Stage", "Level"],
         "readings_on": ["いき"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "停": {
         "strokes": 11,
@@ -7996,7 +7993,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Rhythm", "Law", "Regulation", "Gauge", "Control"],
         "readings_on": ["りつ", "りち", "れつ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "準": {
         "strokes": 13,
@@ -8077,7 +8074,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Transport", "Send", "Be Inferior"],
         "readings_on": ["ゆ", "しゅ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "燃": {
         "strokes": 16,
@@ -8157,7 +8154,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Stratum", "Social Class", "Layer", "Story", "Floor"],
         "readings_on": ["そう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "型": {
         "strokes": 9,
@@ -8248,7 +8245,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Marketing", "Sell", "Trade"],
         "readings_on": ["はん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "含": {
         "strokes": 7,
@@ -8389,7 +8386,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Mail", "Stagecoach Stop"],
         "readings_on": ["ゆう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "針": {
         "strokes": 10,
@@ -8409,7 +8406,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Candy", "Cakes", "Fruit"],
         "readings_on": ["か"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "河": {
         "strokes": 8,
@@ -8470,7 +8467,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Stomach", "Paunch", "Crop", "Craw"],
         "readings_on": ["い"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "悩": {
         "strokes": 10,
@@ -8530,7 +8527,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Gigantic", "Big", "Large", "Great"],
         "readings_on": ["きょ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "庫": {
         "strokes": 10,
@@ -8601,7 +8598,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Ticket"],
         "readings_on": ["けん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "移": {
         "strokes": 11,
@@ -8652,7 +8649,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Retainer", "Subject"],
         "readings_on": ["しん", "じん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "略": {
         "strokes": 11,
@@ -8672,7 +8669,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Navigate", "Sail", "Cruise", "Fly"],
         "readings_on": ["こう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "板": {
@@ -8723,7 +8720,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Printing Block", "Printing Plate", "Edition", "Impression", "Label"],
         "readings_on": ["はん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "預": {
         "strokes": 13,
@@ -8753,7 +8750,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["The Following", "Next"],
         "readings_on": ["よく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "符": {
         "strokes": 11,
@@ -8763,7 +8760,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Token", "Sign", "Mark", "Tally", "Charm"],
         "readings_on": ["ふ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "編": {
         "strokes": 15,
@@ -8813,7 +8810,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Rod", "Stick", "Cane", "Pole", "Club", "Line"],
         "readings_on": ["ぼう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "孫": {
         "strokes": 10,
@@ -8913,7 +8910,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Fluid", "Liquid", "Juice", "Sap", "Secretion"],
         "readings_on": ["えき"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "績": {
         "strokes": 17,
@@ -8923,7 +8920,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Exploits", "Achievements", "Unreeling Cocoons"],
         "readings_on": ["せき"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "複": {
         "strokes": 14,
@@ -8933,7 +8930,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Duplicate", "Double", "Compound", "Multiple"],
         "readings_on": ["ふく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "党": {
         "strokes": 10,
@@ -9004,7 +9001,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Document", "Records"],
         "readings_on": ["し"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "宝": {
         "strokes": 8,
@@ -9135,7 +9132,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Genuine", "Purity", "Innocence", "Net (profit)"],
         "readings_on": ["じゅん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "紅": {
         "strokes": 9,
@@ -9165,7 +9162,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Drama", "Play"],
         "readings_on": ["げき"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "承": {
         "strokes": 8,
@@ -9215,7 +9212,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Lecture", "Club", "Association"],
         "readings_on": ["こう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "紹": {
         "strokes": 11,
@@ -9225,7 +9222,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Introduce", "Inherit", "Help"],
         "readings_on": ["しょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "介": {
         "strokes": 4,
@@ -9235,7 +9232,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Jammed In", "Shellfish", "Mediate", "Concern Oneself With"],
         "readings_on": ["かい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "湖": {
         "strokes": 12,
@@ -9286,7 +9283,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Surname"],
         "readings_on": ["せい", "しょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "貿": {
         "strokes": 12,
@@ -9296,7 +9293,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Trade", "Exchange"],
         "readings_on": ["ぼう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "将": {
         "strokes": 10,
@@ -9356,7 +9353,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Heal", "Cure"],
         "readings_on": ["りょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "般": {
         "strokes": 10,
@@ -9366,7 +9363,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Carrier", "Carry", "All", "General", "Sort", "Kind"],
         "readings_on": ["はん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "依": {
@@ -9477,7 +9474,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Publish", "Carve", "Engrave"],
         "readings_on": ["かん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "傾": {
         "strokes": 13,
@@ -9567,7 +9564,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Stop-over", "Reside In", "Resident"],
         "readings_on": ["ちゅう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "柱": {
         "strokes": 9,
@@ -9737,7 +9734,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Enroll", "Domiciliary Register", "Membership"],
         "readings_on": ["せき"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "刷": {
         "strokes": 8,
@@ -9757,7 +9754,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Seal", "Closing"],
         "readings_on": ["ふう", "ほう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "筒": {
         "strokes": 12,
@@ -9857,7 +9854,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Pagoda", "Tower", "Steeple"],
         "readings_on": ["とう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "肌": {
         "strokes": 6,
@@ -10007,7 +10004,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Livestock", "Domestic Fowl And Animals"],
         "readings_on": ["ちく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "溶": {
         "strokes": 13,
@@ -10207,7 +10204,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Outskirts", "Suburbs", "Rural Area"],
         "readings_on": ["こう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "隅": {
         "strokes": 12,
@@ -10227,7 +10224,7 @@ data2 = {
         "jlpt_new": 2,
         "meanings": ["Vessels", "Counter For Ships", "Fish", "Birds", "Arrows", "One Of A Pair"],
         "readings_on": ["せき"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     }
 };
 data1 = {
@@ -10329,7 +10326,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Class", "Rank", "Grade"],
         "readings_on": ["きゅう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "功": {
         "strokes": 5,
@@ -10349,7 +10346,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["No.", "Residence"],
         "readings_on": ["だい", "てい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "暑": {
         "strokes": 12,
@@ -10486,7 +10483,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Gentle", "Peace", "Depravity"],
         "readings_on": ["だ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "雰": {
         "strokes": 12,
@@ -10496,7 +10493,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Atmosphere", "Fog"],
         "readings_on": ["ふん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "頑": {
         "strokes": 13,
@@ -10542,7 +10539,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Chronicle", "Account", "Narrative", "History", "Annals", "Geologic Period"],
         "readings_on": ["き"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
 
@@ -10555,7 +10552,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Code", "Ceremony", "Law", "Rule"],
         "readings_on": ["てん", "でん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
 
@@ -10611,7 +10608,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Superfluous", "Uselessness"],
         "readings_on": ["じょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "阪": {
         "strokes": 7,
@@ -10723,7 +10720,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Vapor", "Steam"],
         "readings_on": ["き"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
 
@@ -10735,7 +10732,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Buddhist Priest", "Monk"],
         "readings_on": ["そう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "禅": {
         "strokes": 13,
@@ -10765,7 +10762,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Phrase", "Clause", "Sentence", "Passage", "Paragraph", "Counter For Haiku"],
         "readings_on": ["く"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "節": {
         "strokes": 13,
@@ -10786,7 +10783,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Descendants", "Elder Brother", "Insect"],
         "readings_on": ["こん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "閥": {
         "strokes": 14,
@@ -10796,7 +10793,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Clique", "Lineage", "Pedigree", "Faction", "Clan"],
         "readings_on": ["ばつ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "舌": {
@@ -10818,7 +10815,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Mid-air", "Air", "Space", "Sky", "Memorization", "Interval Of Time"],
         "readings_on": ["ちゅう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "履": {
@@ -10886,7 +10883,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Abundant", "Rich", "Fertile"],
         "readings_on": ["ゆう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "尻": {
@@ -10989,7 +10986,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Faction", "Group", "Party", "Clique", "Sect", "School"],
         "readings_on": ["は"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "岡": {
         "strokes": 8,
@@ -11020,7 +11017,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Evaluate", "Criticism", "Comment"],
         "readings_on": ["ひょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "批": {
         "strokes": 7,
@@ -11030,7 +11027,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Criticism", "Strike"],
         "readings_on": ["ひ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "検": {
@@ -11084,7 +11081,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Righteousness", "Justice", "Morality", "Honor", "Loyalty", "Meaning"],
         "readings_on": ["ぎ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "罰": {
         "strokes": 14,
@@ -11104,7 +11101,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Nativity", "Be Born", "Declension", "Lie", "Be Arbitrary"],
         "readings_on": ["たん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "脱": {
         "strokes": 11,
@@ -11125,7 +11122,7 @@ data1 = {
         "jlpt_new": null,
         "meanings": ["Boy", "Priest's Residence", "Priest"],
         "readings_on": ["ぼう", "ぼっ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "宮": {
@@ -11181,7 +11178,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Scheme", "Plan", "Policy", "Step", "Means"],
         "readings_on": ["さく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "藤": {
         "strokes": 18,
@@ -11232,7 +11229,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Abet", "Help", "Save"],
         "readings_on": ["えん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "態": {
@@ -11253,7 +11250,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Congratulations", "Joy"],
         "readings_on": ["が"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
 
@@ -11375,7 +11372,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Haiku", "Actor"],
         "readings_on": ["はい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "秀": {
         "strokes": 7,
@@ -11396,7 +11393,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Made In...", "Manufacture"],
         "readings_on": ["せい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
 
@@ -11454,7 +11451,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Unfold", "Expand"],
         "readings_on": ["てん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "株": {
@@ -11499,7 +11496,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Ballot", "Label", "Ticket", "Sign"],
         "readings_on": ["ひょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "訴": {
@@ -11520,7 +11517,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Sue", "Accuse"],
         "readings_on": ["しょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "逮": {
         "strokes": 11,
@@ -11530,7 +11527,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Apprehend", "Chase"],
         "readings_on": ["たい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
 
@@ -11542,7 +11539,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Imitation", "Copy", "Mock"],
         "readings_on": ["も", "ぼ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "鮮": {
         "strokes": 17,
@@ -11883,7 +11880,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Symptoms", "Illness"],
         "readings_on": ["しょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "締": {
         "strokes": 15,
@@ -11937,7 +11934,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Ease", "Peace"],
         "readings_on": ["こう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "郎": {
         "strokes": 9,
@@ -11970,7 +11967,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Dr.", "Command", "Esteem", "Win Acclaim", "Ph.d.", "Exposition", "Fair"],
         "readings_on": ["はく", "ばく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "潔": {
@@ -11992,7 +11989,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Regiment", "Party", "Company", "Squad"],
         "readings_on": ["たい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "修": {
         "strokes": 10,
@@ -12065,7 +12062,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Constitution", "Law"],
         "readings_on": ["けん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "衆": {
         "strokes": 12,
@@ -12125,7 +12122,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Oversee", "Official", "Govt Office", "Rule", "Administer"],
         "readings_on": ["かん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "催": {
@@ -12217,7 +12214,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Tower", "Tall Building", "Palace"],
         "readings_on": ["かく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "僚": {
         "strokes": 14,
@@ -12227,7 +12224,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Colleague", "Official", "Companion"],
         "readings_on": ["りょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "督": {
@@ -12238,7 +12235,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Coach", "Command", "Urge", "Lead", "Supervise"],
         "readings_on": ["とく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "街": {
@@ -12301,7 +12298,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Fierce", "Rave", "Rush", "Become Furious", "Wildness", "Strength"],
         "readings_on": ["もう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "烈": {
         "strokes": 10,
@@ -12321,7 +12318,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Cord", "Rope", "Searching", "Inquiring"],
         "readings_on": ["さく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "詳": {
@@ -12342,7 +12339,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Fascination", "Charm", "Bewitch"],
         "readings_on": ["み"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "渇": {
         "strokes": 11,
@@ -12362,7 +12359,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Lineage", "System"],
         "readings_on": ["けい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "旗": {
@@ -12439,7 +12436,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Subscription", "Buy"],
         "readings_on": ["こう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "飾": {
@@ -12556,7 +12553,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Corridor", "Hall", "Tower"],
         "readings_on": ["ろう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "驚": {
@@ -12651,7 +12648,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Benevolence", "Virtue", "Goodness", "Commanding Respect"],
         "readings_on": ["とく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "偵": {
@@ -12662,7 +12659,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Spy"],
         "readings_on": ["てい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "綺": {
         "strokes": 14,
@@ -12703,7 +12700,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Grace", "Kindness", "Goodness", "Favor", "Mercy", "Blessing", "Benefit"],
         "readings_on": ["おん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "桜": {
@@ -12747,7 +12744,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Defense", "Protection"],
         "readings_on": ["えい", "え"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
 
@@ -12898,7 +12895,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Loyalty", "Fidelity", "Faithfulness"],
         "readings_on": ["ちゅう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "拡": {
         "strokes": 8,
@@ -12949,7 +12946,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Emperor"],
         "readings_on": ["こう", "おう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "盛": {
         "strokes": 11,
@@ -12969,7 +12966,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Vague", "Obscure", "Desert", "Wide"],
         "readings_on": ["ばく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "糖": {
         "strokes": 16,
@@ -12979,7 +12976,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Sugar"],
         "readings_on": ["とう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "納": {
         "strokes": 10,
@@ -12999,7 +12996,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Lungs"],
         "readings_on": ["はい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "賃": {
@@ -13010,7 +13007,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Fare", "Fee", "Hire", "Rent", "Wages", "Charge"],
         "readings_on": ["ちん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
 
@@ -13124,7 +13121,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Magnet", "Porcelain"],
         "readings_on": ["じ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "射": {
@@ -13294,7 +13291,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Unlucky", "Misfortune", "Bad Luck", "Disaster"],
         "readings_on": ["やく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "亀": {
         "strokes": 11,
@@ -13396,7 +13393,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Prison", "Jail"],
         "readings_on": ["ごく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "酔": {
         "strokes": 11,
@@ -13448,7 +13445,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Alliance", "Oath"],
         "readings_on": ["めい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "遺": {
         "strokes": 15,
@@ -13468,7 +13465,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Bond", "Loan", "Debt"],
         "readings_on": ["さい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "及": {
         "strokes": 3,
@@ -13520,7 +13517,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Nucleus", "Core", "Kernel"],
         "readings_on": ["かく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "沖": {
         "strokes": 7,
@@ -13581,7 +13578,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Fiber", "Tie", "Rope"],
         "readings_on": ["い"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "伎": {
@@ -13623,7 +13620,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Consent", "Assent", "Agreement"],
         "readings_on": ["だく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "牙": {
         "strokes": 5,
@@ -13653,7 +13650,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Shining", "Bright"],
         "readings_on": ["しょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "償": {
@@ -13674,7 +13671,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Punish", "Penalty", "Sentence", "Punishment"],
         "readings_on": ["けい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "執": {
@@ -13727,7 +13724,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Resist", "Reach", "Touch"],
         "readings_on": ["てい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "旬": {
         "strokes": 6,
@@ -13737,7 +13734,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Decameron", "Ten-day Period", "Season (for Specific Products)"],
         "readings_on": ["じゅん", "しゅん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "弾": {
@@ -13789,7 +13786,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Camp", "Battle Array", "Ranks", "Position", "Sudden", "Brief Time"],
         "readings_on": ["じん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "臨": {
@@ -13871,7 +13868,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Demand", "Request", "Need"],
         "readings_on": ["じゅ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "宜": {
@@ -13922,7 +13919,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["With Child", "Pregnancy"],
         "readings_on": ["しん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "致": {
         "strokes": 10,
@@ -14054,7 +14051,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Tray", "Shallow Bowl", "Platter", "Tub", "Board", "Phonograph Record"],
         "readings_on": ["ばん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "称": {
         "strokes": 10,
@@ -14148,7 +14145,7 @@ data1 = {
         "jlpt_new": null,
         "meanings": ["Hill", "Mound", "Left Village Radical (no. 170)"],
         "readings_on": ["ふ", "ふう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "岐": {
         "strokes": 7,
@@ -14158,7 +14155,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Branch Off", "Fork In Road", "Scene", "Arena", "Theater"],
         "readings_on": ["き", "ぎ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "隆": {
         "strokes": 11,
@@ -14168,7 +14165,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Hump", "High", "Noble", "Prosperity"],
         "readings_on": ["りゅう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "控": {
@@ -14220,7 +14217,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Hermit", "Wizard", "Cent"],
         "readings_on": ["せん", "せんと"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "充": {
         "strokes": 6,
@@ -14311,7 +14308,7 @@ data1 = {
         "jlpt_old": 1,
         "jlpt_new": 1,
         "meanings": ["Frame", "Framework", "Spindle", "Spool", "Bounding-box", "(kokuji)"],
-        "readings_on": [],
+        "readings_on": ["n/a"],
         "readings_kun": ["わく"],
     },
     "甲": {
@@ -14332,7 +14329,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Beautiful", "Patterned"],
         "readings_on": ["ひ", "い"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "祉": {
         "strokes": 8,
@@ -14342,7 +14339,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Welfare", "Happiness"],
         "readings_on": ["し"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "稲": {
         "strokes": 14,
@@ -14454,7 +14451,7 @@ data1 = {
         "jlpt_new": null,
         "meanings": ["Filial Piety", "Child's Respect"],
         "readings_on": ["こう", "きょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "俊": {
         "strokes": 9,
@@ -14464,7 +14461,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Sagacious", "Genius", "Excellence"],
         "readings_on": ["しゅん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "兼": {
         "strokes": 10,
@@ -14524,7 +14521,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Repudiate", "Exclude", "Expel", "Reject", "Line Up", "Arrange"],
         "readings_on": ["はい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "携": {
         "strokes": 13,
@@ -14698,7 +14695,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Penetrate", "Clear", "Pierce", "Strike Home", "Sit Up (all Night)"],
         "readings_on": ["てつ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "瀬": {
         "strokes": 19,
@@ -14718,7 +14715,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Remove", "Withdraw", "Disarm", "Dismantle", "Reject", "Exclude"],
         "readings_on": ["てつ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "措": {
         "strokes": 11,
@@ -14748,7 +14745,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Ceremony", "Rule", "Affair", "Case", "A Matter"],
         "readings_on": ["ぎ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "樹": {
         "strokes": 16,
@@ -14818,7 +14815,7 @@ data1 = {
         "jlpt_new": null,
         "meanings": ["Honey", "Nectar", "Molasses"],
         "readings_on": ["みつ", "びつ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "墟": {
         "strokes": 15,
@@ -14838,7 +14835,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Warship"],
         "readings_on": ["かん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "潜": {
         "strokes": 15,
@@ -14868,7 +14865,7 @@ data1 = {
         "jlpt_old": 2,
         "jlpt_new": null,
         "meanings": ["Farm", "Field", "Garden", "One's Specialty", "(kokuji)"],
-        "readings_on": [],
+        "readings_on": ["n/a"],
         "readings_kun": ["はた", "はたけ", "-ばたけ"],
     },
 
@@ -14880,7 +14877,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Humanity", "Virtue", "Benevolence", "Charity", "Man", "Kernel"],
         "readings_on": ["じん", "に", "にん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "至": {
@@ -14994,7 +14991,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Arc", "Arch", "Bow"],
         "readings_on": ["こ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "挑": {
         "strokes": 9,
@@ -15065,7 +15062,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Chop", "Divide", "Tear", "Analyze"],
         "readings_on": ["せき"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "枢": {
         "strokes": 8,
@@ -15085,7 +15082,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Axis", "Pivot", "Stem", "Stalk", "Counter For Book Scrolls"],
         "readings_on": ["じく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "柄": {
         "strokes": 9,
@@ -15136,7 +15133,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Pattern", "Example", "Model"],
         "readings_on": ["はん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "紛": {
         "strokes": 10,
@@ -15401,7 +15398,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Slap", "Strike", "Hit", "Beat", "Tell", "Speak"],
         "readings_on": ["ぼく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "斉": {
         "strokes": 8,
@@ -15442,7 +15439,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Peaceful", "Calm", "Peace", "Easy", "Thailand", "Extreme", "Excessive", "Great"],
         "readings_on": ["たい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "滅": {
         "strokes": 13,
@@ -15462,7 +15459,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Nourishing", "More & More", "Be Luxuriant", "Planting", "Turbidity"],
         "readings_on": ["じ", "し"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "炉": {
         "strokes": 8,
@@ -15492,7 +15489,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Measurement", "Tenth Of A Shaku", "A Little", "Small"],
         "readings_on": ["すん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "竜": {
         "strokes": 10,
@@ -15613,7 +15610,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Recreation", "Pleasure"],
         "readings_on": ["ご"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "斗": {
         "strokes": 4,
@@ -15623,7 +15620,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Big Dipper", "Ten Sho (vol)", "Sake Dipper", "Dots And Cross Radical (no. 68)"],
         "readings_on": ["と", "とう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "朱": {
         "strokes": 6,
@@ -15727,7 +15724,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Cannon", "Gun"],
         "readings_on": ["ほう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "雷": {
         "strokes": 13,
@@ -15789,7 +15786,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Villain", "Evil", "Bad Luck", "Disaster"],
         "readings_on": ["きょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "塊": {
         "strokes": 13,
@@ -15930,7 +15927,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Cram School", "Private School"],
         "readings_on": ["じゅく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "卓": {
         "strokes": 8,
@@ -15940,7 +15937,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Eminent", "Table", "Desk", "High"],
         "readings_on": ["たく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "菌": {
@@ -15951,7 +15948,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Germ", "Fungus", "Bacteria"],
         "readings_on": ["きん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "陰": {
         "strokes": 11,
@@ -16073,7 +16070,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Witch", "Demon", "Evil Spirit"],
         "readings_on": ["ま"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "寮": {
         "strokes": 15,
@@ -16083,7 +16080,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Dormitory", "Hostel", "Villa", "Tea Pavillion"],
         "readings_on": ["りょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "盆": {
         "strokes": 9,
@@ -16093,7 +16090,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Basin", "Lantern Festival", "Tray"],
         "readings_on": ["ぼん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "棟": {
         "strokes": 12,
@@ -16143,7 +16140,7 @@ data1 = {
         "jlpt_new": null,
         "meanings": ["Chair"],
         "readings_on": ["い"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "猿": {
@@ -16185,7 +16182,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Go"],
         "readings_on": ["ご"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "租": {
         "strokes": 10,
@@ -16195,7 +16192,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Tariff", "Crop Tax", "Borrowing"],
         "readings_on": ["そ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "幽": {
         "strokes": 9,
@@ -16285,7 +16282,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Chrysanthemum"],
         "readings_on": ["きく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "誇": {
         "strokes": 13,
@@ -16305,7 +16302,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Level", "In The Country", "Manor", "Village", "Hamlet"],
         "readings_on": ["しょう", "そ", "そう", "ほう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "阻": {
         "strokes": 8,
@@ -16375,7 +16372,7 @@ data1 = {
         "jlpt_new": null,
         "meanings": ["Cosmetics", "Adorn (one's Person)"],
         "readings_on": ["しょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "欺": {
         "strokes": 12,
@@ -16435,7 +16432,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Assistant", "Help"],
         "readings_on": ["さ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "尺": {
         "strokes": 4,
@@ -16445,7 +16442,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Shaku", "Japanese Foot", "Measure", "Scale", "Rule"],
         "readings_on": ["しゃく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "哀": {
         "strokes": 9,
@@ -16475,7 +16472,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Fence", "Wall", "(kokuji)"],
         "readings_on": ["へい", "べい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "墜": {
         "strokes": 15,
@@ -16639,7 +16636,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Trunk", "Torso", "Hull (ship)", "Hub Of Wheel"],
         "readings_on": ["どう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "芯": {
         "strokes": 7,
@@ -16649,7 +16646,7 @@ data1 = {
         "jlpt_new": null,
         "meanings": ["Wick"],
         "readings_on": ["しん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "虹": {
         "strokes": 9,
@@ -16719,7 +16716,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Bowl", "Rice Tub", "Pot", "Crown"],
         "readings_on": ["はち", "はつ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "闇": {
         "strokes": 17,
@@ -16780,7 +16777,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Swift", "Fast"],
         "readings_on": ["じん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "騎": {
         "strokes": 18,
@@ -16790,7 +16787,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Equestrian", "Riding On Horses", "Counter For Equestrians"],
         "readings_on": ["き"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "蓄": {
         "strokes": 13,
@@ -16830,7 +16827,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Recollection", "Think", "Remember"],
         "readings_on": ["おく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "耐": {
@@ -16923,7 +16920,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Squad", "Corps", "Unit", "Group"],
         "readings_on": ["はん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "斜": {
@@ -16964,7 +16961,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Harvest", "Reap"],
         "readings_on": ["かく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "巾": {
         "strokes": 3,
@@ -17084,7 +17081,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Sturdy", "Strength"],
         "readings_on": ["ごう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "唯": {
         "strokes": 11,
@@ -17104,7 +17101,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Podium", "Stage", "Rostrum", "Terrace"],
         "readings_on": ["だん", "たん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "尼": {
         "strokes": 5,
@@ -17204,7 +17201,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Subjugate", "Attack The Rebellious", "Collect Taxes"],
         "readings_on": ["せい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "陛": {
         "strokes": 10,
@@ -17214,7 +17211,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Highness", "Steps (of Throne)"],
         "readings_on": ["へい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "俗": {
         "strokes": 9,
@@ -17224,7 +17221,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Vulgar", "Customs", "Manners", "Worldliness", "Mundane Things"],
         "readings_on": ["ぞく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "桑": {
         "strokes": 10,
@@ -17294,7 +17291,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Intuition", "Perception", "Check", "Compare", "Sixth Sense"],
         "readings_on": ["かん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "妃": {
         "strokes": 6,
@@ -17354,7 +17351,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Burdensome", "Pack Horse", "Horse Load", "Send By Horse", "Trivial", "Worthless"],
         "readings_on": ["だ", "た"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "唐": {
         "strokes": 10,
@@ -17374,7 +17371,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Courts", "Imperial Court", "Government Office"],
         "readings_on": ["てい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "鬱": {
         "strokes": 29,
@@ -17414,7 +17411,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Register", "Record Book"],
         "readings_on": ["ぼ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "彰": {
         "strokes": 14,
@@ -17424,7 +17421,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Patent", "Clear"],
         "readings_on": ["しょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "漫": {
         "strokes": 14,
@@ -17464,7 +17461,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Inscription", "Signature (of Artisan)"],
         "readings_on": ["めい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "堰": {
         "strokes": 12,
@@ -17514,7 +17511,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Rut", "Wheel", "Track", "Model", "Way Of Doing"],
         "readings_on": ["き"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "后": {
         "strokes": 6,
@@ -17544,7 +17541,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Pavilion", "Restaurant", "Mansion", "Arbor", "Cottage", "Vaudeville", "Music Hall", "Stage Name"],
         "readings_on": ["てい", "ちん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "仰": {
         "strokes": 6,
@@ -17564,7 +17561,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Chief", "Count", "Earl", "Uncle", "Brazil"],
         "readings_on": ["はく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
 
     "淀": {
@@ -17585,7 +17582,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Tomb", "Mound"],
         "readings_on": ["ふん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "壮": {
         "strokes": 6,
@@ -17605,7 +17602,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Grasp", "Faggot", "Bunch", "Counter For Bundles"],
         "readings_on": ["は", "わ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "搬": {
         "strokes": 13,
@@ -17615,7 +17612,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Conveyor", "Carry", "Transport"],
         "readings_on": ["はん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "晶": {
         "strokes": 12,
@@ -17625,7 +17622,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Sparkle", "Clear", "Crystal"],
         "readings_on": ["しょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "洞": {
         "strokes": 9,
@@ -17655,7 +17652,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Epidemic"],
         "readings_on": ["えき", "やく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "孔": {
         "strokes": 4,
@@ -17707,7 +17704,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Obese", "Fat"],
         "readings_on": ["ぼう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "喚": {
         "strokes": 12,
@@ -17897,7 +17894,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Hug", "Embrace", "Possess", "Protect", "Lead"],
         "readings_on": ["よう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "孤": {
         "strokes": 9,
@@ -17907,7 +17904,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Orphan", "Alone"],
         "readings_on": ["こ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "賠": {
         "strokes": 15,
@@ -17917,7 +17914,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Compensation", "Indemnify"],
         "readings_on": ["ばい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "鎖": {
         "strokes": 18,
@@ -17957,7 +17954,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Animal Sacrifice", "Offering"],
         "readings_on": ["せい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "秩": {
         "strokes": 10,
@@ -17967,7 +17964,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Regularity", "Salary", "Order"],
         "readings_on": ["ちつ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "唆": {
         "strokes": 10,
@@ -18017,7 +18014,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Ethics", "Companion"],
         "readings_on": ["りん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "陳": {
         "strokes": 11,
@@ -18087,7 +18084,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Ridicule", "Laziness"],
         "readings_on": ["まん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "没": {
         "strokes": 7,
@@ -18127,7 +18124,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Lazy", "Laziness"],
         "readings_on": ["だ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "猟": {
         "strokes": 11,
@@ -18207,7 +18204,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Placenta", "Sac", "Sheath"],
         "readings_on": ["ほう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "浄": {
         "strokes": 9,
@@ -18267,7 +18264,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Shop", "Store", "Pave"],
         "readings_on": ["ほ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "騰": {
         "strokes": 20,
@@ -18297,7 +18294,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Rowboat", "Small Boat"],
         "readings_on": ["てい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "披": {
         "strokes": 8,
@@ -18307,7 +18304,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Expose", "Open"],
         "readings_on": ["ひ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "錦": {
         "strokes": 16,
@@ -18327,7 +18324,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Quasi-", "Semi-", "Associate"],
         "readings_on": ["じゅん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "剰": {
         "strokes": 11,
@@ -18347,7 +18344,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Slender", "Fine", "Thin Kimono"],
         "readings_on": ["せん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "諭": {
         "strokes": 16,
@@ -18407,7 +18404,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Board", "Load (a Vehicle)", "Ride"],
         "readings_on": ["とう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "蒙": {
         "strokes": 13,
@@ -18487,7 +18484,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Commander", "Leading Troops", "Governor"],
         "readings_on": ["すい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "啓": {
         "strokes": 11,
@@ -18537,7 +18534,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Jasmine"],
         "readings_on": ["り", "らい", "れい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "鯨": {
         "strokes": 19,
@@ -18567,7 +18564,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Plantation", "Planting"],
         "readings_on": ["さい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "拐": {
         "strokes": 8,
@@ -18577,7 +18574,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Kidnap", "Falsify"],
         "readings_on": ["かい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "冠": {
         "strokes": 9,
@@ -18617,7 +18614,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Family Crest", "Figures"],
         "readings_on": ["もん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "卸": {
         "strokes": 9,
@@ -18697,7 +18694,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Commoner", "All", "Bastard"],
         "readings_on": ["しょ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "践": {
         "strokes": 13,
@@ -18717,7 +18714,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Display", "Offer", "Present", "Send", "Exhibit"],
         "readings_on": ["てい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "疎": {
         "strokes": 12,
@@ -18857,7 +18854,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Permanence", "Distant", "Long Time", "Leisure"],
         "readings_on": ["ゆう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "杏": {
         "strokes": 7,
@@ -18946,7 +18943,7 @@ data1 = {
         "jlpt_old": null,
         "jlpt_new": null,
         "meanings": ["Horse Chestnut", "(kokuji)"],
-        "readings_on": [],
+        "readings_on": ["n/a"],
         "readings_kun": ["とち"],
     },
     "惜": {
@@ -18967,7 +18964,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Excellent", "Beautiful", "Good", "Pleasing", "Skilled"],
         "readings_on": ["か"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "悼": {
         "strokes": 11,
@@ -18987,7 +18984,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Above-stated", "The Said", "That Specific"],
         "readings_on": ["がい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "赴": {
         "strokes": 9,
@@ -19007,7 +19004,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Marrow", "Pith", "Essence"],
         "readings_on": ["ずい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "傍": {
         "strokes": 12,
@@ -19027,7 +19024,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Accumulate", "Involvement", "Trouble", "Tie Up", "Continually"],
         "readings_on": ["るい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "癒": {
         "strokes": 18,
@@ -19067,7 +19064,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["V.i.p.", "Guest"],
         "readings_on": ["ひん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "虜": {
         "strokes": 13,
@@ -19117,7 +19114,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Sequential", "Follow"],
         "readings_on": ["じゅん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "凝": {
         "strokes": 16,
@@ -19177,7 +19174,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Rub", "Paint", "Erase"],
         "readings_on": ["まつ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "栓": {
         "strokes": 10,
@@ -19187,7 +19184,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Plug", "Bolt", "Cork", "Bung", "Stopper"],
         "readings_on": ["せん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "之": {
         "strokes": 3,
@@ -19217,7 +19214,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Distant"],
         "readings_on": ["りょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "瑛": {
         "strokes": 12,
@@ -19227,7 +19224,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Sparkle Of Jewelry", "Crystal"],
         "readings_on": ["えい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "那": {
         "strokes": 7,
@@ -19247,7 +19244,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Clap", "Beat (music)"],
         "readings_on": ["はく", "ひょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "猶": {
         "strokes": 12,
@@ -19267,7 +19264,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Superintend", "Manager", "Rule"],
         "readings_on": ["さい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "寂": {
         "strokes": 11,
@@ -19327,7 +19324,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Confused", "Mix", "Be In Disorder"],
         "readings_on": ["さく", "しゃく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "穀": {
         "strokes": 14,
@@ -19337,7 +19334,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Cereals", "Grain"],
         "readings_on": ["こく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "陵": {
         "strokes": 11,
@@ -19357,7 +19354,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Abuse", "Evil", "Vice", "Breakage"],
         "readings_on": ["へい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "舶": {
         "strokes": 11,
@@ -19367,7 +19364,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Liner", "Ship"],
         "readings_on": ["はく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "窮": {
         "strokes": 15,
@@ -19427,7 +19424,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Plug Up", "Obstruct"],
         "readings_on": ["ちつ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "洪": {
         "strokes": 9,
@@ -19437,7 +19434,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Deluge", "Flood", "Vast"],
         "readings_on": ["こう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "摂": {
         "strokes": 13,
@@ -19467,7 +19464,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Sire", "Good Belt", "Gentleman"],
         "readings_on": ["しん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "庸": {
         "strokes": 11,
@@ -19477,7 +19474,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Commonplace", "Ordinary", "Employment"],
         "readings_on": ["よう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "靖": {
         "strokes": 13,
@@ -19517,7 +19514,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Butterfly"],
         "readings_on": ["ちょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "碑": {
         "strokes": 14,
@@ -19537,7 +19534,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Military Officer", "Jailer", "Old Man", "Rank"],
         "readings_on": ["い", "じょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "凛": {
         "strokes": 15,
@@ -19577,7 +19574,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Wisdom", "Intellect", "Reason"],
         "readings_on": ["ち"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "柴": {
         "strokes": 10,
@@ -19597,7 +19594,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Burglar", "Rebel", "Traitor", "Robber"],
         "readings_on": ["ぞく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "鼓": {
         "strokes": 13,
@@ -19677,7 +19674,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Dark Blue", "Navy"],
         "readings_on": ["こん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "羅": {
         "strokes": 19,
@@ -19707,7 +19704,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Stipend", "Salary"],
         "readings_on": ["ほう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "醸": {
         "strokes": 20,
@@ -19757,7 +19754,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Equilibrium", "Measuring Rod", "Scale"],
         "readings_on": ["こう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "款": {
         "strokes": 12,
@@ -19767,7 +19764,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Goodwill", "Article", "Section", "Friendship", "Collusion"],
         "readings_on": ["かん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "閲": {
         "strokes": 15,
@@ -19787,7 +19784,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Hoarse", "Scold"],
         "readings_on": ["かつ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "敢": {
         "strokes": 12,
@@ -19807,7 +19804,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Membrane"],
         "readings_on": ["まく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "盲": {
         "strokes": 8,
@@ -19827,7 +19824,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Womb", "Uterus"],
         "readings_on": ["たい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "酵": {
         "strokes": 14,
@@ -19837,7 +19834,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Fermentation"],
         "readings_on": ["こう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "堕": {
         "strokes": 12,
@@ -19927,7 +19924,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Lapis Lazuli"],
         "readings_on": ["る", "りゅう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "萌": {
         "strokes": 11,
@@ -19947,7 +19944,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Sulphur"],
         "readings_on": ["りゅう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "赦": {
         "strokes": 11,
@@ -19957,7 +19954,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Pardon", "Forgiveness"],
         "readings_on": ["しゃ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "窃": {
         "strokes": 9,
@@ -19977,7 +19974,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Rue", "Be Sad", "Sigh", "Lament"],
         "readings_on": ["がい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "扶": {
         "strokes": 7,
@@ -20077,7 +20074,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Clan", "Enclosure"],
         "readings_on": ["はん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "媒": {
         "strokes": 12,
@@ -20117,7 +20114,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Transfer", "Alternation"],
         "readings_on": ["てつ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "椎": {
         "strokes": 12,
@@ -20147,7 +20144,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Obeisance", "Follow", "Accompany", "Attend On"],
         "readings_on": ["ばい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "剖": {
         "strokes": 10,
@@ -20157,7 +20154,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Divide"],
         "readings_on": ["ぼう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "譜": {
         "strokes": 19,
@@ -20167,7 +20164,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Musical Score", "Music", "Note", "Staff", "Table", "Genealogy"],
         "readings_on": ["ふ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "淑": {
         "strokes": 11,
@@ -20237,7 +20234,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Lock", "Fetters", "Shackles"],
         "readings_on": ["じょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "凌": {
         "strokes": 10,
@@ -20287,7 +20284,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Glassy", "Lapis Lazuli"],
         "readings_on": ["り"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "遷": {
         "strokes": 15,
@@ -20316,7 +20313,7 @@ data1 = {
         "jlpt_old": 1,
         "jlpt_new": 1,
         "meanings": ["Mountain Peak", "Mountain Pass", "Climax", "Crest", "(kokuji)"],
-        "readings_on": [],
+        "readings_on": ["n/a"],
         "readings_kun": ["とうげ"],
     },
     "篤": {
@@ -20337,7 +20334,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Uncle", "Youth"],
         "readings_on": ["しゅく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "雌": {
         "strokes": 14,
@@ -20367,7 +20364,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Versify", "Singing", "Recital"],
         "readings_on": ["ぎん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "甚": {
         "strokes": 9,
@@ -20427,7 +20424,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Reef", "Sunken Rock"],
         "readings_on": ["しょう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "屯": {
         "strokes": 4,
@@ -20447,7 +20444,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Matrimony", "Marry"],
         "readings_on": ["いん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "擬": {
         "strokes": 17,
@@ -20477,7 +20474,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Leisure"],
         "readings_on": ["かん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "曹": {
         "strokes": 11,
@@ -20487,7 +20484,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Office", "Official", "Comrade", "Fellow"],
         "readings_on": ["そう", "ぞう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "詠": {
         "strokes": 12,
@@ -20557,7 +20554,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Wandering", "Waves", "Billows", "Reckless", "Unrestrained"],
         "readings_on": ["ろう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "禍": {
         "strokes": 13,
@@ -20577,7 +20574,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Dairy Products", "Whey", "Broth", "Fruit Juice"],
         "readings_on": ["らく"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "憧": {
         "strokes": 15,
@@ -20667,7 +20664,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Widow", "Minority", "Few"],
         "readings_on": ["か"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "痢": {
         "strokes": 12,
@@ -20677,7 +20674,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Diarrhea"],
         "readings_on": ["り"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "坑": {
         "strokes": 7,
@@ -20687,7 +20684,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Pit", "Hole"],
         "readings_on": ["こう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "藍": {
         "strokes": 18,
@@ -20727,7 +20724,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Torture", "Beat"],
         "readings_on": ["ごう"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "渓": {
         "strokes": 11,
@@ -20747,7 +20744,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Bargain", "Reason", "Charge", "Suspicion", "Point", "Account", "Purity", "Honest", "Low Price", "Cheap", "Rested", "Contented", "Peaceful"],
         "readings_on": ["れん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "謹": {
         "strokes": 17,
@@ -20797,7 +20794,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Martyrdom", "Follow By Resigning"],
         "readings_on": ["じゅん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "煩": {
         "strokes": 13,
@@ -20817,7 +20814,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Censure", "Criminal Investigation"],
         "readings_on": ["がい"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "桟": {
         "strokes": 10,
@@ -20897,7 +20894,7 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Ooze", "Flow", "Soak In", "Penetrate", "Secrete"],
         "readings_on": ["ひつ", "ひ"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     },
     "漸": {
         "strokes": 14,
@@ -20967,6 +20964,6 @@ data1 = {
         "jlpt_new": 1,
         "meanings": ["Majestic Plural", "Imperial We"],
         "readings_on": ["ちん"],
-        "readings_kun": [],
+        "readings_kun": ["n/a"],
     }
 };

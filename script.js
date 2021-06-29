@@ -257,7 +257,7 @@ function handleKanaClickStudy4() {
         messageBox.textContent = 'try again.'
         setTimeout(() => {
             messageBox.textContent = "";
-        })
+        }, 800)
     }
 }
 function handleKanaClickStudy3() {
@@ -272,7 +272,7 @@ function handleKanaClickStudy3() {
         messageBox.textContent = 'try again.'
         setTimeout(() => {
             messageBox.textContent = "";
-        })
+        }, 800)
     }
 }
 function handleKanaClickStudy2() {
@@ -287,7 +287,7 @@ function handleKanaClickStudy2() {
         messageBox.textContent = 'try again.'
         setTimeout(() => {
             messageBox.textContent = "";
-        })
+        }, 800)
     }
 }
 function handleKanaClickStudy() {
@@ -302,7 +302,7 @@ function handleKanaClickStudy() {
         messageBox.textContent = 'try again.'
         setTimeout(() => {
             messageBox.textContent = "";
-        })
+        }, 800)
     }
 }
 function populateMainPage() {
@@ -388,7 +388,7 @@ function makeList() {
         let mainKanji = kanji;
         let translation = meaningsArray[index];
         let ons = onArray[index];
-        let katakana = kunArray[index];
+        let kuns = kunArray[index];
         let kanjiBox = document.createElement('div');
         let wordBox = document.createElement('div');
         let onBox = document.createElement('div');
@@ -401,7 +401,7 @@ function makeList() {
         infoBox.classList.add('infoBox');
         wordBox.append(translation);
         onBox.append(ons.replace(/,(?=[^\s])/g, ", "));
-        kunBox.append(katakana);
+        kunBox.append(kuns.replace(/,(?=[^\s])/g, ", "));
         infoBox.append(wordBox, onBox, kunBox);
         kanjiBox.append(kanjiBoxTit);
         kanjiBox.append(infoBox);
@@ -595,8 +595,8 @@ function loadKeywordQuiz1() {
     mainKanji.textContent = konoKanji;
     mainKanji.classList.add('large');
     mainKanji.classList.add('cursive');
-    onDiv.append('(', onArray[randoNumber].replace(/,(?=[^\s])/g, ", "), ')');
-    kunDiv.append('(', kunArray[randoNumber].replace(/,(?=[^\s])/g, ", "), ')');
+    onDiv.append(onArray[randoNumber].replace(/,(?=[^\s])/g, ", "));
+    kunDiv.append(kunArray[randoNumber].replace(/,(?=[^\s])/g, ", "));
     trueAnswer = meaningsArray[randoNumber];
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
@@ -639,7 +639,7 @@ function handleClickStudy() {
         messageBox.textContent = 'try again.'
         setTimeout(() => {
             messageBox.textContent = "";
-        })
+        }, 800)
     }
 }
 function loadKeywordQuiz2() {
@@ -655,8 +655,9 @@ function loadKeywordQuiz2() {
     konoKanji = meaningsArray[randoNumber];
     mainKanji.textContent = konoKanji;
     mainKanji.classList.remove('cursive');
-    onDiv.append('(', onArray[randoNumber].replace(/,(?=[^\s])/g, ", "), ')');
-    kunDiv.append('(', kunArray[randoNumber].replace(/,(?=[^\s])/g, ", "), ')');
+    mainKanji.classList.remove('large');
+    onDiv.append(onArray[randoNumber].replace(/,(?=[^\s])/g, ", "));
+    kunDiv.append(kunArray[randoNumber].replace(/,(?=[^\s])/g, ", "));
     trueAnswer = kanjiArray[randoNumber];
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
@@ -700,7 +701,7 @@ function handleClickStudy2() {
         messageBox.textContent = 'try again.'
         setTimeout(() => {
             messageBox.textContent = "";
-        })
+        }, 800)
     };
 }
 function loadOnQuiz3() {
@@ -716,8 +717,6 @@ function loadOnQuiz3() {
     konoKanji = kanjiArray[randoNumber];
     mainKanji.textContent = konoKanji;
     mainKanji.classList.add('cursive');
-    //   onDiv.append('(', onArray[randoNumber], ')');
-    //   kunDiv.append('(', kunArray[randoNumber], ')');
     trueAnswer = onArray[randoNumber].replace(/,(?=[^\s])/g, ", ");
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
@@ -760,7 +759,7 @@ function handleClickStudy3() {
         messageBox.textContent = 'try again.'
         setTimeout(() => {
             messageBox.textContent = "";
-        })
+        }, 800)
     };
 }
 function loadOnQuiz4() {
@@ -776,8 +775,6 @@ function loadOnQuiz4() {
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = onArray[randoNumber].replace(/,(?=[^\s])/g, ", ");
     onDiv.textContent = konoKanji;
-    //   onDiv.append('(', onArray[randoNumber], ')');
-    //   kunDiv.append('(', kunArray[randoNumber], ')');
     trueAnswer = kanjiArray[randoNumber];
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
@@ -821,7 +818,7 @@ function handleClickStudy4() {
         messageBox.textContent = 'try again.'
         setTimeout(() => {
             messageBox.textContent = "";
-        })
+        }, 800)
     };
 }
 function loadKunQuiz5() {
@@ -837,10 +834,7 @@ function loadKunQuiz5() {
     konoKanji = kanjiArray[randoNumber];
     mainKanji.textContent = konoKanji;
     mainKanji.classList.add('cursive');
-    //   onDiv.append('(', onArray[randoNumber], ')');
-    //   kunDiv.append('(', kunArray[randoNumber], ')');
     trueAnswer = kunArray[randoNumber].replace(/,(?=[^\s])/g, ", ");
-    // console.log('RIGHT ANSWER IS: ', trueAnswer);
     mainBox.style.display = "none";
     backButt.removeEventListener('click', changeKanaDisplay);
     backButt.addEventListener('click', changeDisplay);
@@ -891,7 +885,7 @@ function handleClickStudy5() {
         messageBox.textContent = 'try again.'
         setTimeout(() => {
             messageBox.textContent = "";
-        })
+        }, 800)
     };
 }
 function loadKunQuiz6() {
@@ -907,8 +901,6 @@ function loadKunQuiz6() {
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = kunArray[randoNumber].replace(/,(?=[^\s])/g, ", ");
     kunDiv.textContent = konoKanji;
-    //   onDiv.append('(', onArray[randoNumber], ')');
-    //   kunDiv.append('(', kunArray[randoNumber], ')');
     trueAnswer = kanjiArray[randoNumber];
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
@@ -953,7 +945,7 @@ function handleClickStudy6() {
         messageBox.textContent = 'try again.'
         setTimeout(() => {
             messageBox.textContent = "";
-        })
+        }, 800)
     };
 }
 
@@ -979,7 +971,9 @@ function removeAllChildNodes(parent) {
         parent.removeChild(parent.firstChild);
     }
 };
-
+title.addEventListener('click', function () {
+    location.reload();
+})
 function dropdownFunction() {
     document.getElementById("level-drop").classList.toggle("show");
 };
