@@ -23,6 +23,10 @@ function populateMainPageWithKana() {
     const newDiv2 = document.createElement('div');
     const newDiv3 = document.createElement('div');
     const newDiv4 = document.createElement('div');
+    const newDiv5 = document.createElement('div');
+    const newDiv6 = document.createElement('div');
+    const newDiv7 = document.createElement('div');
+    const newDiv8 = document.createElement('div');
     const newButt = document.createElement('button');
     const newButt2 = document.createElement('button');
     const newButt3 = document.createElement('button');
@@ -35,14 +39,22 @@ function populateMainPageWithKana() {
     newDiv2.classList.add('list-box');
     newDiv3.classList.add('list-box');
     newDiv4.classList.add('list-box');
-    newDiv.textContent = "Hiragana ⟶ Katakana";
-    newDiv2.textContent = "Katakana ⟶ Hiragana";
-    newDiv3.textContent = "Katakana ⟶ English";
-    newDiv4.textContent = "Hiragana ⟶ English";
+    newDiv5.classList.add('labels');
+    newDiv6.classList.add('labels');
+    newDiv7.classList.add('labels');
+    newDiv8.classList.add('labels');
+    newDiv5.innerHTML = "<p>Hiragana</p> <p>⟶</p> <p>Katakana</p>";
+    newDiv6.innerHTML = "<p>Katakana</p> <p>⟶</p> <p>Hiragana</p>";
+    newDiv7.innerHTML = "<p>Katakana</p> <p>⟶</p> <p>English</p>";
+    newDiv8.innerHTML = "<p>Hiragana</p> <p>⟶</p> <p>English</p>";
     newButt.textContent = "start studying";
     newButt2.textContent = "start studying";
     newButt3.textContent = "start studying";
     newButt4.textContent = "start studying";
+    newDiv.append(newDiv5);
+    newDiv2.append(newDiv6);
+    newDiv3.append(newDiv7);
+    newDiv4.append(newDiv8);
     newDiv.append(newButt);
     newDiv2.append(newButt2);
     newDiv3.append(newButt3);
@@ -67,7 +79,7 @@ function loadHiraKataQuiz() {
     messageBox.textContent = '';
     kunDiv.textContent = '';
     onDiv.textContent = '';
-    testBox.style.backgroundColor = '#283f53';
+    testBox.style.backgroundColor = '#0e504d';
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = kanjiArray[randoNumber];
     mainKanji.textContent = konoKanji;
@@ -110,7 +122,7 @@ function loadKataHiraQuiz() {
     messageBox.textContent = '';
     kunDiv.textContent = '';
     onDiv.textContent = '';
-    testBox.style.backgroundColor = '#283f53';
+    testBox.style.backgroundColor = '#0e504d';
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = kunArray[randoNumber];
     mainKanji.textContent = konoKanji;
@@ -153,7 +165,7 @@ function loadKatakanaQuiz() {
     messageBox.textContent = '';
     kunDiv.textContent = '';
     onDiv.textContent = '';
-    testBox.style.backgroundColor = '#283f53';
+    testBox.style.backgroundColor = '#0e504d';
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = kunArray[randoNumber];
     mainKanji.textContent = konoKanji;
@@ -184,6 +196,7 @@ function loadKatakanaQuiz() {
         newDiv.textContent = answer;
         newDiv.addEventListener('click', handleKanaClickStudy3)
         newDiv.classList.add('answer');
+        newDiv.classList.add('smaller');
         answersDiv.append(newDiv);
     })
 };
@@ -196,7 +209,7 @@ function loadHiraganaQuiz() {
     messageBox.textContent = '';
     kunDiv.textContent = '';
     onDiv.textContent = '';
-    testBox.style.backgroundColor = '#283f53';
+    testBox.style.backgroundColor = '#0e504d';
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = kanjiArray[randoNumber];
     mainKanji.textContent = konoKanji;
@@ -227,6 +240,7 @@ function loadHiraganaQuiz() {
         newDiv.textContent = answer;
         newDiv.addEventListener('click', handleKanaClickStudy3)
         newDiv.classList.add('answer');
+        newDiv.classList.add('smaller');
         answersDiv.append(newDiv);
     })
 };
@@ -238,9 +252,12 @@ function handleKanaClickStudy4() {
         messageBox.textContent = '. * nice! * .'
         setTimeout(() => {
             loadHiraganaQuiz();
-        }, 500);
+        }, 1000);
     } else {
         messageBox.textContent = 'try again.'
+        setTimeout(() => {
+            messageBox.textContent = "";
+        })
     }
 }
 function handleKanaClickStudy3() {
@@ -250,9 +267,12 @@ function handleKanaClickStudy3() {
         messageBox.textContent = '. * nice! * .'
         setTimeout(() => {
             loadKatakanaQuiz();
-        }, 500);
+        }, 1000);
     } else {
         messageBox.textContent = 'try again.'
+        setTimeout(() => {
+            messageBox.textContent = "";
+        })
     }
 }
 function handleKanaClickStudy2() {
@@ -262,9 +282,12 @@ function handleKanaClickStudy2() {
         messageBox.textContent = '. * nice! * .'
         setTimeout(() => {
             loadKataHiraQuiz();
-        }, 500);
+        }, 1000);
     } else {
         messageBox.textContent = 'try again.'
+        setTimeout(() => {
+            messageBox.textContent = "";
+        })
     }
 }
 function handleKanaClickStudy() {
@@ -274,9 +297,12 @@ function handleKanaClickStudy() {
         messageBox.textContent = '. * nice! * .'
         setTimeout(() => {
             loadHiraKataQuiz();
-        }, 500);
+        }, 1000);
     } else {
         messageBox.textContent = 'try again.'
+        setTimeout(() => {
+            messageBox.textContent = "";
+        })
     }
 }
 function populateMainPage() {
@@ -371,6 +397,7 @@ function makeList() {
         let kanjiBoxTit = document.createElement('h1');
         kanjiBoxTit.textContent = mainKanji;
         kanjiBox.classList.add('kanjiBox');
+        kanjiBoxTit.classList.add('cursive');
         infoBox.classList.add('infoBox');
         wordBox.append(translation);
         onBox.append(ons.replace(/,(?=[^\s])/g, ", "));
@@ -562,10 +589,12 @@ function loadKeywordQuiz1() {
     messageBox.textContent = '';
     kunDiv.textContent = '';
     onDiv.textContent = '';
-    testBox.style.backgroundColor = '#283f53';
+    testBox.style.backgroundColor = '#0e504d';
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = kanjiArray[randoNumber];
     mainKanji.textContent = konoKanji;
+    mainKanji.classList.add('large');
+    mainKanji.classList.add('cursive');
     onDiv.append('(', onArray[randoNumber].replace(/,(?=[^\s])/g, ", "), ')');
     kunDiv.append('(', kunArray[randoNumber].replace(/,(?=[^\s])/g, ", "), ')');
     trueAnswer = meaningsArray[randoNumber];
@@ -594,6 +623,7 @@ function loadKeywordQuiz1() {
         newDiv.textContent = answer;
         newDiv.addEventListener('click', handleClickStudy)
         newDiv.classList.add('answer');
+        newDiv.classList.add('smaller');
         answersDiv.append(newDiv);
     })
 }
@@ -604,9 +634,12 @@ function handleClickStudy() {
         messageBox.textContent = '. * nice! * .'
         setTimeout(() => {
             loadKeywordQuiz1();
-        }, 500);
+        }, 1000);
     } else {
         messageBox.textContent = 'try again.'
+        setTimeout(() => {
+            messageBox.textContent = "";
+        })
     }
 }
 function loadKeywordQuiz2() {
@@ -617,10 +650,11 @@ function loadKeywordQuiz2() {
     messageBox.textContent = '';
     kunDiv.textContent = '';
     onDiv.textContent = '';
-    testBox.style.backgroundColor = '#283f53';
+    testBox.style.backgroundColor = '#0e504d';
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = meaningsArray[randoNumber];
     mainKanji.textContent = konoKanji;
+    mainKanji.classList.remove('cursive');
     onDiv.append('(', onArray[randoNumber].replace(/,(?=[^\s])/g, ", "), ')');
     kunDiv.append('(', kunArray[randoNumber].replace(/,(?=[^\s])/g, ", "), ')');
     trueAnswer = kanjiArray[randoNumber];
@@ -649,6 +683,8 @@ function loadKeywordQuiz2() {
         newDiv.textContent = answer;
         newDiv.addEventListener('click', handleClickStudy2)
         newDiv.classList.add('answer');
+        newDiv.classList.add('large');
+        newDiv.classList.add('cursive');
         answersDiv.append(newDiv);
     })
 };
@@ -659,11 +695,14 @@ function handleClickStudy2() {
         messageBox.textContent = '. * nice! * .'
         setTimeout(() => {
             loadKeywordQuiz2();
-        }, 500);
+        }, 1000);
     } else {
         messageBox.textContent = 'try again.'
-    }
-};
+        setTimeout(() => {
+            messageBox.textContent = "";
+        })
+    };
+}
 function loadOnQuiz3() {
     //clear literally everything that could possibly be
     removeAllChildNodes(answersDiv);
@@ -672,10 +711,11 @@ function loadOnQuiz3() {
     messageBox.textContent = '';
     kunDiv.textContent = '';
     onDiv.textContent = '';
-    testBox.style.backgroundColor = '#283f53';
+    testBox.style.backgroundColor = '#0e504d';
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = kanjiArray[randoNumber];
     mainKanji.textContent = konoKanji;
+    mainKanji.classList.add('cursive');
     //   onDiv.append('(', onArray[randoNumber], ')');
     //   kunDiv.append('(', kunArray[randoNumber], ')');
     trueAnswer = onArray[randoNumber].replace(/,(?=[^\s])/g, ", ");
@@ -704,6 +744,7 @@ function loadOnQuiz3() {
         newDiv.textContent = answer;
         newDiv.addEventListener('click', handleClickStudy3)
         newDiv.classList.add('answer');
+        newDiv.classList.add('smaller');
         answersDiv.append(newDiv);
     })
 };
@@ -714,11 +755,14 @@ function handleClickStudy3() {
         messageBox.textContent = '. * nice! * .'
         setTimeout(() => {
             loadOnQuiz3();
-        }, 500);
+        }, 1000);
     } else {
         messageBox.textContent = 'try again.'
-    }
-};
+        setTimeout(() => {
+            messageBox.textContent = "";
+        })
+    };
+}
 function loadOnQuiz4() {
     //clear literally everything that could possibly be
     removeAllChildNodes(answersDiv);
@@ -727,10 +771,11 @@ function loadOnQuiz4() {
     messageBox.textContent = '';
     kunDiv.textContent = '';
     onDiv.textContent = '';
-    testBox.style.backgroundColor = '#283f53';
+    mainKanji.textContent = '';
+    testBox.style.backgroundColor = '#0e504d';
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = onArray[randoNumber].replace(/,(?=[^\s])/g, ", ");
-    mainKanji.textContent = konoKanji;
+    onDiv.textContent = konoKanji;
     //   onDiv.append('(', onArray[randoNumber], ')');
     //   kunDiv.append('(', kunArray[randoNumber], ')');
     trueAnswer = kanjiArray[randoNumber];
@@ -759,6 +804,8 @@ function loadOnQuiz4() {
         newDiv.textContent = answer;
         newDiv.addEventListener('click', handleClickStudy4)
         newDiv.classList.add('answer');
+        newDiv.classList.add('large');
+        newDiv.classList.add('cursive');
         answersDiv.append(newDiv);
     })
 };
@@ -769,11 +816,14 @@ function handleClickStudy4() {
         messageBox.textContent = '. * nice! * .'
         setTimeout(() => {
             loadOnQuiz4();
-        }, 500);
+        }, 1000);
     } else {
         messageBox.textContent = 'try again.'
-    }
-};
+        setTimeout(() => {
+            messageBox.textContent = "";
+        })
+    };
+}
 function loadKunQuiz5() {
     //clear literally everything that could possibly be
     removeAllChildNodes(answersDiv);
@@ -782,10 +832,11 @@ function loadKunQuiz5() {
     messageBox.textContent = '';
     kunDiv.textContent = '';
     onDiv.textContent = '';
-    testBox.style.backgroundColor = '#283f53';
+    testBox.style.backgroundColor = '#0e504d';
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = kanjiArray[randoNumber];
     mainKanji.textContent = konoKanji;
+    mainKanji.classList.add('cursive');
     //   onDiv.append('(', onArray[randoNumber], ')');
     //   kunDiv.append('(', kunArray[randoNumber], ')');
     trueAnswer = kunArray[randoNumber].replace(/,(?=[^\s])/g, ", ");
@@ -823,6 +874,8 @@ function loadKunQuiz5() {
         newDiv.textContent = answer;
         newDiv.addEventListener('click', handleClickStudy5)
         newDiv.classList.add('answer');
+        newDiv.classList.add('smaller');
+        // newDiv.classList.add('cursive');
         answersDiv.append(newDiv);
     })
 };
@@ -833,11 +886,14 @@ function handleClickStudy5() {
         messageBox.textContent = '. * nice! * .'
         setTimeout(() => {
             loadKunQuiz5();
-        }, 500);
+        }, 1000);
     } else {
         messageBox.textContent = 'try again.'
-    }
-};
+        setTimeout(() => {
+            messageBox.textContent = "";
+        })
+    };
+}
 function loadKunQuiz6() {
     //clear literally everything that could possibly be
     removeAllChildNodes(answersDiv);
@@ -846,10 +902,11 @@ function loadKunQuiz6() {
     messageBox.textContent = '';
     kunDiv.textContent = '';
     onDiv.textContent = '';
-    testBox.style.backgroundColor = '#283f53';
+    mainKanji.textContent = '';
+    testBox.style.backgroundColor = '#0e504d';
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = kunArray[randoNumber].replace(/,(?=[^\s])/g, ", ");
-    mainKanji.textContent = konoKanji;
+    kunDiv.textContent = konoKanji;
     //   onDiv.append('(', onArray[randoNumber], ')');
     //   kunDiv.append('(', kunArray[randoNumber], ')');
     trueAnswer = kanjiArray[randoNumber];
@@ -876,8 +933,10 @@ function loadKunQuiz6() {
         // console.log("YO");
         let newDiv = document.createElement('div');
         newDiv.textContent = answer;
-        newDiv.addEventListener('click', handleClickStudy4)
+        newDiv.addEventListener('click', handleClickStudy6)
         newDiv.classList.add('answer');
+        newDiv.classList.add('cursive');
+        newDiv.classList.add('large');
         answersDiv.append(newDiv);
     })
 };
@@ -889,11 +948,14 @@ function handleClickStudy6() {
         setTimeout(() => {
 
             loadKunQuiz6();
-        }, 500);
+        }, 1000);
     } else {
         messageBox.textContent = 'try again.'
-    }
-};
+        setTimeout(() => {
+            messageBox.textContent = "";
+        })
+    };
+}
 
 function shuffleArray(array) {
     for (let i = array.length - 1; i > 0; i--) {
