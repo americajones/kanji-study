@@ -3737,7 +3737,6 @@ data3 = {
         "readings_on": ["セイ", "ジョウ"],
         "readings_kun": ["な.る", "な.す", "-な.す"],
     },
-    //needs katakana
     "老": {
         "strokes": 6,
         "grade": 4,
@@ -3745,7 +3744,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Old Man", "Old Age", "Grow Old"],
-        "readings_on": ["ろう"],
+        "readings_on": ["ロウ"],
         "readings_kun": ["お.いる", "ふ.ける"],
     },
     "位": {
@@ -3755,7 +3754,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Rank", "Grade", "Throne", "Crown", "About", "Some"],
-        "readings_on": ["い"],
+        "readings_on": ["イ"],
         "readings_kun": ["くらい", "ぐらい"],
     },
     "初": {
@@ -3765,7 +3764,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["First Time", "Beginning"],
-        "readings_on": ["しょ"],
+        "readings_on": ["ショ"],
         "readings_kun": ["はじ.め", "はじ.めて", "はつ", "はつ-", "うい-", "-そ.める", "-ぞ.め"],
     },
 
@@ -3776,7 +3775,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Profit", "Advantage", "Benefit"],
-        "readings_on": ["り"],
+        "readings_on": ["リ"],
         "readings_kun": ["き.く"],
     },
     "努": {
@@ -3786,7 +3785,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Toil", "Diligent", "As Much As Possible"],
-        "readings_on": ["ど"],
+        "readings_on": ["ド"],
         "readings_kun": ["つと.める"],
     },
     "労": {
@@ -3796,7 +3795,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Labor", "Thank For", "Reward For", "Toil", "Trouble"],
-        "readings_on": ["ろう"],
+        "readings_on": ["ロウ"],
         "readings_kun": ["ろう.する", "いたわ.る", "いた.ずき", "ねぎら", "つか.れる", "ねぎら.う"],
     },
     "命": {
@@ -3806,7 +3805,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Fate", "Command", "Decree", "Destiny", "Life", "Appoint"],
-        "readings_on": ["めい", "みょう"],
+        "readings_on": ["メイ", "ミョウ"],
         "readings_kun": ["いのち"],
     },
     "放": {
@@ -3816,7 +3815,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Set Free", "Release", "Fire", "Shoot", "Emit", "Banish", "Liberate"],
-        "readings_on": ["ほう"],
+        "readings_on": ["ホウ"],
         "readings_kun": ["はな.す", "-っぱな.し", "はな.つ", "はな.れる", "こ.く", "ほう.る"],
     },
     "昔": {
@@ -3826,7 +3825,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Once Upon A Time", "Antiquity", "Old Times"],
-        "readings_on": ["せき", "しゃく"],
+        "readings_on": ["セキ", "シャク"],
         "readings_kun": ["むかし"],
     },
     "育": {
@@ -3836,7 +3835,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Bring Up", "Grow Up", "Raise", "Rear"],
-        "readings_on": ["いく"],
+        "readings_on": ["イク"],
         "readings_kun": ["そだ.つ", "そだ.ち", "そだ.てる", "はぐく.む"],
     },
     "指": {
@@ -3846,7 +3845,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Finger", "Point To", "Indicate", "Put Into", "Play (chess)", "Measure (ruler)"],
-        "readings_on": ["し"],
+        "readings_on": ["シ"],
         "readings_kun": ["ゆび", "さ.す", "-さ.し"],
     },
 
@@ -3857,7 +3856,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Gods", "Mind", "Soul"],
-        "readings_on": ["しん", "じん"],
+        "readings_on": ["シン", "ジン"],
         "readings_kun": ["かみ", "かん-", "こう-"],
     },
     "追": {
@@ -3867,7 +3866,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Chase", "Drive Away", "Follow", "Pursue", "Meanwhile"],
-        "readings_on": ["つい"],
+        "readings_on": ["ツイ"],
         "readings_kun": ["お.う"],
     },
     "戦": {
@@ -3877,7 +3876,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["War", "Battle", "Match"],
-        "readings_on": ["せん"],
+        "readings_on": ["セン"],
         "readings_kun": ["いくさ", "たたか.う", "おのの.く", "そよ.ぐ", "わなな.く"],
     },
     "良": {
@@ -3887,7 +3886,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Good", "Pleasing", "Skilled"],
-        "readings_on": ["りょう"],
+        "readings_on": ["リョウ"],
         "readings_kun": ["よ.い", "-よ.い", "い.い", "-い.い"],
     },
     "便": {
@@ -3897,7 +3896,7 @@ data3 = {
         "jlpt_old": 3,
         "jlpt_new": 3,
         "meanings": ["Convenience", "Facility", "Excrement", "Feces", "Letter", "Chance"],
-        "readings_on": ["べん", "びん"],
+        "readings_on": ["ベン", "ビン"],
         "readings_kun": ["たよ.り"],
     },
     "働": {
@@ -3907,7 +3906,7 @@ data3 = {
         "jlpt_old": 3,
         "jlpt_new": 3,
         "meanings": ["Work", "(kokuji)"],
-        "readings_on": ["どう"],
+        "readings_on": ["ドウ"],
         "readings_kun": ["はたら.く"],
     },
     "庭": {
@@ -3917,7 +3916,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Courtyard", "Garden", "Yard"],
-        "readings_on": ["てい"],
+        "readings_on": ["テイ"],
         "readings_kun": ["にわ"],
     },
     "息": {
@@ -3927,7 +3926,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Breath", "Respiration", "Son", "Interest (on Money)"],
-        "readings_on": ["そく"],
+        "readings_on": ["ソク"],
         "readings_kun": ["いき"],
     },
     "流": {
@@ -3937,7 +3936,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Current", "A Sink", "Flow", "Forfeit"],
-        "readings_on": ["りゅう", "る"],
+        "readings_on": ["リュウ", "ル"],
         "readings_kun": ["なが.れる", "なが.れ", "なが.す", "-なが.す"],
     },
     "消": {
@@ -3947,7 +3946,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Extinguish", "Blow Out", "Turn Off", "Neutralize", "Cancel"],
-        "readings_on": ["しょう"],
+        "readings_on": ["ショウ"],
         "readings_kun": ["き.える", "け.す"],
     },
     "都": {
@@ -3957,7 +3956,7 @@ data3 = {
         "jlpt_old": 3,
         "jlpt_new": 3,
         "meanings": ["Metropolis", "Capital", "All", "Everything"],
-        "readings_on": ["と", "つ"],
+        "readings_on": ["ト", "ツ"],
         "readings_kun": ["みやこ"],
     },
 
@@ -3968,7 +3967,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Make A Deal", "Selling", "Dealing In", "Merchant"],
-        "readings_on": ["しょう"],
+        "readings_on": ["ショウ"],
         "readings_kun": ["あきな.う"],
     },
 
@@ -3980,7 +3979,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Deep", "Heighten", "Intensify", "Strengthen"],
-        "readings_on": ["しん"],
+        "readings_on": ["シン"],
         "readings_kun": ["ふか.い", "-ぶか.い", "ふか.まる", "ふか.める", "み-"],
     },
     "球": {
@@ -3990,7 +3989,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Ball", "Sphere"],
-        "readings_on": ["きゅう"],
+        "readings_on": ["キュウ"],
         "readings_kun": ["たま"],
     },
     "陽": {
@@ -4000,7 +3999,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Sunshine", "Yang Principle", "Positive", "Male", "Heaven", "Daytime"],
-        "readings_on": ["よう"],
+        "readings_on": ["ヨウ"],
         "readings_kun": ["ひ"],
     },
     "寒": {
@@ -4010,7 +4009,7 @@ data3 = {
         "jlpt_old": 3,
         "jlpt_new": 3,
         "meanings": ["Cold"],
-        "readings_on": ["かん"],
+        "readings_on": ["カン"],
         "readings_kun": ["さむ.い"],
     },
     "悲": {
@@ -4020,7 +4019,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Grieve", "Sad", "Deplore", "Regret"],
-        "readings_on": ["ひ"],
+        "readings_on": ["ヒ"],
         "readings_kun": ["かな.しい", "かな.しむ"],
     },
     "期": {
@@ -4030,7 +4029,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Period", "Time", "Date", "Term"],
-        "readings_on": ["き", "ご"],
+        "readings_on": ["キ", "ゴ"],
         "readings_kun": ["n/a"],
     },
     "歯": {
@@ -4040,7 +4039,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Tooth", "Cog"],
-        "readings_on": ["し"],
+        "readings_on": ["シ"],
         "readings_kun": ["よわい", "は", "よわ.い", "よわい.する"],
     },
     "港": {
@@ -4050,7 +4049,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Harbor"],
-        "readings_on": ["こう"],
+        "readings_on": ["コウ"],
         "readings_kun": ["みなと"],
     },
     "登": {
@@ -4060,7 +4059,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Ascend", "Climb Up"],
-        "readings_on": ["とう", "と", "どう", "しょう", "ちょう"],
+        "readings_on": ["トウ", "ト", "ドウ", "ショウ", "チョウ"],
         "readings_kun": ["のぼ.る", "あ.がる"],
     },
     "亡": {
@@ -4070,7 +4069,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Deceased", "The Late", "Dying", "Perish"],
-        "readings_on": ["ぼう", "もう"],
+        "readings_on": ["ボウ", "モウ"],
         "readings_kun": ["な.い", "な.き-", "ほろ.びる", "ほろ.ぶ", "ほろ.ぼす"],
     },
     "合": {
@@ -4080,7 +4079,7 @@ data3 = {
         "jlpt_old": 3,
         "jlpt_new": 3,
         "meanings": ["Fit", "Suit", "Join", "0.1"],
-        "readings_on": ["ごう", "がっ", "かっ"],
+        "readings_on": ["ゴウ", "ガッ", "カッ"],
         "readings_kun": ["あ.う", "-あ.う", "あ.い", "あい-", "-あ.い", "-あい", "あ.わす", "あ.わせる", "-あ.わせる"],
     },
 
@@ -4091,7 +4090,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Beforehand", "Previous", "Myself", "I"],
-        "readings_on": ["よ", "しゃ"],
+        "readings_on": ["ヨ", "シャ"],
         "readings_kun": ["あらかじ.め"],
     },
     "反": {
@@ -4101,7 +4100,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Anti-"],
-        "readings_on": ["はん", "ほん", "たん", "ほ"],
+        "readings_on": ["ハン", "ホン", "タン", "ホ"],
         "readings_kun": ["そ.る", "そ.らす", "かえ.す", "かえ.る", "-かえ.る"],
     },
 
@@ -4112,7 +4111,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Return", "Answer", "Fade", "Repay"],
-        "readings_on": ["へん"],
+        "readings_on": ["ヘン"],
         "readings_kun": ["かえ.す", "-かえ.す", "かえ.る", "-かえ.る"],
     },
 
@@ -4123,7 +4122,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Inn", "Lodging", "Relay Station", "Dwell", "Lodge", "Be Pregnant", "Home", "Dwelling"],
-        "readings_on": ["しゅく"],
+        "readings_on": ["シュク"],
         "readings_kun": ["やど", "やど.る", "やど.す"],
     },
     "想": {
@@ -4133,7 +4132,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Concept", "Think", "Idea", "Thought"],
-        "readings_on": ["そう", "そ"],
+        "readings_on": ["ソウ", "ソ"],
         "readings_kun": ["おも.う"],
     },
     "感": {
@@ -4143,7 +4142,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Emotion", "Feeling", "Sensation"],
-        "readings_on": ["かん"],
+        "readings_on": ["カン"],
         "readings_kun": ["n/a"],
     },
     "暗": {
@@ -4153,7 +4152,7 @@ data3 = {
         "jlpt_old": 3,
         "jlpt_new": 3,
         "meanings": ["Darkness", "Disappear", "Shade", "Informal", "Grow Dark", "Be Blinded"],
-        "readings_on": ["あん"],
+        "readings_on": ["アン"],
         "readings_kun": ["くら.い", "くら.む", "くれ.る"],
     },
     "様": {
@@ -4163,7 +4162,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Esq.", "Way", "Manner", "Situation", "Polite Suffix"],
-        "readings_on": ["よう", "しょう"],
+        "readings_on": ["ヨウ", "ショウ"],
         "readings_kun": ["さま", "さん"],
     },
     "福": {
@@ -4173,7 +4172,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Blessing", "Fortune", "Luck", "Wealth"],
-        "readings_on": ["ふく"],
+        "readings_on": ["フク"],
         "readings_kun": ["n/a"],
     },
     "殺": {
@@ -4183,7 +4182,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Kill", "Murder", "Butcher", "Slice Off", "Split", "Diminish", "Reduce", "Spoil"],
-        "readings_on": ["さつ", "さい", "せつ"],
+        "readings_on": ["サツ", "サイ", "セツ"],
         "readings_kun": ["ころ.す", "-ごろ.し", "そ.ぐ"],
     },
     "然": {
@@ -4193,7 +4192,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Sort Of Thing", "So", "If So", "In That Case", "Well"],
-        "readings_on": ["ぜん", "ねん"],
+        "readings_on": ["ゼン", "ネン"],
         "readings_kun": ["しか", "しか.り", "しか.し", "さ"],
     },
     "熱": {
@@ -4203,7 +4202,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Heat", "Temperature", "Fever", "Mania", "Passion"],
-        "readings_on": ["ねつ"],
+        "readings_on": ["ネツ"],
         "readings_kun": ["あつ.い"],
     },
     "選": {
@@ -4213,7 +4212,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Elect", "Select", "Choose", "Prefer"],
-        "readings_on": ["せん"],
+        "readings_on": ["セン"],
         "readings_kun": ["えら.ぶ"],
     },
     "願": {
@@ -4223,7 +4222,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Petition", "Request", "Vow", "Wish", "Hope"],
-        "readings_on": ["がん"],
+        "readings_on": ["ガン"],
         "readings_kun": ["ねが.う", "-ねがい"],
     },
     "情": {
@@ -4233,7 +4232,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Feelings", "Emotion", "Passion", "Sympathy", "Circumstances", "Facts"],
-        "readings_on": ["じょう", "せい"],
+        "readings_on": ["ジョウ", "セイ"],
         "readings_kun": ["なさ.け"],
     },
     "疑": {
@@ -4243,7 +4242,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Doubt", "Distrust", "Be Suspicious", "Question"],
-        "readings_on": ["ぎ"],
+        "readings_on": ["ギ"],
         "readings_kun": ["うたが.う"],
     },
     "皆": {
@@ -4253,7 +4252,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["All", "Everything"],
-        "readings_on": ["かい"],
+        "readings_on": ["カイ"],
         "readings_kun": ["みな", "みんな"],
     },
     "例": {
@@ -4263,7 +4262,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Example", "Custom", "Usage", "Precedent"],
-        "readings_on": ["れい"],
+        "readings_on": ["レイ"],
         "readings_kun": ["たと.える"],
     },
     "参": {
@@ -4273,7 +4272,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Nonplussed", "Three (in Documents)", "Going", "Coming", "Visiting", "Visit", "Be Defeated", "Die", "Be Madly In Love", "Participate", "Take Part In"],
-        "readings_on": ["さん", "しん"],
+        "readings_on": ["サン", "シン"],
         "readings_kun": ["まい.る", "まい-", "まじわる", "みつ"],
     },
     "完": {
@@ -4283,7 +4282,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Perfect", "Completion", "End"],
-        "readings_on": ["かん"],
+        "readings_on": ["カン"],
         "readings_kun": ["n/a"],
     },
     "念": {
@@ -4293,7 +4292,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Wish", "Sense", "Idea", "Thought", "Feeling", "Desire", "Attention"],
-        "readings_on": ["ねん"],
+        "readings_on": ["ネン"],
         "readings_kun": ["n/a"],
     },
     "折": {
@@ -4303,7 +4302,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Fold", "Break", "Fracture", "Bend", "Yield", "Submit"],
-        "readings_on": ["せつ", "しゃく"],
+        "readings_on": ["セツ", "シャク"],
         "readings_kun": ["お.る", "おり", "お.り", "-お.り", "お.れる"],
     },
     "望": {
@@ -4313,7 +4312,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Ambition", "Full Moon", "Hope", "Desire", "Aspire To", "Expect"],
-        "readings_on": ["ぼう", "もう"],
+        "readings_on": ["ボウ", "モウ"],
         "readings_kun": ["のぞ.む", "もち"],
     },
     "束": {
@@ -4323,7 +4322,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Bundle", "Sheaf", "Ream", "Tie In Bundles", "Govern", "Manage", "Control"],
-        "readings_on": ["そく"],
+        "readings_on": ["ソク"],
         "readings_kun": ["たば", "たば.ねる", "つか", "つか.ねる"],
     },
     "残": {
@@ -4333,7 +4332,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Remainder", "Leftover", "Balance"],
-        "readings_on": ["ざん", "さん"],
+        "readings_on": ["ザン", "サン"],
         "readings_kun": ["のこ.る", "のこ.す", "そこな.う", "のこ.り"],
     },
     "求": {
@@ -4343,7 +4342,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Request", "Want", "Wish For", "Require", "Demand"],
-        "readings_on": ["きゅう", "ぐ"],
+        "readings_on": ["キュウ", "グ"],
         "readings_kun": ["もと.める"],
     },
     "約": {
@@ -4353,7 +4352,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Promise", "Approximately", "Shrink"],
-        "readings_on": ["やく"],
+        "readings_on": ["ヤク"],
         "readings_kun": ["つづ.まる", "つづ.める", "つづま.やか"],
     },
     "性": {
@@ -4363,7 +4362,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Sex", "Gender", "Nature"],
-        "readings_on": ["せい", "しょう"],
+        "readings_on": ["セイ", "ショウ"],
         "readings_kun": ["さが"],
     },
     "格": {
@@ -4373,7 +4372,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Status", "Rank", "Capacity", "Character", "Case (law, Grammar)"],
-        "readings_on": ["かく", "こう", "きゃく", "ごう"],
+        "readings_on": ["カク", "コウ", "キャク", "ゴウ"],
         "readings_kun": ["n/a"],
     },
     "能": {
@@ -4383,7 +4382,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Ability", "Talent", "Skill", "Capacity"],
-        "readings_on": ["のう"],
+        "readings_on": ["ノウ"],
         "readings_kun": ["よ.く"],
     },
     "術": {
@@ -4393,7 +4392,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Art", "Technique", "Skill", "Means", "Trick", "Resources", "Magic"],
-        "readings_on": ["じゅつ"],
+        "readings_on": ["ジュツ"],
         "readings_kun": ["すべ"],
     },
     "晴": {
@@ -4403,7 +4402,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Clear Up"],
-        "readings_on": ["せい"],
+        "readings_on": ["セイ"],
         "readings_kun": ["は.れる", "は.れ", "は.れ-", "-ば.れ", "は.らす"],
     },
 
@@ -4414,7 +4413,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["File", "Row", "Rank", "Tier", "Column"],
-        "readings_on": ["れつ", "れ"],
+        "readings_on": ["レツ", "レ"],
         "readings_kun": ["n/a"],
     },
     "式": {
@@ -4424,7 +4423,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Style", "Ceremony", "Rite", "Function", "Method", "System", "Form", "Expression"],
-        "readings_on": ["しき"],
+        "readings_on": ["シキ"],
         "readings_kun": ["n/a"],
     },
     "信": {
@@ -4434,7 +4433,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Faith", "Truth", "Fidelity", "Trust"],
-        "readings_on": ["しん"],
+        "readings_on": ["シン"],
         "readings_kun": ["n/a"],
     },
     "単": {
@@ -4444,7 +4443,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Simple", "One", "Single", "Merely"],
-        "readings_on": ["たん"],
+        "readings_on": ["タン"],
         "readings_kun": ["ひとえ"],
     },
     "変": {
@@ -4454,7 +4453,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Unusual", "Change", "Strange"],
-        "readings_on": ["へん"],
+        "readings_on": ["ヘン"],
         "readings_kun": ["か.わる", "か.わり", "か.える"],
     },
     "夫": {
@@ -4464,7 +4463,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Husband", "Man"],
-        "readings_on": ["ふ", "ふう", "ぶ"],
+        "readings_on": ["フ", "フウ", "ブ"],
         "readings_kun": ["おっと", "それ"],
     },
 
@@ -4475,7 +4474,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Yesterday", "Previous"],
-        "readings_on": ["さく"],
+        "readings_on": ["サク"],
         "readings_kun": ["n/a"],
     },
     "法": {
@@ -4485,9 +4484,10 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Method", "Law", "Rule", "Principle", "Model", "System"],
-        "readings_on": ["ほう", "はっ", "ほっ", "ふらん"],
+        "readings_on": ["ホウ", "ハッ", "ホッ", "フラン"],
         "readings_kun": ["のり"],
     },
+    //needs katakana
     "晩": {
         "strokes": 12,
         "grade": 6,
