@@ -9,9 +9,12 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 17px;
 }
+.title{
+    background-color: #0f1f27;
+}
 h1{
     text-align: center;
-    padding: 10px;
+    padding: 1em;
     font-weight: 400;
 }
 h2{
@@ -24,16 +27,32 @@ h2{
 /* Dropdown Button */
 .drop-butt {
     background-color: #0f1f27;
-    color: #f5ffe2;
+    color: #c7e58e;
     padding: 16px;
     font-size: 16px;
     border: none;
     cursor: pointer;
     margin-left: 1em;
     margin-right: 1em;
-    width: 120px;
+    width: 150px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 }
-
+.butt:hover, .butt:focus {
+    color: #c7e58e;
+    background-color:#0f1f27;
+    cursor: pointer;
+}
+.butt {
+    margin-left: 2em;
+    margin-right: .25em;
+    font-size: 14px;
+    padding: 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #c7e58e;
+    color:#0f1f27;
+}
 .drop-butt:hover, .drop-butt:focus {
     background-color: #c7e58e;
     color:#0f1f27;
@@ -52,17 +71,17 @@ h2{
 }
 .dropdown-content button {
     cursor: pointer;
-    color: #0f1f27;
+    background-color: #0f1f27;
     padding: 12px 16px;
-    background-color: #c7e58e;
+    color: #c7e58e;
     text-decoration: none;
     display: block;
     border: none;
     width: 100%;
 }
 .dropdown-content button:hover {
-    background-color: #0f1f27;
-    color: #c7e58e;
+    color: #0f1f27;
+    background-color: #c7e58e;
 }
 
 .labels {
@@ -82,9 +101,7 @@ h2{
     flex-flow: row;  
     justify-content: space-between;
 }
-.title {
-    margin: 2rem;
-}
+
 .pale{
     padding: 1em;
     background-color: #51966c;
@@ -137,19 +154,23 @@ h2{
 }
 #float-message{
     /* float: right; */
-    width: 80px;
+    /* width: 80px;
     position: absolute;
     left: 50%;
     margin-left: -40px;
     margin-top: -2em;
-    color: #c7e58e;
+    color: #c7e58e; */
 }
 #kanji-display{
     text-align: center;
 }
+.butt-box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
 .skip{
-    float: right;
-    top:0;
+
 }
 .answers{
     display: flex;
@@ -225,6 +246,14 @@ h2{
     .drop-butt{
         margin-right: 3em;
         width: 150px;
+    }
+    .title {
+    margin: 2rem;
+    margin-top: 1em;
+}
+    .butt {
+        margin-right: 1em;
+        margin-left: 2.5em;
     }
     .dropdown-content { 
         width: 150px;

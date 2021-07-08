@@ -10,6 +10,7 @@ const fillbox4 = document.querySelector('#onKanBox');
 const fillbox5 = document.querySelector('#kanKunBox');
 const fillbox6 = document.querySelector('#kunKanBox');
 const flashButt = document.querySelector('.flashButt');
+const buttBox = document.querySelector('.butt-box');
 const kanaBox = document.querySelector('#kanaBox');
 const mainSelectBox = document.querySelector('#studyQuizSelectBox');
 let kanjiArray = [];
@@ -17,6 +18,28 @@ let onArray = [];
 let kunArray = [];
 let meaningsArray = [];
 let number;
+let messageBox = "";
+
+getN5();
+
+function makeButtons(backEvent, skipEvent) {
+    removeAllChildNodes(buttBox);
+    let secret = document.createElement('p');
+    secret.classList.add('float-message')
+    secret.textContent = "";
+    let skipButt = document.createElement('button');
+    skipButt.textContent = "Skip";
+    skipButt.classList.add("skip", "butt", "quizPage", "drop-butt");
+    let backButt = document.createElement('button');
+    backButt.textContent = "Go Back";
+    backButt.classList.add("back", "butt", "quizPage", "drop-butt");
+    skipButt.addEventListener('click', skipEvent);
+    backButt.addEventListener('click', backEvent);
+    buttBox.append(backButt);
+    buttBox.append(secret);
+    buttBox.append(skipButt);
+    messageBox = document.querySelector('.float-message');
+}
 function populateMainPageWithKana() {
     mainSelectBox.classList.add('hidden');
     const newDiv = document.createElement('div');
@@ -31,10 +54,10 @@ function populateMainPageWithKana() {
     const newButt2 = document.createElement('button');
     const newButt3 = document.createElement('button');
     const newButt4 = document.createElement('button');
-    newButt.classList.add('drop-butt');
-    newButt2.classList.add('drop-butt');
-    newButt3.classList.add('drop-butt');
-    newButt4.classList.add('drop-butt');
+    newButt.classList.add('butt');
+    newButt2.classList.add('butt');
+    newButt3.classList.add('butt');
+    newButt4.classList.add('butt');
     newDiv.classList.add('list-box');
     newDiv2.classList.add('list-box');
     newDiv3.classList.add('list-box');
@@ -74,6 +97,7 @@ function loadHiraKataQuiz() {
     //clear literally everything that could possibly be
     removeAllChildNodes(kanaBox);
     removeAllChildNodes(answersDiv);
+    removeAllChildNodes(buttBox);
     konoKanji = "";
     trueAnswer = "";
     messageBox.textContent = '';
@@ -86,16 +110,8 @@ function loadHiraKataQuiz() {
     trueAnswer = kunArray[randoNumber];
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
-    backButt.addEventListener('click', changeKanaDisplay);
-    backButt.removeEventListener('click', changeDisplay);
-    skipButt.removeEventListener('click', loadKeywordQuiz1);
-    skipButt.removeEventListener('click', loadKeywordQuiz2);
-    skipButt.removeEventListener('click', loadOnQuiz3);
-    skipButt.removeEventListener('click', loadOnQuiz4);
-    skipButt.removeEventListener('click', loadKunQuiz5);
-    skipButt.removeEventListener('click', loadKunQuiz6);
     //fix the skip button and load fake answers
-    skipButt.addEventListener('click', loadHiraKataQuiz);
+    makeButtons(changeKanaDisplay, loadHiraKataQuiz);
     let answersArray = [];
     answersArray.push(trueAnswer);
     for (let i = 0; i < 8; i++) {
@@ -117,6 +133,7 @@ function loadKataHiraQuiz() {
     //clear literally everything that could possibly be
     removeAllChildNodes(kanaBox);
     removeAllChildNodes(answersDiv);
+    removeAllChildNodes(buttBox);
     konoKanji = "";
     trueAnswer = "";
     messageBox.textContent = '';
@@ -129,16 +146,7 @@ function loadKataHiraQuiz() {
     trueAnswer = kanjiArray[randoNumber];
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
-    backButt.addEventListener('click', changeKanaDisplay);
-    backButt.removeEventListener('click', changeDisplay);
-    skipButt.removeEventListener('click', loadKeywordQuiz1);
-    skipButt.removeEventListener('click', loadKeywordQuiz2);
-    skipButt.removeEventListener('click', loadOnQuiz3);
-    skipButt.removeEventListener('click', loadOnQuiz4);
-    skipButt.removeEventListener('click', loadKunQuiz5);
-    skipButt.removeEventListener('click', loadKunQuiz6);
-    //fix the skip button and load fake answers
-    skipButt.addEventListener('click', loadKataHiraQuiz);
+    makeButtons(changeKanaDisplay, loadKataHiraQuiz);
     let answersArray = [];
     answersArray.push(trueAnswer);
     for (let i = 0; i < 8; i++) {
@@ -160,6 +168,7 @@ function loadKatakanaQuiz() {
     //clear literally everything that could possibly be
     removeAllChildNodes(kanaBox);
     removeAllChildNodes(answersDiv);
+    removeAllChildNodes(buttBox);
     konoKanji = "";
     trueAnswer = "";
     messageBox.textContent = '';
@@ -172,16 +181,7 @@ function loadKatakanaQuiz() {
     trueAnswer = meaningsArray[randoNumber];
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
-    backButt.addEventListener('click', changeKanaDisplay);
-    backButt.removeEventListener('click', changeDisplay);
-    skipButt.removeEventListener('click', loadKeywordQuiz1);
-    skipButt.removeEventListener('click', loadKeywordQuiz2);
-    skipButt.removeEventListener('click', loadOnQuiz3);
-    skipButt.removeEventListener('click', loadOnQuiz4);
-    skipButt.removeEventListener('click', loadKunQuiz5);
-    skipButt.removeEventListener('click', loadKunQuiz6);
-    //fix the skip button and load fake answers
-    skipButt.addEventListener('click', loadKataHiraQuiz);
+    makeButtons(changeKanaDisplay, loadKatakanaQuiz);
     let answersArray = [];
     answersArray.push(trueAnswer);
     for (let i = 0; i < 8; i++) {
@@ -203,6 +203,7 @@ function loadKatakanaQuiz() {
 function loadHiraganaQuiz() {
     //clear literally everything that could possibly be
     removeAllChildNodes(kanaBox);
+    removeAllChildNodes(buttBox);
     removeAllChildNodes(answersDiv);
     konoKanji = "";
     trueAnswer = "";
@@ -216,16 +217,7 @@ function loadHiraganaQuiz() {
     trueAnswer = meaningsArray[randoNumber];
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
-    backButt.addEventListener('click', changeKanaDisplay);
-    backButt.removeEventListener('click', changeDisplay);
-    skipButt.removeEventListener('click', loadKeywordQuiz1);
-    skipButt.removeEventListener('click', loadKeywordQuiz2);
-    skipButt.removeEventListener('click', loadOnQuiz3);
-    skipButt.removeEventListener('click', loadOnQuiz4);
-    skipButt.removeEventListener('click', loadKunQuiz5);
-    skipButt.removeEventListener('click', loadKunQuiz6);
-    //fix the skip button and load fake answers
-    skipButt.addEventListener('click', loadKataHiraQuiz);
+    makeButtons(changeKanaDisplay, loadHiraganaQuiz);
     let answersArray = [];
     answersArray.push(trueAnswer);
     for (let i = 0; i < 8; i++) {
@@ -238,7 +230,7 @@ function loadHiraganaQuiz() {
         // console.log("YO");
         let newDiv = document.createElement('div');
         newDiv.textContent = answer;
-        newDiv.addEventListener('click', handleKanaClickStudy3)
+        newDiv.addEventListener('click', handleKanaClickStudy4)
         newDiv.classList.add('answer');
         newDiv.classList.add('smaller');
         answersDiv.append(newDiv);
@@ -249,60 +241,64 @@ function handleKanaClickStudy4() {
     selectedAnswer = this.textContent;
     if (selectedAnswer === trueAnswer) {
         console.log('FUCK YES');
+        mainKanji.append(" = ", trueAnswer);
         messageBox.textContent = '. * nice! * .'
         setTimeout(() => {
             loadHiraganaQuiz();
-        }, 1000);
+        }, 1500);
     } else {
         messageBox.textContent = 'try again.'
         setTimeout(() => {
             messageBox.textContent = "";
-        }, 800)
+        }, 1000)
     }
 }
 function handleKanaClickStudy3() {
     selectedAnswer = this.textContent;
     if (selectedAnswer === trueAnswer) {
         console.log('FUCK YES');
+        mainKanji.append(" = ", trueAnswer);
         messageBox.textContent = '. * nice! * .'
         setTimeout(() => {
             loadKatakanaQuiz();
-        }, 1000);
+        }, 1500);
     } else {
         messageBox.textContent = 'try again.'
         setTimeout(() => {
             messageBox.textContent = "";
-        }, 800)
+        }, 1000)
     }
 }
 function handleKanaClickStudy2() {
     selectedAnswer = this.textContent;
     if (selectedAnswer === trueAnswer) {
         console.log('FUCK YES');
+        mainKanji.append(" = ", trueAnswer);
         messageBox.textContent = '. * nice! * .'
         setTimeout(() => {
             loadKataHiraQuiz();
-        }, 1000);
+        }, 1500);
     } else {
         messageBox.textContent = 'try again.'
         setTimeout(() => {
             messageBox.textContent = "";
-        }, 800)
+        }, 1000)
     }
 }
 function handleKanaClickStudy() {
     selectedAnswer = this.textContent;
     if (selectedAnswer === trueAnswer) {
         console.log('FUCK YES');
+        mainKanji.append(" = ", trueAnswer);
         messageBox.textContent = '. * nice! * .'
         setTimeout(() => {
             loadHiraKataQuiz();
-        }, 1000);
+        }, 1500);
     } else {
         messageBox.textContent = 'try again.'
         setTimeout(() => {
             messageBox.textContent = "";
-        }, 800)
+        }, 1000)
     }
 }
 function populateMainPage() {
@@ -332,12 +328,12 @@ function populateMainPage() {
     newButt5.addEventListener('click', loadKunQuiz5)
     newButt6.addEventListener('click', loadKunQuiz6)
     // newButt7.addEventListener('click', flashToggle)
-    newButt.classList.add('whole', 'drop-butt');
-    newButt2.classList.add('whole', 'drop-butt');
-    newButt3.classList.add('whole', 'drop-butt');
-    newButt4.classList.add('whole', 'drop-butt');
-    newButt5.classList.add('whole', 'drop-butt');
-    newButt6.classList.add('whole', 'drop-butt');
+    newButt.classList.add('whole', 'butt');
+    newButt2.classList.add('whole', 'butt');
+    newButt3.classList.add('whole', 'butt');
+    newButt4.classList.add('whole', 'butt');
+    newButt5.classList.add('whole', 'butt');
+    newButt6.classList.add('whole', 'butt');
     // newButt7.classList.add('flashButt', 'drop-butt');
     newButt.textContent = "start studying"
     newButt2.textContent = "start studying"
@@ -572,7 +568,6 @@ const answersDiv = document.querySelector('.answers');
 const kunDiv = document.querySelector('.kun');
 const onDiv = document.querySelector('.on');
 const kanjiDisplay = document.querySelector('#kanji-display');
-const messageBox = document.querySelector('#float-message');
 const skipButt = document.querySelector('.skip');
 const backButt = document.querySelector('.back');
 let konoKanji
@@ -584,6 +579,7 @@ let randoNumber = 69;
 function loadKeywordQuiz1() {
     //clear literally everything that could possibly be
     removeAllChildNodes(answersDiv);
+    removeAllChildNodes(buttBox);
     konoKanji = "";
     trueAnswer = "";
     messageBox.textContent = '';
@@ -600,15 +596,7 @@ function loadKeywordQuiz1() {
     trueAnswer = meaningsArray[randoNumber];
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
-    backButt.removeEventListener('click', changeKanaDisplay);
-    backButt.addEventListener('click', changeDisplay);
-    skipButt.removeEventListener('click', loadKeywordQuiz2);
-    skipButt.removeEventListener('click', loadOnQuiz3);
-    skipButt.removeEventListener('click', loadOnQuiz4);
-    skipButt.removeEventListener('click', loadKunQuiz5);
-    skipButt.removeEventListener('click', loadKunQuiz6);
-    //fix the skip button and load fake answers
-    skipButt.addEventListener('click', loadKeywordQuiz1);
+    makeButtons(changeDisplay, loadKeywordQuiz1);
     let answersArray = [];
     answersArray.push(trueAnswer);
     for (let i = 0; i < 8; i++) {
@@ -631,20 +619,22 @@ function handleClickStudy() {
     selectedAnswer = this.textContent;
     if (selectedAnswer === trueAnswer) {
         console.log('FUCK YES');
+        mainKanji.append(" = ", trueAnswer);
         messageBox.textContent = '. * nice! * .'
         setTimeout(() => {
             loadKeywordQuiz1();
-        }, 1000);
+        }, 1500);
     } else {
         messageBox.textContent = 'try again.'
         setTimeout(() => {
             messageBox.textContent = "";
-        }, 800)
+        }, 1000)
     }
 }
 function loadKeywordQuiz2() {
     //clear literally everything that could possibly be
     removeAllChildNodes(answersDiv);
+    removeAllChildNodes(buttBox);
     konoKanji = "";
     trueAnswer = "";
     messageBox.textContent = '';
@@ -661,14 +651,7 @@ function loadKeywordQuiz2() {
     trueAnswer = kanjiArray[randoNumber];
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
-    backButt.removeEventListener('click', changeKanaDisplay);
-    backButt.addEventListener('click', changeDisplay);
-    skipButt.removeEventListener('click', loadKeywordQuiz1);
-    skipButt.removeEventListener('click', loadOnQuiz3);
-    skipButt.removeEventListener('click', loadOnQuiz4);
-    skipButt.removeEventListener('click', loadKunQuiz5);
-    skipButt.removeEventListener('click', loadKunQuiz6);
-    skipButt.addEventListener('click', loadKeywordQuiz2);
+    makeButtons(changeDisplay, loadKeywordQuiz2);
     //get real answer, then fake ones
     let answersArray = [];
     answersArray.push(trueAnswer);
@@ -693,20 +676,22 @@ function handleClickStudy2() {
     selectedAnswer = this.textContent;
     if (selectedAnswer === trueAnswer) {
         console.log('FUCK YES');
+        mainKanji.append(" = ", trueAnswer);
         messageBox.textContent = '. * nice! * .'
         setTimeout(() => {
             loadKeywordQuiz2();
-        }, 1000);
+        }, 1500);
     } else {
         messageBox.textContent = 'try again.'
         setTimeout(() => {
             messageBox.textContent = "";
-        }, 800)
+        }, 1000)
     };
 }
 function loadOnQuiz3() {
     //clear literally everything that could possibly be
     removeAllChildNodes(answersDiv);
+    removeAllChildNodes(buttBox);
     konoKanji = "";
     trueAnswer = "";
     messageBox.textContent = '';
@@ -720,14 +705,7 @@ function loadOnQuiz3() {
     trueAnswer = onArray[randoNumber].replace(/,(?=[^\s])/g, ", ");
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
-    backButt.removeEventListener('click', changeKanaDisplay);
-    backButt.addEventListener('click', changeDisplay);
-    skipButt.removeEventListener('click', loadKeywordQuiz1);
-    skipButt.removeEventListener('click', loadKeywordQuiz2);
-    skipButt.removeEventListener('click', loadOnQuiz4);
-    skipButt.removeEventListener('click', loadKunQuiz5);
-    skipButt.removeEventListener('click', loadKunQuiz6);
-    skipButt.addEventListener('click', loadOnQuiz3);
+    makeButtons(changeDisplay, loadOnQuiz3);
     //get real answer, then fake ones
     let answersArray = [];
     answersArray.push(trueAnswer);
@@ -751,20 +729,22 @@ function handleClickStudy3() {
     selectedAnswer = this.textContent;
     if (String(selectedAnswer) === String(trueAnswer)) {
         console.log('FUCK YES');
+        mainKanji.append(" = ", trueAnswer);
         messageBox.textContent = '. * nice! * .'
         setTimeout(() => {
             loadOnQuiz3();
-        }, 1000);
+        }, 1500);
     } else {
         messageBox.textContent = 'try again.'
         setTimeout(() => {
             messageBox.textContent = "";
-        }, 800)
+        }, 1000)
     };
 }
 function loadOnQuiz4() {
     //clear literally everything that could possibly be
     removeAllChildNodes(answersDiv);
+    removeAllChildNodes(buttBox);
     konoKanji = "";
     trueAnswer = "";
     messageBox.textContent = '';
@@ -778,14 +758,7 @@ function loadOnQuiz4() {
     trueAnswer = kanjiArray[randoNumber];
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
-    backButt.removeEventListener('click', changeKanaDisplay);
-    backButt.addEventListener('click', changeDisplay);
-    skipButt.removeEventListener('click', loadKeywordQuiz1);
-    skipButt.removeEventListener('click', loadKeywordQuiz2);
-    skipButt.removeEventListener('click', loadOnQuiz3);
-    skipButt.removeEventListener('click', loadKunQuiz5);
-    skipButt.removeEventListener('click', loadKunQuiz6);
-    skipButt.addEventListener('click', loadOnQuiz4);
+    makeButtons(changeDisplay, loadOnQuiz4);
     //get real answer, then fake ones
     let answersArray = [];
     answersArray.push(trueAnswer);
@@ -810,20 +783,22 @@ function handleClickStudy4() {
     selectedAnswer = this.textContent;
     if (String(selectedAnswer) === String(trueAnswer)) {
         console.log('FUCK YES');
+        mainKanji.append(" = ", trueAnswer);
         messageBox.textContent = '. * nice! * .'
         setTimeout(() => {
             loadOnQuiz4();
-        }, 1000);
+        }, 1500);
     } else {
         messageBox.textContent = 'try again.'
         setTimeout(() => {
             messageBox.textContent = "";
-        }, 800)
+        }, 1000)
     };
 }
 function loadKunQuiz5() {
     //clear literally everything that could possibly be
     removeAllChildNodes(answersDiv);
+    removeAllChildNodes(buttBox);
     konoKanji = "";
     trueAnswer = "";
     messageBox.textContent = '';
@@ -836,15 +811,8 @@ function loadKunQuiz5() {
     mainKanji.classList.add('cursive');
     trueAnswer = kunArray[randoNumber].replace(/,(?=[^\s])/g, ", ");
     mainBox.style.display = "none";
-    backButt.removeEventListener('click', changeKanaDisplay);
-    backButt.addEventListener('click', changeDisplay);
     testBox.classList.remove('hidden');
-    skipButt.removeEventListener('click', loadKeywordQuiz1);
-    skipButt.removeEventListener('click', loadKeywordQuiz2);
-    skipButt.removeEventListener('click', loadOnQuiz3);
-    skipButt.removeEventListener('click', loadOnQuiz4);
-    skipButt.removeEventListener('click', loadKunQuiz6);
-    skipButt.addEventListener('click', loadKunQuiz5);
+    makeButtons(changeDisplay, loadKunQuiz5);
     //get real answer, then fake ones
     if (kunArray[randoNumber].length === 0) {
         loadKunQuiz5();
@@ -877,20 +845,22 @@ function handleClickStudy5() {
     selectedAnswer = this.textContent;
     if (selectedAnswer == trueAnswer) {
         console.log('FUCK YES');
+        mainKanji.append(" = ", trueAnswer);
         messageBox.textContent = '. * nice! * .'
         setTimeout(() => {
             loadKunQuiz5();
-        }, 1000);
+        }, 1500);
     } else {
         messageBox.textContent = 'try again.'
         setTimeout(() => {
             messageBox.textContent = "";
-        }, 800)
+        }, 1000)
     };
 }
 function loadKunQuiz6() {
     //clear literally everything that could possibly be
     removeAllChildNodes(answersDiv);
+    removeAllChildNodes(buttBox);
     konoKanji = "";
     trueAnswer = "";
     messageBox.textContent = '';
@@ -904,14 +874,7 @@ function loadKunQuiz6() {
     trueAnswer = kanjiArray[randoNumber];
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
-    backButt.removeEventListener('click', changeKanaDisplay);
-    backButt.addEventListener('click', changeDisplay);
-    skipButt.removeEventListener('click', loadKeywordQuiz1);
-    skipButt.removeEventListener('click', loadKeywordQuiz2);
-    skipButt.removeEventListener('click', loadOnQuiz3);
-    skipButt.removeEventListener('click', loadOnQuiz4);
-    skipButt.removeEventListener('click', loadKunQuiz5);
-    skipButt.addEventListener('click', loadKunQuiz6);
+    makeButtons(changeDisplay, loadKunQuiz6);
     //get real answer, then fake ones
     let answersArray = [];
     answersArray.push(trueAnswer);
@@ -936,16 +899,17 @@ function handleClickStudy6() {
     selectedAnswer = this.textContent;
     if (selectedAnswer == trueAnswer) {
         console.log('FUCK YES');
+        mainKanji.append(" = ", trueAnswer);
         messageBox.textContent = '. * nice! * .'
         setTimeout(() => {
 
             loadKunQuiz6();
-        }, 1000);
+        }, 1500);
     } else {
         messageBox.textContent = 'try again.'
         setTimeout(() => {
             messageBox.textContent = "";
-        }, 800)
+        }, 1000)
     };
 }
 
