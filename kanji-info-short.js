@@ -4487,7 +4487,6 @@ data3 = {
         "readings_on": ["ホウ", "ハッ", "ホッ", "フラン"],
         "readings_kun": ["のり"],
     },
-    //needs katakana
     "晩": {
         "strokes": 12,
         "grade": 6,
@@ -4495,7 +4494,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Nightfall", "Night"],
-        "readings_on": ["ばん"],
+        "readings_on": ["バン"],
         "readings_kun": ["n/a"],
     },
     "猫": {
@@ -4505,7 +4504,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Cat"],
-        "readings_on": ["びょう"],
+        "readings_on": ["ビョウ"],
         "readings_kun": ["ねこ"],
     },
     "園": {
@@ -4515,7 +4514,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Park", "Garden", "Yard", "Farm"],
-        "readings_on": ["えん"],
+        "readings_on": ["エン"],
         "readings_kun": ["その"],
     },
 
@@ -4526,7 +4525,7 @@ data3 = {
         "jlpt_old": 3,
         "jlpt_new": 3,
         "meanings": ["Distant", "Far"],
-        "readings_on": ["えん", "おん"],
+        "readings_on": ["エン", "オン"],
         "readings_kun": ["とお.い"],
     },
     "係": {
@@ -4536,7 +4535,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Person In Charge", "Connection", "Duty", "Concern Oneself"],
-        "readings_on": ["けい"],
+        "readings_on": ["ケイ"],
         "readings_kun": ["かか.る", "かかり", "-がかり", "かか.わる"],
     },
     "取": {
@@ -4546,7 +4545,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Take", "Fetch", "Take Up"],
-        "readings_on": ["しゅ"],
+        "readings_on": ["シュ"],
         "readings_kun": ["と.る", "と.り", "と.り-", "とり", "-ど.り"],
     },
 
@@ -4557,7 +4556,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Guard", "Protect", "Defend", "Obey"],
-        "readings_on": ["しゅ", "す"],
+        "readings_on": ["シュ", "ス"],
         "readings_kun": ["まも.る", "まも.り", "もり", "-もり", "かみ"],
     },
     "幸": {
@@ -4567,7 +4566,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Happiness", "Blessing", "Fortune"],
-        "readings_on": ["こう"],
+        "readings_on": ["コウ"],
         "readings_kun": ["さいわ.い", "さち", "しあわ.せ"],
     },
 
@@ -4578,7 +4577,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Box", "Chest", "Case", "Bin", "Railway Car"],
-        "readings_on": ["そう"],
+        "readings_on": ["ソウ"],
         "readings_kun": ["はこ"],
     },
     "面": {
@@ -4588,7 +4587,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Mask", "Face", "Features", "Surface"],
-        "readings_on": ["めん", "べん"],
+        "readings_on": ["メン", "ベン"],
         "readings_kun": ["おも", "おもて", "つら"],
     },
     "喜": {
@@ -4598,7 +4597,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Rejoice", "Take Pleasure In"],
-        "readings_on": ["き"],
+        "readings_on": ["キ"],
         "readings_kun": ["よろこ.ぶ", "よろこ.ばす"],
     },
     "治": {
@@ -4608,7 +4607,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Reign", "Be At Peace", "Calm Down", "Subdue", "Quell", "Govt", "Cure", "Heal", "Rule", "Conserve"],
-        "readings_on": ["じ", "ち"],
+        "readings_on": ["ジ", "チ"],
         "readings_kun": ["おさ.める", "おさ.まる", "なお.る", "なお.す"],
     },
     "笑": {
@@ -4618,7 +4617,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Laugh"],
-        "readings_on": ["しょう"],
+        "readings_on": ["ショウ"],
         "readings_kun": ["わら.う", "え.む"],
     },
     "辞": {
@@ -4628,7 +4627,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Resign", "Word", "Term", "Expression"],
-        "readings_on": ["じ"],
+        "readings_on": ["ジ"],
         "readings_kun": ["や.める", "いな.む"],
     },
     "関": {
@@ -4638,7 +4637,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Connection", "Barrier", "Gateway", "Involve", "Concerning"],
-        "readings_on": ["かん"],
+        "readings_on": ["カン"],
         "readings_kun": ["せき", "-ぜき", "かか.わる", "からくり", "かんぬき"],
     },
     "政": {
@@ -4648,7 +4647,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Politics", "Government"],
-        "readings_on": ["せい", "しょう"],
+        "readings_on": ["セイ", "ショウ"],
         "readings_kun": ["まつりごと", "まん"],
     },
     "留": {
@@ -4658,7 +4657,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Detain", "Fasten", "Halt", "Stop"],
-        "readings_on": ["りゅう", "る"],
+        "readings_on": ["リュウ", "ル"],
         "readings_kun": ["と.める", "と.まる", "とど.める", "とど.まる", "るうぶる"],
     },
     "険": {
@@ -4668,7 +4667,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Precipitous", "Inaccessible Place", "Impregnable Position", "Steep Place", "Sharp Eyes"],
-        "readings_on": ["けん"],
+        "readings_on": ["ケン"],
         "readings_kun": ["けわ.しい"],
     },
     "危": {
@@ -4678,7 +4677,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Dangerous", "Fear", "Uneasy"],
-        "readings_on": ["き"],
+        "readings_on": ["キ"],
         "readings_kun": ["あぶ.ない", "あや.うい", "あや.ぶむ"],
     },
     "存": {
@@ -4688,7 +4687,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Exist", "Suppose", "Be Aware Of", "Believe", "Feel"],
-        "readings_on": ["そん", "ぞん"],
+        "readings_on": ["ソン", "ゾン"],
         "readings_kun": ["ながら.える", "あ.る", "たも.つ", "と.う"],
     },
     "原": {
@@ -4698,7 +4697,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Meadow", "Original", "Primitive", "Field", "Plain", "Prairie", "Tundra", "Wilderness"],
-        "readings_on": ["げん"],
+        "readings_on": ["ゲン"],
         "readings_kun": ["はら"],
     },
     "薬": {
@@ -4708,7 +4707,7 @@ data3 = {
         "jlpt_old": 3,
         "jlpt_new": 3,
         "meanings": ["Medicine", "Chemical", "Enamel", "Gunpowder", "Benefit"],
-        "readings_on": ["やく"],
+        "readings_on": ["ヤク"],
         "readings_kun": ["くすり"],
     },
     "側": {
@@ -4718,7 +4717,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Side", "Lean", "Oppose", "Regret"],
-        "readings_on": ["そく"],
+        "readings_on": ["ソク"],
         "readings_kun": ["かわ", "がわ", "そば"],
     },
     "席": {
@@ -4728,7 +4727,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Seat", "Mat", "Occasion", "Place"],
-        "readings_on": ["せき"],
+        "readings_on": ["セキ"],
         "readings_kun": ["むしろ"],
     },
     "敗": {
@@ -4738,7 +4737,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Failure", "Defeat", "Reversal"],
-        "readings_on": ["はい"],
+        "readings_on": ["ハイ"],
         "readings_kun": ["やぶ.れる"],
     },
     "果": {
@@ -4748,7 +4747,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Fruit", "Reward", "Carry Out", "Achieve", "Complete", "End", "Finish", "Succeed"],
-        "readings_on": ["か"],
+        "readings_on": ["カ"],
         "readings_kun": ["は.たす", "はた.す", "-は.たす", "は.てる", "-は.てる", "は.て"],
     },
     "因": {
@@ -4758,7 +4757,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Cause", "Factor", "Be Associated With", "Depend On", "Be Limited To"],
-        "readings_on": ["いん"],
+        "readings_on": ["イン"],
         "readings_kun": ["よ.る", "ちな.む"],
     },
     "常": {
@@ -4768,7 +4767,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Usual", "Ordinary", "Normal", "Common", "Regular", "Continually", "Always", "Long-lasting"],
-        "readings_on": ["じょう"],
+        "readings_on": ["ジョウ"],
         "readings_kun": ["つね", "とこ-"],
     },
     "識": {
@@ -4778,7 +4777,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Discriminating", "Know", "Write"],
-        "readings_on": ["しき"],
+        "readings_on": ["シキ"],
         "readings_kun": ["し.る", "しる.す"],
     },
     "非": {
@@ -4788,7 +4787,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Un-", "Mistake", "Negative", "Injustice", "Non-"],
-        "readings_on": ["ひ"],
+        "readings_on": ["ヒ"],
         "readings_kun": ["あら.ず"],
     },
     "官": {
@@ -4798,7 +4797,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Bureaucrat", "The Government", "Organ"],
-        "readings_on": ["かん"],
+        "readings_on": ["カン"],
         "readings_kun": ["n/a"],
     },
     "察": {
@@ -4808,7 +4807,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Guess", "Presume", "Surmise", "Judge", "Understand"],
-        "readings_on": ["さつ"],
+        "readings_on": ["サツ"],
         "readings_kun": ["n/a"],
     },
     "愛": {
@@ -4818,7 +4817,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Love", "Affection", "Favourite"],
-        "readings_on": ["あい"],
+        "readings_on": ["アイ"],
         "readings_kun": ["いと.しい", "かな.しい", "め.でる", "お.しむ", "まな"],
     },
     "警": {
@@ -4828,7 +4827,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Admonish", "Commandment"],
-        "readings_on": ["けい"],
+        "readings_on": ["ケイ"],
         "readings_kun": ["いまし.める"],
     },
     "覚": {
@@ -4838,7 +4837,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Memorize", "Learn", "Remember", "Awake", "Sober Up"],
-        "readings_on": ["かく"],
+        "readings_on": ["カク"],
         "readings_kun": ["おぼ.える", "さ.ます", "さ.める", "さと.る"],
     },
     "説": {
@@ -4848,7 +4847,7 @@ data3 = {
         "jlpt_old": 3,
         "jlpt_new": 3,
         "meanings": ["Opinion", "Theory", "Explanation", "Rumor"],
-        "readings_on": ["せつ", "ぜい"],
+        "readings_on": ["セツ", "ゼイ"],
         "readings_kun": ["と.く"],
     },
     "告": {
@@ -4858,7 +4857,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Revelation", "Tell", "Inform", "Announce"],
-        "readings_on": ["こく"],
+        "readings_on": ["コク"],
         "readings_kun": ["つ.げる"],
     },
     "種": {
@@ -4868,7 +4867,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Species", "Kind", "Class", "Variety", "Seed"],
-        "readings_on": ["しゅ"],
+        "readings_on": ["シュ"],
         "readings_kun": ["たね", "-ぐさ"],
     },
     "達": {
@@ -4878,7 +4877,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Accomplished", "Reach", "Arrive", "Attain"],
-        "readings_on": ["たつ", "だ"],
+        "readings_on": ["タツ", "ダ"],
         "readings_kun": ["-たち"],
     },
     "類": {
@@ -4888,7 +4887,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Sort", "Kind", "Variety", "Class", "Genus"],
-        "readings_on": ["るい"],
+        "readings_on": ["ルイ"],
         "readings_kun": ["たぐ.い"],
     },
     "報": {
@@ -4898,7 +4897,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Report", "News", "Reward", "Retribution"],
-        "readings_on": ["ほう"],
+        "readings_on": ["ホウ"],
         "readings_kun": ["むく.いる"],
     },
     "等": {
@@ -4908,7 +4907,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Etc.", "And So Forth", "Class (first)", "Quality", "Equal", "Similar"],
-        "readings_on": ["とう"],
+        "readings_on": ["トウ"],
         "readings_kun": ["ひと.しい", "など", "-ら"],
     },
     "座": {
@@ -4918,7 +4917,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Squat", "Seat", "Cushion", "Gathering", "Sit"],
-        "readings_on": ["ざ"],
+        "readings_on": ["ザ"],
         "readings_kun": ["すわ.る"],
     },
     "忘": {
@@ -4928,7 +4927,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Forget"],
-        "readings_on": ["ぼう"],
+        "readings_on": ["ボウ"],
         "readings_kun": ["わす.れる"],
     },
     "洗": {
@@ -4938,7 +4937,7 @@ data3 = {
         "jlpt_old": 3,
         "jlpt_new": 3,
         "meanings": ["Wash", "Inquire Into", "Probe"],
-        "readings_on": ["せん"],
+        "readings_on": ["セン"],
         "readings_kun": ["あら.う"],
     },
     "許": {
@@ -4948,7 +4947,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Permit", "Approve"],
-        "readings_on": ["きょ"],
+        "readings_on": ["キョ"],
         "readings_kun": ["ゆる.す", "もと"],
     },
     "静": {
@@ -4958,7 +4957,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Quiet"],
-        "readings_on": ["せい", "じょう"],
+        "readings_on": ["セイ", "ジョウ"],
         "readings_kun": ["しず-", "しず.か", "しず.まる", "しず.める"],
     },
     "煙": {
@@ -4968,7 +4967,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Smoke"],
-        "readings_on": ["えん"],
+        "readings_on": ["エン"],
         "readings_kun": ["けむ.る", "けむり", "けむ.い"],
     },
     "加": {
@@ -4978,7 +4977,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Add", "Addition", "Increase", "Join", "Include", "Canada"],
-        "readings_on": ["か"],
+        "readings_on": ["カ"],
         "readings_kun": ["くわ.える", "くわ.わる"],
     },
     "容": {
@@ -4988,7 +4987,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Contain", "Form", "Looks"],
-        "readings_on": ["よう"],
+        "readings_on": ["ヨウ"],
         "readings_kun": ["い.れる"],
     },
     "易": {
@@ -4998,7 +4997,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Easy", "Ready To", "Simple", "Fortune-telling", "Divination"],
-        "readings_on": ["えき", "い"],
+        "readings_on": ["エキ", "イ"],
         "readings_kun": ["やさ.しい", "やす.い"],
     },
     "財": {
@@ -5008,7 +5007,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Property", "Money", "Wealth", "Assets"],
-        "readings_on": ["ざい", "さい", "ぞく"],
+        "readings_on": ["ザイ", "サイ", "ゾク"],
         "readings_kun": ["たから"],
     },
     "若": {
@@ -5018,7 +5017,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Young", "If", "Perhaps", "Possibly", "Low Number", "Immature"],
-        "readings_on": ["じゃく", "にゃく", "にゃ"],
+        "readings_on": ["ジャク", "ニャク", "ニャ"],
         "readings_kun": ["わか.い", "わか-", "も.しくわ", "も.し", "も.しくは", "ごと.し"],
     },
     "都": {
@@ -5028,7 +5027,7 @@ data3 = {
         "jlpt_old": 3,
         "jlpt_new": 3,
         "meanings": ["Metropolis", "Capital", "All", "Everything"],
-        "readings_on": ["と", "つ"],
+        "readings_on": ["ト", "ツ"],
         "readings_kun": ["みやこ"],
     },
 
@@ -5039,7 +5038,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Make A Deal", "Selling", "Dealing In", "Merchant"],
-        "readings_on": ["しょう"],
+        "readings_on": ["ショウ"],
         "readings_kun": ["あきな.う"],
     },
 
@@ -5051,7 +5050,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Deep", "Heighten", "Intensify", "Strengthen"],
-        "readings_on": ["しん"],
+        "readings_on": ["シン"],
         "readings_kun": ["ふか.い", "-ぶか.い", "ふか.まる", "ふか.める", "み-"],
     },
     "球": {
@@ -5061,7 +5060,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Ball", "Sphere"],
-        "readings_on": ["きゅう"],
+        "readings_on": ["キュウ"],
         "readings_kun": ["たま"],
     },
     "忙": {
@@ -5071,7 +5070,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Busy", "Occupied", "Restless"],
-        "readings_on": ["ぼう", "もう"],
+        "readings_on": ["ボウ", "モウ"],
         "readings_kun": ["いそが.しい", "せわ.しい", "おそ.れる", "うれえるさま"],
     },
     "徒": {
@@ -5081,7 +5080,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["On Foot", "Junior", "Emptiness", "Vanity", "Futility", "Uselessness", "Ephemeral Thing", "Gang", "Set", "Party", "People"],
-        "readings_on": ["と"],
+        "readings_on": ["ト"],
         "readings_kun": ["いたずら", "あだ"],
     },
     "得": {
@@ -5091,7 +5090,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Gain", "Get", "Find", "Earn", "Acquire", "Can", "May", "Able To", "Profit", "Advantage", "Benefit"],
-        "readings_on": ["とく"],
+        "readings_on": ["トク"],
         "readings_kun": ["え.る", "う.る"],
     },
     "続": {
@@ -5101,7 +5100,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Continue", "Series", "Sequel"],
-        "readings_on": ["ぞく", "しょく", "こう", "きょう"],
+        "readings_on": ["ゾク", "ショク", "コウ", "キョウ"],
         "readings_kun": ["つづ.く", "つづ.ける", "つぐ.ない"],
     },
     "連": {
@@ -5111,7 +5110,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Take Along", "Lead", "Join", "Connect", "Party", "Gang", "Clique"],
-        "readings_on": ["れん"],
+        "readings_on": ["レン"],
         "readings_kun": ["つら.なる", "つら.ねる", "つ.れる", "-づ.れ"],
     },
     "困": {
@@ -5121,7 +5120,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Quandary", "Become Distressed", "Annoyed"],
-        "readings_on": ["こん"],
+        "readings_on": ["コン"],
         "readings_kun": ["こま.る"],
     },
     "機": {
@@ -5131,7 +5130,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Loom", "Mechanism", "Machine", "Airplane", "Opportunity", "Potency", "Efficacy", "Occasion"],
-        "readings_on": ["き"],
+        "readings_on": ["キ"],
         "readings_kun": ["はた"],
     },
     "飛": {
@@ -5141,7 +5140,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Fly", "Skip (pages)", "Scatter"],
-        "readings_on": ["ひ"],
+        "readings_on": ["ヒ"],
         "readings_kun": ["と.ぶ", "と.ばす", "-と.ばす"],
     },
     "害": {
@@ -5151,7 +5150,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Harm", "Injury"],
-        "readings_on": ["がい"],
+        "readings_on": ["ガイ"],
         "readings_kun": ["n/a"],
     },
     "余": {
@@ -5161,7 +5160,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Too Much", "Myself", "Surplus", "Other", "Remainder"],
-        "readings_on": ["よ"],
+        "readings_on": ["ヨ"],
         "readings_kun": ["あま.る", "あま.り", "あま.す", "あんま.り"],
     },
     "難": {
@@ -5171,7 +5170,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Difficult", "Impossible", "Trouble", "Accident", "Defect"],
-        "readings_on": ["なん"],
+        "readings_on": ["ナン"],
         "readings_kun": ["かた.い", "-がた.い", "むずか.しい", "むづか.しい", "むつか.しい", "-にく.い"],
     },
     "確": {
@@ -5181,7 +5180,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Assurance", "Firm", "Tight", "Hard", "Solid", "Confirm", "Clear", "Evident"],
-        "readings_on": ["かく", "こう"],
+        "readings_on": ["カク", "コウ"],
         "readings_kun": ["たし.か", "たし.かめる"],
     },
     "在": {
@@ -5191,7 +5190,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Exist", "Outskirts", "Suburbs", "Located In"],
-        "readings_on": ["ざい"],
+        "readings_on": ["ザイ"],
         "readings_kun": ["あ.る"],
     },
     "夢": {
@@ -5201,7 +5200,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Dream", "Vision", "Illusion"],
-        "readings_on": ["む", "ぼう"],
+        "readings_on": ["ム", "ボウ"],
         "readings_kun": ["ゆめ", "ゆめ.みる", "くら.い"],
     },
     "産": {
@@ -5211,7 +5210,7 @@ data3 = {
         "jlpt_old": 3,
         "jlpt_new": 3,
         "meanings": ["Products", "Bear", "Give Birth", "Yield", "Childbirth", "Native", "Property"],
-        "readings_on": ["さん"],
+        "readings_on": ["サン"],
         "readings_kun": ["う.む", "う.まれる", "うぶ-", "む.す"],
     },
     "倒": {
@@ -5221,7 +5220,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Overthrow", "Fall", "Collapse", "Drop", "Break Down"],
-        "readings_on": ["とう"],
+        "readings_on": ["トウ"],
         "readings_kun": ["たお.れる", "-だお.れ", "たお.す", "さかさま", "さかさ", "さかしま"],
     },
     "妻": {
@@ -5231,7 +5230,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Wife", "Spouse"],
-        "readings_on": ["さい"],
+        "readings_on": ["サイ"],
         "readings_kun": ["つま"],
     },
     "議": {
@@ -5241,7 +5240,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Deliberation", "Consultation", "Debate", "Consideration"],
-        "readings_on": ["ぎ"],
+        "readings_on": ["ギ"],
         "readings_kun": ["n/a"],
     },
     "犯": {
@@ -5251,7 +5250,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Crime", "Sin", "Offense"],
-        "readings_on": ["はん", "ぼん"],
+        "readings_on": ["ハン", "ボン"],
         "readings_kun": ["おか.す"],
     },
     "罪": {
@@ -5261,7 +5260,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Guilt", "Sin", "Crime", "Fault", "Blame", "Offense"],
-        "readings_on": ["ざい"],
+        "readings_on": ["ザイ"],
         "readings_kun": ["つみ"],
     },
     "論": {
@@ -5271,7 +5270,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Argument", "Discourse"],
-        "readings_on": ["ろん"],
+        "readings_on": ["ロン"],
         "readings_kun": ["n/a"],
     },
     "経": {
@@ -5281,7 +5280,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Sutra", "Longitude", "Pass Thru", "Expire", "Warp"],
-        "readings_on": ["けい", "きょう", "きん"],
+        "readings_on": ["ケイ", "キョウ", "キン"],
         "readings_kun": ["へ.る", "た.つ", "たていと", "はか.る", "のり"],
     },
     "済": {
@@ -5291,7 +5290,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Settle (debt, Etc.)", "Relieve (burden)", "Finish", "Come To An End", "Excusable", "Need Not"],
-        "readings_on": ["さい", "せい"],
+        "readings_on": ["サイ", "セイ"],
         "readings_kun": ["す.む", "-ず.み", "-ずみ", "す.まない", "す.ます", "-す.ます", "すく.う", "な.す", "わたし", "わた.る"],
     },
     "判": {
@@ -5301,7 +5300,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Judgement", "Signature", "Stamp", "Seal"],
-        "readings_on": ["はん", "ばん"],
+        "readings_on": ["ハン", "バン"],
         "readings_kun": ["わか.る"],
     },
     "制": {
@@ -5311,7 +5310,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["System", "Law", "Rule"],
-        "readings_on": ["せい"],
+        "readings_on": ["セイ"],
         "readings_kun": ["n/a"],
     },
     "務": {
@@ -5321,7 +5320,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Task", "Duties"],
-        "readings_on": ["む"],
+        "readings_on": ["ム"],
         "readings_kun": ["つと.める"],
     },
     "資": {
@@ -5331,7 +5330,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Assets", "Resources", "Capital", "Funds", "Data", "Be Conducive To", "Contribute To"],
-        "readings_on": ["し"],
+        "readings_on": ["シ"],
         "readings_kun": ["n/a"],
     },
     "権": {
@@ -5341,7 +5340,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Authority", "Power", "Rights"],
-        "readings_on": ["けん", "ごん"],
+        "readings_on": ["ケン", "ゴン"],
         "readings_kun": ["おもり", "かり", "はか.る"],
     },
     "件": {
@@ -5351,7 +5350,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Affair", "Case", "Matter", "Item"],
-        "readings_on": ["けん"],
+        "readings_on": ["ケン"],
         "readings_kun": ["くだん"],
     },
     "断": {
@@ -5361,7 +5360,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Severance", "Decline", "Refuse", "Apologize", "Warn", "Dismiss", "Prohibit", "Decision", "Judgement", "Cutting"],
-        "readings_on": ["だん"],
+        "readings_on": ["ダン"],
         "readings_kun": ["た.つ", "ことわ.る", "さだ.める"],
     },
     "任": {
@@ -5371,7 +5370,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Responsibility", "Duty", "Term", "Entrust To", "Appoint"],
-        "readings_on": ["にん"],
+        "readings_on": ["ニン"],
         "readings_kun": ["まか.せる", "まか.す"],
     },
     "責": {
@@ -5381,7 +5380,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Blame", "Condemn", "Censure"],
-        "readings_on": ["せき"],
+        "readings_on": ["セキ"],
         "readings_kun": ["せ.める"],
     },
     "増": {
@@ -5391,7 +5390,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Increase", "Add", "Augment", "Gain", "Promote"],
-        "readings_on": ["ぞう"],
+        "readings_on": ["ゾウ"],
         "readings_kun": ["ま.す", "ま.し", "ふ.える", "ふ.やす"],
     },
     "解": {
@@ -5401,7 +5400,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Unravel", "Notes", "Key", "Explanation", "Understanding", "Untie", "Undo", "Solve", "Answer", "Cancel", "Absolve", "Explain", "Minute"],
-        "readings_on": ["かい", "げ"],
+        "readings_on": ["カイ", "ゲ"],
         "readings_kun": ["と.く", "と.かす", "と.ける", "ほど.く", "ほど.ける", "わか.る", "さと.る"],
     },
     "際": {
@@ -5411,7 +5410,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Occasion", "Side", "Edge", "Verge", "Dangerous", "Adventurous", "Indecent", "Time", "When"],
-        "readings_on": ["さい"],
+        "readings_on": ["サイ"],
         "readings_kun": ["きわ", "-ぎわ"],
     },
     "認": {
@@ -5421,7 +5420,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Acknowledge", "Witness", "Discern", "Recognize", "Appreciate", "Believe"],
-        "readings_on": ["にん"],
+        "readings_on": ["ニン"],
         "readings_kun": ["みと.める", "したた.める"],
     },
     "過": {
@@ -5431,7 +5430,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Overdo", "Exceed", "Go Beyond", "Error"],
-        "readings_on": ["か"],
+        "readings_on": ["カ"],
         "readings_kun": ["す.ぎる", "-す.ぎる", "-す.ぎ", "す.ごす", "あやま.つ", "あやま.ち", "よ.ぎる"],
     },
     "寝": {
@@ -5441,7 +5440,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Lie Down", "Sleep", "Rest", "Bed", "Remain Unsold"],
-        "readings_on": ["しん"],
+        "readings_on": ["シン"],
         "readings_kun": ["ね.る", "ね.かす", "い.ぬ", "みたまや", "や.める"],
     },
     "置": {
@@ -5451,7 +5450,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Placement", "Put", "Set", "Deposit", "Leave Behind", "Keep", "Employ", "Pawn"],
-        "readings_on": ["ち"],
+        "readings_on": ["チ"],
         "readings_kun": ["お.く", "-お.き"],
     },
     "費": {
@@ -5461,7 +5460,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Expense", "Cost", "Spend", "Consume", "Waste"],
-        "readings_on": ["ひ"],
+        "readings_on": ["ヒ"],
         "readings_kun": ["つい.やす", "つい.える"],
     },
     "示": {
@@ -5471,7 +5470,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Show", "Indicate", "Point Out", "Express", "Display"],
-        "readings_on": ["じ", "し"],
+        "readings_on": ["ジ", "シ"],
         "readings_kun": ["しめ.す"],
     },
     "観": {
@@ -5481,7 +5480,7 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Outlook", "Look", "Appearance", "Condition", "View"],
-        "readings_on": ["かん"],
+        "readings_on": ["カン"],
         "readings_kun": ["み.る", "しめ.す"],
     },
     "値": {
@@ -5491,9 +5490,10 @@ data3 = {
         "jlpt_old": 2,
         "jlpt_new": 3,
         "meanings": ["Price", "Cost", "Value"],
-        "readings_on": ["ち"],
+        "readings_on": ["チ"],
         "readings_kun": ["ね", "あたい"],
     },
+    //needs katakana
     "吸": {
         "strokes": 6,
         "grade": 6,
