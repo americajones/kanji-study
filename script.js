@@ -236,7 +236,6 @@ function loadHiraganaQuiz() {
         answersDiv.append(newDiv);
     })
 };
-
 function handleKanaClickStudy4() {
     selectedAnswer = this.textContent;
     if (selectedAnswer === trueAnswer) {
@@ -300,6 +299,54 @@ function handleKanaClickStudy() {
             messageBox.textContent = "";
         }, 1000)
     }
+}
+function populateMainPageWords() {
+    removeAllChildNodes(fillbox1);
+    removeAllChildNodes(fillbox2);
+    removeAllChildNodes(fillbox3);
+    removeAllChildNodes(fillbox4);
+    removeAllChildNodes(fillbox5);
+    removeAllChildNodes(fillbox6);
+    const newDiv = document.createElement('div');
+    const newDiv2 = document.createElement('div');
+    const newDiv5 = document.createElement('div');
+    const newDiv6 = document.createElement('div');
+    const newButt = document.createElement('button');
+    const newButt2 = document.createElement('button');
+    const newButt5 = document.createElement('button');
+    const newButt6 = document.createElement('button');
+    newButt.addEventListener('click', loadKeywordQuizW1)
+    newButt2.addEventListener('click', loadKeywordQuizW2)
+    newButt5.addEventListener('click', loadKunQuiz5)
+    newButt6.addEventListener('click', loadKunQuiz6)
+    newButt.classList.add('whole', 'butt');
+    newButt2.classList.add('whole', 'butt');
+    newButt5.classList.add('whole', 'butt');
+    newButt6.classList.add('whole', 'butt');
+    newButt.textContent = "start studying"
+    newButt2.textContent = "start studying"
+    newButt5.textContent = "start studying"
+    newButt6.textContent = "start studying"
+    newDiv.classList.add('pale');
+    newDiv2.classList.add('pale');
+    newDiv5.classList.add('pale');
+    newDiv6.classList.add('pale');
+    newDiv.append(number);
+    newDiv2.append(number);
+    newDiv5.append(number);
+    newDiv6.append(number);
+    fillbox1.append(newDiv);
+    fillbox2.append(newDiv2);
+    fillbox5.append(newDiv5);
+    fillbox6.append(newDiv6);
+    fillbox1.append(newButt);
+    fillbox2.append(newButt2);
+    fillbox5.append(newButt5);
+    fillbox6.append(newButt6);
+    flashButt.classList.remove('hidden');
+    flashButt.addEventListener('click', flashToggle);
+    // cardsBox.prepend(newButt7);
+    console.log('BUILT');
 }
 function populateMainPage() {
     removeAllChildNodes(fillbox1);
@@ -404,6 +451,30 @@ function makeList() {
         cardsBox.append(kanjiBox);
     });
 };
+function makeWordList() {
+    kanjiArray.forEach((kanji, index) => {
+        // console.log("INDEX= ", index);
+        // console.log("KANJI= ", kanji);
+        let mainKanji = kanji;
+        let translation = meaningsArray[index];
+        let kuns = kunArray[index];
+        let kanjiBox = document.createElement('div');
+        let wordBox = document.createElement('div');
+        let kunBox = document.createElement('div');
+        let infoBox = document.createElement('div');
+        let kanjiBoxTit = document.createElement('h1');
+        kanjiBoxTit.textContent = mainKanji;
+        kanjiBox.classList.add('kanjiBox');
+        kanjiBoxTit.classList.add('cursive');
+        infoBox.classList.add('infoBox');
+        wordBox.append(translation);
+        kunBox.append(kuns.replace(/,(?=[^\s])/g, ", "));
+        infoBox.append(wordBox, kunBox);
+        kanjiBox.append(kanjiBoxTit);
+        kanjiBox.append(infoBox);
+        cardsBox.append(kanjiBox);
+    });
+};
 function makeKanaList() {
     kanjiArray.forEach((kanji, index) => {
         // console.log("INDEX= ", index);
@@ -448,6 +519,26 @@ function getKana() {
     populateMainPageWithKana();
     makeKanaList();
 }
+function getWords() {
+    kanjiArray = [];
+    onArray = [];
+    kunArray = [];
+    meaningsArray = [];
+    removeAllChildNodes(cardsBox);
+    removeAllChildNodes(kanaBox);
+    mainSelectBox.classList.remove('hidden');
+    title.textContent = "";
+    title.textContent = "N5 Kanji Study";
+    for (const [key, value] of Object.entries(words)) {
+        kanjiArray.push(key);
+        meaningsArray.push(value.meaning);
+        let kunString = String(value.kana);
+        kunArray.push(kunString);
+    };
+    number = kanjiArray.length;
+    populateMainPageWords();
+    makeWordList();
+};
 function getN5() {
     kanjiArray = [];
     onArray = [];
@@ -465,10 +556,7 @@ function getN5() {
         let kunString = String(value.readings_kun);
         onArray.push(onString);
         kunArray.push(kunString);
-        // console.log(`${onString} with type: ${typeof onString}`);
     };
-    // console.log("ARRAY IS: ", kanjiArray);
-    console.log("OHNO", onArray);
     number = kanjiArray.length;
     populateMainPage();
     makeList();
@@ -576,6 +664,116 @@ let selectedAnswer
 let answersArray = [];
 let randoNumber = 69;
 
+function loadKeywordQuizW1() {
+    //clear literally everything that could possibly be
+    removeAllChildNodes(answersDiv);
+    removeAllChildNodes(buttBox);
+    konoKanji = "";
+    trueAnswer = "";
+    messageBox.textContent = '';
+    kunDiv.textContent = '';
+    onDiv.textContent = '';
+    testBox.style.backgroundColor = '#0e504d';
+    randoNumber = Math.floor(Math.random() * kanjiArray.length);
+    konoKanji = kanjiArray[randoNumber];
+    mainKanji.textContent = konoKanji;
+    mainKanji.classList.add('large');
+    mainKanji.classList.add('cursive');
+    kunDiv.append(kunArray[randoNumber].replace(/,(?=[^\s])/g, ", "));
+    trueAnswer = meaningsArray[randoNumber];
+    mainBox.style.display = "none";
+    testBox.classList.remove('hidden');
+    makeButtons(changeDisplay, loadKeywordQuizW1);
+    let answersArray = [];
+    answersArray.push(trueAnswer);
+    for (let i = 0; i < 8; i++) {
+        let nuRandoNum = Math.floor(Math.random() * kanjiArray.length);
+        randoAnswer = meaningsArray[nuRandoNum];
+        answersArray.push(randoAnswer);
+    }
+    shuffleArray(answersArray);
+    answersArray.forEach(answer => {
+        // console.log("YO");
+        let newDiv = document.createElement('div');
+        newDiv.textContent = answer;
+        newDiv.addEventListener('click', handleClickStudyW)
+        newDiv.classList.add('answer');
+        newDiv.classList.add('smaller');
+        answersDiv.append(newDiv);
+    })
+}
+function handleClickStudyW() {
+    selectedAnswer = this.textContent;
+    if (selectedAnswer === trueAnswer) {
+        console.log('FUCK YES');
+        mainKanji.append(" = ", trueAnswer);
+        messageBox.textContent = '. * nice! * .'
+        setTimeout(() => {
+            loadKeywordQuizW1();
+        }, 1500);
+    } else {
+        messageBox.textContent = 'try again.'
+        setTimeout(() => {
+            messageBox.textContent = "";
+        }, 1000)
+    }
+}
+function loadKeywordQuizW2() {
+    //clear literally everything that could possibly be
+    removeAllChildNodes(answersDiv);
+    removeAllChildNodes(buttBox);
+    konoKanji = "";
+    trueAnswer = "";
+    messageBox.textContent = '';
+    kunDiv.textContent = '';
+    onDiv.textContent = '';
+    testBox.style.backgroundColor = '#0e504d';
+    randoNumber = Math.floor(Math.random() * kanjiArray.length);
+    konoKanji = meaningsArray[randoNumber];
+    mainKanji.textContent = konoKanji;
+    mainKanji.classList.remove('cursive');
+    mainKanji.classList.remove('large');
+    kunDiv.append(kunArray[randoNumber].replace(/,(?=[^\s])/g, ", "));
+    trueAnswer = kanjiArray[randoNumber];
+    mainBox.style.display = "none";
+    testBox.classList.remove('hidden');
+    makeButtons(changeDisplay, loadKeywordQuizW2);
+    //get real answer, then fake ones
+    let answersArray = [];
+    answersArray.push(trueAnswer);
+    for (let i = 0; i < 8; i++) {
+        let nuRandoNum = Math.floor(Math.random() * kanjiArray.length);
+        randoAnswer = kanjiArray[nuRandoNum];
+        answersArray.push(randoAnswer);
+    }
+    shuffleArray(answersArray);
+    answersArray.forEach(answer => {
+        // console.log("YO");
+        let newDiv = document.createElement('div');
+        newDiv.textContent = answer;
+        newDiv.addEventListener('click', handleClickStudyW2)
+        newDiv.classList.add('answer');
+        newDiv.classList.add('large');
+        newDiv.classList.add('cursive');
+        answersDiv.append(newDiv);
+    })
+};
+function handleClickStudyW2() {
+    selectedAnswer = this.textContent;
+    if (selectedAnswer === trueAnswer) {
+        console.log('FUCK YES');
+        mainKanji.append(" = ", trueAnswer);
+        messageBox.textContent = '. * nice! * .'
+        setTimeout(() => {
+            loadKeywordQuizW2();
+        }, 1500);
+    } else {
+        messageBox.textContent = 'try again.'
+        setTimeout(() => {
+            messageBox.textContent = "";
+        }, 1000)
+    };
+}
 function loadKeywordQuiz1() {
     //clear literally everything that could possibly be
     removeAllChildNodes(answersDiv);
