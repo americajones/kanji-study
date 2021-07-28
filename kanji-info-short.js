@@ -21284,6 +21284,256 @@ words = {
         "meaning": "monster",
         "category": "noun"
     },
+    "動物": {
+        "kana": "どうぶつ",
+        "meaning": "animal",
+        "category": "noun"
+    },
+    "チーター": {
+        "kana": "チーター",
+        "meaning": "cheetah",
+        "category": "noun"
+    },
+    "犬": {
+        "kana": "いぬ",
+        "meaning": "dog",
+        "category": "noun"
+    },
+    "猫": {
+        "kana": "ねこ",
+        "meaning": "cat",
+        "category": "noun"
+    },
+    "牛": {
+        "kana": "うし",
+        "meaning": "cow",
+        "category": "noun"
+    },
+    "豚": {
+        "kana": "ぶた",
+        "meaning": "pig",
+        "category": "noun"
+    },
+    "馬": {
+        "kana": "うま",
+        "meaning": "horse",
+        "category": "noun"
+    },
+    "羊": {
+        "kana": "ひつじ",
+        "meaning": "sheep",
+        "category": "noun"
+    },
+    "猿": {
+        "kana": "さる",
+        "meaning": "monkey",
+        "category": "noun"
+    },
+    "鼠": {
+        "kana": "ねずみ",
+        "meaning": "mouse, rat",
+        "category": "noun"
+    },
+    "虎": {
+        "kana": "とら",
+        "meaning": "tiger",
+        "category": "noun"
+    },
+    "狼": {
+        "kana": "オオカミ",
+        "meaning": "wolf",
+        "category": "noun"
+    },
+    "兎": {
+        "kana": "うさぎ",
+        "meaning": "rabbit",
+        "category": "noun"
+    },
+    "竜": {
+        "kana": "りゅう、 たつ",
+        "meaning": "dragon",
+        "category": "noun"
+    },
+    "鹿": {
+        "kana": "しか",
+        "meaning": "deer",
+        "category": "noun"
+    },
+    "蛙": {
+        "kana": "かえる",
+        "meaning": "frog",
+        "category": "noun"
+    },
+    "鳥": {
+        "kana": "とり",
+        "meaning": "bird",
+        "category": "noun"
+    },
+    "鶏": {
+        "kana": "にわとり",
+        "meaning": "chicken",
+        "category": "noun"
+    },
+    "雀": {
+        "kana": "すずめ",
+        "meaning": "sparrow",
+        "category": "noun"
+    },
+    "烏、鴉": {
+        "kana": "からす",
+        "meaning": "crow, raven",
+        "category": "noun"
+    },
+    "鷲": {
+        "kana": "わし",
+        "meaning": "eagle",
+        "category": "noun"
+    },
+    "魚": {
+        "kana": "さかな",
+        "meaning": "fish",
+        "category": "noun"
+    },
+    "鯛": {
+        "kana": "たい",
+        "meaning": "red snapper",
+        "category": "noun"
+    },
+    "海老": {
+        "kana": "えび",
+        "meaning": "shrimp, lobster",
+        "category": "noun"
+    },
+    "鮪": {
+        "kana": "まぐろ",
+        "meaning": "tuna",
+        "category": "noun"
+    },
+    "蛸、章魚": {
+        "kana": "タコ",
+        "meaning": "octopus",
+        "category": "noun"
+    },
+    "虫": {
+        "kana": "むし",
+        "meaning": "bug, insect",
+        "category": "noun"
+    },
+    "蝶": {
+        "kana": "ちょう",
+        "meaning": "butterfly",
+        "category": "noun"
+    },
+    "蛾": {
+        "kana": "ガ",
+        "meaning": "moth",
+        "category": "noun"
+    },
+    "蛇": {
+        "kana": "へび",
+        "meaning": "snake",
+        "category": "noun"
+    },
+    "蜚蠊": {
+        "kana": "ゴキブリ",
+        "meaning": "cockroach",
+        "category": "noun"
+    },
+    "植物": {
+        "kana": "しょくぶつ",
+        "meaning": "plants",
+        "category": "noun"
+    },
+    "草": {
+        "kana": "くさ",
+        "meaning": "grass",
+        "category": "noun"
+    },
+    "花": {
+        "kana": "はな",
+        "meaning": "flower",
+        "category": "noun"
+    },
+    "実": {
+        "kana": "み",
+        "meaning": "fruit(not for eating)",
+        "category": "noun"
+    },
+    "茎": {
+        "kana": "くき",
+        "meaning": "stem",
+        "category": "noun"
+    },
+    "茸": {
+        "kana": "きのこ",
+        "meaning": "mushroom",
+        "category": "noun"
+    },
+    "桜": {
+        "kana": "さくら",
+        "meaning": "cherry blossom",
+        "category": "noun"
+    },
+    "果物": {
+        "kana": "くだもの",
+        "meaning": "fruit(for eating)",
+        "category": "noun"
+    },
+    "芋": {
+        "kana": "いも",
+        "meaning": "potato",
+        "category": "noun"
+    },
+    // "": {
+    //     "kana": "",
+    //     "meaning": "",
+    //     "category": "noun"
+    // },
+    // "": {
+    //     "kana": "",
+    //     "meaning": "",
+    //     "category": "noun"
+    // },
+    // "": {
+    //     "kana": "",
+    //     "meaning": "",
+    //     "category": "noun"
+    // },
+    // "": {
+    //     "kana": "",
+    //     "meaning": "",
+    //     "category": "noun"
+    // },
+    // "": {
+    //     "kana": "",
+    //     "meaning": "",
+    //     "category": "noun"
+    // },
+    // "": {
+    //     "kana": "",
+    //     "meaning": "",
+    //     "category": "noun"
+    // },
+    // "": {
+    //     "kana": "",
+    //     "meaning": "",
+    //     "category": "noun"
+    // },
+    // "": {
+    //     "kana": "",
+    //     "meaning": "",
+    //     "category": "noun"
+    // },
+    // "": {
+    //     "kana": "",
+    //     "meaning": "",
+    //     "category": "noun"
+    // },
+    // "": {
+    //     "kana": "",
+    //     "meaning": "",
+    //     "category": "noun"
+    // },
     // "": {
     //     "kana": "",
     //     "meaning": "",
