@@ -20,7 +20,25 @@ let meaningsArray = [];
 let number;
 let messageBox = "";
 
-getN5();
+
+
+function handleClickStudy(timeoutFunction, event) {
+    selectedAnswer = event.target.textContent;
+    console.log(selectedAnswer, " vs. ", trueAnswer);
+    if (selectedAnswer === trueAnswer) {
+        console.log('FUCK YES');
+        mainKanji.append(" = ", trueAnswer);
+        messageBox.textContent = '. * nice! * .'
+        setTimeout(() => {
+            timeoutFunction();
+        }, 1200);
+    } else {
+        messageBox.textContent = 'try again.'
+        setTimeout(() => {
+            messageBox.textContent = "";
+        }, 1000)
+    }
+}
 
 function makeButtons(backEvent, skipEvent) {
     removeAllChildNodes(buttBox);
@@ -124,7 +142,9 @@ function loadHiraKataQuiz() {
         // console.log("YO");
         let newDiv = document.createElement('div');
         newDiv.textContent = answer;
-        newDiv.addEventListener('click', handleKanaClickStudy)
+        newDiv.addEventListener('click', (e) => {
+            handleClickStudy(loadHiraKataQuiz, e)
+        })
         newDiv.classList.add('answer');
         answersDiv.append(newDiv);
     })
@@ -159,7 +179,9 @@ function loadKataHiraQuiz() {
         // console.log("YO");
         let newDiv = document.createElement('div');
         newDiv.textContent = answer;
-        newDiv.addEventListener('click', handleKanaClickStudy2)
+        newDiv.addEventListener('click', (e) => {
+            handleClickStudy(loadKataHiraQuiz, e)
+        })
         newDiv.classList.add('answer');
         answersDiv.append(newDiv);
     })
@@ -194,7 +216,9 @@ function loadKatakanaQuiz() {
         // console.log("YO");
         let newDiv = document.createElement('div');
         newDiv.textContent = answer;
-        newDiv.addEventListener('click', handleKanaClickStudy3)
+        newDiv.addEventListener('click', (e) => {
+            handleClickStudy(loadKatakanaQuiz, e)
+        })
         newDiv.classList.add('answer');
         newDiv.classList.add('smaller');
         answersDiv.append(newDiv);
@@ -230,76 +254,15 @@ function loadHiraganaQuiz() {
         // console.log("YO");
         let newDiv = document.createElement('div');
         newDiv.textContent = answer;
-        newDiv.addEventListener('click', handleKanaClickStudy4)
+        newDiv.addEventListener('click', (e) => {
+            handleClickStudy(loadHiraganaQuiz, e)
+        })
         newDiv.classList.add('answer');
         newDiv.classList.add('smaller');
         answersDiv.append(newDiv);
     })
 };
-function handleKanaClickStudy4() {
-    selectedAnswer = this.textContent;
-    if (selectedAnswer === trueAnswer) {
-        console.log('FUCK YES');
-        mainKanji.append(" = ", trueAnswer);
-        messageBox.textContent = '. * nice! * .'
-        setTimeout(() => {
-            loadHiraganaQuiz();
-        }, 1500);
-    } else {
-        messageBox.textContent = 'try again.'
-        setTimeout(() => {
-            messageBox.textContent = "";
-        }, 1000)
-    }
-}
-function handleKanaClickStudy3() {
-    selectedAnswer = this.textContent;
-    if (selectedAnswer === trueAnswer) {
-        console.log('FUCK YES');
-        mainKanji.append(" = ", trueAnswer);
-        messageBox.textContent = '. * nice! * .'
-        setTimeout(() => {
-            loadKatakanaQuiz();
-        }, 1500);
-    } else {
-        messageBox.textContent = 'try again.'
-        setTimeout(() => {
-            messageBox.textContent = "";
-        }, 1000)
-    }
-}
-function handleKanaClickStudy2() {
-    selectedAnswer = this.textContent;
-    if (selectedAnswer === trueAnswer) {
-        console.log('FUCK YES');
-        mainKanji.append(" = ", trueAnswer);
-        messageBox.textContent = '. * nice! * .'
-        setTimeout(() => {
-            loadKataHiraQuiz();
-        }, 1500);
-    } else {
-        messageBox.textContent = 'try again.'
-        setTimeout(() => {
-            messageBox.textContent = "";
-        }, 1000)
-    }
-}
-function handleKanaClickStudy() {
-    selectedAnswer = this.textContent;
-    if (selectedAnswer === trueAnswer) {
-        console.log('FUCK YES');
-        mainKanji.append(" = ", trueAnswer);
-        messageBox.textContent = '. * nice! * .'
-        setTimeout(() => {
-            loadHiraKataQuiz();
-        }, 1500);
-    } else {
-        messageBox.textContent = 'try again.'
-        setTimeout(() => {
-            messageBox.textContent = "";
-        }, 1000)
-    }
-}
+
 function populateMainPageWords() {
     removeAllChildNodes(fillbox1);
     removeAllChildNodes(fillbox2);
@@ -696,20 +659,22 @@ function loadKeywordQuizW1() {
         // console.log("YO");
         let newDiv = document.createElement('div');
         newDiv.textContent = answer;
-        newDiv.addEventListener('click', handleClickStudyW)
+        newDiv.addEventListener('click', (e) => {
+            handleClickStudyW(loadKeywordQuizW1, e)
+        })
         newDiv.classList.add('answer');
         newDiv.classList.add('smaller');
         answersDiv.append(newDiv);
     })
 }
-function handleClickStudyW() {
-    selectedAnswer = this.textContent;
+function handleClickStudyW(timeoutFunction, event) {
+    selectedAnswer = event.target.textContent;
     if (selectedAnswer === trueAnswer) {
         console.log('FUCK YES');
         mainKanji.append(" = ", trueAnswer);
         messageBox.textContent = '. * nice! * .'
         setTimeout(() => {
-            loadKeywordQuizW1();
+            timeoutFunction();
         }, 1500);
     } else {
         messageBox.textContent = 'try again.'
@@ -751,29 +716,16 @@ function loadKeywordQuizW2() {
         // console.log("YO");
         let newDiv = document.createElement('div');
         newDiv.textContent = answer;
-        newDiv.addEventListener('click', handleClickStudyW2)
+        newDiv.addEventListener('click', (e) => {
+            handleClickStudyW(loadKeywordQuizW2, e)
+        })
         newDiv.classList.add('answer');
         newDiv.classList.add('large');
         newDiv.classList.add('cursive');
         answersDiv.append(newDiv);
     })
 };
-function handleClickStudyW2() {
-    selectedAnswer = this.textContent;
-    if (selectedAnswer === trueAnswer) {
-        console.log('FUCK YES');
-        mainKanji.append(" = ", trueAnswer);
-        messageBox.textContent = '. * nice! * .'
-        setTimeout(() => {
-            loadKeywordQuizW2();
-        }, 1500);
-    } else {
-        messageBox.textContent = 'try again.'
-        setTimeout(() => {
-            messageBox.textContent = "";
-        }, 1000)
-    };
-}
+
 function loadKeywordQuiz1() {
     //clear literally everything that could possibly be
     removeAllChildNodes(answersDiv);
@@ -807,28 +759,15 @@ function loadKeywordQuiz1() {
         // console.log("YO");
         let newDiv = document.createElement('div');
         newDiv.textContent = answer;
-        newDiv.addEventListener('click', handleClickStudy)
+        newDiv.addEventListener('click', (e) => {
+            handleClickStudy(loadKeywordQuiz1, e)
+        })
         newDiv.classList.add('answer');
         newDiv.classList.add('smaller');
         answersDiv.append(newDiv);
     })
 }
-function handleClickStudy() {
-    selectedAnswer = this.textContent;
-    if (selectedAnswer === trueAnswer) {
-        console.log('FUCK YES');
-        mainKanji.append(" = ", trueAnswer);
-        messageBox.textContent = '. * nice! * .'
-        setTimeout(() => {
-            loadKeywordQuiz1();
-        }, 1500);
-    } else {
-        messageBox.textContent = 'try again.'
-        setTimeout(() => {
-            messageBox.textContent = "";
-        }, 1000)
-    }
-}
+
 function loadKeywordQuiz2() {
     //clear literally everything that could possibly be
     removeAllChildNodes(answersDiv);
@@ -863,29 +802,15 @@ function loadKeywordQuiz2() {
         // console.log("YO");
         let newDiv = document.createElement('div');
         newDiv.textContent = answer;
-        newDiv.addEventListener('click', handleClickStudy2)
+        newDiv.addEventListener('click', (e) => {
+            handleClickStudy(loadKeywordQuiz2, e)
+        })
         newDiv.classList.add('answer');
         newDiv.classList.add('large');
         newDiv.classList.add('cursive');
         answersDiv.append(newDiv);
     })
 };
-function handleClickStudy2() {
-    selectedAnswer = this.textContent;
-    if (selectedAnswer === trueAnswer) {
-        console.log('FUCK YES');
-        mainKanji.append(" = ", trueAnswer);
-        messageBox.textContent = '. * nice! * .'
-        setTimeout(() => {
-            loadKeywordQuiz2();
-        }, 1500);
-    } else {
-        messageBox.textContent = 'try again.'
-        setTimeout(() => {
-            messageBox.textContent = "";
-        }, 1000)
-    };
-}
 function loadOnQuiz3() {
     //clear literally everything that could possibly be
     removeAllChildNodes(answersDiv);
@@ -917,28 +842,14 @@ function loadOnQuiz3() {
         // console.log("YO");
         let newDiv = document.createElement('div');
         newDiv.textContent = answer;
-        newDiv.addEventListener('click', handleClickStudy3)
+        newDiv.addEventListener('click', (e) => {
+            handleClickStudy(loadOnQuiz3, e)
+        })
         newDiv.classList.add('answer');
         newDiv.classList.add('smaller');
         answersDiv.append(newDiv);
     })
 };
-function handleClickStudy3() {
-    selectedAnswer = this.textContent;
-    if (String(selectedAnswer) === String(trueAnswer)) {
-        console.log('FUCK YES');
-        mainKanji.append(" = ", trueAnswer);
-        messageBox.textContent = '. * nice! * .'
-        setTimeout(() => {
-            loadOnQuiz3();
-        }, 1500);
-    } else {
-        messageBox.textContent = 'try again.'
-        setTimeout(() => {
-            messageBox.textContent = "";
-        }, 1000)
-    };
-}
 function loadOnQuiz4() {
     //clear literally everything that could possibly be
     removeAllChildNodes(answersDiv);
@@ -970,29 +881,16 @@ function loadOnQuiz4() {
         // console.log("YO");
         let newDiv = document.createElement('div');
         newDiv.textContent = answer;
-        newDiv.addEventListener('click', handleClickStudy4)
+        newDiv.addEventListener('click', (e) => {
+            handleClickStudy(loadOnQuiz4, e)
+        })
         newDiv.classList.add('answer');
         newDiv.classList.add('large');
         newDiv.classList.add('cursive');
         answersDiv.append(newDiv);
     })
 };
-function handleClickStudy4() {
-    selectedAnswer = this.textContent;
-    if (String(selectedAnswer) === String(trueAnswer)) {
-        console.log('FUCK YES');
-        mainKanji.append(" = ", trueAnswer);
-        messageBox.textContent = '. * nice! * .'
-        setTimeout(() => {
-            loadOnQuiz4();
-        }, 1500);
-    } else {
-        messageBox.textContent = 'try again.'
-        setTimeout(() => {
-            messageBox.textContent = "";
-        }, 1000)
-    };
-}
+
 function loadKunQuiz5() {
     //clear literally everything that could possibly be
     removeAllChildNodes(answersDiv);
@@ -1032,29 +930,16 @@ function loadKunQuiz5() {
         // console.log("YO");
         let newDiv = document.createElement('div');
         newDiv.textContent = answer;
-        newDiv.addEventListener('click', handleClickStudy5)
+        newDiv.addEventListener('click', (e) => {
+            handleClickStudy(loadKunQuiz5, e)
+        })
         newDiv.classList.add('answer');
         newDiv.classList.add('smaller');
         // newDiv.classList.add('cursive');
         answersDiv.append(newDiv);
     })
 };
-function handleClickStudy5() {
-    selectedAnswer = this.textContent;
-    if (selectedAnswer == trueAnswer) {
-        console.log('FUCK YES');
-        mainKanji.append(" = ", trueAnswer);
-        messageBox.textContent = '. * nice! * .'
-        setTimeout(() => {
-            loadKunQuiz5();
-        }, 1500);
-    } else {
-        messageBox.textContent = 'try again.'
-        setTimeout(() => {
-            messageBox.textContent = "";
-        }, 1000)
-    };
-}
+
 function loadKunQuiz6() {
     //clear literally everything that could possibly be
     removeAllChildNodes(answersDiv);
@@ -1086,30 +971,16 @@ function loadKunQuiz6() {
         // console.log("YO");
         let newDiv = document.createElement('div');
         newDiv.textContent = answer;
-        newDiv.addEventListener('click', handleClickStudy6)
+        newDiv.addEventListener('click', (e) => {
+            handleClickStudy(loadKunQuiz6, e)
+        })
         newDiv.classList.add('answer');
         newDiv.classList.add('cursive');
         newDiv.classList.add('large');
         answersDiv.append(newDiv);
     })
 };
-function handleClickStudy6() {
-    selectedAnswer = this.textContent;
-    if (selectedAnswer == trueAnswer) {
-        console.log('FUCK YES');
-        mainKanji.append(" = ", trueAnswer);
-        messageBox.textContent = '. * nice! * .'
-        setTimeout(() => {
 
-            loadKunQuiz6();
-        }, 1500);
-    } else {
-        messageBox.textContent = 'try again.'
-        setTimeout(() => {
-            messageBox.textContent = "";
-        }, 1000)
-    };
-}
 
 function shuffleArray(array) {
     for (let i = array.length - 1; i > 0; i--) {
