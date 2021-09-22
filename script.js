@@ -21,7 +21,7 @@ let number;
 let messageBox = "";
 
 
-
+getN5();
 function handleClickStudy(timeoutFunction, event) {
     selectedAnswer = event.target.textContent;
     console.log(selectedAnswer, " vs. ", trueAnswer);
