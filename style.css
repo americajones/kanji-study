@@ -7,7 +7,7 @@ body{
     max-width: 900px;
     margin:auto;
     font-family: 'Noto Sans JP', sans-serif;
-    font-size: 17px;
+    font-size: 15px;
 }
 .title{
     background-color: #0f1f27;
@@ -91,13 +91,12 @@ h2{
     
 }
 .labels p{
-    min-width: 95px;
 }
 .list-box:nth-child(odd){
     background-color:#0d3d3b;
 }
 .list-box{
-    padding: 1em;
+    padding: .8em;
     padding-left: 1.5em;
     border-top: solid #0f1f27 1px;
     display: flex;
@@ -128,7 +127,6 @@ h2{
     flex-flow: row;
     flex: none;
 }
-
 #landingContent{
     background-color: #0e504d;
     display: flex;
@@ -220,7 +218,7 @@ h2{
     align-self: center;
 }
 .large {
-    font-size: 40px;
+    font-size: 33px;
   }
 .show {display:block;}
 .hidden {display:none;}
@@ -234,7 +232,7 @@ h2{
 }
 .searchResBox h2 {
     font-size: 44px;
-  font-weight: 300;
+  font-weight: 200;
   }
   .searchBundle {
       width: 300px;
@@ -262,6 +260,7 @@ h2{
 @media only screen and (min-width: 700px) {
     body {
         padding: 2rem;
+        font-size: 17px;
     }
     .answers{
         display: flex;
