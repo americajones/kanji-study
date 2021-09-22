@@ -8,6 +8,9 @@
     <title>Kanji Study</title>
     <link rel="stylesheet" href="style.css">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet">
     <script type="text/javascript" src="kanji-info-short.js"></script>
 </head>
 
@@ -18,13 +21,12 @@
             <button onClick="dropdownFunction()" class="drop-butt top">Study Level <div class="arrow">></div></button>
             <div id='level-drop' class='dropdown-content'>
                 <!-- <button onClick='getAll()'>All</button> -->
-                <!-- <button onClick='getKana()'>KANA</button> -->
                 <button onClick='getN5()'>JLPT N5</button>
                 <button onClick='getN4()'>JLPT N4</button>
                 <button onClick='getN3()'>JLPT N3</button>
                 <button onClick='getN2()'>JLPT N2</button>
                 <button onClick='getN1()'>JLPT N1</button>
-                <!-- <button onClick='getWords()'>Basic Words</button> -->
+                <button onClick='loadSearchPage()'>Search Kanji</button>
             </div>
         </div>
         <div id='studyQuizSelectBox'>
@@ -90,7 +92,7 @@
                 <div class='fillbox' id="onKanBox"></div>
             </div>
         </div>
-        <div id="kanaBox"></div>
+        <div id="searchBox"></div>
         <button class="drop-butt flashButt hidden">toggle flashcards</button>
         <div id='flashCards' class='hidden'></div>
     </div>

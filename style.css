@@ -6,15 +6,15 @@ body{
     color: #ecffc9;
     max-width: 900px;
     margin:auto;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
     font-size: 17px;
 }
 .title{
     background-color: #0f1f27;
+    padding: 1em;
 }
 h1{
     text-align: center;
-    padding: 1em;
     font-weight: 400;
 }
 h2{
@@ -88,7 +88,10 @@ h2{
     display: flex;
     width: 300px;
     justify-content: space-between;
-
+    
+}
+.labels p{
+    min-width: 95px;
 }
 .list-box:nth-child(odd){
     background-color:#0d3d3b;
@@ -150,6 +153,7 @@ h2{
 }
 #test-box{
     position: relative;
+    height: 100vh;
     /* background-color: #2d6349; */
 }
 #float-message{
@@ -163,6 +167,9 @@ h2{
 }
 #kanji-display{
     text-align: center;
+}
+#kanji-display p{
+   margin: 10px;
 }
 .butt-box{
     display: flex;
@@ -217,23 +224,49 @@ h2{
   }
 .show {display:block;}
 .hidden {display:none;}
+.on,
+.kun,
 .faded {
-    opacity: 25%;
+    opacity: 35%;
 }
 .smaller {
     font-size: 20px;
 }
-.cursive {
-    font-family: cursive;
+.searchResBox h2 {
+    font-size: 44px;
+  font-weight: 300;
   }
-
+  .searchBundle {
+      width: 300px;
+      margin:auto;
+  }
+  .searchRes {
+      display: flex;
+      flex-wrap: wrap;
+  }
+  .searchResBox {
+      text-align: center;
+      position: relative;
+      background-color: #0f1f27;
+      padding: 1em 1em;
+      margin-top: .5em;
+      margin-right: .5em;
+      width: 170px;
+      border-radius: 4px;
+      width: 200px;
+    }
+    .searchResBox p{
+        word-wrap: break-word;
+    }
+    
 @media only screen and (min-width: 700px) {
     body {
         padding: 2rem;
     }
     .answers{
-        width: 600px;
-        height: 600px;
+        display: flex;
+        width: 60vh;
+        height: 60vh;
         border: none;
         border-left: 1px solid #2d6349;
     }
@@ -250,6 +283,12 @@ h2{
     .title {
     margin: 2rem;
     margin-top: 1em;
+}
+#test-box {
+    height: auto;
+}
+.labels p{
+    min-width: 133px;
 }
     .butt {
         margin-right: 1em;

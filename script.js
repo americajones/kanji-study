@@ -11,7 +11,7 @@ const fillbox5 = document.querySelector('#kanKunBox');
 const fillbox6 = document.querySelector('#kunKanBox');
 const flashButt = document.querySelector('.flashButt');
 const buttBox = document.querySelector('.butt-box');
-const kanaBox = document.querySelector('#kanaBox');
+const searchBox = document.querySelector('#searchBox');
 const mainSelectBox = document.querySelector('#studyQuizSelectBox');
 let kanjiArray = [];
 let onArray = [];
@@ -58,258 +58,211 @@ function makeButtons(backEvent, skipEvent) {
     buttBox.append(skipButt);
     messageBox = document.querySelector('.float-message');
 }
-function populateMainPageWithKana() {
+function loadSearchPage() {
+    removeAllChildNodes(answersDiv);
+    removeAllChildNodes(buttBox);
+    removeAllChildNodes(cardsBox);
+    removeAllChildNodes(searchBox);
+    flashButt.classList.add('hidden');
     mainSelectBox.classList.add('hidden');
-    const newDiv = document.createElement('div');
-    const newDiv2 = document.createElement('div');
-    const newDiv3 = document.createElement('div');
-    const newDiv4 = document.createElement('div');
-    const newDiv5 = document.createElement('div');
-    const newDiv6 = document.createElement('div');
-    const newDiv7 = document.createElement('div');
-    const newDiv8 = document.createElement('div');
-    const newButt = document.createElement('button');
-    const newButt2 = document.createElement('button');
-    const newButt3 = document.createElement('button');
-    const newButt4 = document.createElement('button');
-    newButt.classList.add('butt');
-    newButt2.classList.add('butt');
-    newButt3.classList.add('butt');
-    newButt4.classList.add('butt');
-    newDiv.classList.add('list-box');
-    newDiv2.classList.add('list-box');
-    newDiv3.classList.add('list-box');
-    newDiv4.classList.add('list-box');
-    newDiv5.classList.add('labels');
-    newDiv6.classList.add('labels');
-    newDiv7.classList.add('labels');
-    newDiv8.classList.add('labels');
-    newDiv5.innerHTML = "<p>Hiragana</p> <p>⟶</p> <p>Katakana</p>";
-    newDiv6.innerHTML = "<p>Katakana</p> <p>⟶</p> <p>Hiragana</p>";
-    newDiv7.innerHTML = "<p>Katakana</p> <p>⟶</p> <p>English</p>";
-    newDiv8.innerHTML = "<p>Hiragana</p> <p>⟶</p> <p>English</p>";
-    newButt.textContent = "start studying";
-    newButt2.textContent = "start studying";
-    newButt3.textContent = "start studying";
-    newButt4.textContent = "start studying";
-    newDiv.append(newDiv5);
-    newDiv2.append(newDiv6);
-    newDiv3.append(newDiv7);
-    newDiv4.append(newDiv8);
-    newDiv.append(newButt);
-    newDiv2.append(newButt2);
-    newDiv3.append(newButt3);
-    newDiv4.append(newButt4);
-    newButt.addEventListener('click', loadHiraKataQuiz);
-    newButt2.addEventListener('click', loadKataHiraQuiz);
-    newButt3.addEventListener('click', loadKatakanaQuiz);
-    newButt4.addEventListener('click', loadHiraganaQuiz);
-    kanaBox.append(newDiv4);
-    kanaBox.append(newDiv3);
-    kanaBox.append(newDiv);
-    kanaBox.append(newDiv2);
-    flashButt.classList.remove('hidden');
-    flashButt.addEventListener('click', flashToggle);
-}
-function loadHiraKataQuiz() {
-    //clear literally everything that could possibly be
-    removeAllChildNodes(kanaBox);
-    removeAllChildNodes(answersDiv);
-    removeAllChildNodes(buttBox);
-    konoKanji = "";
-    trueAnswer = "";
-    messageBox.textContent = '';
-    kunDiv.textContent = '';
-    onDiv.textContent = '';
-    testBox.style.backgroundColor = '#0e504d';
-    randoNumber = Math.floor(Math.random() * kanjiArray.length);
-    konoKanji = kanjiArray[randoNumber];
-    mainKanji.textContent = konoKanji;
-    trueAnswer = kunArray[randoNumber];
-    mainBox.style.display = "none";
-    testBox.classList.remove('hidden');
-    //fix the skip button and load fake answers
-    makeButtons(changeKanaDisplay, loadHiraKataQuiz);
-    let answersArray = [];
-    answersArray.push(trueAnswer);
-    for (let i = 0; i < 8; i++) {
-        let nuRandoNum = Math.floor(Math.random() * kanjiArray.length);
-        randoAnswer = kunArray[nuRandoNum];
-        answersArray.push(randoAnswer);
-    }
-    shuffleArray(answersArray);
-    answersArray.forEach(answer => {
-        // console.log("YO");
-        let newDiv = document.createElement('div');
-        newDiv.textContent = answer;
-        newDiv.addEventListener('click', (e) => {
-            handleClickStudy(loadHiraKataQuiz, e)
-        })
-        newDiv.classList.add('answer');
-        answersDiv.append(newDiv);
-    })
+    kanjiArray = [];
+    meaningsArray = [];
+    writingAnswers = "";
+    let nuDiv = document.createElement('div');
+    let nuDiv2 = document.createElement('div');
+    let input = document.createElement('input');
+    let button = document.createElement('button');
+    let searchResults = document.createElement('div');
+    let searchResults2 = document.createElement('div');
+    let searchResults3 = document.createElement('div');
+    nuDiv2.classList.add('searchBundle');
+    input.classList.add('searchBox');
+    searchResults.classList.add('searchRes');
+    searchResults2.classList.add('searchRes2');
+    searchResults3.classList.add('searchRes3');
+    button.classList.add('searchButt');
+    button.classList.add('butt');
+    button.textContent = "search";
+    button.addEventListener('click', leSearch);
+    nuDiv2.append(input, button);
+    nuDiv.append(nuDiv2, searchResults, searchResults2, searchResults3);
+    searchBox.append(nuDiv);
 };
-function loadKataHiraQuiz() {
-    //clear literally everything that could possibly be
-    removeAllChildNodes(kanaBox);
-    removeAllChildNodes(answersDiv);
-    removeAllChildNodes(buttBox);
-    konoKanji = "";
-    trueAnswer = "";
-    messageBox.textContent = '';
-    kunDiv.textContent = '';
-    onDiv.textContent = '';
-    testBox.style.backgroundColor = '#0e504d';
-    randoNumber = Math.floor(Math.random() * kanjiArray.length);
-    konoKanji = kunArray[randoNumber];
-    mainKanji.textContent = konoKanji;
-    trueAnswer = kanjiArray[randoNumber];
-    mainBox.style.display = "none";
-    testBox.classList.remove('hidden');
-    makeButtons(changeKanaDisplay, loadKataHiraQuiz);
-    let answersArray = [];
-    answersArray.push(trueAnswer);
-    for (let i = 0; i < 8; i++) {
-        let nuRandoNum = Math.floor(Math.random() * kanjiArray.length);
-        randoAnswer = kanjiArray[nuRandoNum];
-        answersArray.push(randoAnswer);
+let searchRes = [];
+let searchResMeanings = [];
+let searchResKun = [];
+let searchResOn = [];
+function leSearch() {
+    searchRes = [];
+    searchResMeanings = [];
+    searchResKun = [];
+    searchResOn = [];
+    let searchBox = document.querySelector('.searchBox');
+    let searchResBox = document.querySelector('.searchRes');
+    let searchResBox2 = document.querySelector('.searchRes2');
+    let searchResBox3 = document.querySelector('.searchRes3');
+    removeAllChildNodes(searchResBox);
+    removeAllChildNodes(searchResBox2);
+    removeAllChildNodes(searchResBox3);
+    let searchTerm = searchBox.value.toLowerCase();
+    console.log(searchTerm);
+    for (let [key, value] of Object.entries(data5)) {
+        if (key.search(searchTerm) !== -1) {
+            searchRes.push(" " + key);
+            searchResMeanings.push(value.meanings);
+            searchResKun.push(value.readings_kun);
+            searchResOn.push(value.readings_on);
+        }
+        if (String(value.meanings).toLowerCase().search(searchTerm) !== -1) {
+            searchRes.push(" " + key);
+            searchResMeanings.push(value.meanings);
+            searchResKun.push(value.readings_kun);
+            searchResOn.push(value.readings_on);
+        }
+        if (String(value.readings_kun).search(searchTerm) !== -1) {
+            searchRes.push(" " + key);
+            searchResMeanings.push(value.meanings);
+            searchResKun.push(value.readings_kun);
+            searchResOn.push(value.readings_on);
+        }
+        if (String(value.readings_on).search(searchTerm) !== -1) {
+            searchRes.push(" " + key);
+            searchResMeanings.push(value.meanings);
+            searchResKun.push(value.readings_kun);
+            searchResOn.push(value.readings_on);
+        }
     }
-    shuffleArray(answersArray);
-    answersArray.forEach(answer => {
-        // console.log("YO");
-        let newDiv = document.createElement('div');
-        newDiv.textContent = answer;
-        newDiv.addEventListener('click', (e) => {
-            handleClickStudy(loadKataHiraQuiz, e)
-        })
-        newDiv.classList.add('answer');
-        answersDiv.append(newDiv);
-    })
-};
-function loadKatakanaQuiz() {
-    //clear literally everything that could possibly be
-    removeAllChildNodes(kanaBox);
-    removeAllChildNodes(answersDiv);
-    removeAllChildNodes(buttBox);
-    konoKanji = "";
-    trueAnswer = "";
-    messageBox.textContent = '';
-    kunDiv.textContent = '';
-    onDiv.textContent = '';
-    testBox.style.backgroundColor = '#0e504d';
-    randoNumber = Math.floor(Math.random() * kanjiArray.length);
-    konoKanji = kunArray[randoNumber];
-    mainKanji.textContent = konoKanji;
-    trueAnswer = meaningsArray[randoNumber];
-    mainBox.style.display = "none";
-    testBox.classList.remove('hidden');
-    makeButtons(changeKanaDisplay, loadKatakanaQuiz);
-    let answersArray = [];
-    answersArray.push(trueAnswer);
-    for (let i = 0; i < 8; i++) {
-        let nuRandoNum = Math.floor(Math.random() * kanjiArray.length);
-        randoAnswer = meaningsArray[nuRandoNum];
-        answersArray.push(randoAnswer);
+    for (let [key, value] of Object.entries(data4)) {
+        if (key.search(searchTerm) !== -1) {
+            searchRes.push(" " + key);
+            searchResMeanings.push(value.meanings);
+            searchResKun.push(value.readings_kun);
+            searchResOn.push(value.readings_on);
+        }
+        if (String(value.meanings).toLowerCase().search(searchTerm) !== -1) {
+            searchRes.push(" " + key);
+            searchResMeanings.push(value.meanings);
+            searchResKun.push(value.readings_kun);
+            searchResOn.push(value.readings_on);
+        }
+        if (String(value.readings_kun).search(searchTerm) !== -1) {
+            searchRes.push(" " + key);
+            searchResMeanings.push(value.meanings);
+            searchResKun.push(value.readings_kun);
+            searchResOn.push(value.readings_on);
+        }
+        if (String(value.readings_on).search(searchTerm) !== -1) {
+            searchRes.push(" " + key);
+            searchResMeanings.push(value.meanings);
+            searchResKun.push(value.readings_kun);
+            searchResOn.push(value.readings_on);
+        }
     }
-    shuffleArray(answersArray);
-    answersArray.forEach(answer => {
-        // console.log("YO");
-        let newDiv = document.createElement('div');
-        newDiv.textContent = answer;
-        newDiv.addEventListener('click', (e) => {
-            handleClickStudy(loadKatakanaQuiz, e)
-        })
-        newDiv.classList.add('answer');
-        newDiv.classList.add('smaller');
-        answersDiv.append(newDiv);
-    })
-};
-function loadHiraganaQuiz() {
-    //clear literally everything that could possibly be
-    removeAllChildNodes(kanaBox);
-    removeAllChildNodes(buttBox);
-    removeAllChildNodes(answersDiv);
-    konoKanji = "";
-    trueAnswer = "";
-    messageBox.textContent = '';
-    kunDiv.textContent = '';
-    onDiv.textContent = '';
-    testBox.style.backgroundColor = '#0e504d';
-    randoNumber = Math.floor(Math.random() * kanjiArray.length);
-    konoKanji = kanjiArray[randoNumber];
-    mainKanji.textContent = konoKanji;
-    trueAnswer = meaningsArray[randoNumber];
-    mainBox.style.display = "none";
-    testBox.classList.remove('hidden');
-    makeButtons(changeKanaDisplay, loadHiraganaQuiz);
-    let answersArray = [];
-    answersArray.push(trueAnswer);
-    for (let i = 0; i < 8; i++) {
-        let nuRandoNum = Math.floor(Math.random() * kanjiArray.length);
-        randoAnswer = meaningsArray[nuRandoNum];
-        answersArray.push(randoAnswer);
+    for (let [key, value] of Object.entries(data3)) {
+        if (key.search(searchTerm) !== -1) {
+            searchRes.push(" " + key);
+            searchResMeanings.push(value.meanings);
+            searchResKun.push(value.readings_kun);
+            searchResOn.push(value.readings_on);
+        }
+        if (String(value.meanings).toLowerCase().search(searchTerm) !== -1) {
+            searchRes.push(" " + key);
+            searchResMeanings.push(value.meanings);
+            searchResKun.push(value.readings_kun);
+            searchResOn.push(value.readings_on);
+        }
+        if (String(value.readings_kun).search(searchTerm) !== -1) {
+            searchRes.push(" " + key);
+            searchResMeanings.push(value.meanings);
+            searchResKun.push(value.readings_kun);
+            searchResOn.push(value.readings_on);
+        }
+        if (String(value.readings_on).search(searchTerm) !== -1) {
+            searchRes.push(" " + key);
+            searchResMeanings.push(value.meanings);
+            searchResKun.push(value.readings_kun);
+            searchResOn.push(value.readings_on);
+        }
     }
-    shuffleArray(answersArray);
-    answersArray.forEach(answer => {
-        // console.log("YO");
-        let newDiv = document.createElement('div');
-        newDiv.textContent = answer;
-        newDiv.addEventListener('click', (e) => {
-            handleClickStudy(loadHiraganaQuiz, e)
-        })
-        newDiv.classList.add('answer');
-        newDiv.classList.add('smaller');
-        answersDiv.append(newDiv);
-    })
-};
+    for (let [key, value] of Object.entries(data2)) {
+        if (key.search(searchTerm) !== -1) {
+            searchRes.push(" " + key);
+            searchResMeanings.push(value.meanings);
+            searchResKun.push(value.readings_kun);
+            searchResOn.push(value.readings_on);
+        }
+        if (String(value.meanings).toLowerCase().search(searchTerm) !== -1) {
+            searchRes.push(" " + key);
+            searchResMeanings.push(value.meanings);
+            searchResKun.push(value.readings_kun);
+            searchResOn.push(value.readings_on);
+        }
+        if (String(value.readings_kun).search(searchTerm) !== -1) {
+            searchRes.push(" " + key);
+            searchResMeanings.push(value.meanings);
+            searchResKun.push(value.readings_kun);
+            searchResOn.push(value.readings_on);
+        }
+        if (String(value.readings_on).search(searchTerm) !== -1) {
+            searchRes.push(" " + key);
+            searchResMeanings.push(value.meanings);
+            searchResKun.push(value.readings_kun);
+            searchResOn.push(value.readings_on);
+        }
+    }
+    for (let [key, value] of Object.entries(data1)) {
+        if (key.search(searchTerm) !== -1) {
+            searchRes.push(" " + key);
+            searchResMeanings.push(value.meanings);
+            searchResKun.push(value.readings_kun);
+            searchResOn.push(value.readings_on);
+        }
+        if (String(value.meanings).toLowerCase().search(searchTerm) !== -1) {
+            searchRes.push(" " + key);
+            searchResMeanings.push(value.meanings);
+            searchResKun.push(value.readings_kun);
+            searchResOn.push(value.readings_on);
+        }
+        if (String(value.readings_kun).search(searchTerm) !== -1) {
+            searchRes.push(" " + key);
+            searchResMeanings.push(value.meanings);
+            searchResKun.push(value.readings_kun);
+            searchResOn.push(value.readings_on);
+        }
+        if (String(value.readings_on).search(searchTerm) !== -1) {
+            searchRes.push(" " + key);
+            searchResMeanings.push(value.meanings);
+            searchResKun.push(value.readings_kun);
+            searchResOn.push(value.readings_on);
+        }
+    }
 
-function populateMainPageWords() {
-    removeAllChildNodes(fillbox1);
-    removeAllChildNodes(fillbox2);
-    removeAllChildNodes(fillbox3);
-    removeAllChildNodes(fillbox4);
-    removeAllChildNodes(fillbox5);
-    removeAllChildNodes(fillbox6);
-    const newDiv = document.createElement('div');
-    const newDiv2 = document.createElement('div');
-    const newDiv5 = document.createElement('div');
-    const newDiv6 = document.createElement('div');
-    const newButt = document.createElement('button');
-    const newButt2 = document.createElement('button');
-    const newButt5 = document.createElement('button');
-    const newButt6 = document.createElement('button');
-    newButt.addEventListener('click', loadKeywordQuizW1)
-    newButt2.addEventListener('click', loadKeywordQuizW2)
-    newButt5.addEventListener('click', loadKunQuiz5)
-    newButt6.addEventListener('click', loadKunQuiz6)
-    newButt.classList.add('whole', 'butt');
-    newButt2.classList.add('whole', 'butt');
-    newButt5.classList.add('whole', 'butt');
-    newButt6.classList.add('whole', 'butt');
-    newButt.textContent = "start studying"
-    newButt2.textContent = "start studying"
-    newButt5.textContent = "start studying"
-    newButt6.textContent = "start studying"
-    newDiv.classList.add('pale');
-    newDiv2.classList.add('pale');
-    newDiv5.classList.add('pale');
-    newDiv6.classList.add('pale');
-    newDiv.append(number);
-    newDiv2.append(number);
-    newDiv5.append(number);
-    newDiv6.append(number);
-    fillbox1.append(newDiv);
-    fillbox2.append(newDiv2);
-    fillbox5.append(newDiv5);
-    fillbox6.append(newDiv6);
-    fillbox1.append(newButt);
-    fillbox2.append(newButt2);
-    fillbox5.append(newButt5);
-    fillbox6.append(newButt6);
-    flashButt.classList.remove('hidden');
-    flashButt.addEventListener('click', flashToggle);
-    // cardsBox.prepend(newButt7);
-    console.log('BUILT');
+    searchRes.forEach((kanji, index) => {
+        let nuDiv = document.createElement('div');
+        let nuDivTit = document.createElement('h2');
+        let nuTxt = document.createElement('p');
+        let nuTxt2 = document.createElement('p');
+        let nuTxt3 = document.createElement('p');
+        nuDivTit.textContent = kanji;
+        nuTxt.textContent = searchResKun[index];
+        nuTxt3.textContent = searchResOn[index];
+        nuTxt2.textContent = searchResMeanings[index];
+        nuTxt2.classList.add('small');
+        nuTxt3.classList.add('small');
+        nuTxt.classList.add('opacity');
+        nuTxt2.classList.add('opacity');
+        nuDiv.classList.add('searchResBox');
+        nuDiv.addEventListener('click', toggleEnglish);
+        nuDiv.append(nuDivTit);
+        nuDiv.append(nuTxt);
+        nuDiv.append(nuTxt3);
+        nuDiv.append(nuTxt2);
+        function toggleEnglish() {
+            nuTxt2.classList.toggle('opacity');
+            nuTxt.classList.toggle('opacity');
+        }
+        searchResBox.append(nuDiv);
+    })
 }
 function populateMainPage() {
     removeAllChildNodes(fillbox1);
@@ -414,101 +367,14 @@ function makeList() {
         cardsBox.append(kanjiBox);
     });
 };
-function makeWordList() {
-    kanjiArray.forEach((kanji, index) => {
-        // console.log("INDEX= ", index);
-        // console.log("KANJI= ", kanji);
-        let mainKanji = kanji;
-        let translation = meaningsArray[index];
-        let kuns = kunArray[index];
-        let kanjiBox = document.createElement('div');
-        let wordBox = document.createElement('div');
-        let kunBox = document.createElement('div');
-        let infoBox = document.createElement('div');
-        let kanjiBoxTit = document.createElement('h1');
-        kanjiBoxTit.textContent = mainKanji;
-        kanjiBox.classList.add('kanjiBox');
-        kanjiBoxTit.classList.add('cursive');
-        infoBox.classList.add('infoBox');
-        wordBox.append(translation);
-        kunBox.append(kuns.replace(/,(?=[^\s])/g, ", "));
-        infoBox.append(wordBox, kunBox);
-        kanjiBox.append(kanjiBoxTit);
-        kanjiBox.append(infoBox);
-        cardsBox.append(kanjiBox);
-    });
-};
-function makeKanaList() {
-    kanjiArray.forEach((kanji, index) => {
-        // console.log("INDEX= ", index);
-        // console.log("KANJI= ", kanji);
-        let mainKanji = kanji;
-        let translation = meaningsArray[index];
-        let kuns = kunArray[index];
-        let kanjiBox = document.createElement('div');
-        let wordBox = document.createElement('div');
-        let infoBox = document.createElement('div');
-        let kanjiBoxTit = document.createElement('h1');
-        let kanjiBoxTit2 = document.createElement('h2');
-        kanjiBoxTit.textContent = mainKanji;
-        kanjiBoxTit2.textContent = kuns;
-        kanjiBox.classList.add('kanjiBox');
-        infoBox.classList.add('infoBox');
-        wordBox.append(translation);
-        infoBox.append(wordBox);
-        kanjiBox.append(kanjiBoxTit, kanjiBoxTit2);
-        kanjiBox.append(infoBox);
-        cardsBox.append(kanjiBox);
-    })
-};
-function getKana() {
-    kanjiArray = [];
-    onArray = [];
-    kunArray = [];
-    meaningsArray = [];
-    removeAllChildNodes(cardsBox);
-    removeAllChildNodes(kanaBox);
-    title.textContent = "";
-    title.textContent = "Hiragana/Katakana Study";
-    for (const [key, value] of Object.entries(dataKana)) {
-        //hiragana
-        kanjiArray.push(key);
-        //english
-        meaningsArray.push(value.english);
-        //katakana
-        kunArray.push(value.katakana);
-    };
-    console.log("OHNO", kunArray);
-    populateMainPageWithKana();
-    makeKanaList();
-}
-function getWords() {
-    kanjiArray = [];
-    onArray = [];
-    kunArray = [];
-    meaningsArray = [];
-    removeAllChildNodes(cardsBox);
-    removeAllChildNodes(kanaBox);
-    mainSelectBox.classList.remove('hidden');
-    title.textContent = "";
-    title.textContent = "N5 Kanji Study";
-    for (const [key, value] of Object.entries(words)) {
-        kanjiArray.push(key);
-        meaningsArray.push(value.meaning);
-        let kunString = String(value.kana);
-        kunArray.push(kunString);
-    };
-    number = kanjiArray.length;
-    populateMainPageWords();
-    makeWordList();
-};
+
 function getN5() {
     kanjiArray = [];
     onArray = [];
     kunArray = [];
     meaningsArray = [];
     removeAllChildNodes(cardsBox);
-    removeAllChildNodes(kanaBox);
+    removeAllChildNodes(searchBox);
     mainSelectBox.classList.remove('hidden');
     title.textContent = "";
     title.textContent = "N5 Kanji Study";
@@ -530,7 +396,7 @@ function getN4() {
     kunArray = [];
     meaningsArray = [];
     removeAllChildNodes(cardsBox);
-    removeAllChildNodes(kanaBox);
+    removeAllChildNodes(searchBox);
     mainSelectBox.classList.remove('hidden');
     title.textContent = "";
     title.textContent = "N4 Kanji Study";
@@ -552,7 +418,7 @@ function getN3() {
     kunArray = [];
     meaningsArray = [];
     removeAllChildNodes(cardsBox);
-    removeAllChildNodes(kanaBox);
+    removeAllChildNodes(searchBox);
     mainSelectBox.classList.remove('hidden');
     title.textContent = "";
     title.textContent = "N3 Kanji Study";
@@ -574,7 +440,7 @@ function getN2() {
     kunArray = [];
     meaningsArray = [];
     removeAllChildNodes(cardsBox);
-    removeAllChildNodes(kanaBox);
+    removeAllChildNodes(searchBox);
     mainSelectBox.classList.remove('hidden');
     title.textContent = "";
     title.textContent = "N2 Kanji Study";
@@ -596,7 +462,7 @@ function getN1() {
     kunArray = [];
     meaningsArray = [];
     removeAllChildNodes(cardsBox);
-    removeAllChildNodes(kanaBox);
+    removeAllChildNodes(searchBox);
     mainSelectBox.classList.remove('hidden');
     title.textContent = "";
     title.textContent = "N1 Kanji Study";
@@ -863,7 +729,7 @@ function loadOnQuiz4() {
     testBox.style.backgroundColor = '#0e504d';
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = onArray[randoNumber].replace(/,(?=[^\s])/g, ", ");
-    onDiv.textContent = konoKanji;
+    mainKanji.textContent = konoKanji;
     trueAnswer = kanjiArray[randoNumber];
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
@@ -953,7 +819,7 @@ function loadKunQuiz6() {
     testBox.style.backgroundColor = '#0e504d';
     randoNumber = Math.floor(Math.random() * kanjiArray.length);
     konoKanji = kunArray[randoNumber].replace(/,(?=[^\s])/g, ", ");
-    kunDiv.textContent = konoKanji;
+    mainKanji.textContent = konoKanji;
     trueAnswer = kanjiArray[randoNumber];
     mainBox.style.display = "none";
     testBox.classList.remove('hidden');
@@ -995,8 +861,10 @@ function changeKanaDisplay() {
     populateMainPageWithKana();
 };
 function changeDisplay() {
-    mainBox.style.display = "block";
+    mainBox.style.display = "flex";
     testBox.classList.add('hidden');
+    flashButt.classList.add('hidden');
+    removeAllChildNodes(cardsBox);
 };
 
 function removeAllChildNodes(parent) {
